@@ -1,0 +1,19 @@
+# Card images — not tracked in git. Physical assets, managed locally.
+# The repository holds only metadata (CSV) and text docs.
+Source/
+
+# OS / editor noise
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# IDE
+.vs/
+.idea/
+*.user
+*.suo
+
+# Build artifacts
+bin/
+obj/
