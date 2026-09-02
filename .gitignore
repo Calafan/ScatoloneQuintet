@@ -2,6 +2,10 @@
 # The repository holds only metadata (CSV) and text docs.
 Source/
 
+# Generated view tree - symlinks/hardlinks pointing back into Source/, deleted
+# and rebuilt from scratch by `build-views` on every run. Output, not state.
+Views/
+
 # OS / editor noise
 Thumbs.db
 ehthumbs.db
