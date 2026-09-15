@@ -71,6 +71,7 @@
       "label": "",
       "scryfallId": "771d4911-3dc8-4dc7-b2c9-e2158ee394bf",
       "effects": [
+        "RemovePermanent",
         "ManaFixing"
       ]
     },
@@ -173,6 +174,7 @@
       "label": "",
       "scryfallId": "219a1d6c-e886-4d5a-a501-d5149fcd1871",
       "effects": [
+        "RemovePermanent",
         "CardAdvantage"
       ]
     },
@@ -1028,7 +1030,9 @@
       "rating": 4,
       "label": "",
       "scryfallId": "2ddb065c-6edd-4ef4-a5ee-cd65e5c65573",
-      "effects": []
+      "effects": [
+        "RemovePermanent"
+      ]
     },
     "22677153-bd87-4ff8-af92-ced4da2aac6c": {
       "name": "Atraxa's Fall",
@@ -1108,6 +1112,7 @@
       "label": "",
       "scryfallId": "22e20032-685c-47e0-98cd-f48ddc2de90e",
       "effects": [
+        "Tokens",
         "Protection"
       ]
     },
@@ -1345,6 +1350,7 @@
       "label": "",
       "scryfallId": "a71caadb-31ab-4b7f-b304-e7d3e8f9d132",
       "effects": [
+        "RemovePermanent",
         "Disenchant"
       ]
     },
@@ -1643,6 +1649,7 @@
       "label": "",
       "scryfallId": "41802f18-7d46-431a-acb3-dbcc82eb415a",
       "effects": [
+        "RemovePermanent",
         "Ramp"
       ]
     },
@@ -2230,6 +2237,7 @@
       "label": "",
       "scryfallId": "3eeef24b-b937-408e-a32e-1a546d3e7b0f",
       "effects": [
+        "RemovePermanent",
         "Disenchant"
       ]
     },
@@ -2561,7 +2569,9 @@
       "rating": 4,
       "label": "",
       "scryfallId": "37730957-0483-49b7-9fe0-aff7c45f5d03",
-      "effects": []
+      "effects": [
+        "RemovePermanent"
+      ]
     },
     "0db3b29e-e21c-4240-8e5e-959ba6bcf706": {
       "name": "Bronzehide Lion",
@@ -3013,7 +3023,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "30f1734e-33b1-45b5-bc27-0547a8e8f950",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "33de01e9-ce5a-42d4-afcb-343cd54a6d80": {
       "name": "Caves of Koilos",
@@ -5061,7 +5073,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "25fe7b73-7e7c-436f-aae1-21bab34efefe",
-      "effects": []
+      "effects": [
+        "RemovePermanent"
+      ]
     },
     "99140891-face-4015-aacd-1309e87d8f9f": {
       "name": "Display of Power",
@@ -5230,7 +5244,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "46f46095-6479-46b0-9e59-194d83f86a46",
-      "effects": []
+      "effects": [
+        "RemovePermanent"
+      ]
     },
     "913dbce2-6805-453f-a9c3-64f1cc658627": {
       "name": "Dragon Sniper",
@@ -6226,14 +6242,18 @@
       "rating": 3,
       "label": "",
       "scryfallId": "32ffc8eb-9518-455c-ada5-8b7596896dcf",
-      "effects": []
+      "effects": [
+        "RemovePermanent"
+      ]
     },
     "d3264482-2a5a-45e8-987f-593b8aceac12": {
       "name": "Excise the Imperfect",
       "rating": 3,
       "label": "",
       "scryfallId": "425f4659-5c39-4e2d-9a6a-7bb38d32fda7",
-      "effects": []
+      "effects": [
+        "RemovePermanent"
+      ]
     },
     "a8c9f91a-b1e7-451d-b6db-ae865e2b853c": {
       "name": "Exclude",
@@ -8652,7 +8672,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "3185eeb2-b1a2-494b-9169-4145d034ff9d",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "210d1077-6e60-4f06-a8a4-10b842979ac5": {
       "name": "Halo Forager",
@@ -9014,7 +9036,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "81b9d17d-3ab0-4755-b396-391df50e70dd",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "312be209-dba5-4e6c-938e-1287642f67d4": {
       "name": "Hivespine Wolverine",
@@ -9520,6 +9544,7 @@
       "label": "",
       "scryfallId": "1b0257be-7de8-4c30-86f2-ac1e0f915855",
       "effects": [
+        "RemovePermanent",
         "Buff"
       ]
     },
@@ -10899,7 +10924,9 @@
       "rating": 4,
       "label": "",
       "scryfallId": "0414b6e8-06c6-4471-abcc-afc4bdf5164b",
-      "effects": []
+      "effects": [
+        "RemovePermanent"
+      ]
     },
     "f71fcdc3-5e96-416e-a49d-37019806e2e2": {
       "name": "Lembas",
@@ -10948,6 +10975,7 @@
       "label": "",
       "scryfallId": "32da8479-7d0e-4eb1-b18c-66eb170e31a5",
       "effects": [
+        "RemovePermanent",
         "Disenchant"
       ]
     },
@@ -10990,6 +11018,7 @@
       "label": "",
       "scryfallId": "2424f2c4-366b-42cf-bf4b-a8a5bfdd2c4b",
       "effects": [
+        "Tokens",
         "Reanimate"
       ]
     },
@@ -11214,6 +11243,7 @@
       "label": "",
       "scryfallId": "0dba8ffb-b7b1-411e-90c5-070b7a888e3f",
       "effects": [
+        "Tokens",
         "Ramp",
         "ManaFixing"
       ]
@@ -12513,7 +12543,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "0ddfc5f7-911b-4159-8540-530d642d0e7c",
-      "effects": []
+      "effects": [
+        "RemovePermanent"
+      ]
     },
     "02500f21-6e15-423e-93ff-891e09fe9904": {
       "name": "Moss Diamond",
@@ -12674,7 +12706,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "4cfb70ec-c9c8-4359-b2d4-e116bf5ad669",
-      "effects": []
+      "effects": [
+        "RemovePermanent"
+      ]
     },
     "0e3f9345-d986-4d60-a343-45598ab59aff": {
       "name": "Nadaar, Selfless Paladin",
@@ -12753,7 +12787,9 @@
       "rating": 4,
       "label": "",
       "scryfallId": "4847f8e8-9979-427e-999a-26711e542f82",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "bdb3ca68-ec1f-4e16-81cc-d23f8f52c728": {
       "name": "Naturalize",
@@ -14487,6 +14523,7 @@
       "label": "",
       "scryfallId": "35a4e4b7-bd0a-48f4-be2e-c7453e3ba4d1",
       "effects": [
+        "RemovePermanent",
         "Disenchant"
       ]
     },
@@ -14531,7 +14568,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "322f90b6-6b49-458d-9d5b-b601bfdd0af8",
-      "effects": []
+      "effects": [
+        "RemovePermanent"
+      ]
     },
     "d5ea9176-30c1-4152-9086-322f39245f46": {
       "name": "Preacher",
@@ -14582,7 +14621,9 @@
       "rating": 4,
       "label": "",
       "scryfallId": "0ac1352f-a406-4ded-82dc-b42e5ad15693",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "24645d9e-5e6d-411d-be41-c2bd1659937f": {
       "name": "Primal Empathy",
@@ -15806,6 +15847,7 @@
       "label": "",
       "scryfallId": "05f5c618-5634-4952-a531-dced60582ae8",
       "effects": [
+        "Tokens",
         "ManaFixing"
       ]
     },
@@ -16335,6 +16377,7 @@
       "label": "",
       "scryfallId": "18c16872-3675-4a4d-962a-2e17ad6f3886",
       "effects": [
+        "RemovePermanent",
         "CardAdvantage",
         "Burn"
       ]
@@ -16966,6 +17009,7 @@
       "label": "",
       "scryfallId": "2ccc29cc-025d-402e-9fe3-75998eb290c9",
       "effects": [
+        "RemovePermanent",
         "Disenchant"
       ]
     },
@@ -17058,6 +17102,7 @@
       "scryfallId": "33bf9c60-4e58-48a4-8e53-abef7ab3b671",
       "effects": [
         "Tokens",
+        "RemovePermanent",
         "Reanimate"
       ]
     },
@@ -18205,7 +18250,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "18f0e68a-7b4a-4228-a5cc-9d2d0c01b7ca",
-      "effects": []
+      "effects": [
+        "RemovePermanent"
+      ]
     },
     "1ef73b3b-ab4a-494b-b969-dcde995cee34": {
       "name": "Soul Sear",
@@ -18710,6 +18757,7 @@
       "label": "",
       "scryfallId": "dd16222e-349c-4a2b-a7c8-8eb35a8ab332",
       "effects": [
+        "RemovePermanent",
         "Disenchant"
       ]
     },
@@ -18760,7 +18808,6 @@
       "label": "",
       "scryfallId": "0a786855-6eb4-42c0-a528-4842db46809d",
       "effects": [
-        "CardAdvantage",
         "Filter"
       ],
       "reviewedAt": "2026-09-11T10:02:03.5749984+00:00"
@@ -18906,7 +18953,9 @@
       "rating": 4,
       "label": "",
       "scryfallId": "289ba7ec-e30e-436f-b8d4-c88b65ecd137",
-      "effects": []
+      "effects": [
+        "RemovePermanent"
+      ]
     },
     "e3480c8f-15ad-451b-bb34-b129805569e1": {
       "name": "Stunted Growth",
@@ -19720,6 +19769,7 @@
       "scryfallId": "18bffcab-638f-4492-b150-d6383e387002",
       "effects": [
         "Tokens",
+        "RemovePermanent",
         "Pacify"
       ]
     },
@@ -19824,6 +19874,7 @@
       "label": "",
       "scryfallId": "1c81a779-6b91-4de2-9065-d6821a787e7d",
       "effects": [
+        "RemovePermanent",
         "Disenchant"
       ]
     },
@@ -22027,7 +22078,9 @@
       "rating": 4,
       "label": "",
       "scryfallId": "7395bc7e-a5dc-4340-9468-8dc5a8029edb",
-      "effects": []
+      "effects": [
+        "RemovePermanent"
+      ]
     },
     "5b8f0cdf-572d-4025-b930-79291f7c35be": {
       "name": "Vanishing Verse",
@@ -22340,7 +22393,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "0cdfb9b4-3ba3-4875-ab84-c93064c0e4e8",
-      "effects": []
+      "effects": [
+        "RemovePermanent"
+      ]
     },
     "7e2cacae-2934-4ff5-81c6-dfce7a2820ef": {
       "name": "Voidmage Prodigy",
@@ -22715,7 +22770,7 @@
       "label": "",
       "scryfallId": "1ab7c1e6-54af-4002-8a81-23a1ccafa3ff",
       "effects": [
-        "Removal"
+        "RemovePermanent"
       ],
       "reviewedAt": "2026-09-11T21:30:42.3798203+00:00"
     },
@@ -23216,6 +23271,7 @@
       "label": "",
       "scryfallId": "17269aae-10bc-49ef-b6a7-94e0dd6cf677",
       "effects": [
+        "Tokens",
         "Ramp",
         "Protection",
         "ManaFixing"

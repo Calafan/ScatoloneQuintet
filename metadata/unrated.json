@@ -124,7 +124,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "02517f12-cd8a-4d62-89cb-523b9b9295d5",
-      "effects": []
+      "effects": [
+        "RemovePermanent"
+      ]
     },
     "a9002245-0f33-48cb-96d3-fde884236eb5": {
       "name": "Absolver Thrull",
@@ -639,7 +641,8 @@
       "label": "",
       "scryfallId": "4800ebc2-d5a7-4c26-a2f7-943a540ae47e",
       "effects": [
-        "Removal"
+        "Removal",
+        "RemovePermanent"
       ]
     },
     "80b8ee3d-4174-4f47-a533-a3db1e703382": {
@@ -2440,6 +2443,7 @@
       "label": "",
       "scryfallId": "16b9f43a-9c3f-4bfa-9eb1-734189a4bb1f",
       "effects": [
+        "RemovePermanent",
         "CardAdvantage",
         "Steal"
       ]
@@ -2820,7 +2824,8 @@
       "scryfallId": "36848874-2435-4fc0-82d9-f773aacbd76b",
       "effects": [
         "Tokens",
-        "Removal"
+        "Removal",
+        "RemovePermanent"
       ]
     },
     "f4ce6078-8c7b-4f68-b324-13130c63a983": {
@@ -3123,7 +3128,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "117a70ac-ae6e-43ff-b210-c264bb8f11d2",
-      "effects": []
+      "effects": [
+        "RemovePermanent"
+      ]
     },
     "725880b2-1675-414f-b61b-cf6533797dbf": {
       "name": "Animar, Soul of Elements",
@@ -6074,6 +6081,7 @@
       "label": "",
       "scryfallId": "06969031-2c13-4b5a-bb4e-86eed025e614",
       "effects": [
+        "RemovePermanent",
         "Sacrifice"
       ]
     },
@@ -6441,7 +6449,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "18096cdb-0ba9-41e0-b597-c5ed819e7497",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "1bc7d73b-0f54-4807-b13a-3def0c5e5616": {
       "name": "Balduvian Rage",
@@ -6712,6 +6722,7 @@
       "label": "",
       "scryfallId": "078a222f-2efb-44ed-95d8-6435bd026611",
       "effects": [
+        "RemovePermanent",
         "Disenchant"
       ]
     },
@@ -8490,7 +8501,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "0093bdcf-6626-40ab-9b87-8ab9e4a306a4",
-      "effects": []
+      "effects": [
+        "RemovePermanent"
+      ]
     },
     "9ca64b8e-e9d2-41b3-b229-6fcdc48a8371": {
       "name": "Blademane Baku",
@@ -9061,6 +9074,7 @@
       "label": "",
       "scryfallId": "0dcf26d2-4fe0-41cf-8fb9-cb2c529b109b",
       "effects": [
+        "Tokens",
         "Buff"
       ]
     },
@@ -11142,7 +11156,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "038ac338-e756-4722-ae9c-da25d3435ab6",
-      "effects": []
+      "effects": [
+        "RemovePermanent"
+      ]
     },
     "796009b3-73b5-42c0-a490-66f12be5a42e": {
       "name": "Braid of Fire",
@@ -13587,6 +13603,7 @@
       "label": "",
       "scryfallId": "0d403ab1-56d1-44a6-a414-6cc7a114c62d",
       "effects": [
+        "RemovePermanent",
         "Disenchant",
         "CardAdvantage"
       ]
@@ -13908,6 +13925,7 @@
       "label": "",
       "scryfallId": "082d596f-0604-4ccf-bec0-adfbd7ed47fb",
       "effects": [
+        "RemovePermanent",
         "Regrowth"
       ]
     },
@@ -15877,7 +15895,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "34a18415-015c-4d3f-8042-b156a673e125",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "5fbd39e9-8736-4722-bb9b-6a7da8e47c84": {
       "name": "Clarion Ultimatum",
@@ -17158,6 +17178,7 @@
       "label": "",
       "scryfallId": "1dc26b58-1b10-41a3-8155-bbc8f189de15",
       "effects": [
+        "RemovePermanent",
         "Disenchant"
       ]
     },
@@ -20091,7 +20112,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "bff62270-57ed-4706-bedf-11f60ae2da43",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "d75b9c82-1b49-4c3e-a1b5-aeef57d6644b": {
       "name": "Cyclonic Rift",
@@ -22698,7 +22721,8 @@
       "label": "",
       "scryfallId": "060c2b3c-2671-4ec9-8367-e0d4ca553616",
       "effects": [
-        "Removal"
+        "Removal",
+        "RemovePermanent"
       ]
     },
     "9e1b0034-bd2c-4412-8d81-db3306c8814f": {
@@ -23100,7 +23124,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "74de5ed5-eab0-44ff-aa9a-077d487f1b5e",
-      "effects": []
+      "effects": [
+        "RemovePermanent"
+      ]
     },
     "ba5fa5ca-f72d-49dd-9f86-e6e1292f5bf0": {
       "name": "Detritivore",
@@ -25510,7 +25536,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "6814d15f-e7a5-4a73-9adc-88a1a4dec6cc",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "642fa01d-025e-44dd-8360-5325e5a28282": {
       "name": "Dread Summons",
@@ -27579,7 +27607,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "12c33e64-c81b-44ec-967c-1ac2f6856897",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "ce35f262-b93f-4409-8b33-26a7ed7abac8": {
       "name": "Elenda, the Dusk Rose",
@@ -28075,14 +28105,18 @@
       "rating": 0,
       "label": "",
       "scryfallId": "92f385d1-a6c5-40b7-bc90-6f71b6f815e7",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "ee1c7532-dc97-432d-964f-1c4087ab5248": {
       "name": "Embodiment of Insight",
       "rating": 0,
       "label": "",
       "scryfallId": "2f3d83f7-b087-4e9b-8e98-6b9b060d0627",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "e12bba04-b10f-4bbd-959c-560f31630951": {
       "name": "Embodiment of Spring",
@@ -29945,7 +29979,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "9e3b826a-7349-45ae-89bf-675fea7ce8e3",
-      "effects": []
+      "effects": [
+        "RemovePermanent"
+      ]
     },
     "6c2cf22e-5dbb-4fa9-8ece-17069e6f1d7f": {
       "name": "Excommunicate",
@@ -31623,7 +31659,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "221a347c-ee99-47b2-a502-cfd87f67f61a",
-      "effects": []
+      "effects": [
+        "RemovePermanent"
+      ]
     },
     "5ae3cbb9-9f0c-4077-ae7c-fba660d7fb4b": {
       "name": "Felidar Sovereign",
@@ -33434,7 +33472,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "1065c4c7-c022-4aa1-a99b-13566cf1d3e7",
-      "effects": []
+      "effects": [
+        "RemovePermanent"
+      ]
     },
     "9f679093-86a0-4211-8491-de1f6d81c483": {
       "name": "Flight Spellbomb",
@@ -34412,7 +34452,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "2c69c743-59bd-4cac-b8e7-f3424677ac57",
-      "effects": []
+      "effects": [
+        "RemovePermanent"
+      ]
     },
     "af4f192a-9565-4377-b359-835fe4396e85": {
       "name": "Fractured Powerstone",
@@ -34837,6 +34879,7 @@
       "label": "",
       "scryfallId": "bfb5d83f-2b7c-4c22-ac37-938e7cd1654a",
       "effects": [
+        "Tokens",
         "Pacify"
       ]
     },
@@ -35069,6 +35112,7 @@
       "label": "",
       "scryfallId": "5f26d6c3-bd1e-4795-925e-2e7d2141dfdd",
       "effects": [
+        "RemovePermanent",
         "Discard"
       ]
     },
@@ -36138,6 +36182,7 @@
       "label": "",
       "scryfallId": "99820c21-71b2-409b-b3fd-0334fb416e17",
       "effects": [
+        "Tokens",
         "Regrowth"
       ]
     },
@@ -36166,6 +36211,7 @@
       "label": "",
       "scryfallId": "e9eb7b9b-5189-4d20-8dec-e9d3df63e26e",
       "effects": [
+        "Tokens",
         "Regrowth"
       ]
     },
@@ -36868,7 +36914,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "071421ba-b54a-4510-9065-ace62368d3cb",
-      "effects": []
+      "effects": [
+        "RemovePermanent"
+      ]
     },
     "7340dbcb-4b26-4038-be8c-a89e76294221": {
       "name": "Gideon Jura",
@@ -37721,7 +37769,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "448f1348-081f-4bf7-8a52-71b1a6d59f93",
-      "effects": []
+      "effects": [
+        "RemovePermanent"
+      ]
     },
     "92c9aad6-35ec-425d-be7d-393328992820": {
       "name": "Glimmerpost",
@@ -39575,7 +39625,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "1ad46a46-4221-4e0e-8b46-49f517c231c1",
-      "effects": []
+      "effects": [
+        "RemovePermanent"
+      ]
     },
     "0d96e4bc-ff4e-4f37-89b6-8a4e3c1069a0": {
       "name": "Grasp of Phantoms",
@@ -43858,6 +43910,7 @@
       "label": "",
       "scryfallId": "197743cd-249c-42ba-ac8d-027c088f8418",
       "effects": [
+        "RemovePermanent",
         "Disenchant"
       ]
     },
@@ -43891,7 +43944,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "84a3ff8d-6d7e-49f0-8d30-7f8c23db568b",
-      "effects": []
+      "effects": [
+        "RemovePermanent"
+      ]
     },
     "f0e7d147-379e-45b7-bfc4-d926637e060d": {
       "name": "High Sentinels of Arashin",
@@ -44841,7 +44896,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "082f35df-2b3b-4a99-9666-30531d98eec7",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "e050a0a3-f48e-4cba-9cd4-692a92261c9f": {
       "name": "Hostile Minotaur",
@@ -45487,7 +45544,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "2c4e1f41-4aed-451b-bbaa-6cc6780cd6c9",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "6bd872b2-5c40-4e11-9a7f-0136a51b0642": {
       "name": "Hydroid Krasis",
@@ -45868,7 +45927,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "9dc89eb3-4497-4f05-8fed-d378b6e425ca",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "9cf12838-64fe-49c9-9181-e0f6118c0bf6": {
       "name": "Ignorant Bliss",
@@ -48217,6 +48278,7 @@
       "label": "",
       "scryfallId": "59cdf8d4-1d6b-43c9-8a27-dd8e50a734e5",
       "effects": [
+        "RemovePermanent",
         "Disenchant"
       ]
     },
@@ -49791,6 +49853,7 @@
       "label": "",
       "scryfallId": "51fe007f-fddf-4b3a-b336-0a88df95cb14",
       "effects": [
+        "Tokens",
         "Protection"
       ]
     },
@@ -49800,6 +49863,7 @@
       "label": "",
       "scryfallId": "4c3560ae-b1f6-4269-a9eb-1a45247b6232",
       "effects": [
+        "Tokens",
         "Buff",
         "Protection"
       ]
@@ -50278,7 +50342,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "13f808c0-3890-467a-97f9-3647b7b5146d",
-      "effects": []
+      "effects": [
+        "RemovePermanent"
+      ]
     },
     "133f5d30-d883-493e-93a1-cf9583db460b": {
       "name": "Kazandu Blademaster",
@@ -54756,7 +54822,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "a5a40c16-7a5c-4ad1-be53-6b1b1be2affe",
-      "effects": []
+      "effects": [
+        "RemovePermanent"
+      ]
     },
     "a2184c37-ee92-40f2-b7d1-97c39ce5f277": {
       "name": "Limits of Solidarity",
@@ -55285,6 +55353,7 @@
       "scryfallId": "213d6fb8-5624-4804-b263-51f339482754",
       "effects": [
         "Tokens",
+        "RemovePermanent",
         "CardAdvantage",
         "Reanimate"
       ]
@@ -56244,7 +56313,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "019e8d47-a086-4e9f-8130-8c3b2dc50179",
-      "effects": []
+      "effects": [
+        "RemovePermanent"
+      ]
     },
     "ad9b7fbc-61c8-43ee-a65c-99206fd1e4df": {
       "name": "Maelstrom Wanderer",
@@ -57050,7 +57121,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "5ae5b68b-1e16-46a7-ba6e-f393b758237a",
-      "effects": []
+      "effects": [
+        "RemovePermanent"
+      ]
     },
     "b67db32b-30a9-49d2-b4c2-90a9f80c36eb": {
       "name": "Manglehorn",
@@ -59226,7 +59299,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "0abc2aa2-b505-4e6b-8a37-4e818a8561bc",
-      "effects": []
+      "effects": [
+        "RemovePermanent"
+      ]
     },
     "c6a607f2-4228-4bcc-84ed-37bd362d7542": {
       "name": "Meteoric Mace",
@@ -60680,7 +60755,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "214792e9-a172-4547-b148-b9b368cb3432",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "5da5240e-5d87-494f-aec9-64b7a3f0d935": {
       "name": "Mockery of Nature",
@@ -61880,7 +61957,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "46daa243-7c4e-4b0c-8ec2-e70cba8e72c3",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "0dfdeaa0-fa12-49cf-b361-efa49d3ffcb2": {
       "name": "Murasa Behemoth",
@@ -62086,7 +62165,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "2ac4ada1-1b60-49ec-b187-0b2844d5704f",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "647b4cb4-569d-4938-b56c-31a70e68ee41": {
       "name": "Mutiny",
@@ -64638,6 +64719,7 @@
       "label": "",
       "scryfallId": "07eb2476-488b-4610-8567-f0456601f7fd",
       "effects": [
+        "Tokens",
         "Ramp"
       ]
     },
@@ -65080,7 +65162,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "018a66fc-e7aa-42df-a622-50743cb20183",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "09c2d504-f2e1-4799-b948-c7b9502d5088": {
       "name": "Nucklavee",
@@ -65343,7 +65427,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "07a42ae6-c2ca-4028-a364-70c19ce125b3",
-      "effects": []
+      "effects": [
+        "RemovePermanent"
+      ]
     },
     "5641c831-5254-4ef2-ba48-328d86007479": {
       "name": "O-Naginata",
@@ -65501,7 +65587,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "5a7fadca-0a94-4624-ab95-2c2410829824",
-      "effects": []
+      "effects": [
+        "RemovePermanent"
+      ]
     },
     "385d70ed-07ab-4e01-a473-4408f4bcf6d0": {
       "name": "Oath of the Ancient Wood",
@@ -65693,7 +65781,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "1c7fffe8-709c-4cb4-bbad-e4a0c35b616a",
-      "effects": []
+      "effects": [
+        "RemovePermanent"
+      ]
     },
     "d39b9f64-dc9b-413f-8d05-e21ef46d6756": {
       "name": "Oblivion Sower",
@@ -72644,7 +72734,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "30c525ab-08d5-4d29-aef1-01b0c75ee8d9",
-      "effects": []
+      "effects": [
+        "RemovePermanent"
+      ]
     },
     "fff66029-24bb-4354-a650-99a205fd168f": {
       "name": "Quarry Beetle",
@@ -75383,7 +75475,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "11ccbbb2-0631-4fdf-a1ed-06207c98ed85",
-      "effects": []
+      "effects": [
+        "RemovePermanent"
+      ]
     },
     "f54573d1-9950-46c3-b8f1-cd6f081d62ad": {
       "name": "Relentless Advance",
@@ -78225,7 +78319,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "0164e2ed-b722-4a7d-a4fb-5401af008cbf",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "6c922206-6e68-4dcd-9559-88da1074f2c4": {
       "name": "Rugged Highlands",
@@ -80367,7 +80463,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "4ce3aff9-0d67-48e8-a319-68fc084a8493",
-      "effects": []
+      "effects": [
+        "RemovePermanent"
+      ]
     },
     "4899595e-e626-432c-9c9f-f9d5c243a64b": {
       "name": "Scampering Scorcher",
@@ -85673,7 +85771,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "00f206c0-a8a7-4ca0-b88f-4736c3dac588",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "92bac34e-2045-4331-842f-185711c1ac56": {
       "name": "Skarrg, the Rage Pits",
@@ -87314,7 +87414,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "ae4066c3-bcb0-41c4-a4d3-a22bd186fd13",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "c09d304a-87d0-4a2a-bcb2-e81341b2dbf2": {
       "name": "Sokenzan",
@@ -89222,7 +89324,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "caf3643a-502f-4736-8063-5b567bdfbcc4",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "399ea8a4-55f5-4f14-ad7a-7af306959496": {
       "name": "Spike-Tailed Ceratops",
@@ -93856,7 +93960,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "93ac4d3d-064e-459d-b3a4-6c0872a2da8c",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "c20635d2-20e9-48f7-88f0-6de0f953bb08": {
       "name": "Sylvan Bounty",
@@ -96303,6 +96409,7 @@
       "scryfallId": "04a38b92-619e-4fe8-b0cb-6fa31f0824ff",
       "effects": [
         "Tokens",
+        "RemovePermanent",
         "LandDestruction"
       ]
     },
@@ -101028,7 +101135,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "1192f7a9-102e-4b3a-b154-18c8eb332217",
-      "effects": []
+      "effects": [
+        "RemovePermanent"
+      ]
     },
     "b817bc56-9b4d-4c50-bafa-3c652b99578f": {
       "name": "Ulamog, the Infinite Gyre",
@@ -102245,7 +102354,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "09c10024-99f5-47d8-b74f-11d7f8511de4",
-      "effects": []
+      "effects": [
+        "RemovePermanent"
+      ]
     },
     "05a6a571-643e-429e-8e5c-1c3f8b0dc746": {
       "name": "Utvara Hellkite",
@@ -104157,7 +104268,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "04011aea-2b71-4f27-a148-a85a5c288cfa",
-      "effects": []
+      "effects": [
+        "RemovePermanent"
+      ]
     },
     "bf6ea336-6a4d-4653-acdd-f09af0b9f0e3": {
       "name": "Violet Pall",
@@ -105090,7 +105203,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "1dea34d8-c68f-41b5-8476-fd6128d69576",
-      "effects": []
+      "effects": [
+        "RemovePermanent"
+      ]
     },
     "7f39bbae-6c84-4cb3-9a58-d746a723ad35": {
       "name": "Voracious Dragon",
@@ -105295,7 +105410,8 @@
       "label": "",
       "scryfallId": "19b9432d-9ae5-4821-b6c4-2e90240d8623",
       "effects": [
-        "Tokens"
+        "Tokens",
+        "RemovePermanent"
       ]
     },
     "d3839a3f-3018-4a8d-b298-3f5b5fc70cd1": {
@@ -105345,6 +105461,7 @@
       "label": "",
       "scryfallId": "0e2de47c-828e-4e09-996d-b4c360af2d2f",
       "effects": [
+        "RemovePermanent",
         "CardAdvantage",
         "Sacrifice"
       ]
@@ -105525,7 +105642,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "4124807b-15f9-46d7-8b0b-d4f1b3587d99",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "edc6db57-3519-4649-9c4a-5cf264cce26f": {
       "name": "Wakeroot Elemental",
@@ -105702,7 +105821,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "c99f0dc1-c8cf-4733-a874-5ae57b38258e",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "0810983f-818a-43e6-a7b5-ebe0bc8b9f6a": {
       "name": "Wall of Reverence",
@@ -107879,7 +108000,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "0fd6469c-fbce-41ed-ae23-bb55c0f56d3d",
-      "effects": []
+      "effects": [
+        "RemovePermanent"
+      ]
     },
     "c9404d7d-a026-4082-9fcb-1ab571a136b5": {
       "name": "Winding Constrictor",

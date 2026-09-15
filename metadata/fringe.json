@@ -1598,9 +1598,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "57695a9b-8f72-4ccc-a946-5d5037b09b8f",
-      "effects": [
-        "Mill"
-      ],
+      "effects": [],
       "reviewedAt": "2026-09-10T15:28:08.633251+00:00"
     },
     "25c8a3b0-c393-4fc6-a373-808cd8e9850c": {
@@ -3580,7 +3578,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "20ff4e7d-fa50-48d2-8ab6-6b86e3a05e86",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "c7a6a165-b709-46e0-ae42-6f69a17c0621": {
       "name": "Animate Wall",
@@ -4733,7 +4733,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "149425d1-e0d3-4b97-b893-b8a5055e0e7d",
-      "effects": []
+      "effects": [
+        "RemovePermanent"
+      ]
     },
     "4b889ec0-6130-4e31-bb02-03fdabd28bee": {
       "name": "Argivian Archaeologist",
@@ -7510,6 +7512,7 @@
       "label": "",
       "scryfallId": "61f39d4c-af2d-486d-9408-b987474f8352",
       "effects": [
+        "RemovePermanent",
         "Disenchant"
       ]
     },
@@ -12124,6 +12127,7 @@
       "label": "",
       "scryfallId": "821b9e86-d108-42e5-b642-c5e07ab16c37",
       "effects": [
+        "Tokens",
         "Sacrifice"
       ]
     },
@@ -13307,6 +13311,7 @@
       "label": "",
       "scryfallId": "507073ca-4f97-4fcb-b570-233f096bf0fd",
       "effects": [
+        "RemovePermanent",
         "ManaFixing"
       ]
     },
@@ -13550,6 +13555,7 @@
       "label": "",
       "scryfallId": "8c9ac05f-f47c-4569-a06e-793d28cbb936",
       "effects": [
+        "RemovePermanent",
         "ManaFixing"
       ]
     },
@@ -14323,6 +14329,7 @@
       "label": "",
       "scryfallId": "02ed7f46-f58f-412a-8aa4-71f453ee3618",
       "effects": [
+        "RemovePermanent",
         "Reanimate"
       ]
     },
@@ -15431,7 +15438,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "2a51ebf6-a465-42e2-82b7-d2cb928ca632",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "a1034a02-36cf-4586-a001-9dc3fb76e904": {
       "name": "Caverns of Despair",
@@ -16024,7 +16033,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "2f548746-ea29-4dc8-aa60-8a908f9354ac",
-      "effects": []
+      "effects": [
+        "RemovePermanent"
+      ]
     },
     "eae87919-6322-4bd2-ae9c-b1ce25d686da": {
       "name": "Chains of Mephistopheles",
@@ -17491,7 +17502,9 @@
       "rating": 2,
       "label": "",
       "scryfallId": "15564a92-7980-438e-b4cb-8ffb50fb6393",
-      "effects": []
+      "effects": [
+        "RemovePermanent"
+      ]
     },
     "9eb7f301-b9b6-48c3-9dad-e7df9cc15355": {
       "name": "Civic Gardener",
@@ -18325,7 +18338,7 @@
       "label": "",
       "scryfallId": "1ad7692d-5a51-493f-a322-7b615446ea8e",
       "effects": [
-        "ManaFixing"
+        "Ramp"
       ],
       "reviewedAt": "2026-09-04T15:06:42.2754635+00:00"
     },
@@ -19198,9 +19211,7 @@
       "rating": 2,
       "label": "",
       "scryfallId": "13cfca5f-e25a-432e-8679-54704eeeecc8",
-      "effects": [
-        "Buff"
-      ],
+      "effects": [],
       "reviewedAt": "2026-09-04T14:31:01.685125+00:00"
     },
     "0369627e-3b83-4e5b-a8af-a99f944443b3": {
@@ -21537,7 +21548,9 @@
       "rating": 2,
       "label": "",
       "scryfallId": "db9a57d6-bba6-463d-ad12-6f93c035d16b",
-      "effects": []
+      "effects": [
+        "RemovePermanent"
+      ]
     },
     "6385fd0d-256d-4400-9319-afa8170024db": {
       "name": "Culling the Weak",
@@ -26057,7 +26070,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "4404b8d6-3673-4d82-b9ed-d28e9b54e1f6",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "adde6737-516c-4d6f-9363-388ad37d4114": {
       "name": "Disturbing Conversion",
@@ -33213,7 +33228,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "21481b68-2396-4c94-956d-55d7427eeeb6",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "ef220170-c01a-4ca5-b887-f248c50227ee": {
       "name": "Faceless One",
@@ -33286,7 +33303,9 @@
       "rating": 2,
       "label": "",
       "scryfallId": "29e8460b-cf14-40cc-8adc-c8650c6a02d1",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "450a9b73-9024-4103-b9f9-216a2f395cff": {
       "name": "Faerie Fencing",
@@ -37136,7 +37155,9 @@
       "rating": 2,
       "label": "",
       "scryfallId": "5efb8c9c-3108-4a06-8ad9-a0dbe3cc5c02",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "655ae8e7-372b-4d8d-b33f-4aca46831abb": {
       "name": "Force Bubble",
@@ -38254,9 +38275,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "0ac5a6b7-aa6a-4067-a7d7-426c4722ef50",
-      "effects": [
-        "Buff"
-      ],
+      "effects": [],
       "reviewedAt": "2026-09-04T14:12:48.262532+00:00"
     },
     "7101f0ab-89ce-4b13-a5a8-4cabd6c8670d": {
@@ -39936,7 +39955,9 @@
       "rating": 2,
       "label": "",
       "scryfallId": "0a4f58d5-1dc0-4824-a554-56adc1700d33",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "3e792338-4a21-4a06-ad94-39931118e06c": {
       "name": "Ghitu Fire-Eater",
@@ -43043,9 +43064,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "01116585-a8c7-4619-b0a6-fcfe78fdaf3c",
-      "effects": [
-        "Buff"
-      ],
+      "effects": [],
       "reviewedAt": "2026-09-04T14:12:33.5598773+00:00"
     },
     "19e09405-3294-4f98-a18f-60cf0a8a2e4e": {
@@ -44522,7 +44541,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "1b31d55a-44f3-4745-bc40-1399532d558e",
-      "effects": []
+      "effects": [
+        "RemovePermanent"
+      ]
     },
     "4b707ef4-2c17-41e7-8dac-583791a98055": {
       "name": "Haazda Vigilante",
@@ -48658,7 +48679,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "71f8c040-b6da-42f4-9140-7cd5eceb51c7",
-      "effects": [],
+      "effects": [
+        "Buff"
+      ],
       "reviewedAt": "2026-09-04T15:10:21.5022861+00:00"
     },
     "b1a9f49a-b0e2-481f-806d-0bc321517a4f": {
@@ -50806,7 +50829,9 @@
       "rating": 2,
       "label": "",
       "scryfallId": "b0bc4682-bcaf-4f51-be0b-9f2851a16e3b",
-      "effects": []
+      "effects": [
+        "RemovePermanent"
+      ]
     },
     "9ae1fded-2e77-498a-98e7-4a4908447175": {
       "name": "Introduction to Prophecy",
@@ -51125,6 +51150,7 @@
       "label": "",
       "scryfallId": "573cc5ec-4892-4f24-ba65-82d51198af89",
       "effects": [
+        "RemovePermanent",
         "Filter"
       ]
     },
@@ -52065,7 +52091,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "6fde1e41-bb06-457e-8c61-4a41535e3a73",
-      "effects": [],
+      "effects": [
+        "Buff"
+      ],
       "reviewedAt": "2026-09-04T14:59:22.106742+00:00"
     },
     "177248b7-f3fd-42f8-b325-2625a2bb28ff": {
@@ -53044,6 +53072,7 @@
       "label": "",
       "scryfallId": "47120e3c-73aa-468d-96b7-47aead342e31",
       "effects": [
+        "RemovePermanent",
         "Disenchant"
       ]
     },
@@ -53619,6 +53648,7 @@
       "label": "",
       "scryfallId": "11ef4c48-978c-41f5-b347-230433326f7c",
       "effects": [
+        "Tokens",
         "Buff"
       ]
     },
@@ -54258,7 +54288,8 @@
       "label": "",
       "scryfallId": "03eeec31-538f-4f67-b635-8c68bc678dea",
       "effects": [
-        "Tokens"
+        "Tokens",
+        "RemovePermanent"
       ]
     },
     "e0edb2fc-2533-407c-85e5-4337f4233f05": {
@@ -56821,6 +56852,7 @@
       "scryfallId": "ea96eeac-c316-4247-a81f-0ddf52675ebf",
       "effects": [
         "Tokens",
+        "RemovePermanent",
         "Disenchant",
         "Buff"
       ]
@@ -58042,6 +58074,7 @@
       "label": "",
       "scryfallId": "0adde668-67af-4a08-a36a-2a49893ab20d",
       "effects": [
+        "Tokens",
         "CardAdvantage"
       ]
     },
@@ -58729,7 +58762,9 @@
       "rating": 2,
       "label": "",
       "scryfallId": "0341da27-3d77-4959-b7fa-5929b2cc7141",
-      "effects": [],
+      "effects": [
+        "Tokens"
+      ],
       "reviewedAt": "2026-09-04T14:30:14.7233558+00:00"
     },
     "d684553a-f225-49af-90eb-399f55ef65df": {
@@ -67659,7 +67694,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "c3eb4857-7c66-42e4-913c-97a0306366d5",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "8c1fe337-375a-4add-93b6-0ac39ed72b4f": {
       "name": "Natural Order",
@@ -75697,7 +75734,8 @@
       "label": "",
       "scryfallId": "952cb0b3-a6b7-4279-8833-3d8890b2d005",
       "effects": [
-        "Tokens"
+        "Tokens",
+        "RemovePermanent"
       ]
     },
     "a2d3e3f0-7399-4eb9-a0cf-831710c3d431": {
@@ -76064,7 +76102,9 @@
       "rating": 2,
       "label": "",
       "scryfallId": "0ecd4e81-65a9-4ffc-98f3-a2c84d84b573",
-      "effects": []
+      "effects": [
+        "RemovePermanent"
+      ]
     },
     "d4a3c9a5-3c91-4135-a19d-98eb5bcf5e00": {
       "name": "Prismatic Lace",
@@ -76173,6 +76213,7 @@
       "label": "",
       "scryfallId": "04e24fc6-e48c-48b9-89da-886f3af7e9cc",
       "effects": [
+        "Removal",
         "Burn"
       ],
       "reviewedAt": "2026-09-04T14:08:46.9195451+00:00"
@@ -78636,6 +78677,7 @@
       "label": "",
       "scryfallId": "57218779-7e18-4fa2-a0bb-c07052951a78",
       "effects": [
+        "Tokens",
         "Ramp"
       ]
     },
@@ -80111,7 +80153,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "363cc5d6-70f8-4a3c-92bd-8f49774bdce2",
-      "effects": [],
+      "effects": [
+        "Ramp"
+      ],
       "reviewedAt": "2026-09-04T14:58:01.8669183+00:00"
     },
     "380b6a48-c364-4939-be0b-df542c63a5ff": {
@@ -80281,7 +80325,9 @@
       "rating": 2,
       "label": "",
       "scryfallId": "61e97112-d794-4629-87f0-41c9b2493fd7",
-      "effects": []
+      "effects": [
+        "RemovePermanent"
+      ]
     },
     "2cdebbc2-2e0b-4d26-bb7f-4736f0318ca7": {
       "name": "Redwood Treefolk",
@@ -82514,7 +82560,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "30215aed-3dfa-44d0-88ca-86905a7e0d5e",
-      "effects": []
+      "effects": [
+        "RemovePermanent"
+      ]
     },
     "6512ddb8-0868-4d32-ab32-8a5250fc571b": {
       "name": "Rite of Renewal",
@@ -83615,7 +83663,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "d843c242-088f-4131-9e52-7ee2d0db5e20",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "a3f09898-6c77-4d68-8d10-8440c75f884c": {
       "name": "Rope",
@@ -84564,6 +84614,7 @@
       "label": "",
       "scryfallId": "927b5498-23f1-47c0-b441-7daaeb54f9b8",
       "effects": [
+        "RemovePermanent",
         "Sacrifice"
       ]
     },
@@ -87822,7 +87873,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "d6467d96-e43a-4b1e-b6ce-578d991077b5",
-      "effects": []
+      "effects": [
+        "RemovePermanent"
+      ]
     },
     "96312b75-3110-4506-9f95-0c6c17d9da11": {
       "name": "Securitron Squadron",
@@ -92009,6 +92062,7 @@
       "label": "",
       "scryfallId": "87300ac8-8b6f-4c37-8058-beb59eaa66be",
       "effects": [
+        "RemovePermanent",
         "Sacrifice"
       ]
     },
@@ -94518,7 +94572,9 @@
       "rating": 2,
       "label": "",
       "scryfallId": "43ffec42-57f7-4592-99ab-6284d59829a1",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "4e08e07f-ca30-4e34-b207-d8fe62c03777": {
       "name": "Speakeasy Server",
@@ -95486,7 +95542,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "213d6e0d-5ec9-441e-a38d-50ce44583e4b",
-      "effects": [],
+      "effects": [
+        "Buff"
+      ],
       "reviewedAt": "2026-09-04T14:59:35.6655876+00:00"
     },
     "a4825093-ea29-47d9-b52c-1c7735f1909e": {
@@ -95802,7 +95860,9 @@
       "rating": 2,
       "label": "",
       "scryfallId": "55893f8b-0fea-40a5-b96d-954c99938810",
-      "effects": []
+      "effects": [
+        "RemovePermanent"
+      ]
     },
     "934e2634-4b1c-4d92-b4d6-9241620f3770": {
       "name": "Splitskin Doll",
@@ -96905,6 +96965,7 @@
       "label": "",
       "scryfallId": "5ab5cb30-3ced-4450-a3c4-b519f3762620",
       "effects": [
+        "RemovePermanent",
         "Ramp",
         "Disenchant"
       ]
@@ -101206,7 +101267,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "0d446cb9-519a-4889-b057-029db9400021",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "24cf7fad-233b-49fd-b2a1-a29e3e30041c": {
       "name": "Taunt",
@@ -103466,6 +103529,7 @@
       "label": "",
       "scryfallId": "1b041b21-fd9b-4a1a-9f08-0b1de3add014",
       "effects": [
+        "RemovePermanent",
         "Bounce",
         "Discard"
       ]
@@ -107864,7 +107928,9 @@
       "rating": 2,
       "label": "",
       "scryfallId": "02212bd8-0c0f-4e8e-99f1-a8477476c03a",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "cd10ebc9-9f6c-4da2-9a86-263902002ebc": {
       "name": "Trelasarra, Moon Dancer",
@@ -110643,6 +110709,7 @@
       "scryfallId": "40a01679-3224-427e-bd1d-b797b0ab68b7",
       "effects": [
         "Tokens",
+        "RemovePermanent",
         "Wipe",
         "CardAdvantage",
         "Filter"
@@ -111535,7 +111602,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "16e20076-5d24-4c59-b707-6d20e121032f",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "f3b3173b-f7ae-420e-84ec-ea61414674a0": {
       "name": "Vengeful Ancestor",
@@ -111809,7 +111878,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "7079bf55-4827-4b8b-a178-8c7b903d93b9",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "8222321f-b74d-4f74-9ee7-79455433345a": {
       "name": "Verdeloth the Ancient",
@@ -112824,7 +112895,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "f8b5e7ed-a0ab-48f6-8f69-56a8bd115007",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "007f3b20-d58b-4986-8de8-9e419af88628": {
       "name": "Vivisection Evangelist",
@@ -116832,7 +116905,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "d61748dd-4010-47da-8717-ca0147877057",
-      "effects": []
+      "effects": [
+        "RemovePermanent"
+      ]
     },
     "02598a35-1b11-4abe-89cd-fc44c8c36c15": {
       "name": "Winota, Joiner of Forces",
