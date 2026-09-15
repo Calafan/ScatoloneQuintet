@@ -3951,8 +3951,7 @@
       "label": "",
       "scryfallId": "0881c6b6-105e-47cc-9c4b-e5753e044b3e",
       "effects": [
-        "Tokens",
-        "Buff"
+        "Tokens"
       ]
     },
     "b45e35df-9032-4482-89a6-c7c50c6d0a79": {
@@ -4906,8 +4905,7 @@
       "label": "",
       "scryfallId": "5c94e2b8-9fe6-41fd-bf43-ab7534abfd33",
       "effects": [
-        "Tokens",
-        "Buff"
+        "Tokens"
       ]
     },
     "ca773c52-ca64-463c-99cf-e71b59d2cff7": {
@@ -5052,8 +5050,7 @@
       "label": "",
       "scryfallId": "391e1747-69b0-47e0-9210-317f5febca59",
       "effects": [
-        "Tokens",
-        "Buff"
+        "Tokens"
       ]
     },
     "4a0cc2a2-3711-473a-b2c5-b1e52b34e4fb": {
@@ -5719,8 +5716,7 @@
       "label": "",
       "scryfallId": "10732397-68eb-4f1d-a2e6-10479f66805f",
       "effects": [
-        "Tokens",
-        "Buff"
+        "Tokens"
       ]
     },
     "b907d375-b715-446b-8966-79959feb9f58": {
@@ -11683,9 +11679,7 @@
       "rating": 3,
       "label": "",
       "scryfallId": "079e6263-e54c-4899-a336-5315909b9322",
-      "effects": [
-        "Buff"
-      ]
+      "effects": []
     },
     "7fd2beb8-f823-4723-beec-e59b62127490": {
       "name": "Magda, the Hoardmaster",
@@ -15772,9 +15766,7 @@
       "rating": 4,
       "label": "",
       "scryfallId": "36f569cc-ed09-4c27-b753-18b22ad7f425",
-      "effects": [
-        "Buff"
-      ],
+      "effects": [],
       "reviewedAt": "2026-09-11T12:26:21.6174601+00:00"
     },
     "a1e691f3-a3e9-4cfa-a761-d7e020364dfa": {
