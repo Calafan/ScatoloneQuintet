@@ -50,7 +50,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "23e60446-324a-4a6a-ac75-d6d27d05a84d",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "722ee05f-6815-41b7-9813-5ec3902c1e9f": {
       "name": "Aberrant Researcher // Perfected Form",
@@ -527,7 +529,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "ae4fd9dc-5cf9-4f10-836a-8b7aaf8aca29",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "981b0e21-e5e6-4a1e-bfde-679d56623f7f": {
       "name": "Ad Nauseam",
@@ -3359,6 +3363,7 @@
       "label": "",
       "scryfallId": "458cb0db-6311-42eb-8e2b-b12895536a8a",
       "effects": [
+        "CardAdvantage",
         "ManaFixing"
       ]
     },
@@ -6169,7 +6174,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "0784336e-89ed-44ad-a9c4-58c5ee1fc01a",
-      "effects": []
+      "effects": [
+        "Ramp"
+      ]
     },
     "e7592863-4aee-47b3-9abf-4b863ab0b6ec": {
       "name": "Azorius Charm",
@@ -7749,7 +7756,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "4fdcd559-477f-48cb-a221-23a653b0dde1",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "6bc4a078-4d30-452d-9e33-ff09f943903e": {
       "name": "Belle of the Brawl",
@@ -10839,7 +10848,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "2cbd1e97-e156-4a28-b2fc-1454ddb2fe95",
-      "effects": []
+      "effects": [
+        "Ramp"
+      ]
     },
     "73c423b7-cab8-4e69-8070-9edbf96a6c2c": {
       "name": "Boros Guildgate",
@@ -11678,7 +11689,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "593409fd-26ef-463e-9101-ec5ad53dfd67",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "49471b65-be9d-4ded-b2e5-dfc81b306b54": {
       "name": "Brimaz, King of Oreskos",
@@ -14761,7 +14774,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "11c5033c-3f25-4b31-8f4b-784d8aaf6150",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "6f6b8e14-c247-4dfd-8b39-38c7a5f2f354": {
       "name": "Chandra, Fire of Kaladesh // Chandra, Roaring Flame",
@@ -14830,6 +14845,7 @@
       "label": "",
       "scryfallId": "0947a15a-957a-4858-8143-5fa3d286e6d9",
       "effects": [
+        "CardAdvantage",
         "Burn"
       ]
     },
@@ -14840,6 +14856,7 @@
       "scryfallId": "1913788b-36d3-4488-a744-71e52b1ecb5c",
       "effects": [
         "Removal",
+        "CardAdvantage",
         "Burn"
       ]
     },
@@ -16659,7 +16676,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "9a60eacf-55bb-4da1-b960-5b6efd55e0cc",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "7f7049e8-49ed-46da-89f7-1e40aefb3b0c": {
       "name": "Collective Blessing",
@@ -17007,7 +17026,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "051141cb-562a-42a5-984b-a83ee8baca51",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "d4ed4260-5f38-4b55-ba6e-9f54f04d2360": {
       "name": "Commune with Nature",
@@ -20708,6 +20729,7 @@
       "label": "",
       "scryfallId": "29c7df4b-fc79-4a6f-8f85-677331470e23",
       "effects": [
+        "CardAdvantage",
         "Sacrifice"
       ]
     },
@@ -23483,7 +23505,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "012b9371-45e0-4e06-ad7a-4c52d1d38262",
-      "effects": []
+      "effects": [
+        "Ramp"
+      ]
     },
     "4d99e786-585d-4026-9253-19741fb357de": {
       "name": "Dimir Charm",
@@ -27439,7 +27463,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "00372c7a-2e83-4a26-9642-0d092dfcf861",
-      "effects": []
+      "effects": [
+        "Ramp"
+      ]
     },
     "0f77c0c9-4dc4-489a-b547-e93287c4d1a5": {
       "name": "Eldritch Evolution",
@@ -29038,7 +29064,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "02c4b106-5838-49cc-97a5-f7a209348c77",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "ad8edfdf-6915-4fc2-9226-3aae95951935": {
       "name": "Epic Proportions",
@@ -29112,7 +29140,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "5c39fa19-ca75-49f4-8e1e-8b59bc9b664a",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "6a207599-188f-49fc-8932-1974fc716f0b": {
       "name": "Erdwal Ripper",
@@ -29199,7 +29229,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "1bff641e-aad3-414f-ad5b-8d32c734efa9",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "8bc17c50-f4c9-46dd-9294-3036ed46de91": {
       "name": "Escaped Null",
@@ -39157,7 +39189,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "104364d5-ede8-4ac5-900f-19947f51bbc1",
-      "effects": []
+      "effects": [
+        "Ramp"
+      ]
     },
     "75df9e6a-a17c-4311-a4e7-ff0d75728337": {
       "name": "Golgari Rotwurm",
@@ -39213,7 +39247,8 @@
       "label": "",
       "scryfallId": "1fa48620-4c3d-4f75-be1f-c12c4aa59f51",
       "effects": [
-        "Ramp"
+        "Ramp",
+        "CardAdvantage"
       ]
     },
     "0c82ae16-f995-4ac3-adb4-a5cc93a6e6f2": {
@@ -41074,7 +41109,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "104961dc-6684-474e-b126-4fcd95849f98",
-      "effects": []
+      "effects": [
+        "Ramp"
+      ]
     },
     "a9edb891-1a38-4b8a-8539-c459e8a52315": {
       "name": "Gruul War Chant",
@@ -41325,7 +41362,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "26a21ef8-e9c8-4a33-a08f-ff96f0ece8a5",
-      "effects": []
+      "effects": [
+        "Ramp"
+      ]
     },
     "ace6403d-9fac-4d0f-a6ea-eb2ff3da259d": {
       "name": "Guildmages' Forum",
@@ -43208,7 +43247,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "984a037b-63c0-497d-b3b1-15726ef11a60",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "d0b17b41-bf8e-4ffd-9301-8db745b01112": {
       "name": "Helldozer",
@@ -45854,7 +45895,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "272a9a89-6318-487a-b6f6-cc4ccd744f54",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "9edaadc9-6bbd-4727-9884-1c6b13c778bb": {
       "name": "Ignition Team",
@@ -47494,7 +47537,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "35517572-b5d4-4dbf-b090-4e4c4b040a0d",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "3018c0ef-876a-4254-9513-42f351e1da3e": {
       "name": "Intimidation Bolt",
@@ -47834,7 +47879,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "18f8ac7a-a68a-4adf-995f-1cd96ee3d295",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "4870ec65-8067-45fb-b7ec-a6eca87c7e77": {
       "name": "Ire of Kaminari",
@@ -48246,7 +48293,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "16e5c214-1896-4aa0-8d83-7cb0eeb5aad4",
-      "effects": []
+      "effects": [
+        "Ramp"
+      ]
     },
     "a07698f6-5ad5-49a3-9da2-f82d407f5cd7": {
       "name": "Izzet Charm",
@@ -48837,7 +48886,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "3308993d-8bfb-477a-887a-89ed35577f57",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "b1fbfcf3-6921-4417-a58e-0f5e5d34a105": {
       "name": "Jeska, Thrice Reborn",
@@ -52686,7 +52737,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "3502685d-4e57-4c5c-94c6-ae69048cdfbf",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "85d81888-8df7-4826-891e-a14fb8bf6549": {
       "name": "Kumano's Blessing",
@@ -54291,7 +54344,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "21775491-53e7-4654-8d23-54d0acd89299",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "4d6ad734-b8b5-4d91-9b7b-1fa0c55bfa4f": {
       "name": "Light from Within",
@@ -60332,7 +60387,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "de9211a8-3321-4987-bdb0-3882ef9ccd6c",
-      "effects": []
+      "effects": [
+        "Ramp"
+      ]
     },
     "b38adaac-3714-4348-9fec-cb2e2ad518b1": {
       "name": "Mishra, Artificer Prodigy",
@@ -62778,7 +62835,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "0eb00508-afc5-4c54-aa93-bce93583a8be",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "ab26fbe2-e808-48b9-8d0d-3fbb6c3d554f": {
       "name": "Narset, Parter of Veils",
@@ -64714,7 +64773,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "06d829a9-7403-41e6-b676-cc0997aac33d",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "d2f9a8a0-509b-4c24-a8cc-f27f77c9eefd": {
       "name": "Nivmagus Elemental",
@@ -66821,7 +66882,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "027e3eef-d121-4a72-9395-043f57b023c7",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "1b065a17-14a4-433f-a6c8-2c8212f505c7": {
       "name": "Oran-Rief Hydra",
@@ -67256,7 +67319,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "06837fb2-26bd-435f-8410-a5f12439c9e9",
-      "effects": []
+      "effects": [
+        "Ramp"
+      ]
     },
     "26f8626a-ce64-450c-bda5-833df2fbb4fb": {
       "name": "Orzhov Charm",
@@ -67505,6 +67570,7 @@
       "scryfallId": "057ec9ba-b104-40a6-ae84-0f5d63511de6",
       "effects": [
         "Removal",
+        "CardAdvantage",
         "Burn"
       ]
     },
@@ -71558,7 +71624,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "73326c79-f884-42d5-8546-3db46ce4fe52",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "134a9877-5cfb-4a2a-a0f0-930dce45f58b": {
       "name": "Prophetic Prism",
@@ -73381,7 +73449,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "0670934a-b240-4be6-aebc-483b1332ea84",
-      "effects": []
+      "effects": [
+        "Ramp"
+      ]
     },
     "5e62b51d-faec-4aa0-9504-cf2c282d08ea": {
       "name": "Rakdos Charm",
@@ -82174,7 +82244,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "02c63879-d0e2-4bb3-b0fe-52be077030df",
-      "effects": []
+      "effects": [
+        "Ramp"
+      ]
     },
     "29e8d973-0233-446e-b587-1c7508352642": {
       "name": "Selesnya Sentry",
@@ -84286,7 +84358,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "0467d06a-2218-4824-a89e-7fb4cc9e04eb",
-      "effects": []
+      "effects": [
+        "Ramp"
+      ]
     },
     "1be478ee-87f3-4265-94d7-08521703c888": {
       "name": "Shrivel",
@@ -85270,7 +85344,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "0e8f3aa0-c557-4cc7-9b5f-1d2288b5b11f",
-      "effects": []
+      "effects": [
+        "Ramp"
+      ]
     },
     "e8705df9-6439-4930-91b6-229f818559af": {
       "name": "Simic Guildgate",
@@ -85598,7 +85674,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "e58f0722-9ad1-4952-9aee-ea8137c58911",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "498707db-258f-423a-9ff6-9e294fce84d6": {
       "name": "Skaab Goliath",
@@ -91984,7 +92062,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "1fa6a443-b23b-48ae-97bb-8fd4deec52c4",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "5c5fbb54-f0e3-4afe-9158-ff9eadaa338d": {
       "name": "Stromkirk Patrol",
@@ -94046,6 +94126,7 @@
       "scryfallId": "080a249a-df47-4769-bb63-0d8ab3f2467c",
       "effects": [
         "Removal",
+        "CardAdvantage",
         "Burn"
       ]
     },
@@ -102593,6 +102674,7 @@
       "scryfallId": "0f4d3cec-bd91-4edd-9b6b-568e272e7891",
       "effects": [
         "Removal",
+        "CardAdvantage",
         "Burn"
       ]
     },

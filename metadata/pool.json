@@ -1061,7 +1061,9 @@
       "rating": 4,
       "label": "",
       "scryfallId": "045d1a10-dfc4-4b1a-a9f4-424d7ea0d216",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "4f452ce7-1166-4810-afed-ea5e156a6f52": {
       "name": "Aurelia's Vindicator",
@@ -2184,7 +2186,8 @@
       "label": "",
       "scryfallId": "07054edd-0dff-4342-8ab9-d600417a329c",
       "effects": [
-        "Tokens"
+        "Tokens",
+        "CardAdvantage"
       ]
     },
     "452e3f5f-ce17-4682-966b-5cc100210aee": {
@@ -2390,7 +2393,8 @@
       "label": "",
       "scryfallId": "3389f9d7-b8ae-4c51-90f9-b6385517914a",
       "effects": [
-        "Disenchant"
+        "Disenchant",
+        "CardAdvantage"
       ]
     },
     "a11d8372-87fb-40a2-b638-314c6a5af03b": {
@@ -2443,7 +2447,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "480d639d-871d-4da3-9ae1-41bd5cef81db",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "d11e627b-8a48-411d-a261-2c9a02a758ba": {
       "name": "Breena, the Demagogue",
@@ -2461,6 +2467,7 @@
       "scryfallId": "3257715a-5232-4352-b984-e5a8483a3816",
       "effects": [
         "Tokens",
+        "CardAdvantage",
         "Buff",
         "Sacrifice"
       ]
@@ -3167,6 +3174,7 @@
       "scryfallId": "26af398b-ee8b-47b1-ad5a-c1a00d12f871",
       "effects": [
         "Removal",
+        "CardAdvantage",
         "Burn"
       ]
     },
@@ -3185,7 +3193,9 @@
       "rating": 4,
       "label": "",
       "scryfallId": "19ce55bf-007d-4c13-90ac-29f0b21b66b1",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "d1b815d1-2848-40d4-a555-66822d1becbc": {
       "name": "Channel",
@@ -3453,7 +3463,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "e793fae6-ca9a-49e7-b90d-fe7e9c72de0d",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "1999b5ac-21fb-4d99-ad72-58bf507f9a59": {
       "name": "Cliffgate",
@@ -3481,7 +3493,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "10986e5a-9fc6-41e2-8352-289328245171",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "42226b87-0746-4ebf-9fd0-108d508462af": {
       "name": "Clone",
@@ -3625,7 +3639,9 @@
       "rating": 4,
       "label": "",
       "scryfallId": "63259e39-7267-465e-8600-9104c34bfcba",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "b33656ae-3473-4223-845f-f9147f87678b": {
       "name": "Commercial District",
@@ -5297,6 +5313,7 @@
       "label": "",
       "scryfallId": "27334b29-83c2-4414-9dcd-b0c7127ebada",
       "effects": [
+        "CardAdvantage",
         "Burn"
       ]
     },
@@ -5874,7 +5891,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "0035082e-bb86-4f95-be48-ffc87fe5286d",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "9904873c-7669-4485-b380-f28ff529b45c": {
       "name": "Embolden",
@@ -6340,7 +6359,8 @@
       "label": "",
       "scryfallId": "3638828e-66f7-42e9-ba61-0ba06bce7a59",
       "effects": [
-        "Tokens"
+        "Tokens",
+        "CardAdvantage"
       ]
     },
     "b23dc81d-01bb-4bf0-9932-5d32a6b22cf7": {
@@ -7140,7 +7160,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "be91fcba-4599-4ecb-824d-55112096c34a",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "de6ebf55-f1df-4c3c-bba5-8655b7daf488": {
       "name": "Flame Spill",
@@ -8985,6 +9007,7 @@
       "scryfallId": "3981fc94-efb5-4256-8adb-4538515a085c",
       "effects": [
         "Removal",
+        "CardAdvantage",
         "Filter",
         "Sacrifice"
       ]
@@ -9226,7 +9249,9 @@
       "rating": 4,
       "label": "",
       "scryfallId": "3cac2eb9-e4e7-468b-88a7-299aa3b43aff",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "9f2e7533-cfc1-4dd8-a9b8-09cdc712ef2f": {
       "name": "Hulking Raptor",
@@ -9788,7 +9813,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "0548ddb6-5301-4911-93fd-bb988275f44a",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "121bd1af-da21-4937-a911-377c5b430796": {
       "name": "Intimidation Tactics",
@@ -10425,7 +10452,9 @@
       "rating": 4,
       "label": "",
       "scryfallId": "0e413f37-b59a-4302-86d3-2abce81edc78",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "10c48d19-d91f-4674-b186-477acaf08e5a": {
       "name": "Kellan, the Fae-Blooded // Birthright Boon",
@@ -10775,7 +10804,9 @@
       "rating": 4,
       "label": "",
       "scryfallId": "00760b58-8a7d-44fa-a5e7-9df54c21c77d",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "6a98b586-5187-48a1-bde3-f6141f3e9cb1": {
       "name": "Lagrella, the Magpie",
@@ -14716,7 +14747,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "05bf07aa-1dda-4628-8a4b-c40d13145a49",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "9df2e909-ed13-456a-9636-7398732009a9": {
       "name": "Professor Onyx",
@@ -15525,6 +15558,7 @@
       "scryfallId": "59cb9275-07f2-46b1-a64b-2971390a35de",
       "effects": [
         "Tokens",
+        "CardAdvantage",
         "Sacrifice"
       ]
     },
@@ -19498,6 +19532,7 @@
       "label": "",
       "scryfallId": "2daa3621-8a2c-4b4b-87ac-f981192a0567",
       "effects": [
+        "CardAdvantage",
         "Buff"
       ]
     },
@@ -19583,6 +19618,7 @@
       "scryfallId": "084d641b-7740-471f-bf93-671858ea720f",
       "effects": [
         "Removal",
+        "CardAdvantage",
         "Burn"
       ]
     },
@@ -19869,6 +19905,7 @@
       "label": "",
       "scryfallId": "4134a2aa-623c-49fc-bd87-26b861860ad5",
       "effects": [
+        "CardAdvantage",
         "Burn"
       ]
     },
@@ -20275,7 +20312,8 @@
       "label": "",
       "scryfallId": "026611f8-ae07-464f-afe5-6e94bcfac05e",
       "effects": [
-        "Removal"
+        "Removal",
+        "CardAdvantage"
       ]
     },
     "02a45719-ee4a-49c4-96ec-a140cd6e1547": {
@@ -23136,7 +23174,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "091748a0-6a01-40cb-9ab8-015aa8235d3c",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "7579f57d-c76e-4703-a030-34fb7160cb23": {
       "name": "Wolfwillow Haven",
