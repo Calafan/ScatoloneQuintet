@@ -1896,6 +1896,7 @@
       "label": "",
       "scryfallId": "5d5aae6e-fe20-4363-9589-5a54bcbbb77e",
       "effects": [
+        "Protection",
         "Pacify"
       ],
       "reviewedAt": "2026-09-04T14:57:57.242918+00:00"
@@ -1947,6 +1948,7 @@
       "label": "",
       "scryfallId": "9cf393a3-831e-4d3a-8404-ee83f60970aa",
       "effects": [
+        "Protection",
         "Pacify"
       ]
     },
@@ -2863,7 +2865,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "3fc1716d-5817-49f4-a9db-c162e6ceacbf",
-      "effects": [],
+      "effects": [
+        "Protection"
+      ],
       "reviewedAt": "2026-09-04T15:06:03.0546863+00:00"
     },
     "a06f8476-0a23-413a-bc28-8dc2427fdc2a": {
@@ -4753,7 +4757,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "5f604338-5ee4-4c47-ad5a-5c805c96c8de",
-      "effects": [],
+      "effects": [
+        "Protection"
+      ],
       "reviewedAt": "2026-09-04T14:50:52.063823+00:00"
     },
     "c45090bd-a589-45a0-8388-025b8e0b3487": {
@@ -5860,7 +5866,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "90500e7a-f76d-453a-bda0-d56d3f7c7534",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "9aacc1ce-8d0d-4a24-9a15-74635f2f127d": {
       "name": "Athreos, Shroud-Veiled",
@@ -6584,7 +6592,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "8a2fa0a3-e40f-49e4-a4fd-427e7e808afd",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "09c450cf-5f22-45c2-86ed-21b85552a96f": {
       "name": "Aven Shrine",
@@ -7439,7 +7449,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "79ed559a-9a88-43d2-85d1-4bbec038f71e",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "c99e4768-192c-49bf-8f51-c204a2248326": {
       "name": "Bane of the Living",
@@ -8399,7 +8411,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "9c444503-42a8-4952-819b-bbca89b06abc",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "2836c144-7268-411a-b651-351cc4ef8fe9": {
       "name": "Battlefield Percher",
@@ -11263,7 +11277,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "1f46aea3-ea00-46c4-b207-522ceeeae68b",
-      "effects": [],
+      "effects": [
+        "Protection"
+      ],
       "reviewedAt": "2026-09-08T06:44:17.7708766+00:00"
     },
     "6de38910-8d0d-4fac-b9db-c80ffd1850ea": {
@@ -16788,7 +16804,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "42c9d49d-61eb-4f33-b06b-03bdd990efd0",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "3db407ec-da4b-4b25-b613-e45c164ffe86": {
       "name": "Cho-Arrim Bruiser",
@@ -17290,7 +17308,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "07f567dc-8a60-40e1-b947-199872d8df08",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "b6cc351e-6afd-4427-998d-e06e430cd0e6": {
       "name": "Circle of the Land Druid",
@@ -18791,7 +18811,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "2a324a98-31c2-470a-b792-96b6b098a58c",
-      "effects": [],
+      "effects": [
+        "Protection"
+      ],
       "reviewedAt": "2026-09-04T14:58:00.2430593+00:00"
     },
     "1b59665f-23c7-4df9-8e71-f9b1a419063b": {
@@ -19369,6 +19391,7 @@
       "label": "",
       "scryfallId": "0a5453f5-065b-4134-b6f5-2f1cf460a9ac",
       "effects": [
+        "Protection",
         "Pacify"
       ],
       "reviewedAt": "2026-09-04T13:23:13.8977524+00:00"
@@ -21402,7 +21425,8 @@
       "label": "",
       "scryfallId": "5f51c853-949d-44e9-a3a2-02e1ce69a147",
       "effects": [
-        "Buff"
+        "Buff",
+        "Protection"
       ],
       "reviewedAt": "2026-09-11T19:49:40.0842165+00:00"
     },
@@ -22784,7 +22808,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "0e4f3eff-ac99-41e2-9003-9630cdb3ae23",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "21edfe1a-2c53-44b3-b0d1-3dba8fb3346d": {
       "name": "Daru Lancer",
@@ -23886,7 +23912,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "4216c5aa-9df0-4e7c-b3e9-a3f712b17ce7",
-      "effects": [],
+      "effects": [
+        "Protection"
+      ],
       "reviewedAt": "2026-09-08T10:31:03.122502+00:00"
     },
     "7fbb98cc-585c-4184-97f5-9b3d3ebdb1e5": {
@@ -24016,7 +24044,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "e7b224b7-d5f7-4515-beca-523f305ee3b8",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "e5f04e8a-e9ae-4f00-8ada-f63b3454ed30": {
       "name": "Defender of Chaos",
@@ -29401,7 +29431,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "42a74545-75c8-4a6b-bee1-ac5665d9bcf0",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "a3e4d14b-818a-4a4b-8462-1de9ad844941": {
       "name": "Eerie Soultender",
@@ -34861,7 +34893,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "bb830403-0832-47f7-b4b4-4f241f1b9112",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "29423b70-7cb7-4617-898c-78a38eb233ad": {
       "name": "Field Trip",
@@ -36498,7 +36532,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "c241fd76-f52d-48fc-864c-57caffa700f6",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "81f44bac-d28c-4dc1-922c-f4ebda817276": {
       "name": "Flowstone Armor",
@@ -41074,14 +41110,18 @@
       "rating": 1,
       "label": "",
       "scryfallId": "ab4be296-33a6-46b1-9748-5b0d335f40ee",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "890ffe31-642f-46e3-9f09-c744351653b5": {
       "name": "Glittering Lynx",
       "rating": 1,
       "label": "",
       "scryfallId": "a3f26c7e-c525-4191-a542-b81343ae95bb",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "feaf9dcb-d845-4cf9-b35d-cd58175162e7": {
       "name": "Glittering Stockpile",
@@ -41812,6 +41852,7 @@
       "scryfallId": "88989f2f-3019-41ec-9dac-3b389f0ce1e4",
       "effects": [
         "Removal",
+        "Protection",
         "Burn"
       ]
     },
@@ -44687,7 +44728,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "254d5bf0-f985-4919-a142-d4578ae9a38e",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "2d72454f-3d87-4acc-9f46-b8c579f44af8": {
       "name": "Hallowed Respite",
@@ -45869,7 +45912,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "3932b9a6-1e55-4651-a740-920c4177c435",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "fe71ada0-ac86-4035-9b6b-4c24ae65034c": {
       "name": "Heavyweight Demolisher",
@@ -48527,7 +48572,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "3467c940-dae4-4667-bec8-524dbce13283",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "c1261a72-ccbd-4be9-bc3b-c1bcb807eb85": {
       "name": "Hyrax Tower Scout",
@@ -54464,7 +54511,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "3c2fa512-3665-460a-bfbf-35a5cabdfd8f",
-      "effects": [],
+      "effects": [
+        "Protection"
+      ],
       "reviewedAt": "2026-09-04T14:36:29.2779899+00:00"
     },
     "d32f973e-38db-4f74-aec6-258d25c1fb7d": {
@@ -61869,6 +61918,7 @@
       "label": "",
       "scryfallId": "4c1f026b-8c7f-4051-9922-5684a6b2c06b",
       "effects": [
+        "Protection",
         "Sacrifice"
       ]
     },
@@ -61903,7 +61953,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "a906a775-7c2d-47b7-a20e-a325dd28d0bd",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "4ba37a9e-6b80-4099-bd79-736123d0554b": {
       "name": "Marut",
@@ -62113,7 +62165,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "f9ff6624-ed0e-43d0-9519-112979b165f5",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "9eab87ff-82a0-4655-b6ea-00b27e882449": {
       "name": "Master Chef",
@@ -62137,7 +62191,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "5e5be6df-f35e-4696-a08e-fd725ee9b13c",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "b1727c07-c829-4d64-a1c5-8b53c743888a": {
       "name": "Master Pakku",
@@ -63639,7 +63695,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "886a3cfd-7f83-480a-bb22-eec67ad35e4f",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "c910c1c0-2b78-4e0f-bb55-e0581b2e07e8": {
       "name": "Military Discipline",
@@ -67797,6 +67855,7 @@
       "scryfallId": "ae7a771f-bd21-4388-857f-08160b24e26e",
       "effects": [
         "Ramp",
+        "Protection",
         "ManaFixing"
       ]
     },
@@ -69671,7 +69730,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "1d51a6de-7bb4-4e3d-82a7-a298c8d742ef",
-      "effects": [],
+      "effects": [
+        "Protection"
+      ],
       "reviewedAt": "2026-09-02T20:13:50.1953404+00:00"
     },
     "210a130c-d5d3-43bf-8a80-d796c37242e8": {
@@ -71127,7 +71188,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "754ae359-363b-456a-bbca-52fbfbaa86b8",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "f387b1c6-25a6-4fff-90d3-fff027b247a5": {
       "name": "Orim's Prayer",
@@ -71142,7 +71205,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "559f551e-7891-4c6d-8798-a25c0255fa3b",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "9d405e5b-0cee-4c8f-b3ef-65765853b8a4": {
       "name": "Orim, Samite Healer",
@@ -72063,7 +72128,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "89414770-2a19-4baf-9b18-76104b7b0b9a",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "073551ca-2e84-4d49-8484-9890718cc483": {
       "name": "Pandemonium",
@@ -72761,7 +72828,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "0b30ddd8-5898-4189-a109-807a09d21584",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "91ddd2bd-2dec-4670-8edb-e89c009b2187": {
       "name": "Pearl of Wisdom",
@@ -72984,7 +73053,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "705b0bdf-c59b-4962-aee2-c6ffb295b582",
-      "effects": [],
+      "effects": [
+        "Protection"
+      ],
       "reviewedAt": "2026-09-05T10:32:16.8802804+00:00"
     },
     "1c0d4f28-2494-45b0-acb8-921fee602c01": {
@@ -76392,7 +76463,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "ef5ef13e-1cf0-42a9-95d0-30ade254d6a8",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "cf6bb391-4fde-43c4-a0c5-990630d0ddcf": {
       "name": "Protector of Gondor",
@@ -78301,7 +78374,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "41462d43-4f9f-46ba-b79d-434597e74b6b",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "0b085c90-95df-4823-ba67-9eb398b1ec94": {
       "name": "Raka Sanctuary",
@@ -79979,7 +80054,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "a5945397-0906-48dd-80d1-c65bfa2b31a6",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "8cef3ce7-8fbc-4e68-93f9-d6adfc2c2cbf": {
       "name": "Recycle",
@@ -81020,7 +81097,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "22dde654-5bde-47f9-8e90-4f38dddc07b3",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "112aaaf0-3301-4f79-9640-d36c75a0fb30": {
       "name": "Rescue Skiff",
@@ -81707,7 +81786,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "4a76711e-b508-4bb7-a87c-911a11905af3",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "d59cfff9-2bce-439a-9456-ae68eabbf67d": {
       "name": "Rhystic Deluge",
@@ -84143,7 +84224,8 @@
       "label": "",
       "scryfallId": "e18cce33-92be-4189-9f99-cb47bd617fd2",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Protection"
       ]
     },
     "b027302f-80c2-441d-a9fd-bbe64bf5cf8a": {
@@ -84152,7 +84234,8 @@
       "label": "",
       "scryfallId": "3f69050b-c54d-43f2-8348-2801c365dc4c",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Protection"
       ]
     },
     "092dd5be-da62-4198-b7fa-0813f075047c": {
@@ -84161,7 +84244,8 @@
       "label": "",
       "scryfallId": "85f4ed3a-1851-49b1-baac-fdc8c00b6b71",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Protection"
       ]
     },
     "c7fca3f3-b48e-4ac5-be31-ce7ae3c7432c": {
@@ -84170,7 +84254,8 @@
       "label": "",
       "scryfallId": "905712b2-3177-4935-bca1-6990439b8d78",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Protection"
       ]
     },
     "605dd1b5-8946-4bd0-b31b-e99bf63a1bc4": {
@@ -84179,7 +84264,8 @@
       "label": "",
       "scryfallId": "0cd19cde-560a-43a2-864d-3269628d1c6f",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Protection"
       ]
     },
     "9b3f6b29-675a-4153-9582-03318851b20e": {
@@ -84188,7 +84274,8 @@
       "label": "",
       "scryfallId": "2916023b-cf67-443f-9ac7-f03313f9d3b7",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Protection"
       ]
     },
     "6f214a42-e38f-4923-8afc-832efdde7975": {
@@ -84197,7 +84284,8 @@
       "label": "",
       "scryfallId": "6408417e-aca3-43f3-9eea-fed5a402d8ab",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Protection"
       ]
     },
     "94d57b98-0f96-43c6-bf04-441339c89063": {
@@ -85093,6 +85181,7 @@
       "scryfallId": "07a262d7-6d0c-43d0-89b6-9f46a1a9eb69",
       "effects": [
         "Removal",
+        "Protection",
         "Burn"
       ]
     },
@@ -85127,21 +85216,27 @@
       "rating": 1,
       "label": "",
       "scryfallId": "b1de62ed-79e6-4daf-a2ab-dc0726e1f7df",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "542c5eaf-8b03-4406-a794-30c56b61d637": {
       "name": "Samite Pilgrim",
       "rating": 1,
       "label": "",
       "scryfallId": "c12529e4-f4b1-45be-8252-28783badbec5",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "9e6e1ea6-4682-4056-b70e-fe45d0c9fdee": {
       "name": "Samite Sanctuary",
       "rating": 1,
       "label": "",
       "scryfallId": "022ebeba-b61a-497a-a698-e75b130c468c",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "566b65bb-fa5d-4da6-a766-b08128ee0049": {
       "name": "Sample Collector",
@@ -85260,14 +85355,18 @@
       "rating": 1,
       "label": "",
       "scryfallId": "27a64b98-9002-48fe-a3e5-4449050c87e1",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "eb7fe094-2237-40c8-b831-93498c93b768": {
       "name": "Sanctum Guardian",
       "rating": 1,
       "label": "",
       "scryfallId": "0ab759df-5120-45a9-897e-4729fcbf6eb9",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "acfe7ec0-0606-4d5e-b1fa-25f0c7aeec47": {
       "name": "Sanctum Weaver",
@@ -86327,6 +86426,7 @@
       "label": "",
       "scryfallId": "4b0dcd50-7403-48e5-b928-5d35d7304f51",
       "effects": [
+        "Protection",
         "Pacify"
       ],
       "reviewedAt": "2026-09-04T15:00:10.4758001+00:00"
@@ -89679,7 +89779,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "7411ab40-47f6-44d1-8e33-9ff5301dcd9b",
-      "effects": [],
+      "effects": [
+        "Protection"
+      ],
       "reviewedAt": "2026-09-05T08:07:54.9490502+00:00"
     },
     "4976f08c-6f8e-42e4-9584-f04793518ddb": {
@@ -89696,7 +89798,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "2ea66a41-cb2e-49d6-81fe-3f69b0dfd40e",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "943bbe5b-76cd-478d-a1fe-d4e557df3469": {
       "name": "Shieldmage Elder",
@@ -96446,7 +96550,8 @@
       "label": "",
       "scryfallId": "6c9c00a1-8c24-4f35-aac9-00304687ee2b",
       "effects": [
-        "Bounce"
+        "Bounce",
+        "Protection"
       ]
     },
     "5a05ee6e-1812-4792-ad00-6df8fa4fd85f": {
@@ -97925,7 +98030,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "33cebcd2-4199-425a-adfc-059f842259e4",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "fd7abcee-d4d3-4cf6-8385-c6ad7ac218e4": {
       "name": "Story Seeker",
@@ -99009,7 +99116,8 @@
       "label": "",
       "scryfallId": "0d563ebb-ecd1-406c-9d69-c101acdeced7",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Protection"
       ]
     },
     "d2da26d6-b0f7-4af0-9ce8-fb8d82fe2d85": {
@@ -100530,7 +100638,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "69198458-ecf0-461b-a5c5-a46f00dd02ba",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "279f3aa5-5807-4797-8cd1-e009984a3691": {
       "name": "Take the Fall",
@@ -101704,7 +101814,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "e4bff910-24ab-45a0-b014-30bef6263c38",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "07b0b2ad-4364-4a8d-94d5-8bf984b23d05": {
       "name": "Temperamental Oozewagg",
@@ -104643,7 +104755,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "547b1405-3f4e-4c47-8600-3e92197b1dd7",
-      "effects": [],
+      "effects": [
+        "Protection"
+      ],
       "reviewedAt": "2026-09-08T07:21:53.5174225+00:00"
     },
     "9deded8b-cec4-4ede-a50b-131404d456d4": {
@@ -107644,7 +107758,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "73c6f5c0-686d-4b3a-add7-487f9fff5faa",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "68a6fd00-9cb0-4518-97aa-b7f475da58c1": {
       "name": "Treefolk Mystic",
@@ -108154,7 +108270,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "54407ba7-6671-42a9-acbe-8a1104c7166c",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "16cdba97-73cf-44ba-9d64-f27009b829f8": {
       "name": "Troublemaker Ouphe",

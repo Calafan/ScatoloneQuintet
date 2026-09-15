@@ -8537,7 +8537,8 @@
       "label": "",
       "scryfallId": "18da890e-0f8d-41e9-a29f-24cb5393c464",
       "effects": [
-        "Disenchant"
+        "Disenchant",
+        "Protection"
       ]
     },
     "8e04a5e0-e22c-430b-a39a-c9f38e16ea86": {
@@ -9622,7 +9623,8 @@
       "label": "",
       "scryfallId": "3362ade8-d585-40be-8486-382cad6efaf8",
       "effects": [
-        "Tokens"
+        "Tokens",
+        "Protection"
       ]
     },
     "915b75d1-b5e3-4aca-a54c-beaccef0a2e4": {
