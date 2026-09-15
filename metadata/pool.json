@@ -350,7 +350,8 @@
       "label": "",
       "scryfallId": "047f196b-a9d1-4cd3-b665-3b304cc59767",
       "effects": [
-        "Tokens"
+        "Tokens",
+        "Removal"
       ]
     },
     "ae19dce5-c9fc-4fbe-99b5-dc6a12124a68": {
@@ -1037,6 +1038,7 @@
       "label": "",
       "scryfallId": "69955c8d-f6cd-48e5-a066-3743b462fc1d",
       "effects": [
+        "Removal",
         "Disenchant"
       ]
     },
@@ -1693,7 +1695,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "0eacd3de-b803-4322-8d88-d533761aa748",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "5c22447b-7a7f-4a27-8d3b-1bb664ea94c3": {
       "name": "Biting-Palm Ninja",
@@ -2170,6 +2174,7 @@
       "label": "",
       "scryfallId": "0fb5d4ce-516e-43fd-9de0-30f8517f7220",
       "effects": [
+        "Removal",
         "Disenchant"
       ]
     },
@@ -2522,6 +2527,7 @@
       "label": "",
       "scryfallId": "30c9aef3-cf9c-4903-80d2-941b639c33bb",
       "effects": [
+        "Removal",
         "Sacrifice"
       ]
     },
@@ -2541,6 +2547,7 @@
       "label": "",
       "scryfallId": "055d6cad-5373-49db-94f9-eaf7903d5a56",
       "effects": [
+        "Removal",
         "Disenchant"
       ]
     },
@@ -3134,7 +3141,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "874afaad-546a-4cb2-ad01-2b4a4862b219",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "0a427652-9745-4802-8c8f-5ae29a29b496": {
       "name": "Champion of Dusan",
@@ -3913,7 +3922,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "b8eef541-6851-4312-ad2b-74f45c7ede6c",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "cddccc2a-a76e-48b3-b4dd-dfeab89e1619": {
       "name": "Cosmic Intervention",
@@ -4561,6 +4572,7 @@
       "label": "",
       "scryfallId": "18445778-6176-40f6-a396-05e85579e85e",
       "effects": [
+        "Removal",
         "Disenchant"
       ]
     },
@@ -6065,6 +6077,7 @@
       "label": "",
       "scryfallId": "2c46a2ca-27fd-44d4-80d0-7c83ed0a564e",
       "effects": [
+        "Removal",
         "Counter"
       ]
     },
@@ -7040,7 +7053,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "ca657846-f352-4ac4-b2b3-d0ced6607163",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "9dd7f27a-e862-47d7-9158-034cf4d353b8": {
       "name": "Fireblast",
@@ -7170,7 +7185,9 @@
       "rating": 4,
       "label": "",
       "scryfallId": "33ab05b5-d6f5-439c-9aed-1a58ceb282ad",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "1766f1f4-0924-4436-8379-94030adcccc5": {
       "name": "Flare of Cultivation",
@@ -8296,6 +8313,7 @@
       "label": "",
       "scryfallId": "570fa211-e937-4ad7-bc72-60f8adc3203d",
       "effects": [
+        "Removal",
         "Steal"
       ]
     },
@@ -8810,7 +8828,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "13406fc3-4061-46b4-8738-09494c85550f",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "3ca07da2-29a1-40ce-a7f3-4838e95ca1d9": {
       "name": "Heartflame Duelist // Heartflame Slash",
@@ -8964,6 +8984,7 @@
       "label": "",
       "scryfallId": "3981fc94-efb5-4256-8adb-4538515a085c",
       "effects": [
+        "Removal",
         "Filter",
         "Sacrifice"
       ]
@@ -9165,7 +9186,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "cfa6ed13-7bba-40c0-8e0e-4ffd3cea6241",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "bf89bd6d-aa6c-4fd8-9278-151529ab0e62": {
       "name": "Hourglass of the Lost",
@@ -9936,7 +9959,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "44f2aa6b-a092-4348-a24f-5edf46544eb7",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "d847542b-7522-43ec-91b0-f0aba5d7dddd": {
       "name": "Ivora, Insatiable Heir",
@@ -10357,7 +10382,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "75240bbc-adc7-48ff-9523-c79776d710d3",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "46ce3698-e4e6-44e9-8b99-2b12a703e91e": {
       "name": "Keen-Eyed Curator",
@@ -11570,6 +11597,7 @@
       "label": "",
       "scryfallId": "05fa34df-99b0-4121-b2f1-d41afe97b200",
       "effects": [
+        "Removal",
         "Disenchant"
       ]
     },
@@ -11795,7 +11823,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "7d42ca7c-5b36-45a9-b235-4f90e66f4377",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "16182e01-22ff-4786-985d-919b47c4aa4d": {
       "name": "Matzalantli, the Great Door // The Core",
@@ -11998,6 +12028,7 @@
       "label": "",
       "scryfallId": "1845d858-07d0-4c74-a475-7950ad1c0d64",
       "effects": [
+        "Removal",
         "Reanimate"
       ]
     },
@@ -12823,6 +12854,7 @@
       "label": "",
       "scryfallId": "4129cb0d-eefe-4971-9db8-1196201ef353",
       "effects": [
+        "Removal",
         "Mill"
       ]
     },
@@ -13544,6 +13576,7 @@
       "label": "",
       "scryfallId": "05aa0e83-5d84-43b1-b742-8db05c28cd4c",
       "effects": [
+        "Removal",
         "Disenchant"
       ]
     },
@@ -14101,7 +14134,8 @@
       "label": "",
       "scryfallId": "64513f0a-067d-4b70-bb23-9ebe606bda1a",
       "effects": [
-        "Tokens"
+        "Tokens",
+        "Removal"
       ]
     },
     "32c84176-cf11-4010-b1cc-ed570a8c3e54": {
@@ -14526,7 +14560,9 @@
       "rating": 4,
       "label": "",
       "scryfallId": "36c71043-1c11-4377-ab33-41d19927143a",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "4505ff9f-97f1-45d1-aea9-5590fefb4a4d": {
       "name": "Prayer of Binding",
@@ -14886,7 +14922,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "a523d5a7-58b1-45a3-81a7-078da02fda16",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "bbea79bc-71d4-4100-92f4-783c2c4b46da": {
       "name": "Qarsi Revenant",
@@ -14989,6 +15027,7 @@
       "label": "",
       "scryfallId": "2f815bae-820a-49f6-8eed-46f658e7b6ff",
       "effects": [
+        "Removal",
         "Buff"
       ]
     },
@@ -15151,7 +15190,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "44063a90-e4cf-4bcd-a128-792de15371a7",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "a3b8690e-ac47-444f-924e-ab2a12a85431": {
       "name": "Ramirez DePietro, Pillager",
@@ -17518,7 +17559,9 @@
       "rating": 5,
       "label": "",
       "scryfallId": "0d4c4b20-8cab-43fe-9f77-dd35eaf56e57",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "e2962883-6daf-4a84-af73-917afc73092c": {
       "name": "Shorikai, Genesis Engine",
@@ -17536,6 +17579,7 @@
       "label": "",
       "scryfallId": "92cd3884-18d1-4200-b28e-a52349ef37aa",
       "effects": [
+        "Removal",
         "Disenchant",
         "Filter"
       ]
@@ -17606,7 +17650,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "105e4824-306a-46d2-a1f4-d19a4302cc58",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "6aea681e-88d2-48df-a717-3ce0bc95205b": {
       "name": "Silent Hallcreeper",
@@ -17702,7 +17748,9 @@
       "rating": 4,
       "label": "",
       "scryfallId": "22512ace-0699-4756-b6ba-e899eb88d7b8",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "ae8003eb-9f19-4f23-be3b-0ac3ddc03a72": {
       "name": "Sinister Monolith",
@@ -18167,6 +18215,7 @@
       "label": "",
       "scryfallId": "0347bf13-1ccb-4d4d-a5f2-68181d494b85",
       "effects": [
+        "Removal",
         "Steal"
       ]
     },
@@ -18358,7 +18407,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "b9fd720b-e9c2-4e82-917e-bab6c544afb0",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "845472ca-3fcb-4bcd-953c-96eb8d914af9": {
       "name": "Spider-Byte, Web Warden",
@@ -19456,6 +19507,7 @@
       "label": "",
       "scryfallId": "06651379-7f21-49a1-8bff-adbe57296d46",
       "effects": [
+        "Removal",
         "Buff"
       ]
     },
@@ -19979,7 +20031,9 @@
       "rating": 4,
       "label": "",
       "scryfallId": "06728070-b888-4a57-9248-2a9615a4cda0",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "9918eb7b-054e-4b1c-afc7-1163ab642d50": {
       "name": "Tersa Lightshatter",
@@ -20034,7 +20088,9 @@
       "rating": 4,
       "label": "",
       "scryfallId": "2a3fcfdc-f2cf-42d8-8bb4-7308bc12746e",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "de12ca82-4824-4975-9a31-309a6d9101a7": {
       "name": "The Balrog, Flame of Udûn",
@@ -23583,7 +23639,9 @@
       "rating": 4,
       "label": "",
       "scryfallId": "5f48930a-d7bd-410b-995a-4e2837aabb25",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "b2d95950-18b3-463f-94f4-299e420751dc": {
       "name": "Éomer, Marshal of Rohan",
