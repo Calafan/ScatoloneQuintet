@@ -1758,6 +1758,7 @@
       "label": "",
       "scryfallId": "0dd827a8-873d-4cbc-a633-905efb175292",
       "effects": [
+        "Removal",
         "Reanimate"
       ]
     },
@@ -2017,7 +2018,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "01182501-2b50-4b87-835a-fea3c5e6e330",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "7292272d-6511-466b-aadd-c4fe7ed8df09": {
       "name": "Bloodvial Purveyor",
@@ -2393,8 +2396,7 @@
       "label": "",
       "scryfallId": "3389f9d7-b8ae-4c51-90f9-b6385517914a",
       "effects": [
-        "Disenchant",
-        "CardAdvantage"
+        "Disenchant"
       ]
     },
     "a11d8372-87fb-40a2-b638-314c6a5af03b": {
@@ -2841,6 +2843,7 @@
       "label": "",
       "scryfallId": "190d97bc-dbef-496d-9bd1-b785bdf8a964",
       "effects": [
+        "Removal",
         "Sacrifice"
       ]
     },
@@ -3493,9 +3496,7 @@
       "rating": 3,
       "label": "",
       "scryfallId": "10986e5a-9fc6-41e2-8352-289328245171",
-      "effects": [
-        "CardAdvantage"
-      ]
+      "effects": []
     },
     "42226b87-0746-4ebf-9fd0-108d508462af": {
       "name": "Clone",
@@ -3639,9 +3640,7 @@
       "rating": 4,
       "label": "",
       "scryfallId": "63259e39-7267-465e-8600-9104c34bfcba",
-      "effects": [
-        "CardAdvantage"
-      ]
+      "effects": []
     },
     "b33656ae-3473-4223-845f-f9147f87678b": {
       "name": "Commercial District",
@@ -6062,7 +6061,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "4f5bf3dc-271f-4657-933d-708ae4214eda",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "d48a38c9-3dcd-4c18-8840-1b057ede3ff0": {
       "name": "Erhnam Djinn",
@@ -8618,7 +8619,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "5cb01d4d-91c2-41c6-981e-b4135a1e1e36",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "60e7130a-d321-4e50-93a4-999013c76054": {
       "name": "Gut, True Soul Zealot",
@@ -11155,6 +11158,7 @@
       "label": "",
       "scryfallId": "80d54beb-b6a7-45bc-b44a-689d195f758a",
       "effects": [
+        "Removal",
         "Discard",
         "Reanimate"
       ]
@@ -14098,7 +14102,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "0a25d478-84fd-4e4b-abb7-f5f6becf6eb0",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "1b704798-0c69-4c18-ac7e-42933ce90028": {
       "name": "Pest Infestation",
@@ -18639,7 +18645,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "6859a5ba-1c1c-4631-bba8-f9900b827178",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "0c4e2c90-c17b-42cc-b4d7-cf75970fbe90": {
       "name": "Staff of the Storyteller",
@@ -20312,8 +20320,7 @@
       "label": "",
       "scryfallId": "026611f8-ae07-464f-afe5-6e94bcfac05e",
       "effects": [
-        "Removal",
-        "CardAdvantage"
+        "Removal"
       ]
     },
     "02a45719-ee4a-49c4-96ec-a140cd6e1547": {
@@ -21167,7 +21174,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "affc1d27-55f6-46e9-a67c-f15b6832813d",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "d38646dc-d1ea-473c-aaf1-df8ba327459f": {
       "name": "Trailtracker Scout",
@@ -22341,6 +22350,7 @@
       "label": "",
       "scryfallId": "2f0d8bfa-fe9c-4b26-baa3-b5829495b375",
       "effects": [
+        "Removal",
         "Reanimate"
       ]
     },
@@ -23102,7 +23112,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "95c2390f-71f1-4e42-83da-d603ca86a8d0",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "7cc81fb3-495c-47cd-8c56-96197d87e9e0": {
       "name": "Witherbloom Command",
