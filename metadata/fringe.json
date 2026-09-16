@@ -4223,6 +4223,7 @@
       "label": "",
       "scryfallId": "36356522-15fc-41e2-bf14-a745e5a96a50",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -4558,7 +4559,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "25563be1-71f1-4f70-8527-02c5855a0b9d",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "38e0a1d0-2a4c-4510-9610-abea7fa1de7c": {
       "name": "Archon of Falling Stars",
@@ -6152,7 +6155,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "6aa98767-ae27-4cf0-98ea-93e659f160f4",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "ee05fc58-1356-4b2f-b9ce-bda8cc716aee": {
       "name": "Augury Raven",
@@ -10695,6 +10700,7 @@
       "label": "",
       "scryfallId": "53782723-0a1e-483f-86e0-9a13650d29b7",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -22687,7 +22693,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "006eb5ef-ac0a-4e39-831c-4019512bce60",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "92cda790-7907-47d1-8e5a-d3364c1e881f": {
       "name": "Danny Pink",
@@ -26489,7 +26497,9 @@
       "rating": 2,
       "label": "",
       "scryfallId": "4e430ac6-ee63-4fb9-b1d2-bc584e6c434b",
-      "effects": [],
+      "effects": [
+        "CardAdvantage"
+      ],
       "reviewedAt": "2026-09-11T22:16:14.3728545+00:00"
     },
     "119585c7-ddfa-47ed-b2f8-488ebc156222": {
@@ -29674,6 +29684,7 @@
       "label": "",
       "scryfallId": "098a8025-6454-45d8-abe3-2c3dada3f582",
       "effects": [
+        "CardAdvantage",
         "Regrowth"
       ],
       "reviewedAt": "2026-09-11T20:04:40.1027794+00:00"
@@ -29759,7 +29770,9 @@
       "rating": 2,
       "label": "",
       "scryfallId": "15c0b4eb-40e3-4224-b76d-539db9e6ac5f",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "b4fc198f-3595-4880-ad12-96c18fbf9c33": {
       "name": "Ego Drain",
@@ -33154,7 +33167,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "3410f9c6-ac11-4e7f-aefd-69fba43e1315",
-      "effects": [],
+      "effects": [
+        "CardAdvantage"
+      ],
       "reviewedAt": "2026-09-11T19:44:32.0522429+00:00"
     },
     "13bad22a-6ba3-4197-8658-e47049a1cf1f": {
@@ -34379,6 +34394,7 @@
       "label": "",
       "scryfallId": "a3f484b9-486f-4aff-8b23-d8e555b476d3",
       "effects": [
+        "CardAdvantage",
         "Filter",
         "Sacrifice"
       ]
@@ -35471,7 +35487,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "1ea6bb35-be74-4d42-96d3-bb7070054140",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "44b90948-e85a-4f69-a9e2-aba63775ba40": {
       "name": "Filigree Vector",
@@ -37935,7 +37953,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "a1d43877-20ab-4e84-a597-4b5e03a6bf90",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "dc440b62-0bf0-4f23-9210-3550ff0a8d4d": {
       "name": "Fortune, Loyal Steed",
@@ -46464,7 +46484,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "9ea5e61c-d903-410b-9acf-96a917ce05cc",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "6bcdbded-46f0-44b9-86ad-edd6414e7ef6": {
       "name": "Heir of the Ancient Fang",
@@ -54618,7 +54640,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "3a30ee96-00a0-4da9-a2e3-f87dedf2698f",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "493b2820-c250-48bd-9f3c-e1b5639ee101": {
       "name": "Katilda, Dawnhart Martyr // Katilda's Rising Dawn",
@@ -60048,6 +60072,7 @@
       "label": "",
       "scryfallId": "00cc4de5-f9b2-4a46-a410-b39446a9eaee",
       "effects": [
+        "CardAdvantage",
         "Buff",
         "Regrowth"
       ],
@@ -60941,7 +60966,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "402a930b-7590-4d1d-ada3-02546f13c9cb",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "3b207754-9172-426a-8efc-a9c3912d94bb": {
       "name": "Maestros Charm",
@@ -62955,7 +62982,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "235c628d-7bff-4e6e-8e34-6e2dcb4c4328",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "4c0384d6-21cb-4645-b7a4-3af133e8a9a8": {
       "name": "Mawcor",
@@ -69833,14 +69862,18 @@
       "rating": 1,
       "label": "",
       "scryfallId": "09cb553c-58c1-4cfd-b441-297b5f09b263",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "425d755b-7a15-423d-9640-494debc79dd9": {
       "name": "Norin, Swift Survivalist",
       "rating": 1,
       "label": "",
       "scryfallId": "49f0fdf4-3881-4327-924f-2c1b67ccda93",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "aa5b06a4-90c3-45e7-ab83-cb5c96ded21d": {
       "name": "Norman Osborn // Green Goblin",
@@ -69848,6 +69881,7 @@
       "label": "",
       "scryfallId": "0676e955-ba95-4f91-8185-f6dae5045df1",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ],
       "reviewedAt": "2026-09-11T21:22:44.1972233+00:00"
@@ -70817,7 +70851,9 @@
       "rating": 2,
       "label": "",
       "scryfallId": "298f1ab2-4c66-4d91-8f6a-1bad230632df",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "9e6f76dc-b7db-49b6-a61e-3495b81e61d7": {
       "name": "Ogre Berserker",
@@ -71273,7 +71309,9 @@
       "rating": 2,
       "label": "",
       "scryfallId": "1402054e-4b48-4df2-867a-c4a7abba3bb0",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "0ab43fc3-53ec-4686-873d-8dbeee2634f4": {
       "name": "One with the Stars",
@@ -75811,6 +75849,7 @@
       "scryfallId": "a6cc4c6f-4a84-4d42-89fa-7405f7ad6ba0",
       "effects": [
         "Discard",
+        "CardAdvantage",
         "Filter",
         "Burn"
       ]
@@ -83376,7 +83415,8 @@
       "label": "",
       "scryfallId": "074850d6-959e-4a8e-99a8-f573d4afadaf",
       "effects": [
-        "Ramp"
+        "Ramp",
+        "CardAdvantage"
       ]
     },
     "2742d506-897f-4d30-ba43-ce0374984849": {
@@ -92159,7 +92199,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "0b9ba1f1-584d-4c40-85b4-3292d793e33a",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "938cc97f-3908-401e-94cd-32004aff1ef1": {
       "name": "Sizzle",
@@ -103744,7 +103786,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "1454af8c-bce9-47d3-890f-283e2fea2cf2",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "86ed6073-c35c-4d29-9911-5fe191dd875f": {
       "name": "The Biblioplex",
@@ -104222,7 +104266,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "3bdba5b9-235c-411b-b031-7f6ff5368158",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "a177295e-3b58-4e46-a1cb-fc003a7a0848": {
       "name": "The Gaffer",
@@ -104748,7 +104794,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "5c9b5926-1f3e-4bc6-8b60-bea8411fa2af",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "37a2a31d-51e6-4c07-b4c2-b206ad40eb42": {
       "name": "The Reaver Cleaver",
@@ -110547,7 +110595,9 @@
       "rating": 2,
       "label": "",
       "scryfallId": "0b9755c8-ee39-4260-90f9-a398b3d06642",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "39694a3f-536e-41e0-adf6-d49de721aabd": {
       "name": "Underworld Charger",
@@ -113976,6 +114026,7 @@
       "label": "",
       "scryfallId": "2124e308-091c-4a0d-8631-e3106636b59b",
       "effects": [
+        "CardAdvantage",
         "Filter",
         "Burn"
       ]
@@ -120601,7 +120652,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "1b1aad48-88f0-464d-9776-ecd023d87b8f",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "e8237d12-2860-4cc8-85a4-458e4c68e69a": {
       "name": "Zulaport Duelist",

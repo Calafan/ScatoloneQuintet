@@ -6255,6 +6255,7 @@
       "label": "",
       "scryfallId": "1cef767a-6fbb-4ca7-8cff-e9121ac131ac",
       "effects": [
+        "CardAdvantage",
         "ManaFixing"
       ]
     },
@@ -7718,7 +7719,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "0856f657-6664-4e33-8615-e005cb211baf",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "df317532-7d36-40fd-938f-e972749c8792": {
       "name": "Fyndhorn Elves",
@@ -12050,6 +12053,7 @@
       "label": "",
       "scryfallId": "1ad1a82a-e606-4e80-820f-c498487fee70",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -13783,7 +13787,9 @@
       "rating": 4,
       "label": "",
       "scryfallId": "50c86f17-19ad-427c-9140-58cc5d6804d6",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "e9b6a394-691c-425a-9307-76d8edc7375e": {
       "name": "Otawara, Soaring City",
@@ -15234,7 +15240,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "06659985-c6eb-4281-8ff5-8bda7d252f44",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "32c91719-f3dd-4cc7-9e32-7d5ccf18f07c": {
       "name": "Radiant Grove",
@@ -18611,7 +18619,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "0552a2c4-36d4-405f-a56f-dc55610ae191",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "38eabfea-5ea5-4baa-8ad6-7a7cb00e1fed": {
       "name": "Spider Food",
@@ -19004,6 +19014,7 @@
       "label": "",
       "scryfallId": "0a786855-6eb4-42c0-a528-4842db46809d",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ],
       "reviewedAt": "2026-09-11T10:02:03.5749984+00:00"
@@ -22429,7 +22440,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "071bee6a-21ed-4776-ad78-2cc8ef5ab959",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "40544d12-0391-4a61-af95-9b8ec01ed8fc": {
       "name": "Vernal Fen",

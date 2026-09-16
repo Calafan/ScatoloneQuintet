@@ -8379,6 +8379,7 @@
       "label": "",
       "scryfallId": "25657da2-e7bc-4e9b-8ec2-5a5779738436",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -10339,6 +10340,7 @@
       "label": "",
       "scryfallId": "1e6e80ec-68a4-4cfb-a712-2ea0d26dc6a1",
       "effects": [
+        "CardAdvantage",
         "Burn"
       ]
     },
@@ -13749,7 +13751,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "c9850489-c056-4b17-8743-a5b514d8edf4",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "4160e621-3f13-486b-af17-728ce85f7ea5": {
       "name": "Cast into Darkness",
@@ -14524,7 +14528,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "61093e82-401a-4c56-a627-1455a9a337b8",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "a0324f33-3f25-4374-affa-c7b5b54bc8d7": {
       "name": "Chainwhip Cyclops",
@@ -18430,7 +18436,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "08784b79-570d-495c-a05e-d5fe3e876a97",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "23674648-d1a0-437d-8a0b-4173c75b4507": {
       "name": "Coursers' Accord",
@@ -20742,6 +20750,7 @@
       "label": "",
       "scryfallId": "6ef6f861-90ef-4e1d-9f17-1dd306e7d0af",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -23685,6 +23694,7 @@
       "label": "",
       "scryfallId": "01cd4184-93ce-4005-b6d1-140afa3dd429",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -25134,6 +25144,7 @@
       "scryfallId": "677c7b08-e80c-49ac-acfd-8feb9cde3c5d",
       "effects": [
         "Tokens",
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -25604,7 +25615,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "9554f402-35d4-43ac-9494-9d17d2a79092",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "dda8bf18-9396-45e6-829c-8691f49f7290": {
       "name": "Dramatic Entrance",
@@ -25681,6 +25694,7 @@
       "label": "",
       "scryfallId": "1aa052ca-3810-4f84-8e94-b8c0ee9b3d06",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -30420,7 +30434,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "4b8f32e2-5dc8-4f1b-8a69-d3ae06378ed8",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "1a19fc9e-a822-49ca-ade0-d58054f3caf6": {
       "name": "Exploding Borders",
@@ -37667,7 +37683,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "09b76448-08db-44ea-ab65-0812e1d1e73c",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "0abc993b-18c7-4bb8-aa58-0d06a41cb48f": {
       "name": "Gisa's Bidding",
@@ -42693,7 +42711,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "5294d359-c599-40ed-9e06-2a3cc8624d6a",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "d8dd7e7f-0053-44bb-bac0-1a08843d4c49": {
       "name": "Harnessed Lightning",
@@ -49033,6 +49053,7 @@
       "label": "",
       "scryfallId": "02d6d693-f1f3-4317-bcc0-c21fa8490d38",
       "effects": [
+        "CardAdvantage",
         "Filter",
         "Mill"
       ]
@@ -49235,7 +49256,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "007f1787-0d40-4fbd-b774-df891a0e5620",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "cbbad3da-695e-4527-9678-0942f3751287": {
       "name": "Jaya Ballard, Task Mage",
@@ -50477,7 +50500,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "02fccffa-a83b-4ca9-897b-474e333c90f1",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "e8cf80a1-6908-4adb-88e7-2015672d4905": {
       "name": "Karametra's Acolyte",
@@ -51151,6 +51176,7 @@
       "label": "",
       "scryfallId": "73e3c66b-c436-452b-908e-fa5d2b70c825",
       "effects": [
+        "CardAdvantage",
         "Filter",
         "Sacrifice"
       ]
@@ -51160,7 +51186,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "01711ff6-475c-48c4-91f4-438433f88a95",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "b54d9a4a-1d55-4ceb-96fd-2b1d5e46de14": {
       "name": "Kessig",
@@ -55294,6 +55322,7 @@
       "scryfallId": "1ce07e2f-581f-4e47-a689-60bb5e31d0b2",
       "effects": [
         "Removal",
+        "CardAdvantage",
         "Burn"
       ]
     },
@@ -57121,7 +57150,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "27ba1ea5-c861-4bb4-a681-fc0633268bd9",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "d547275a-bc31-4c05-9db3-27b5efe47bb1": {
       "name": "Magus of the Jar",
@@ -63360,7 +63391,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "25304668-9688-44ab-8a6b-066ea8c02e1e",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "d55f6c70-321f-4fb4-bd33-0850ae1a7c36": {
       "name": "Narset's Reversal",
@@ -65038,6 +65071,7 @@
       "label": "",
       "scryfallId": "0825a28f-f60b-4f80-83e3-cad6f9b266ce",
       "effects": [
+        "CardAdvantage",
         "Buff",
         "Burn"
       ]
@@ -67454,7 +67488,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "048fdbc1-4180-493c-8e99-5bee56647080",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "f7ea8725-db0e-4ce5-ac77-7dfc2a4e9286": {
       "name": "Oracle of Nectars",
@@ -95074,7 +95110,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "28dbafb6-1529-45e6-8b61-15185e3a79d8",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "677aa518-072b-46d2-b0da-da57c7bc2bba": {
       "name": "Taigam, Sidisi's Hand",
@@ -99917,7 +99955,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "0e767e07-febd-4025-bf03-d4d816bc1d3d",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "e0462a2c-fb88-495f-813b-6476ee3e62bb": {
       "name": "Totally Lost",
@@ -109992,6 +110032,7 @@
       "scryfallId": "169fcff7-58f2-420b-a5f1-642ad38709b3",
       "effects": [
         "Removal",
+        "CardAdvantage",
         "Burn",
         "Regrowth"
       ]
