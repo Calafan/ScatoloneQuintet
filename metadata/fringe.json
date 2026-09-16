@@ -85557,7 +85557,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "2c8e174c-7abb-4a93-aa1d-8c2a2e815ba6",
-      "effects": [],
+      "effects": [
+        "Pacify"
+      ],
       "reviewedAt": "2026-09-08T10:31:51.9884892+00:00"
     },
     "f57c6bfb-8dd4-429d-8ced-65145e2f7adb": {
@@ -99360,7 +99362,8 @@
       "label": "",
       "scryfallId": "123d6097-8021-46cd-a8c3-01013245e347",
       "effects": [
-        "Protection"
+        "Protection",
+        "Pacify"
       ],
       "reviewedAt": "2026-09-04T15:03:17.5150597+00:00"
     },
@@ -115538,7 +115541,7 @@
       "label": "",
       "scryfallId": "5cfbcb49-a640-4c0d-800f-482b813369a3",
       "effects": [
-        "Removal"
+        "Pacify"
       ],
       "reviewedAt": "2026-09-05T08:16:19.9053343+00:00"
     },
