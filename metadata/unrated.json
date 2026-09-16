@@ -45823,9 +45823,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "6250c566-b224-405c-b1ac-97ca3b0aa44e",
-      "effects": [
-        "Pacify"
-      ]
+      "effects": []
     },
     "cf8a0782-f545-445e-abac-d9063dad696b": {
       "name": "Hunter's Insight",
@@ -51163,8 +51161,7 @@
       "label": "",
       "scryfallId": "5271d8fd-3657-45a3-8147-00cc1d19425f",
       "effects": [
-        "Buff",
-        "Pacify"
+        "Buff"
       ]
     },
     "d7407920-7596-497a-a135-b9343909a0cb": {
@@ -88368,9 +88365,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "25e6129a-fa5c-4e27-a4d4-cbde7392164b",
-      "effects": [
-        "Pacify"
-      ]
+      "effects": []
     },
     "ec6a09d2-d90a-4c3b-940b-659e471baf88": {
       "name": "Soratami Cloudskater",
@@ -96601,9 +96596,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "070408ff-5f23-4972-a9cc-d5351fd995f7",
-      "effects": [
-        "Pacify"
-      ]
+      "effects": []
     },
     "7fe39c74-cb7c-4eee-a657-8a99a4ab383a": {
       "name": "Territorial Allosaurus",

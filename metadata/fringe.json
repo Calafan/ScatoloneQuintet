@@ -15898,9 +15898,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "dceb8cf5-b31a-400e-aea5-ad0c3552d697",
-      "effects": [
-        "Pacify"
-      ]
+      "effects": []
     },
     "8d979a0b-ba04-4abb-8f78-c707ce15351a": {
       "name": "Cephalid Inkmage",
@@ -49415,9 +49413,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "676a2506-17f8-4b8e-be0c-eacc0fe972f6",
-      "effects": [
-        "Pacify"
-      ]
+      "effects": []
     },
     "edd3a3ea-6bde-408c-8b16-85ed3cc312b2": {
       "name": "Iguana Parrot",
@@ -93747,9 +93743,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "7401df8b-23e7-4485-9ed4-70118a66feed",
-      "effects": [
-        "Pacify"
-      ]
+      "effects": []
     },
     "12236231-7c6e-4edc-87dc-737115843185": {
       "name": "Snake Basket",
