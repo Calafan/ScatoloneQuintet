@@ -676,7 +676,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "b229697e-b6ff-450b-8020-45c454da9b3e",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "324d2aa8-6dea-4b0d-898d-1e52ed187565": {
       "name": "Acolyte of Aclazotz",
@@ -2350,6 +2352,7 @@
       "label": "",
       "scryfallId": "0ac7e199-c32e-4479-a92f-df52f1182c9a",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -3141,6 +3144,7 @@
       "label": "",
       "scryfallId": "625690d3-7131-45de-adea-9c927241e661",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -4529,7 +4533,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "2ab5ba3a-22a5-4d79-af99-fe1ef6cc8676",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "f1ecb3d7-5ea0-45b2-b1b0-d7ae304db2a1": {
       "name": "Archmage of Echoes",
@@ -4967,7 +4973,6 @@
       "label": "",
       "scryfallId": "15bcbfae-89cd-4fa4-978c-ad1332e81e18",
       "effects": [
-        "CardAdvantage",
         "Buff"
       ]
     },
@@ -5364,6 +5369,7 @@
       "scryfallId": "2bd05f97-ef8b-4cbe-a44b-6501aa5895b0",
       "effects": [
         "Counter",
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -8434,6 +8440,7 @@
       "scryfallId": "620ed5b7-8874-40d0-9245-98876bdec153",
       "effects": [
         "Wipe",
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -14463,7 +14470,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "56ae1e4b-b620-480b-b6fc-66f2137d7d89",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "678b3fb5-aa9f-4268-9433-2a89dd37b927": {
       "name": "Canoptek Tomb Sentinel",
@@ -15179,7 +15188,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "16a9a596-61de-4fcf-aae0-41836c3deca5",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "d00a089b-7d0d-4b89-902b-7b914e892178": {
       "name": "Case of the Shattered Pact",
@@ -15329,6 +15340,7 @@
       "label": "",
       "scryfallId": "0b50620d-430e-4c38-a95d-3d69a4c29ff9",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -15949,6 +15961,7 @@
       "label": "",
       "scryfallId": "434e2ece-7b00-4ad1-9c35-cca16fbb002b",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -16050,6 +16063,7 @@
       "label": "",
       "scryfallId": "32cec6f3-295a-45e3-8466-e35fb043a596",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -19851,6 +19865,7 @@
       "label": "",
       "scryfallId": "3e4f0005-4f19-4352-9cd2-3993ae6db879",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -24942,7 +24957,8 @@
       "scryfallId": "37684797-7503-460d-9f74-047b1ab2fac3",
       "effects": [
         "Bounce",
-        "Discard"
+        "Discard",
+        "CardAdvantage"
       ]
     },
     "23bf0648-7097-41df-a539-1d36ac42cf9c": {
@@ -25622,6 +25638,7 @@
       "label": "",
       "scryfallId": "9091e8dc-b546-4b74-9dc9-aef55f60d13a",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -34300,7 +34317,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "1b2ff142-029b-4446-960a-2ff200fb9aee",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "0d71b157-09a0-4fd4-beb9-103117a784ad": {
       "name": "Farmstead",
@@ -34370,7 +34389,8 @@
       "label": "",
       "scryfallId": "5b209759-6215-49e8-a6a0-a6c94040adb2",
       "effects": [
-        "Wipe"
+        "Wipe",
+        "CardAdvantage"
       ]
     },
     "0d787c6b-ab82-42c5-b840-8f3a09af30ac": {
@@ -39423,6 +39443,7 @@
       "label": "",
       "scryfallId": "60976109-30ad-4f12-99eb-c5ef560fcf1b",
       "effects": [
+        "CardAdvantage",
         "Filter",
         "Pacify"
       ]
@@ -41311,7 +41332,8 @@
       "label": "",
       "scryfallId": "7f06bbb1-0c7d-4803-9b35-8a2206803eed",
       "effects": [
-        "Tokens"
+        "Tokens",
+        "CardAdvantage"
       ]
     },
     "1a8b7792-e105-40c8-b1b4-ab1a8f3731d8": {
@@ -42258,6 +42280,7 @@
       "label": "",
       "scryfallId": "00e990aa-5124-4e9d-ab4e-178bcda12abd",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -50729,7 +50752,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "32e2a1e7-0f26-4f5e-8206-928c2bf12f12",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "50402103-14ea-49b0-8e66-d2b7f7a69a41": {
       "name": "Inordinate Rage",
@@ -51563,7 +51588,6 @@
       "scryfallId": "1b83af86-e1a9-4be1-83dc-0c1ab81b129e",
       "effects": [
         "Tokens",
-        "CardAdvantage",
         "Buff"
       ]
     },
@@ -51654,6 +51678,7 @@
       "label": "",
       "scryfallId": "c0ef6737-8e85-42ca-8ee6-6a34f9462de3",
       "effects": [
+        "CardAdvantage",
         "Filter",
         "Redirect"
       ]
@@ -54019,7 +54044,6 @@
       "scryfallId": "09400571-edeb-4871-9d29-c24dfba0df36",
       "effects": [
         "Tokens",
-        "CardAdvantage",
         "Tutor"
       ]
     },
@@ -57019,7 +57043,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "10ba4b10-5667-414c-a692-166a19b7d748",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "3efe6ac8-f92e-4108-913b-077e41c0a841": {
       "name": "Lae'zel's Acrobatics",
@@ -57989,6 +58015,7 @@
       "label": "",
       "scryfallId": "03533243-24cf-4e08-8999-311f23dda0ab",
       "effects": [
+        "CardAdvantage",
         "Buff"
       ]
     },
@@ -60954,6 +60981,7 @@
       "label": "",
       "scryfallId": "db94f2a9-53be-449e-8240-77f013cdd7e3",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -62363,7 +62391,8 @@
       "label": "",
       "scryfallId": "e7517e8e-b424-4731-ba9d-6132bdefa6bf",
       "effects": [
-        "Tokens"
+        "Tokens",
+        "CardAdvantage"
       ]
     },
     "ef32258a-d567-4fbc-ab85-8c00080f5b36": {
@@ -62827,6 +62856,7 @@
       "label": "",
       "scryfallId": "0caaf92a-3d9d-4c52-acff-cf960ec55e47",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -63019,6 +63049,7 @@
       "label": "",
       "scryfallId": "b3c773f0-9e65-48de-a362-a9a943198693",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -68911,7 +68942,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "26bd3a70-3154-44a4-8705-1eac01cde8fd",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "66bef5a7-79b7-4a9c-98dc-8670f867f04c": {
       "name": "Nethroi, Apex of Death",
@@ -72669,7 +72702,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "21f1540f-293c-401a-a8cc-d147334176de",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "fd8722e1-9c41-4037-ab7e-47e2aa9858a0": {
       "name": "Paladin en-Vec",
@@ -76156,9 +76191,7 @@
       "rating": 2,
       "label": "",
       "scryfallId": "74edd3e3-b2de-4ba0-a508-0418b0151d87",
-      "effects": [
-        "CardAdvantage"
-      ]
+      "effects": []
     },
     "612c9079-adae-4fe5-9a72-8efc09ddfe5c": {
       "name": "Practiced Tactics",
@@ -76825,6 +76858,7 @@
       "scryfallId": "0a396152-0b6d-4b5e-8dcd-4d77df0b7ae4",
       "effects": [
         "Discard",
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -83035,7 +83069,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "7515187f-4821-400d-b78f-cec173df6b84",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "cb7e076c-a695-4c79-9f20-498370c81380": {
       "name": "Riptide Turtle",
@@ -84487,6 +84523,7 @@
       "label": "",
       "scryfallId": "c82be2ca-8350-4cf5-83b6-e8b60a9e21c6",
       "effects": [
+        "CardAdvantage",
         "Filter",
         "Buff"
       ]
@@ -84820,6 +84857,7 @@
       "label": "",
       "scryfallId": "9251f658-bf7a-45e7-a71f-8e359b838921",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -89518,7 +89556,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "261deceb-38fe-4f22-8771-b665b1d36c33",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "63d92a82-d77d-4c47-a49b-bde6a8c9dd8d": {
       "name": "Setessan Petitioner",
@@ -90451,7 +90491,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "02a98a2d-a837-4911-b726-b2cee17cf450",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "75decba6-d188-4144-8e74-58285be0fe9f": {
       "name": "Shield Bearer",
@@ -90834,7 +90876,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "ec538182-efba-48d0-91ad-457461b44748",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "8676e917-17dd-4047-99c4-402f2e909e16": {
       "name": "Shock Brigade",
@@ -91423,6 +91467,7 @@
       "label": "",
       "scryfallId": "46588683-74c7-4041-a43b-95d51ba51a94",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -93896,6 +93941,7 @@
       "label": "",
       "scryfallId": "2358a511-7d55-4a63-93ea-a895fe45c3f7",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -94960,6 +95006,7 @@
       "label": "",
       "scryfallId": "15b326af-3ddd-4e34-9c83-77c11ea69101",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -97659,6 +97706,7 @@
       "label": "",
       "scryfallId": "3e6ff99a-9ecc-4f1b-9c85-e0820f3a5729",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -98073,6 +98121,7 @@
       "scryfallId": "3151caa2-10ed-4f30-83eb-cd1bd3f642ce",
       "effects": [
         "Ramp",
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -98203,7 +98252,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "6a230208-84ae-4f48-afbd-a0d50596ad27",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "6b1f750c-0f01-4b1c-ad8f-260e26fbbfea": {
       "name": "Stinging Hivemaster",
@@ -98537,7 +98588,9 @@
       "rating": 2,
       "label": "",
       "scryfallId": "2ce69f1b-c4a5-4e44-9dfc-4fb65c22e3c6",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "3c8044b7-3999-4825-8448-0a1a325f1b48": {
       "name": "Storm Front",
@@ -101350,9 +101403,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "347d883c-84ab-4547-813b-f4385366fbce",
-      "effects": [
-        "CardAdvantage"
-      ]
+      "effects": []
     },
     "0222414f-98b5-458a-a0fd-831a66cd8b07": {
       "name": "Tainted Isle",
@@ -103396,9 +103447,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "2174d16e-4a78-4d27-b220-1086c40db83e",
-      "effects": [
-        "CardAdvantage"
-      ]
+      "effects": []
     },
     "0eb11b2d-a397-48da-a0f3-9f0f83f42282": {
       "name": "Tezzeret, Cruel Captain",
@@ -103741,7 +103790,8 @@
       "label": "",
       "scryfallId": "313d00cc-2cd7-4e2a-a218-935801c297b3",
       "effects": [
-        "Tokens"
+        "Tokens",
+        "CardAdvantage"
       ]
     },
     "497e9c7c-a16d-43e5-a7ec-04153aa2566a": {
@@ -104689,7 +104739,8 @@
       "label": "",
       "scryfallId": "573b3e89-9dbc-4a93-8dbc-2fdd64edee85",
       "effects": [
-        "Tokens"
+        "Tokens",
+        "CardAdvantage"
       ]
     },
     "751f22bc-bcea-4213-a37b-b5f72448a4c4": {
@@ -104755,7 +104806,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "24cdb7f9-232b-4c1e-9c27-d9d8f7fd3752",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "249fdd3e-376c-4ec2-a612-4353e0e61ee2": {
       "name": "The Seedcore",
@@ -104894,7 +104947,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "1a87e989-0756-4db8-b7f7-b39d5a5fd4e9",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "50120e90-2fdf-43c1-93e2-2230ee4e63fc": {
       "name": "The Swarmweaver",
@@ -105415,18 +105470,14 @@
       "rating": 1,
       "label": "",
       "scryfallId": "0ff1f608-203e-4413-8753-37fc49731c87",
-      "effects": [
-        "CardAdvantage"
-      ]
+      "effects": []
     },
     "70e58068-90d2-4720-a11c-5d243046b4a3": {
       "name": "Thirst for Meaning",
       "rating": 1,
       "label": "",
       "scryfallId": "2422973d-36ee-4b8c-9a47-fcd160aa9f63",
-      "effects": [
-        "CardAdvantage"
-      ]
+      "effects": []
     },
     "c0ef21d5-f4bf-4417-b701-d98c2dbbaa43": {
       "name": "Thirsting Roots",
@@ -111542,6 +111593,7 @@
         "Tokens",
         "RemovePermanent",
         "Wipe",
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -118345,9 +118397,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "64dd6309-110d-44a0-a227-34a20e33ebdc",
-      "effects": [
-        "CardAdvantage"
-      ]
+      "effects": []
     },
     "d0e80414-abde-4f5e-9539-3efc83aa507f": {
       "name": "Wondrous Crucible",

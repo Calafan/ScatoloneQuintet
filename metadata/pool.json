@@ -2369,9 +2369,7 @@
       "rating": 4,
       "label": "",
       "scryfallId": "95a6997b-a8b1-4655-a9b0-5f9a305ca96e",
-      "effects": [
-        "CardAdvantage"
-      ]
+      "effects": []
     },
     "bc9c7e1a-5155-431a-be21-fcbd18718980": {
       "name": "Brambleguard Veteran",
@@ -3821,7 +3819,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "0ef2f776-ff35-464b-bfcf-075c9ae4baa7",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "c27b771d-b5ec-459a-a101-f078cb8d0184": {
       "name": "Contaminated Aquifer",
@@ -9081,9 +9081,7 @@
       "rating": 3,
       "label": "",
       "scryfallId": "082e1f8f-5f73-4419-8f6c-2d5a6909dc2c",
-      "effects": [
-        "CardAdvantage"
-      ]
+      "effects": []
     },
     "d56f24a1-04dc-4769-9941-05bd99508e40": {
       "name": "Hidetsugu, Devouring Chaos",
@@ -13895,6 +13893,7 @@
       "label": "",
       "scryfallId": "3194a6f4-f994-494c-aa29-1de8af48a3f1",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -15347,6 +15346,7 @@
       "scryfallId": "8a74dbdd-5baa-4896-80d4-1a9743410d4c",
       "effects": [
         "Tokens",
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -15855,6 +15855,7 @@
       "scryfallId": "15c5d6cd-8af6-4852-8043-e6b1ef771ce6",
       "effects": [
         "Ramp",
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -17768,6 +17769,7 @@
       "scryfallId": "0347cf84-42f5-4674-99de-619b0ae51d62",
       "effects": [
         "Tokens",
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -18962,9 +18964,7 @@
       "rating": 3,
       "label": "",
       "scryfallId": "6bbf7394-9b17-45f8-a25b-d865e8452b2c",
-      "effects": [
-        "CardAdvantage"
-      ]
+      "effects": []
     },
     "7ff8940f-d798-41eb-b82e-a1eba2163fe7": {
       "name": "Steel Seraph",
@@ -20336,6 +20336,7 @@
       "scryfallId": "9dc2521f-d9a5-4ae7-b5dc-bf0504e66345",
       "effects": [
         "Ramp",
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -20812,9 +20813,7 @@
       "rating": 4,
       "label": "",
       "scryfallId": "1ea179e9-9c0d-46c1-9ee8-60be68e1f79c",
-      "effects": [
-        "CardAdvantage"
-      ]
+      "effects": []
     },
     "53467cf4-5db2-4b9c-af2b-03b044c558cd": {
       "name": "This Is How It Ends",
@@ -20883,6 +20882,7 @@
       "effects": [
         "Tokens",
         "Counter",
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -22296,7 +22296,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "3331d7dd-95c8-4813-a1eb-3966a2c08502",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "1056b27c-125c-4daa-a0c8-533efc9ccc32": {
       "name": "Vanish from Sight",
@@ -23045,7 +23047,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "8591d2e5-7f3b-4589-aec9-eca2320ef29d",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "17d35b8f-2189-4587-9c57-425e93d883c6": {
       "name": "Westfold Rider",

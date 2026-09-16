@@ -929,7 +929,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "197f1c07-e570-42f9-9cb1-bf67634d765d",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "e076067c-77b7-4a37-a62d-51434392dd53": {
       "name": "Aether Adept",
@@ -2471,7 +2473,6 @@
       "scryfallId": "16b9f43a-9c3f-4bfa-9eb1-734189a4bb1f",
       "effects": [
         "RemovePermanent",
-        "CardAdvantage",
         "Steal"
       ]
     },
@@ -5302,6 +5303,7 @@
       "label": "",
       "scryfallId": "b14f8748-b946-4d4a-b70a-659faa643472",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -8658,6 +8660,7 @@
       "label": "",
       "scryfallId": "5fe78f11-c30e-4bd5-8f80-cdc700d455cc",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -13466,7 +13469,8 @@
       "label": "",
       "scryfallId": "08b7224b-adb9-4c31-b0bb-1c498f2922fb",
       "effects": [
-        "Discard"
+        "Discard",
+        "CardAdvantage"
       ]
     },
     "7661484b-1faa-4ed7-b77b-fc1e625d23e3": {
@@ -14083,7 +14087,6 @@
       "label": "",
       "scryfallId": "289cc92d-68e7-4b9c-8779-fa2583f3eef1",
       "effects": [
-        "CardAdvantage",
         "Filter"
       ]
     },
@@ -15321,9 +15324,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "1a6f256b-943e-4cfb-9fc9-d1ded68b5f97",
-      "effects": [
-        "CardAdvantage"
-      ]
+      "effects": []
     },
     "e0f44bb8-f07b-416c-b767-87b9fe6461aa": {
       "name": "Chasm Drake",
@@ -22035,7 +22036,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "08706a17-52b7-47a9-b111-a0627aed908c",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "05ac6e5c-b773-45ed-9c74-3cd4b05bc287": {
       "name": "Deathrender",
@@ -23185,6 +23188,7 @@
       "label": "",
       "scryfallId": "1a88a833-273b-4fe6-b9aa-f014170f06fd",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -25667,6 +25671,7 @@
       "label": "",
       "scryfallId": "90f1f430-d6a5-4380-95f2-9e0fc9e81597",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -27491,7 +27496,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "0d82f171-b1f6-4e80-996a-c579a1be252c",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "441b51b0-ecd0-466d-9ca8-e754eb563aec": {
       "name": "Eidolon of Countless Battles",
@@ -28983,6 +28990,7 @@
       "label": "",
       "scryfallId": "21df7db7-c23b-4dca-b9c8-c785d7007285",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -29156,9 +29164,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "612beb8f-2ab1-4a8b-84c5-c47d19d400ab",
-      "effects": [
-        "CardAdvantage"
-      ]
+      "effects": []
     },
     "4b031bb3-4bbc-4158-8485-b3fc42c6bd50": {
       "name": "Enter the Unknown",
@@ -36677,6 +36683,7 @@
       "label": "",
       "scryfallId": "9dbd510a-d71f-4b0c-bc6c-e403f632cbdb",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -48251,6 +48258,7 @@
       "label": "",
       "scryfallId": "b47e59bb-8d47-46a7-8ce5-b2060b4e3c19",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -49056,8 +49064,7 @@
       "label": "",
       "scryfallId": "0e606072-a3aa-4300-ba90-ec92a721fa76",
       "effects": [
-        "Bounce",
-        "CardAdvantage"
+        "Bounce"
       ]
     },
     "e4d5d666-fd55-4c1a-89c8-2348288f6b30": {
@@ -56241,7 +56248,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "1197e710-278f-4942-87b0-f6363d329e65",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "de1cfa83-2049-48ab-b093-2f120a3ef4f2": {
       "name": "Loyal Guardian",
@@ -57822,7 +57831,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "3c41fee8-7b03-4dc8-babb-f8c8369a74c2",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "8f4f0cd2-9777-4ea1-944d-306347dc48a2": {
       "name": "Marauding Maulhorn",
@@ -63015,9 +63026,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "d169f469-10d5-4ae8-88fe-12a8e20ab01b",
-      "effects": [
-        "CardAdvantage"
-      ]
+      "effects": []
     },
     "850fe8ad-f6b8-4d01-a94b-2b69adc3d8f0": {
       "name": "Mystic Melting",
@@ -65453,7 +65462,8 @@
       "label": "",
       "scryfallId": "aa7514c5-27cd-46eb-ac85-4b1468a8064e",
       "effects": [
-        "Discard"
+        "Discard",
+        "CardAdvantage"
       ]
     },
     "a2f33166-6cfc-4dc5-8edc-088bf40f06b5": {
@@ -66087,6 +66097,7 @@
       "label": "",
       "scryfallId": "0864d868-8cc2-47ea-a8f6-ab5210f9fccc",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -66965,6 +66976,7 @@
       "label": "",
       "scryfallId": "6da6957b-8f52-4fc9-affe-e1e0db03fbe2",
       "effects": [
+        "CardAdvantage",
         "Buff"
       ]
     },
@@ -72437,6 +72449,7 @@
       "label": "",
       "scryfallId": "11ee2c64-68f1-434b-8092-ae80d6575666",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -72770,6 +72783,7 @@
       "label": "",
       "scryfallId": "239af309-5f18-4f6b-a7dd-1a2c3c74f8b9",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -74020,6 +74034,7 @@
       "label": "",
       "scryfallId": "42230b38-c81a-4d76-ad17-1166f5f62312",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -77800,7 +77815,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "4bdf9bf0-5247-4a30-91f1-0172b6aa6be6",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "4c297085-5ec1-4d29-9a8e-1785c016ce09": {
       "name": "Ripscale Predator",
@@ -78203,9 +78220,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "3ea5ac8f-f83d-47ca-a20e-3d129afb34d2",
-      "effects": [
-        "CardAdvantage"
-      ]
+      "effects": []
     },
     "cb88ada9-d3bf-4f0a-817a-c41f0ea9cc78": {
       "name": "Rix Maadi Guildmage",
@@ -78862,6 +78877,7 @@
       "label": "",
       "scryfallId": "8d0556f8-4099-4015-8e27-a070f10c30f3",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -82670,7 +82686,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "30b8ec78-1786-427d-85da-4b1c8582416a",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "574abab1-a722-45f5-a210-c1d4442a278a": {
       "name": "Seething Pathblazer",
@@ -85368,6 +85386,7 @@
       "label": "",
       "scryfallId": "077bde4d-4cdb-42db-acc5-441ed8fa4a5b",
       "effects": [
+        "CardAdvantage",
         "Filter",
         "Tutor"
       ]
@@ -89931,7 +89950,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "ba33f00d-dbed-4bfb-a295-90f729be98de",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "6452873b-1bb2-44b3-b630-88f15962b6e8": {
       "name": "Sphinx's Herald",
@@ -93256,6 +93277,7 @@
       "effects": [
         "Removal",
         "Disenchant",
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -94146,9 +94168,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "8a28c9cb-ae41-4f9c-b3f6-151ef95c81b3",
-      "effects": [
-        "CardAdvantage"
-      ]
+      "effects": []
     },
     "152e7e91-4eda-4e72-a9fb-bd5cb2e68239": {
       "name": "Survivors' Encampment",
@@ -95785,7 +95805,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "13a902f7-2711-4769-9866-762195c3d0fb",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "fd5ee26c-cc54-4dc0-b611-5cda14354a5e": {
       "name": "Taurean Mauler",
@@ -97538,6 +97560,7 @@
       "label": "",
       "scryfallId": "89abcf79-8113-49ea-a8c8-ee2e0ebb1acd",
       "effects": [
+        "CardAdvantage",
         "Sacrifice",
         "Pacify"
       ]
@@ -97738,9 +97761,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "c3949f8c-d1c5-45c2-80ed-a57f4f9af86e",
-      "effects": [
-        "CardAdvantage"
-      ]
+      "effects": []
     },
     "e024870c-af13-4ef3-be27-cdd84dab7d7d": {
       "name": "Thirsting Axe",
@@ -98104,6 +98125,7 @@
       "label": "",
       "scryfallId": "d90514aa-e356-4502-9e0e-76ab7644a07a",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -99228,7 +99250,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "0875f4e3-d0be-41ce-870c-ee63f1af1904",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "86468528-833d-48f9-b299-cdf54dd47d77": {
       "name": "Tishana's Wayfinder",
@@ -100073,9 +100097,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "a0f0353c-f1e0-49db-9edc-eea9090de872",
-      "effects": [
-        "CardAdvantage"
-      ]
+      "effects": []
     },
     "fa6e2a47-a8cb-4224-ae3e-f61c90477285": {
       "name": "Tragic Slip",
@@ -100665,6 +100687,7 @@
       "label": "",
       "scryfallId": "6d78a159-e9fe-446e-a0b1-a339e653b102",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -100872,7 +100895,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "1173ff96-998c-4fe7-9b28-602d990e0339",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "71a60247-17e5-44bd-9fed-f7d550b09ef3": {
       "name": "Triton Shorestalker",
@@ -102512,6 +102537,7 @@
       "label": "",
       "scryfallId": "7b540a5f-7f1b-421a-864f-5af469556fc6",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -103122,9 +103148,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "d6bead8b-a67f-4451-9d44-038f8688093f",
-      "effects": [
-        "CardAdvantage"
-      ]
+      "effects": []
     },
     "e87906d2-db1a-4e19-b910-adb4eb339945": {
       "name": "Urza, Lord High Artificer",
@@ -109166,6 +109190,7 @@
       "scryfallId": "280eb666-e918-4640-9c43-19bc71af06b6",
       "effects": [
         "Disenchant",
+        "CardAdvantage",
         "Filter"
       ]
     },
