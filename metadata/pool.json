@@ -783,7 +783,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "0c81ade7-0074-4447-ba2c-b16fa0f09ccb",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "ab1cc360-b9de-48d9-9983-4dfe4a7d2a37": {
       "name": "Arcane Denial",
@@ -828,6 +830,7 @@
       "label": "",
       "scryfallId": "10be3e37-da93-476c-8da3-57bed77df2d7",
       "effects": [
+        "Removal",
         "CardAdvantage"
       ]
     },
@@ -3102,7 +3105,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "290a7ae3-e4ca-4d31-b34c-ec281ce84cc2",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "fa450433-85b0-4f95-bd4e-f141ba036bee": {
       "name": "Cemetery Gatekeeper",
@@ -3793,6 +3798,7 @@
       "label": "",
       "scryfallId": "e50acc41-3517-42db-b1d3-1bdfd7294d84",
       "effects": [
+        "Removal",
         "Regrowth"
       ]
     },
@@ -5743,7 +5749,9 @@
       "rating": 4,
       "label": "",
       "scryfallId": "18cdb7b8-bd52-407c-8752-6d6883449a3e",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "9a18fb98-796a-43b1-8157-e3afca53a1c0": {
       "name": "Eject",
@@ -6112,7 +6120,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "7dcd014c-455e-444c-aec5-a1108dc4a80a",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "e078585e-7058-4746-a884-3c9a14630a1b": {
       "name": "Erebos's Intervention",
@@ -6509,7 +6519,9 @@
       "rating": 4,
       "label": "",
       "scryfallId": "256c8b6e-4031-458b-8eb9-bbfe58405a0c",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "18207fe8-41e4-418d-b5f9-e1239c527e67": {
       "name": "Extract the Truth",
@@ -6537,6 +6549,7 @@
       "scryfallId": "506fde34-f9a8-4e37-bde3-f1b087fd85a3",
       "effects": [
         "Tokens",
+        "Removal",
         "Burn",
         "Regrowth"
       ]
@@ -7050,7 +7063,9 @@
       "rating": 4,
       "label": "",
       "scryfallId": "04cb4e4e-8275-4132-8f1a-84b486725400",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "50463946-1ce3-4ff0-ad68-2fb87adbe2fd": {
       "name": "Fire Ambush",
@@ -7703,7 +7718,9 @@
       "rating": 5,
       "label": "",
       "scryfallId": "0507c8ea-3478-494f-985f-cdff385f77e2",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "651dea9c-2375-4e44-8e65-ba8e40f0c0ef": {
       "name": "Furycalm Snarl",
@@ -8129,6 +8146,7 @@
       "label": "",
       "scryfallId": "023feb3d-a8ae-4c4e-ac44-ee0bd56c4728",
       "effects": [
+        "Removal",
         "Buff",
         "Regrowth"
       ]
@@ -8880,7 +8898,6 @@
       "label": "",
       "scryfallId": "0e8eb992-9dc3-4258-aee3-8b03e44a74f3",
       "effects": [
-        "Removal",
         "Disenchant"
       ]
     },
@@ -9981,7 +9998,9 @@
       "rating": 4,
       "label": "",
       "scryfallId": "359445e8-2f4a-4e73-9201-2c7a11d26666",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "3e5cd60f-8fef-4152-a957-0a803997b3da": {
       "name": "Invoke Justice",
@@ -11708,6 +11727,7 @@
       "scryfallId": "0fd4a0f7-ba03-4158-95cd-4effe798aec0",
       "effects": [
         "Tokens",
+        "Removal",
         "CardAdvantage"
       ]
     },
@@ -12836,7 +12856,9 @@
       "rating": 4,
       "label": "",
       "scryfallId": "adc7c427-aa31-4077-8397-74a9a3802ee7",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "491dc110-b459-412e-8a0b-45e5744ee8d1": {
       "name": "Mystic Reflection",
@@ -13285,6 +13307,7 @@
       "label": "",
       "scryfallId": "ded0147d-220f-411d-8950-fd8a47786f6f",
       "effects": [
+        "Removal",
         "Protection"
       ]
     },
@@ -14320,7 +14343,9 @@
       "rating": 4,
       "label": "",
       "scryfallId": "0307bb5c-0a46-4f6b-b6d5-58cf31987bb5",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "5d86a59a-ba1f-45f7-b829-dca6f9f3e624": {
       "name": "Phelia, Exuberant Shepherd",
@@ -14904,6 +14929,7 @@
       "label": "",
       "scryfallId": "013eeb99-1b66-4fba-ad96-78deee901ea4",
       "effects": [
+        "Removal",
         "Discard",
         "Filter",
         "Burn"
@@ -15187,8 +15213,7 @@
       "label": "",
       "scryfallId": "2cac290f-69fb-4e18-a36c-356f04193ab3",
       "effects": [
-        "Tokens",
-        "Removal"
+        "Tokens"
       ]
     },
     "d777e428-cc50-40b1-a241-41576d2575d1": {
@@ -15364,6 +15389,7 @@
       "label": "",
       "scryfallId": "0a7344ed-f94d-4983-a654-3896cf2e2396",
       "effects": [
+        "Removal",
         "CardAdvantage"
       ]
     },
@@ -16393,6 +16419,7 @@
       "label": "",
       "scryfallId": "edf8a080-2327-4ae0-97bc-ed488a619797",
       "effects": [
+        "Removal",
         "Ramp"
       ]
     },
@@ -17501,7 +17528,9 @@
       "rating": 4,
       "label": "",
       "scryfallId": "1fd434bf-35c3-4db5-9c7e-04ab0e65eedd",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "3a6f886b-2043-47e9-9c0f-f7913a6fa67d": {
       "name": "Shadowmage Infiltrator",
@@ -17690,6 +17719,7 @@
       "label": "",
       "scryfallId": "1b5fb738-ce58-4309-9068-53d01d1fb45e",
       "effects": [
+        "Removal",
         "Discard",
         "Mill"
       ]
@@ -17699,7 +17729,9 @@
       "rating": 5,
       "label": "",
       "scryfallId": "01812e27-4bb5-4e70-8c60-beb93dba4cb2",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "34f34409-326d-4994-a0ea-1a69aa278f03": {
       "name": "Sheoldred, the Apocalypse",
@@ -17904,6 +17936,7 @@
       "label": "",
       "scryfallId": "201c00ae-8044-4c99-a791-5c076d71aa73",
       "effects": [
+        "Removal",
         "Reanimate",
         "Buff"
       ]
@@ -18470,7 +18503,9 @@
       "rating": 5,
       "label": "",
       "scryfallId": "0ec0bd13-d1be-4996-8613-f9dd7b8bf2cd",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "1e46c709-5278-44f3-9f0e-f71bd9558339": {
       "name": "Soul Transfer",
@@ -19113,7 +19148,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "ec8b77cf-9c1e-4c8f-b452-295cc1570d0e",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "1f570526-7fb0-4fe5-8014-b5793eb65f87": {
       "name": "Strangle",
@@ -21201,6 +21238,7 @@
       "label": "",
       "scryfallId": "dbaa9a2d-e9fd-4746-a26c-f99ae731f024",
       "effects": [
+        "Removal",
         "Burn"
       ]
     },
@@ -22087,6 +22125,7 @@
       "label": "",
       "scryfallId": "1956d6c4-4dca-4110-8de3-a31a1e4ec98f",
       "effects": [
+        "Removal",
         "Ramp",
         "Burn"
       ]
@@ -22782,7 +22821,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "0173b7b4-2832-4943-ba45-8ba498d7a056",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "1216900e-93e3-41a4-b354-9c81938639c2": {
       "name": "Vren, the Relentless",
@@ -23283,7 +23324,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "2541fbe3-162e-44d6-a9a4-812e668559c7",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "48ae84e7-125d-4018-afc1-cd78448d1a13": {
       "name": "Winter Eladrin",
@@ -23710,6 +23753,7 @@
       "label": "",
       "scryfallId": "76e939ab-9d0c-4685-805c-c8bc4e6af163",
       "effects": [
+        "Removal",
         "Buff"
       ]
     },
