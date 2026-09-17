@@ -2379,9 +2379,7 @@
       "rating": 3,
       "label": "",
       "scryfallId": "bac9f6f8-6797-4580-9fc4-9a825872e017",
-      "effects": [
-        "Buff"
-      ]
+      "effects": []
     },
     "7c304547-a4b1-46c9-baed-16d2bfbe16eb": {
       "name": "Branchloft Pathway // Boulderloft Pathway",
@@ -5888,8 +5886,7 @@
       "label": "",
       "scryfallId": "038c97e5-87b2-4534-af7c-f4772f61469c",
       "effects": [
-        "Filter",
-        "Buff"
+        "Filter"
       ]
     },
     "40c88392-2aa7-4e12-86a4-8d680219e670": {
@@ -9555,7 +9552,6 @@
       "label": "",
       "scryfallId": "26b0e68a-9d4e-42ea-8dac-c47cbed0c6ad",
       "effects": [
-        "Buff",
         "Pacify"
       ]
     },
@@ -10370,7 +10366,6 @@
       "effects": [
         "CardAdvantage",
         "Filter",
-        "Buff",
         "Pacify"
       ]
     },
@@ -12176,7 +12171,8 @@
       "label": "",
       "scryfallId": "28470a4c-4767-47d4-bd18-3c2ebbff5906",
       "effects": [
-        "Disenchant"
+        "Disenchant",
+        "Buff"
       ]
     },
     "db4907f3-4071-47c4-9329-96b4813435be": {
@@ -15361,7 +15357,6 @@
       "label": "",
       "scryfallId": "0ea40f3d-648d-40d6-b0d2-4627748772ad",
       "effects": [
-        "Protection",
         "Sacrifice"
       ]
     },
@@ -17332,7 +17327,9 @@
       "rating": 4,
       "label": "",
       "scryfallId": "89e70bca-6f90-4930-adf6-cac9a88b071d",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "25dce517-ac0a-4577-89ed-04296c7c4069": {
       "name": "Sedgemoor Witch",
@@ -18357,7 +18354,6 @@
       "label": "",
       "scryfallId": "0d73c9c4-8955-499f-8f87-6500b35b4977",
       "effects": [
-        "Buff",
         "Mill"
       ]
     },
@@ -20600,8 +20596,7 @@
       "label": "",
       "scryfallId": "09ecd919-6f99-47fd-8242-b0b062e98b45",
       "effects": [
-        "Ramp",
-        "Buff"
+        "Ramp"
       ]
     },
     "201b8936-18f4-4881-a1d4-c308cf3832bf": {
@@ -22831,8 +22826,7 @@
       "label": "",
       "scryfallId": "378992a4-a683-4b2d-bdf8-f87e48d2e5d9",
       "effects": [
-        "Tokens",
-        "Buff"
+        "Tokens"
       ]
     },
     "1db6a042-303e-4b76-bb6c-63df846fd6c9": {
@@ -23891,7 +23885,6 @@
       "label": "",
       "scryfallId": "328e2d37-eb8a-46b6-a9a0-ea8efb064683",
       "effects": [
-        "Protection",
         "Sacrifice"
       ]
     },
