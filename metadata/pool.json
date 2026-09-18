@@ -4613,7 +4613,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "651939e8-5de0-4a6b-b318-a3a25ee50fc1",
-      "effects": []
+      "effects": [
+        "Buff"
+      ]
     },
     "c6c1e576-7197-4067-8cd1-aa535188e1b8": {
       "name": "Debt to the Kami",
@@ -6396,7 +6398,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "e111fcab-17f7-4a02-b4eb-606ba18812b3",
-      "effects": []
+      "effects": [
+        "Buff"
+      ]
     },
     "58776b25-794e-4a87-bc71-a77c025b9b03": {
       "name": "Expel",
@@ -12415,7 +12419,8 @@
       "scryfallId": "18119daf-c6a5-4e4b-b81b-b36277017e05",
       "effects": [
         "Removal",
-        "CardAdvantage"
+        "CardAdvantage",
+        "Buff"
       ]
     },
     "26a623a1-60c9-47e3-af96-616e29551865": {
@@ -15365,7 +15370,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "6eb0d9a2-f9bb-4d8e-a1ca-896c42f8ad56",
-      "effects": []
+      "effects": [
+        "Buff"
+      ]
     },
     "3c970f43-17da-4187-a084-efd53b579067": {
       "name": "Ral, Crackling Wit",
@@ -20786,7 +20793,8 @@
       "scryfallId": "e2a54461-1f75-4304-b6d7-635171419456",
       "effects": [
         "Tokens",
-        "Ramp"
+        "Ramp",
+        "Buff"
       ]
     },
     "efe7e212-5c91-42f0-9dff-591131b4f6d8": {
@@ -21386,7 +21394,8 @@
       "label": "",
       "scryfallId": "05edd9e7-1ff9-452a-b8d6-e96ab077188c",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Buff"
       ]
     },
     "1f3b0b15-2c38-4aaa-b527-afbb540a6715": {
@@ -21586,7 +21595,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "0efe1969-e30c-4f07-90b0-3d9699a09f1b",
-      "effects": []
+      "effects": [
+        "Buff"
+      ]
     },
     "9056eba4-612b-4e82-8689-fe098241b007": {
       "name": "Trove Warden",
