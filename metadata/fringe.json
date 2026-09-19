@@ -21601,7 +21601,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "77b549e5-c25d-4688-b362-faab109ba092",
-      "effects": [],
+      "effects": [
+        "Steal"
+      ],
       "reviewedAt": "2026-09-05T10:31:05.1342272+00:00"
     },
     "c9823e5f-d0f8-4d28-8b3b-55f94ea9d76f": {
@@ -29841,8 +29843,7 @@
       "label": "",
       "scryfallId": "06425615-6c10-4766-8128-a1a09a35649d",
       "effects": [
-        "Tokens",
-        "Steal"
+        "Tokens"
       ],
       "reviewedAt": "2026-09-08T12:21:20.408265+00:00"
     },
