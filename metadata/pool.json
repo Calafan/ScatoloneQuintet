@@ -23043,7 +23043,7 @@
       "label": "",
       "scryfallId": "0001b4a6-10bf-4bdd-a9da-fe78d9d39a82",
       "effects": [
-        "Reanimate"
+        "ManaFixing"
       ],
       "reviewedAt": "2026-09-10T16:10:18.1740112+00:00"
     },

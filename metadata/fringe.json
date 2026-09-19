@@ -22193,7 +22193,8 @@
       "label": "",
       "scryfallId": "28c06fb2-3231-4d20-82f6-b1cfe7365856",
       "effects": [
-        "Tokens"
+        "Tokens",
+        "Reanimate"
       ],
       "reviewedAt": "2026-09-10T15:07:41.0966942+00:00"
     },
