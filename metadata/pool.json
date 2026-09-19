@@ -993,7 +993,8 @@
       "scryfallId": "112eb5ce-4fe5-45b3-b810-79fef74b07f9",
       "effects": [
         "Tokens",
-        "Bounce"
+        "Bounce",
+        "Steal"
       ]
     },
     "9ea87566-43da-4ebd-a904-ae8b8830c3a2": {
@@ -1123,6 +1124,7 @@
       "label": "",
       "scryfallId": "87373340-e0d0-4cef-9400-639041010b94",
       "effects": [
+        "Steal",
         "ManaFixing"
       ]
     },
@@ -1340,6 +1342,7 @@
       "label": "",
       "scryfallId": "60c1b3da-e8e6-4118-a268-1e3871e6ffee",
       "effects": [
+        "Disenchant",
         "Discard",
         "Filter"
       ]
@@ -1379,8 +1382,7 @@
       "label": "",
       "scryfallId": "a71caadb-31ab-4b7f-b304-e7d3e8f9d132",
       "effects": [
-        "RemovePermanent",
-        "Disenchant"
+        "RemovePermanent"
       ]
     },
     "e3191093-1aaa-4002-a603-7c8d132b6a31": {
@@ -2221,8 +2223,7 @@
       "label": "",
       "scryfallId": "0fb5d4ce-516e-43fd-9de0-30f8517f7220",
       "effects": [
-        "Removal",
-        "Disenchant"
+        "Removal"
       ]
     },
     "7ba550a5-81fc-42c2-8df8-ad455d938605": {
@@ -2290,8 +2291,7 @@
       "label": "",
       "scryfallId": "3eeef24b-b937-408e-a32e-1a546d3e7b0f",
       "effects": [
-        "RemovePermanent",
-        "Disenchant"
+        "RemovePermanent"
       ]
     },
     "bf1341dd-41a3-49f6-87ec-63170dde4324": {
@@ -2352,7 +2352,9 @@
       "rating": 4,
       "label": "",
       "scryfallId": "27691efa-052d-4afe-b9ef-159858ca660f",
-      "effects": []
+      "effects": [
+        "Disenchant"
+      ]
     },
     "9908e597-9470-4c13-8387-39431b380138": {
       "name": "Braingeyser",
@@ -2370,6 +2372,7 @@
       "label": "",
       "scryfallId": "0984b1f1-dfc8-4cb9-90a3-e084950438bf",
       "effects": [
+        "Steal",
         "ManaFixing"
       ]
     },
@@ -2431,6 +2434,7 @@
       "label": "",
       "scryfallId": "5cee9449-90c1-4e41-a6d6-6feae81c2f10",
       "effects": [
+        "Steal",
         "Mill"
       ]
     },
@@ -2536,7 +2540,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "49fd737a-d7da-421b-a741-d6d0d213299f",
-      "effects": []
+      "effects": [
+        "Steal"
+      ]
     },
     "f1d2f437-d474-4617-aea6-102daa5e5a15": {
       "name": "Brightblade Stoat",
@@ -2666,7 +2672,8 @@
       "label": "",
       "scryfallId": "3c100b73-ce54-4022-9d42-2277089c5032",
       "effects": [
-        "Wipe"
+        "Wipe",
+        "Disenchant"
       ]
     },
     "5eb8b497-ec9a-4a89-ad29-1ec3ca82da7c": {
@@ -2951,6 +2958,7 @@
       "label": "",
       "scryfallId": "18937a89-4931-4cb0-b8b8-8582433f6e1a",
       "effects": [
+        "Steal",
         "Mill"
       ]
     },
@@ -3114,7 +3122,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "cb59130a-a134-4383-b983-e4b526d11fb4",
-      "effects": []
+      "effects": [
+        "Disenchant"
+      ]
     },
     "e4719557-d94e-490f-8a56-c1867a01d2ef": {
       "name": "Cecil, Dark Knight // Cecil, Redeemed Paladin",
@@ -4092,7 +4102,9 @@
       "rating": 4,
       "label": "",
       "scryfallId": "27207ba1-ce8b-41c3-9129-4458c13ed1c1",
-      "effects": []
+      "effects": [
+        "Steal"
+      ]
     },
     "ad82b43b-b15e-48f4-86ab-5ee2c448cf14": {
       "name": "Court of Vantress",
@@ -4196,7 +4208,9 @@
       "rating": 4,
       "label": "",
       "scryfallId": "6d45d486-d94c-48aa-ad9f-a1dc166f41dd",
-      "effects": []
+      "effects": [
+        "Steal"
+      ]
     },
     "8d6e39b0-a190-40a0-a8e1-ee82f477376f": {
       "name": "Crumble",
@@ -4344,7 +4358,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "066f260b-722b-4abf-92c8-2e6f87f480ae",
-      "effects": []
+      "effects": [
+        "Steal"
+      ]
     },
     "4d67e2a7-4aa7-44cc-853b-500d7aac046d": {
       "name": "Cursed Mirror",
@@ -4544,7 +4560,9 @@
       "rating": 4,
       "label": "",
       "scryfallId": "29632951-3c3d-478c-8c5a-9a34f30a5c28",
-      "effects": []
+      "effects": [
+        "Steal"
+      ]
     },
     "25c0bbc8-b0c3-4166-967f-e8b096487a6c": {
       "name": "Davros, Dalek Creator",
@@ -4588,7 +4606,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "134a0b3d-f8f2-49b7-9943-dbc30d8cfc7f",
-      "effects": []
+      "effects": [
+        "Steal"
+      ]
     },
     "b831d3f8-07ce-4172-ba29-213cac414c9a": {
       "name": "Deadly Brew",
@@ -4672,6 +4692,7 @@
       "effects": [
         "Ramp",
         "CardAdvantage",
+        "Steal",
         "ManaFixing"
       ]
     },
@@ -5139,7 +5160,6 @@
       "effects": [
         "Ramp",
         "CardAdvantage",
-        "Steal",
         "ManaFixing"
       ]
     },
@@ -5186,7 +5206,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "39e7bb05-96df-4e76-90a6-3f3625b7965a",
-      "effects": []
+      "effects": [
+        "Disenchant"
+      ]
     },
     "09ef446c-a13d-49d9-a94c-cd5f5a2d440b": {
       "name": "Displacer Kitten",
@@ -5488,7 +5510,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "a245a978-8072-4b4b-94d4-237050ba4526",
-      "effects": []
+      "effects": [
+        "Steal"
+      ]
     },
     "dd8538e6-cd5f-4a88-aff5-eb5e76ce8ddb": {
       "name": "Dreamroot Cascade",
@@ -5520,7 +5544,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "4194675b-0807-431c-9d47-7e51e5a1dac0",
-      "effects": []
+      "effects": [
+        "Steal"
+      ]
     },
     "1e939df0-d421-42b7-b642-88b3555fd8df": {
       "name": "Drizzt Do'Urden",
@@ -6141,7 +6167,9 @@
       "rating": 5,
       "label": "",
       "scryfallId": "11454c82-3f1d-4456-8857-0dcb01d34298",
-      "effects": []
+      "effects": [
+        "Steal"
+      ]
     },
     "736017e2-bc33-49e8-812d-1639443fdb51": {
       "name": "Entish Restoration",
@@ -6259,7 +6287,9 @@
       "rating": 5,
       "label": "",
       "scryfallId": "3e97c609-3932-4428-96d4-1c97e61f0abb",
-      "effects": []
+      "effects": [
+        "Steal"
+      ]
     },
     "04d8615c-3883-4251-9790-1d8a4a40e142": {
       "name": "Eternal Dragon",
@@ -6327,6 +6357,7 @@
       "scryfallId": "1cef767a-6fbb-4ca7-8cff-e9121ac131ac",
       "effects": [
         "CardAdvantage",
+        "Steal",
         "ManaFixing"
       ]
     },
@@ -6577,7 +6608,9 @@
       "rating": 4,
       "label": "",
       "scryfallId": "344e9383-5481-4abe-a59d-3a0145b7cca2",
-      "effects": []
+      "effects": [
+        "Steal"
+      ]
     },
     "96480e86-70a8-401d-abf8-a7d509311b73": {
       "name": "Extract a Confession",
@@ -6594,6 +6627,7 @@
       "label": "",
       "scryfallId": "2bdb9df1-4475-45e7-bc9c-40937c8c1722",
       "effects": [
+        "Disenchant",
         "Discard"
       ]
     },
@@ -6813,7 +6847,8 @@
       "label": "",
       "scryfallId": "0050b693-7bad-4c0c-baca-0186d153ce2e",
       "effects": [
-        "Wipe"
+        "Wipe",
+        "Disenchant"
       ]
     },
     "7d306de8-a93b-429b-9436-0501be97dc8d": {
@@ -7491,6 +7526,7 @@
       "label": "",
       "scryfallId": "c1500cbf-5619-465e-a97b-75e676ce789b",
       "effects": [
+        "Steal",
         "Mill"
       ]
     },
@@ -7970,7 +8006,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "6900a344-a155-4ee1-a3ac-d6c28e024270",
-      "effects": []
+      "effects": [
+        "Disenchant"
+      ]
     },
     "14d5ed90-0aa7-48f0-9017-83912b9e89d1": {
       "name": "Geistwave",
@@ -8163,7 +8201,9 @@
       "rating": 4,
       "label": "",
       "scryfallId": "21081971-7cb9-479f-9c3e-cb5b4a40a936",
-      "effects": []
+      "effects": [
+        "Steal"
+      ]
     },
     "48e6d3d8-2f27-4017-acdd-40bce8cdbc02": {
       "name": "Giada, Font of Hope",
@@ -8196,7 +8236,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "8de3fdae-cc2c-4a14-b15b-4fe1a983dfbf",
-      "effects": []
+      "effects": [
+        "Steal"
+      ]
     },
     "f1354b1b-896c-4492-b0c0-3dd07c6d3917": {
       "name": "Gisa, Glorious Resurrector",
@@ -8234,7 +8276,8 @@
       "label": "",
       "scryfallId": "135c5948-4c95-4f24-b648-eda55ab637c8",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Steal"
       ]
     },
     "c3006be3-a796-4238-95dd-1e8e47c063b5": {
@@ -8747,7 +8790,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "00f40514-d37d-423f-aa0c-1875300f43a8",
-      "effects": []
+      "effects": [
+        "Steal"
+      ]
     },
     "c7748659-0206-448f-8567-83565cb0b51a": {
       "name": "Guardian Archon",
@@ -9114,7 +9159,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "3c3793c3-c9f6-4fb0-9b95-cd4cd07ab40d",
-      "effects": []
+      "effects": [
+        "Disenchant"
+      ]
     },
     "461b3f2f-fcee-4160-abfa-061f8b6a784f": {
       "name": "Hengegate Pathway // Mistgate Pathway",
@@ -10000,6 +10047,7 @@
       "label": "",
       "scryfallId": "73342536-fd44-4958-b77e-56eec222252e",
       "effects": [
+        "Steal",
         "ManaFixing"
       ]
     },
@@ -10865,7 +10913,8 @@
       "label": "",
       "scryfallId": "a32dbdc6-3321-4d77-8d2f-acbcb1a29090",
       "effects": [
-        "Removal"
+        "Removal",
+        "Disenchant"
       ]
     },
     "6ba0656f-e0d2-4735-9c66-3a00afa9fc23": {
@@ -11236,8 +11285,7 @@
       "label": "",
       "scryfallId": "32da8479-7d0e-4eb1-b18c-66eb170e31a5",
       "effects": [
-        "RemovePermanent",
-        "Disenchant"
+        "RemovePermanent"
       ]
     },
     "f92aaa00-6ece-4033-b3df-b2fc2c4718d9": {
@@ -11581,7 +11629,9 @@
       "rating": 4,
       "label": "",
       "scryfallId": "0762ed45-b00b-438d-b497-47ba06d20877",
-      "effects": []
+      "effects": [
+        "Disenchant"
+      ]
     },
     "1a9048d6-f3fa-4f3b-9baa-35318177bc6e": {
       "name": "Loran's Escape",
@@ -12624,7 +12674,8 @@
       "label": "",
       "scryfallId": "f915b034-ab16-48a6-a151-71eaa0b542f9",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Steal"
       ]
     },
     "f18cce8c-8fb6-49a7-8f79-2529c0ee3ecc": {
@@ -12643,7 +12694,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "44c76340-bcd4-42e9-8a2d-11766f8927c7",
-      "effects": []
+      "effects": [
+        "Disenchant"
+      ]
     },
     "5a680186-a84d-400f-9452-76f19bdfafa3": {
       "name": "Molten Blast",
@@ -13084,7 +13137,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "1e62de3b-6a41-43e3-93ad-9a1e3894be3b",
-      "effects": []
+      "effects": [
+        "Steal"
+      ]
     },
     "09a1ab1b-d9f0-4a2a-a448-3190f85006e4": {
       "name": "Natural Affinity",
@@ -14414,7 +14469,8 @@
       "label": "",
       "scryfallId": "3c252d55-2b1f-407a-9b4e-c0fa2a60e538",
       "effects": [
-        "Tokens"
+        "Tokens",
+        "Disenchant"
       ]
     },
     "dafe63ef-f3d6-45e7-877a-573da92ba85e": {
@@ -14483,7 +14539,8 @@
       "label": "",
       "scryfallId": "0307bb5c-0a46-4f6b-b6d5-58cf31987bb5",
       "effects": [
-        "Removal"
+        "Removal",
+        "Disenchant"
       ]
     },
     "5d86a59a-ba1f-45f7-b829-dca6f9f3e624": {
@@ -14695,8 +14752,7 @@
       "label": "",
       "scryfallId": "9163cb04-ee28-4127-b53a-89c546996d7d",
       "effects": [
-        "Removal",
-        "Disenchant"
+        "Removal"
       ]
     },
     "f89d093d-c815-4df7-a348-2005aa227586": {
@@ -14715,7 +14771,9 @@
       "rating": 5,
       "label": "",
       "scryfallId": "160f048a-8813-454d-af84-1e53f33af9f6",
-      "effects": []
+      "effects": [
+        "Steal"
+      ]
     },
     "ac5258c1-5b46-4892-a445-bfd56875f039": {
       "name": "Plasma Bolt",
@@ -14861,8 +14919,7 @@
       "label": "",
       "scryfallId": "35a4e4b7-bd0a-48f4-be2e-c7453e3ba4d1",
       "effects": [
-        "RemovePermanent",
-        "Disenchant"
+        "RemovePermanent"
       ]
     },
     "301d1d8e-d3fc-4010-8b29-4724fa0b31cd": {
@@ -15467,6 +15524,7 @@
       "scryfallId": "10cde602-f47c-4dac-bf1b-e300c82e5fd5",
       "effects": [
         "Ramp",
+        "Steal",
         "ManaFixing"
       ]
     },
@@ -15509,7 +15567,8 @@
       "label": "",
       "scryfallId": "0ea40f3d-648d-40d6-b0d2-4627748772ad",
       "effects": [
-        "Sacrifice"
+        "Sacrifice",
+        "Steal"
       ]
     },
     "c2248d3d-3157-4610-868d-2b3fae2b1ec8": {
@@ -15568,6 +15627,7 @@
       "scryfallId": "11a4e199-faa9-4c41-863d-92170c8f20cc",
       "effects": [
         "Ramp",
+        "Steal",
         "ManaFixing"
       ]
     },
@@ -15591,7 +15651,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "02ce7345-6a4b-4927-8d34-1c6fba6d5759",
-      "effects": []
+      "effects": [
+        "Disenchant"
+      ]
     },
     "8539f295-5d58-4436-a73a-b9277c4c7795": {
       "name": "Rampant Growth",
@@ -16660,7 +16722,8 @@
       "scryfallId": "0f0b2d53-455d-400d-b0d5-e9bf410f8d7e",
       "effects": [
         "Ramp",
-        "Filter"
+        "Filter",
+        "Steal"
       ]
     },
     "ffe13100-99dd-41e3-82ba-eaead6fd0113": {
@@ -16670,6 +16733,7 @@
       "scryfallId": "00756441-a734-4960-9c69-f03a508a1522",
       "effects": [
         "Tokens",
+        "Disenchant",
         "Buff"
       ]
     },
@@ -17388,8 +17452,7 @@
       "label": "",
       "scryfallId": "2ccc29cc-025d-402e-9fe3-75998eb290c9",
       "effects": [
-        "RemovePermanent",
-        "Disenchant"
+        "RemovePermanent"
       ]
     },
     "a75dbe70-7e3e-446f-9a76-9fbb414f2e7c": {
@@ -17885,6 +17948,7 @@
         "Removal",
         "Discard",
         "Reanimate",
+        "Steal",
         "Mill"
       ]
     },
@@ -18211,6 +18275,7 @@
       "label": "",
       "scryfallId": "03f0808c-4d30-4ec8-98b4-b0f1533861f1",
       "effects": [
+        "Steal",
         "ManaFixing"
       ]
     },
@@ -18722,7 +18787,8 @@
       "label": "",
       "scryfallId": "4a821438-2b60-421e-9fd2-3ce3ec958eb7",
       "effects": [
-        "Tokens"
+        "Tokens",
+        "Disenchant"
       ]
     },
     "6b7fb630-79eb-4337-a698-626e585a495f": {
@@ -18833,7 +18899,8 @@
       "label": "",
       "scryfallId": "b9fd720b-e9c2-4e82-917e-bab6c544afb0",
       "effects": [
-        "Removal"
+        "Removal",
+        "Disenchant"
       ]
     },
     "845472ca-3fcb-4bcd-953c-96eb8d914af9": {
@@ -19168,8 +19235,7 @@
       "label": "",
       "scryfallId": "dd16222e-349c-4a2b-a7c8-8eb35a8ab332",
       "effects": [
-        "RemovePermanent",
-        "Disenchant"
+        "RemovePermanent"
       ]
     },
     "0fb9a928-9adb-4dc1-9761-857df7e6c643": {
@@ -20610,6 +20676,7 @@
       "effects": [
         "Discard",
         "Reanimate",
+        "Steal",
         "Tutor"
       ]
     },
@@ -20899,6 +20966,7 @@
       "label": "",
       "scryfallId": "b30dde6c-9bc6-45bf-97e4-9c08be79d506",
       "effects": [
+        "Steal",
         "ManaFixing"
       ]
     },
@@ -21370,7 +21438,8 @@
       "label": "",
       "scryfallId": "25bdc11d-bef3-4823-b8bd-209cdac4ea31",
       "effects": [
-        "Discard"
+        "Discard",
+        "Steal"
       ]
     },
     "7bc4c7e2-6758-4a85-84e7-03ab93981106": {
@@ -21379,6 +21448,7 @@
       "label": "",
       "scryfallId": "05adb3cf-0804-490a-92a0-baadfb11439d",
       "effects": [
+        "Steal",
         "Regrowth"
       ]
     },
@@ -22341,7 +22411,8 @@
       "label": "",
       "scryfallId": "1152a35a-9483-446e-a2d8-539b4518a1ad",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Steal"
       ]
     },
     "f84d8217-51a4-49ba-9df6-d080ed38f37d": {
@@ -22447,6 +22518,7 @@
       "scryfallId": "298a4109-4f8d-449c-b13d-e678c1113b90",
       "effects": [
         "Ramp",
+        "Steal",
         "ManaFixing"
       ]
     },
@@ -22490,7 +22562,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "0a44bbbf-2c38-4ecb-99a0-b944983f7e51",
-      "effects": []
+      "effects": [
+        "Steal"
+      ]
     },
     "4ba1f2c5-6456-4809-a563-fd5bd311869a": {
       "name": "Valiant Endeavor",
@@ -22510,6 +22584,7 @@
         "Removal",
         "Ramp",
         "Disenchant",
+        "Steal",
         "ManaFixing"
       ]
     },
@@ -22798,7 +22873,8 @@
       "scryfallId": "41d1fed9-f9b2-4fec-bdaf-d2d9ce4111ad",
       "effects": [
         "Removal",
-        "Burn"
+        "Burn",
+        "Steal"
       ]
     },
     "f61f4307-4eec-476a-97e5-d4d3da2b54c3": {
@@ -23111,7 +23187,9 @@
       "rating": 5,
       "label": "",
       "scryfallId": "05d1b195-1142-4a9a-92a5-fda8c25c1e21",
-      "effects": []
+      "effects": [
+        "Steal"
+      ]
     },
     "0fa886c2-9b58-4368-b2d0-e619c62a554f": {
       "name": "Wandering Mind",
@@ -23934,6 +24012,7 @@
       "effects": [
         "Disenchant",
         "CardAdvantage",
+        "Steal",
         "ManaFixing"
       ]
     },
