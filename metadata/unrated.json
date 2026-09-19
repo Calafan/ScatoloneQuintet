@@ -50,9 +50,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "23e60446-324a-4a6a-ac75-d6d27d05a84d",
-      "effects": [
-        "CardAdvantage"
-      ]
+      "effects": []
     },
     "722ee05f-6815-41b7-9813-5ec3902c1e9f": {
       "name": "Aberrant Researcher // Perfected Form",
@@ -103,7 +101,6 @@
       "label": "",
       "scryfallId": "7df9759e-1072-4a6a-be57-f73b15bf3847",
       "effects": [
-        "CardAdvantage",
         "Filter"
       ]
     },
@@ -1731,6 +1728,7 @@
       "label": "",
       "scryfallId": "4a30bcfa-6f95-450f-aea7-885983d7c6a5",
       "effects": [
+        "CardAdvantage",
         "Filter",
         "Buff"
       ]
@@ -1897,7 +1895,6 @@
       "label": "",
       "scryfallId": "6ef4e1e2-7961-47d2-bb55-9168ea201214",
       "effects": [
-        "CardAdvantage",
         "Filter"
       ]
     },
@@ -7039,7 +7036,6 @@
       "scryfallId": "0c7cc34b-8dee-4732-b6a1-db901b9389e1",
       "effects": [
         "Ramp",
-        "CardAdvantage",
         "Filter"
       ]
     },
@@ -11973,6 +11969,7 @@
       "label": "",
       "scryfallId": "e1fb9767-29bf-4a69-b37c-0925d41f6b46",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -21040,7 +21037,6 @@
       "label": "",
       "scryfallId": "34f0cf08-0409-492c-84c2-ceb4b86b8d68",
       "effects": [
-        "CardAdvantage",
         "Filter"
       ]
     },
@@ -25823,6 +25819,7 @@
       "label": "",
       "scryfallId": "019728bc-7d37-4384-81e5-97c47660c092",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -27337,6 +27334,7 @@
       "scryfallId": "1031eeaa-6c21-4192-b185-85708819344d",
       "effects": [
         "Ramp",
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -41555,7 +41553,6 @@
       "label": "",
       "scryfallId": "a4164af6-356e-4de2-8377-dbe70434a996",
       "effects": [
-        "CardAdvantage",
         "Filter"
       ]
     },
@@ -44767,6 +44764,7 @@
       "label": "",
       "scryfallId": "1b2bee5c-7ea0-4713-a60b-dccaf89c5d48",
       "effects": [
+        "CardAdvantage",
         "Filter",
         "Buff"
       ]
@@ -46869,6 +46867,7 @@
       "label": "",
       "scryfallId": "2ac115db-9a35-41da-bb77-a61ef6c73b6f",
       "effects": [
+        "CardAdvantage",
         "Filter",
         "Buff"
       ]
@@ -49530,7 +49529,6 @@
       "scryfallId": "83e4e83b-cbb8-4efd-b6c4-4459a29177ac",
       "effects": [
         "Ramp",
-        "CardAdvantage",
         "Filter"
       ]
     },
@@ -49910,6 +49908,7 @@
       "label": "",
       "scryfallId": "72825270-d5c1-4ab1-903a-e2868ade17f2",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -50095,7 +50094,6 @@
       "label": "",
       "scryfallId": "65868ea1-4e80-4871-a93f-66582690869a",
       "effects": [
-        "CardAdvantage",
         "Filter",
         "Buff"
       ]
@@ -50134,7 +50132,6 @@
       "label": "",
       "scryfallId": "38fd9091-2d22-411f-955a-24c32293cdca",
       "effects": [
-        "CardAdvantage",
         "Filter"
       ]
     },
@@ -51331,7 +51328,8 @@
       "label": "",
       "scryfallId": "07a3d9e8-8597-498b-869c-cff79e0df516",
       "effects": [
-        "Tokens"
+        "Tokens",
+        "CardAdvantage"
       ]
     },
     "a20dd48d-d344-4db1-b0e9-a2b71c3cc9d1": {
@@ -54024,7 +54022,6 @@
       "label": "",
       "scryfallId": "3502685d-4e57-4c5c-94c6-ae69048cdfbf",
       "effects": [
-        "CardAdvantage",
         "ManaFixing"
       ]
     },
@@ -56593,6 +56590,7 @@
       "label": "",
       "scryfallId": "2e12186e-9c93-4136-9ea3-e8d2ae1ee2e5",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -58700,7 +58698,6 @@
       "label": "",
       "scryfallId": "3c41fee8-7b03-4dc8-babb-f8c8369a74c2",
       "effects": [
-        "CardAdvantage",
         "Filter"
       ]
     },
@@ -60006,6 +60003,7 @@
       "label": "",
       "scryfallId": "af9adca9-3e69-474f-896d-bb05b1d67252",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -60271,6 +60269,7 @@
       "label": "",
       "scryfallId": "3abdefd1-5562-4c10-8127-aaf3a9009adf",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -63413,7 +63412,6 @@
       "label": "",
       "scryfallId": "0689e9a6-b435-4a38-b913-3a2b1aeedafd",
       "effects": [
-        "CardAdvantage",
         "Filter"
       ]
     },
@@ -64316,6 +64314,7 @@
       "label": "",
       "scryfallId": "000db964-719d-4532-9225-35658565b35d",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -78561,7 +78560,6 @@
       "label": "",
       "scryfallId": "08e25713-05ea-4eed-aa7f-5ca4e57a8152",
       "effects": [
-        "CardAdvantage",
         "Filter"
       ]
     },
@@ -80912,7 +80910,6 @@
       "label": "",
       "scryfallId": "274e3aa4-4b46-4daa-a7a8-400a20c59435",
       "effects": [
-        "CardAdvantage",
         "Filter"
       ]
     },
@@ -83429,6 +83426,7 @@
       "label": "",
       "scryfallId": "1056ab38-416c-450b-9e99-1a3eefc39f32",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -87825,7 +87823,6 @@
       "label": "",
       "scryfallId": "3168317b-b166-483e-9d9a-20cdfcdc255c",
       "effects": [
-        "CardAdvantage",
         "Filter"
       ]
     },
@@ -89215,7 +89212,6 @@
       "label": "",
       "scryfallId": "1daf0244-ffb9-42f3-8301-34cee7b9ae1b",
       "effects": [
-        "CardAdvantage",
         "Filter"
       ]
     },
@@ -93437,6 +93433,7 @@
       "label": "",
       "scryfallId": "a5b1ec11-48c3-49d8-9dcd-1da5ffaf9184",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -95299,7 +95296,6 @@
       "label": "",
       "scryfallId": "9002d0f1-ff2c-4d1c-a7db-3252ef6bebbd",
       "effects": [
-        "CardAdvantage",
         "Filter"
       ]
     },
@@ -96428,6 +96424,7 @@
       "scryfallId": "5bb846f1-9857-418d-abc9-03dfd3c10d32",
       "effects": [
         "Removal",
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -97314,6 +97311,7 @@
       "label": "",
       "scryfallId": "368c6e60-804c-447c-bc2b-ac9dc4cab5e7",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -98221,6 +98219,7 @@
       "label": "",
       "scryfallId": "0c0b540a-3f90-4730-a3a1-034992363b53",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -98474,6 +98473,7 @@
       "label": "",
       "scryfallId": "26e50443-a2e1-42f9-95f1-60b539e446ad",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -101519,6 +101519,7 @@
       "label": "",
       "scryfallId": "198be33b-d6d1-4c96-bdfa-4b4098079042",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -107001,6 +107002,7 @@
       "effects": [
         "Removal",
         "Disenchant",
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -109286,6 +109288,7 @@
       "label": "",
       "scryfallId": "434e1ba7-59b5-45c4-913b-4aeadeffd86f",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -109550,7 +109553,6 @@
       "scryfallId": "264baa9a-67fc-4903-9ed8-a4ce6912a184",
       "effects": [
         "Tokens",
-        "CardAdvantage",
         "Filter"
       ]
     },

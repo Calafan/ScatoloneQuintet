@@ -3826,7 +3826,6 @@
       "label": "",
       "scryfallId": "2523aaa1-7b10-4b36-a8f8-fe3e1060c7b4",
       "effects": [
-        "CardAdvantage",
         "Filter"
       ]
     },
@@ -5974,6 +5973,7 @@
       "label": "",
       "scryfallId": "038c97e5-87b2-4534-af7c-f4772f61469c",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -6537,8 +6537,7 @@
       "label": "",
       "scryfallId": "3638828e-66f7-42e9-ba61-0ba06bce7a59",
       "effects": [
-        "Tokens",
-        "CardAdvantage"
+        "Tokens"
       ]
     },
     "b23dc81d-01bb-4bf0-9932-5d32a6b22cf7": {
@@ -12872,7 +12871,6 @@
       "label": "",
       "scryfallId": "670760bf-1fed-4e99-91ae-8dac8ade16dd",
       "effects": [
-        "CardAdvantage",
         "Filter"
       ]
     },
@@ -15159,6 +15157,7 @@
       "effects": [
         "Removal",
         "Discard",
+        "CardAdvantage",
         "Filter",
         "Burn"
       ]
@@ -20705,7 +20704,6 @@
       "scryfallId": "217bd102-c71d-4457-a282-6a5028473993",
       "effects": [
         "Ramp",
-        "CardAdvantage",
         "Filter"
       ]
     },

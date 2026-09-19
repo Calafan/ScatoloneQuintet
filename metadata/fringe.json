@@ -539,7 +539,6 @@
       "label": "",
       "scryfallId": "d2028115-f0de-4e8b-99bc-7369352e1e07",
       "effects": [
-        "CardAdvantage",
         "Filter"
       ]
     },
@@ -1774,6 +1773,7 @@
       "label": "",
       "scryfallId": "07f8d140-8ff2-4ba5-9233-23b39a279a18",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -9046,6 +9046,7 @@
       "scryfallId": "102746f5-ba25-45f2-943e-55f9a4458fa7",
       "effects": [
         "Tokens",
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -11873,6 +11874,7 @@
       "label": "",
       "scryfallId": "3c9b154f-808f-4338-ad95-a0a478460ad8",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -14366,6 +14368,7 @@
       "effects": [
         "Removal",
         "Disenchant",
+        "CardAdvantage",
         "Filter",
         "Reanimate"
       ]
@@ -15030,9 +15033,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "70668650-0fb1-4486-a4e6-ab9a12be5626",
-      "effects": [
-        "CardAdvantage"
-      ]
+      "effects": []
     },
     "89aa65d9-2502-40b0-90b6-b25a8e9f6155": {
       "name": "Capture of Jingzhou",
@@ -15311,6 +15312,7 @@
       "label": "",
       "scryfallId": "4c7d9b79-bcf8-4c6e-8b0b-6cd71b615d39",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -15355,6 +15357,7 @@
       "label": "",
       "scryfallId": "1e2278d7-215e-49f9-ae2b-9df099c67b6d",
       "effects": [
+        "CardAdvantage",
         "Filter",
         "ManaFixing"
       ]
@@ -19860,6 +19863,7 @@
       "label": "",
       "scryfallId": "51ddebe2-aad6-4097-ac02-fa6c99f30de7",
       "effects": [
+        "CardAdvantage",
         "Filter",
         "Buff"
       ]
@@ -20071,7 +20075,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "050c52b1-5dea-4aae-aa32-e501d61b56e7",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "56aeaee8-e014-485e-b7ad-e26ade663bcf": {
       "name": "Contaminated Bond",
@@ -28885,7 +28891,6 @@
       "label": "",
       "scryfallId": "2b58e47b-c165-4a58-aa2a-033a35645adc",
       "effects": [
-        "CardAdvantage",
         "Filter"
       ]
     },
@@ -36605,6 +36610,7 @@
       "label": "",
       "scryfallId": "32f17c7c-cf1d-4cdf-b3a9-699a679ac215",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -40441,6 +40447,7 @@
       "label": "",
       "scryfallId": "0b953651-f9aa-4d7b-8c70-4c4417e3997a",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -48852,6 +48859,7 @@
       "label": "",
       "scryfallId": "1bdf5870-f047-4c55-a43f-c61257a00239",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -49198,6 +49206,7 @@
       "label": "",
       "scryfallId": "19fb5f20-5bc0-4678-85c2-8e3f8c51fc52",
       "effects": [
+        "CardAdvantage",
         "Filter",
         "Cheat"
       ]
@@ -52382,6 +52391,7 @@
       "scryfallId": "573cc5ec-4892-4f24-ba65-82d51198af89",
       "effects": [
         "RemovePermanent",
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -54662,7 +54672,6 @@
       "label": "",
       "scryfallId": "16e74c30-fcd8-4ee2-87b1-e8b7f3a846d0",
       "effects": [
-        "CardAdvantage",
         "Sacrifice"
       ]
     },
@@ -57008,6 +57017,7 @@
       "label": "",
       "scryfallId": "40366946-d9e7-4770-bca2-f6d1dcb73ff5",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -57035,6 +57045,7 @@
       "scryfallId": "1f43e124-344e-4e58-8a8e-c710b28d7ebf",
       "effects": [
         "Ramp",
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -63153,6 +63164,7 @@
       "label": "",
       "scryfallId": "00af1be9-8a38-47c6-8e57-80afccf49722",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -66457,9 +66469,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "69e1ad95-4587-49b0-ac26-ba788b55a847",
-      "effects": [
-        "CardAdvantage"
-      ]
+      "effects": []
     },
     "c8da3262-826d-4ea8-bb22-06374bebefe5": {
       "name": "Mister Negative",
@@ -69018,6 +69028,7 @@
       "scryfallId": "30005416-7913-4fbf-9987-2b988ad5a6d3",
       "effects": [
         "Tokens",
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -69938,6 +69949,7 @@
       "label": "",
       "scryfallId": "1a4789a2-f201-4b05-954d-527d169de091",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -78181,7 +78193,6 @@
       "label": "",
       "scryfallId": "ad378843-e2b0-48d6-90dc-b584e857473d",
       "effects": [
-        "CardAdvantage",
         "Filter"
       ]
     },
@@ -79302,6 +79313,7 @@
       "label": "",
       "scryfallId": "0291c909-bb87-47cb-9b06-5e409e654f15",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -81086,6 +81098,7 @@
       "label": "",
       "scryfallId": "3b73a314-b197-4954-a242-7d9096a406c1",
       "effects": [
+        "CardAdvantage",
         "Steal",
         "Mill",
         "Regrowth"
@@ -82061,6 +82074,7 @@
       "label": "",
       "scryfallId": "07c33410-7e7c-4aee-9532-bf7a9558cf52",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -85732,9 +85746,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "5163087f-163d-4e5e-ae6b-aca192b4358b",
-      "effects": [
-        "CardAdvantage"
-      ]
+      "effects": []
     },
     "b81a9cf5-4059-45fb-a4e1-f2fe6aa3c841": {
       "name": "Rosecot Knight",
@@ -88089,6 +88101,7 @@
       "label": "",
       "scryfallId": "2c178c8d-ef57-4a69-a72d-c6c6f1eda617",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -92298,7 +92311,6 @@
       "label": "",
       "scryfallId": "ec538182-efba-48d0-91ad-457461b44748",
       "effects": [
-        "CardAdvantage",
         "Filter"
       ]
     },
@@ -92936,6 +92948,7 @@
       "label": "",
       "scryfallId": "5c6cf357-c231-4512-aa9a-ab4a60007136",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -94521,7 +94534,6 @@
       "label": "",
       "scryfallId": "db50259b-8ca8-4fbe-8ae3-6b0312d70980",
       "effects": [
-        "CardAdvantage",
         "Filter"
       ]
     },
@@ -98474,6 +98486,7 @@
       "label": "",
       "scryfallId": "65e1ee86-6f08-4aa0-bf63-ae12028ef080",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -98956,6 +98969,7 @@
       "label": "",
       "scryfallId": "0e209237-00f7-4bf0-8287-ccde02ce8e8d",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -104093,6 +104107,7 @@
       "label": "",
       "scryfallId": "06362723-b045-4656-a0ff-74e7dbe121e7",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -106833,6 +106848,7 @@
       "label": "",
       "scryfallId": "1979a4a0-5df5-496a-aabb-d4cf35bed965",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -107507,6 +107523,7 @@
       "label": "",
       "scryfallId": "42c400de-25cb-4865-ad1b-9a8a8da3da55",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -107730,7 +107747,6 @@
       "label": "",
       "scryfallId": "1278b2ef-6c11-4892-9388-833f67bcc858",
       "effects": [
-        "CardAdvantage",
         "Filter"
       ]
     },
@@ -110088,7 +110104,6 @@
       "label": "",
       "scryfallId": "f912c4ec-08e9-4524-a2ba-98f6dfabdc18",
       "effects": [
-        "CardAdvantage",
         "Filter"
       ]
     },
@@ -111511,6 +111526,7 @@
       "label": "",
       "scryfallId": "3cdf691e-96a5-45c7-9b94-6f04af81c8e4",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -115560,6 +115576,7 @@
       "label": "",
       "scryfallId": "36dc7851-795b-4d59-bcd9-16d2c87d3e19",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -116457,6 +116474,7 @@
       "label": "",
       "scryfallId": "3e2c3304-1bd9-44bb-bd91-00b3a089be00",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -119412,7 +119430,6 @@
       "label": "",
       "scryfallId": "c790a86d-db91-4a87-aa3a-3f9fc4d4b662",
       "effects": [
-        "CardAdvantage",
         "Filter"
       ]
     },
@@ -122539,6 +122556,7 @@
       "label": "",
       "scryfallId": "190f47fb-8bd3-44d1-b7a2-2c55b55e03e7",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },
