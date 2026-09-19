@@ -2615,7 +2615,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "807b0674-8eba-4204-b6b6-fa2b785a79e9",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "607a3f5f-4a36-4077-b5cf-40ffd52fa580": {
       "name": "Altar of Bone",
@@ -7651,7 +7653,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "1a576d17-693d-4cc1-bb5b-bf81c74de03b",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "4f5da665-e880-4325-a9e2-6fc4ca1d807a": {
       "name": "Baneblade Scoundrel // Baneclaw Marauder",
@@ -14136,7 +14140,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "2e0e27f9-dc2c-4366-b810-3e8d0bdff8c3",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "3e61d7c4-263f-4077-bdbc-d79020f2a479": {
       "name": "Cactuar",
@@ -18879,7 +18885,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "0f2c4e43-71b2-4483-ba54-4be1dcffcd5f",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "f0367926-4380-4d22-8cb8-46c2076f102a": {
       "name": "Coastal Tower",
@@ -22280,7 +22288,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "0ab3abab-70b9-4eec-be61-80f41d6a275b",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "0be907b2-54f9-4c8c-b6af-7c0093892e42": {
       "name": "Curiosity Crafter",
@@ -30890,6 +30900,7 @@
       "label": "",
       "scryfallId": "1a037b81-28a3-4ecb-9c18-e9cd5cabad16",
       "effects": [
+        "CardAdvantage",
         "Buff"
       ]
     },
@@ -34322,7 +34333,8 @@
       "scryfallId": "85a8c84b-7d6c-4068-97b1-bc5dec46732c",
       "effects": [
         "Wipe",
-        "Disenchant"
+        "Disenchant",
+        "CardAdvantage"
       ]
     },
     "54deeeef-be90-4975-9213-8355ddf3ce0c": {
@@ -37636,7 +37648,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "263501c5-dec0-4c01-8129-61f9fdd22b54",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "5cd99378-e8e2-43fe-80fc-13d680746a4a": {
       "name": "Flunk",
@@ -39390,7 +39404,8 @@
       "label": "",
       "scryfallId": "1ae5a4cc-eb0f-4195-847f-d5464a086c82",
       "effects": [
-        "Discard"
+        "Discard",
+        "CardAdvantage"
       ]
     },
     "3d3c5dd5-ad4e-48ca-92b1-91e1f4ad5c3b": {
@@ -61079,6 +61094,7 @@
       "scryfallId": "1096cb83-a192-406a-9b95-d7cbb1a0df84",
       "effects": [
         "Tokens",
+        "CardAdvantage",
         "Buff"
       ]
     },
@@ -61236,7 +61252,9 @@
       "rating": 2,
       "label": "",
       "scryfallId": "0882d4c8-32f1-4d86-b5c5-75a16697004c",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "bd716715-15a4-4356-ad7e-c642fafbfd18": {
       "name": "Lucid Dreams",
@@ -89906,7 +89924,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "187f9ede-0f30-4f37-bf4a-dc78cbf81c9e",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "632e2979-d88a-482e-9bb8-57b683c5310f": {
       "name": "Secret Tunnel",
@@ -94069,7 +94089,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "0b378e00-6653-41d4-bc90-6c8edda7f7d8",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "fc7e288f-ade2-4997-b3fe-f873c26990b0": {
       "name": "Sky Spirit",
@@ -94707,7 +94729,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "3411f0fd-8b85-4d0d-a202-701a24ffac9f",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "c8fbcef0-2cbf-4a59-8322-374dd9153ebf": {
       "name": "Sleeping Potion",
@@ -106997,14 +107021,18 @@
       "rating": 2,
       "label": "",
       "scryfallId": "1f9a1760-d681-471d-b3a2-ca5051b8bed3",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "5dee663f-9e2e-4503-8086-fc51664fdf29": {
       "name": "Thieving Otter",
       "rating": 2,
       "label": "",
       "scryfallId": "07f84b0a-37d9-4b0f-8d75-1fab45a12d44",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "d273033b-3b8b-4ce9-afe8-208d82dd20f1": {
       "name": "Thijarian Witness",
@@ -117237,7 +117265,9 @@
       "rating": 2,
       "label": "",
       "scryfallId": "f1d81cfc-cff8-4478-92b6-efbfc5084165",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "fa7d09aa-2ebc-4571-81da-836cd80cf554": {
       "name": "Wardens of the Cycle",
@@ -117813,7 +117843,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "543356bc-d4ab-4250-80c8-5ca69c11af87",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "d1ec1e4e-faa6-4afc-9e00-a3327105c11b": {
       "name": "Wavesifter",
@@ -121512,6 +121544,7 @@
       "label": "",
       "scryfallId": "0afd63b1-9121-4932-b55c-0b19546b1644",
       "effects": [
+        "CardAdvantage",
         "Protection"
       ]
     },

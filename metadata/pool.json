@@ -121,7 +121,8 @@
       "effects": [
         "Tokens",
         "Ramp",
-        "Discard"
+        "Discard",
+        "CardAdvantage"
       ]
     },
     "205ffa76-ff8e-4405-b21a-42358a9883c2": {
@@ -1502,7 +1503,9 @@
       "rating": 4,
       "label": "",
       "scryfallId": "1b87cd73-9149-4e48-acff-dcfce4bd1b11",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "8af57b80-bbc6-47ce-83f6-34ae8e2f5bd5": {
       "name": "Battle Menu",
@@ -2323,7 +2326,8 @@
       "label": "",
       "scryfallId": "2570aa04-27ac-406c-b1c8-5d84f7daf693",
       "effects": [
-        "Ramp"
+        "Ramp",
+        "CardAdvantage"
       ]
     },
     "7402d98f-6d58-4ff2-a0db-9eec4417a75f": {
@@ -7105,7 +7109,9 @@
       "rating": 4,
       "label": "",
       "scryfallId": "bde3cd31-ccb8-4242-b893-0cbd12f6ae86",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "83094dd2-b8e9-4753-a8a0-657b446def60": {
       "name": "Fierce Retribution",
@@ -11650,7 +11656,8 @@
       "label": "",
       "scryfallId": "0762ed45-b00b-438d-b497-47ba06d20877",
       "effects": [
-        "Disenchant"
+        "Disenchant",
+        "CardAdvantage"
       ]
     },
     "1a9048d6-f3fa-4f3b-9baa-35318177bc6e": {
@@ -14259,6 +14266,7 @@
       "label": "",
       "scryfallId": "0b4eb9a2-7d4c-4a4d-b57b-92f00e65b6dc",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -16470,7 +16478,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "03ac9b21-8c79-49ec-a0df-0fd22e4a0ed7",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "89e209f3-c474-453f-9659-ccebfc88bc0f": {
       "name": "Ride's End",
@@ -17827,7 +17837,9 @@
       "rating": 4,
       "label": "",
       "scryfallId": "044f9aeb-9cce-4eea-9ddb-868720cd8287",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "9843d8a6-bcbf-40c2-8c41-316e97db9c62": {
       "name": "Shallow Grave",

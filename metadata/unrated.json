@@ -17323,7 +17323,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "07cc036d-f46e-490d-adbb-d6974c4e10fd",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "9c2b262b-53c0-41a1-8f1a-0c336453d4bf": {
       "name": "Comet Storm",
@@ -17858,7 +17860,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "030e46a1-64a7-47e3-9b9f-82a22fe3734b",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "270508aa-b2e7-4066-be2f-4308cffe2b94": {
       "name": "Consecrated by Blood",
@@ -51640,7 +51644,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "4197d992-f868-44dd-85f7-598b22e208f3",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "b9212596-3f65-41c9-9ee8-1f4cec7f0ecf": {
       "name": "Keening Apparition",
@@ -55279,7 +55285,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "49bb0ad3-1082-41f1-82a4-52a4006cc9b6",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "a6a257bd-ee19-4246-b997-5288e6fa41e1": {
       "name": "Lesser Masticore",
@@ -68342,7 +68350,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "26836ff5-b3c3-4b10-af1e-df3658781cb2",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "55eca80c-dcd8-4c2f-aa0f-fb0aec7b80f7": {
       "name": "Ophiomancer",
@@ -81228,7 +81238,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "ae11adef-57b1-4f39-951b-cd4d5c0a0b80",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "9b18bbf3-3b1c-4010-bc6f-e7eacb2ffb70": {
       "name": "Salvage Drone",
@@ -85297,7 +85309,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "2c854232-089d-4cf8-a004-f2ab4ee58070",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "400c9fd8-c307-4b27-af6a-73e100717881": {
       "name": "Shapesharer",
@@ -95285,6 +95299,7 @@
       "label": "",
       "scryfallId": "9002d0f1-ff2c-4d1c-a7db-3252ef6bebbd",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -105364,7 +105379,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "5ab2ba75-e52e-46f5-8a34-3fe1e07446fd",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "17c3a888-84d2-4c21-8fa3-d2d825dd7601": {
       "name": "Vedalken Humiliator",
