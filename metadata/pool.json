@@ -10436,7 +10436,8 @@
       "label": "",
       "scryfallId": "018ca0cc-9628-4035-9dab-2598ebc25b08",
       "effects": [
-        "Wipe"
+        "Wipe",
+        "LandDestruction"
       ],
       "reviewedAt": "2026-09-04T23:17:13.7734772+00:00"
     },
@@ -13823,7 +13824,8 @@
       "label": "Seleziona",
       "scryfallId": "9c724b46-6e17-4bee-9bc6-e9fc5a379dd7",
       "effects": [
-        "Wipe"
+        "Wipe",
+        "LandDestruction"
       ],
       "reviewedAt": "2026-09-08T09:23:54.2493765+00:00"
     },
@@ -22039,7 +22041,8 @@
       "effects": [
         "RemovePermanent",
         "Ramp",
-        "CardAdvantage"
+        "CardAdvantage",
+        "Tutor"
       ],
       "reviewedAt": "2026-09-10T14:07:53.8082722+00:00"
     },

@@ -834,9 +834,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "4796e5e4-515c-4d89-92da-b2d5b5b39557",
-      "effects": [
-        "Redirect"
-      ],
+      "effects": [],
       "reviewedAt": "2026-09-11T21:45:51.2632562+00:00"
     },
     "bd372a53-48f9-4e9a-ab00-0f9c4606d452": {
@@ -15035,7 +15033,8 @@
       "label": "",
       "scryfallId": "03651159-cf2a-4bef-90eb-087df4178d9f",
       "effects": [
-        "Filter"
+        "Filter",
+        "Tutor"
       ],
       "reviewedAt": "2026-09-10T15:21:42.8495743+00:00"
     },
@@ -32935,8 +32934,7 @@
       "label": "",
       "scryfallId": "896ee6e9-15a9-4974-b576-50f4759fac38",
       "effects": [
-        "Ramp",
-        "Redirect"
+        "Ramp"
       ],
       "reviewedAt": "2026-09-10T11:06:15.0036834+00:00"
     },
@@ -38152,7 +38150,8 @@
       "label": "",
       "scryfallId": "a12e624c-8879-4e60-a1be-286abc5e0106",
       "effects": [
-        "Filter"
+        "Filter",
+        "Tutor"
       ],
       "reviewedAt": "2026-09-08T09:32:24.4277798+00:00"
     },
@@ -43009,7 +43008,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "136d69b2-92c1-4f0c-8b1d-1da3f9a596dd",
-      "effects": [],
+      "effects": [
+        "Tutor"
+      ],
       "reviewedAt": "2026-09-08T12:11:32.5108899+00:00"
     },
     "0c5a7772-8358-4549-a583-f54246869e20": {
@@ -57697,7 +57698,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "b6f14bbe-2436-4a5a-8e2a-8066b740b715",
-      "effects": [],
+      "effects": [
+        "Tutor"
+      ],
       "reviewedAt": "2026-09-08T12:22:05.4095197+00:00"
     },
     "c53d6d3e-64e3-48b9-afab-3bde3164888f": {
@@ -60213,7 +60216,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "6f37ea4b-66e2-4ad5-ae7f-d02fd59131bd",
-      "effects": [],
+      "effects": [
+        "Tutor"
+      ],
       "reviewedAt": "2026-09-08T10:51:16.4698959+00:00"
     },
     "90d375fa-0487-4990-9a98-260f9ee28d2a": {
@@ -60267,7 +60272,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "cba9260d-ef07-4429-99f9-6004cc1fea0f",
-      "effects": [],
+      "effects": [
+        "Tutor"
+      ],
       "reviewedAt": "2026-09-10T16:15:14.4316947+00:00"
     },
     "16156274-8dc0-439c-94c4-e8c89bbb5687": {
@@ -61982,7 +61989,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "b64dc6d7-dd01-4e66-9099-4c90865448df",
-      "effects": [],
+      "effects": [
+        "Tutor"
+      ],
       "reviewedAt": "2026-09-10T14:02:35.6821783+00:00"
     },
     "0d5bbde7-6f33-4708-b3ab-34d4528af649": {
@@ -80078,7 +80087,8 @@
       "label": "",
       "scryfallId": "907a3396-706b-4ca2-9973-bca758986032",
       "effects": [
-        "Protection"
+        "Protection",
+        "LandDestruction"
       ],
       "reviewedAt": "2026-09-04T14:35:34.1574453+00:00"
     },
@@ -81012,7 +81022,8 @@
       "label": "",
       "scryfallId": "01de51d1-bbea-407c-b19e-dfef7fce1510",
       "effects": [
-        "Buff"
+        "Buff",
+        "Tutor"
       ]
     },
     "47aabd9d-0f68-490a-a2ae-5cd9ef689be6": {
@@ -82245,7 +82256,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "d551ff93-d8da-4c21-bc3c-6451c0dde07e",
-      "effects": [],
+      "effects": [
+        "Redirect"
+      ],
       "reviewedAt": "2026-09-04T15:12:24.5680114+00:00"
     },
     "67f43ac6-2a58-4b53-b5d7-0330e2a252e2": {
@@ -101173,8 +101186,7 @@
       "label": "",
       "scryfallId": "5bb06121-b390-4e3d-8822-4389570b0e15",
       "effects": [
-        "Filter",
-        "Redirect"
+        "Filter"
       ],
       "reviewedAt": "2026-09-11T22:05:28.5635319+00:00"
     },
@@ -104216,7 +104228,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "422f9453-ab12-4e3c-8c51-be87391395a1",
-      "effects": [],
+      "effects": [
+        "Tutor"
+      ],
       "reviewedAt": "2026-09-10T14:16:48.1457239+00:00"
     },
     "e86bd848-d712-47c5-a82b-8fd5ce1de76a": {
@@ -109470,7 +109484,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "97bf6a6a-e377-4f42-84dd-baf6055c0fb1",
-      "effects": []
+      "effects": [
+        "Tutor"
+      ]
     },
     "2f995678-c315-4afe-845b-8c8ae863de6e": {
       "name": "Tower Worker",
@@ -112909,7 +112925,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "268263bb-6e94-44ce-b84b-53858d4721a7",
-      "effects": [],
+      "effects": [
+        "Tutor"
+      ],
       "reviewedAt": "2026-09-08T09:19:50.4095365+00:00"
     },
     "f8b5d2f4-58a8-408c-bb67-6b5f9ba5b678": {
