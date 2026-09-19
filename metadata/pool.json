@@ -7,7 +7,6 @@
       "label": "",
       "scryfallId": "6cd25a10-1e4e-4f47-8a67-221df4907b26",
       "effects": [
-        "Removal",
         "Filter"
       ],
       "reviewedAt": "2026-09-10T15:29:30.6226783+00:00"
@@ -2125,6 +2124,7 @@
       "label": "",
       "scryfallId": "0892ec35-8bab-4fe5-8cc9-a25032d4bc8d",
       "effects": [
+        "Removal",
         "Counter"
       ],
       "reviewedAt": "2026-09-04T13:20:05.4745906+00:00"
@@ -3533,9 +3533,7 @@
       "rating": 3,
       "label": "",
       "scryfallId": "2fbd611b-ac97-4516-bad7-cc9ee4ef74f7",
-      "effects": [
-        "Removal"
-      ],
+      "effects": [],
       "reviewedAt": "2026-09-04T15:07:40.4273216+00:00"
     },
     "144119bc-7fd1-45c5-9e29-f742e7c255ac": {
@@ -5720,6 +5718,7 @@
       "label": "",
       "scryfallId": "9207362c-3605-4794-803f-ad1d0175fcca",
       "effects": [
+        "Removal",
         "RemovePermanent",
         "Disenchant"
       ],
@@ -12128,8 +12127,7 @@
       "label": "",
       "scryfallId": "3044b232-edf4-4000-9273-cc4653ad653a",
       "effects": [
-        "Tokens",
-        "Removal"
+        "Tokens"
       ],
       "reviewedAt": "2026-09-11T21:38:22.7751915+00:00"
     },
@@ -14447,7 +14445,6 @@
       "scryfallId": "7698d0c8-c9ed-42a5-b53e-75daac60a8d6",
       "status": "Banned",
       "effects": [
-        "Removal",
         "Wipe"
       ],
       "reviewedAt": "2026-09-08T10:52:44.7587329+00:00"
@@ -15974,6 +15971,7 @@
       "label": "",
       "scryfallId": "18cb5303-de57-4aff-a068-9701ebe19869",
       "effects": [
+        "Removal",
         "Counter"
       ],
       "reviewedAt": "2026-09-04T14:14:40.0964957+00:00"
@@ -19648,6 +19646,7 @@
       "label": "",
       "scryfallId": "92c0bfc2-ba98-48b6-82a4-95a2321c8df4",
       "effects": [
+        "Removal",
         "Buff",
         "Pacify"
       ],

@@ -10766,7 +10766,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "37a63f96-e2d4-4786-80ea-79b206263cef",
-      "effects": [],
+      "effects": [
+        "Removal"
+      ],
       "reviewedAt": "2026-09-04T14:49:13.9997907+00:00"
     },
     "75f5d372-4ff9-430c-8302-72472439e0d2": {
@@ -11740,7 +11742,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "3501b938-7a25-43c7-b1c5-03cd9b690930",
-      "effects": [],
+      "effects": [
+        "Removal"
+      ],
       "reviewedAt": "2026-09-10T14:04:47.9679621+00:00"
     },
     "44e1946d-01b5-45db-abdc-2f6d6480cf60": {
@@ -19085,7 +19089,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "502bfb38-4a37-4053-af20-d5606ffc67c8",
-      "effects": [],
+      "effects": [
+        "Removal"
+      ],
       "reviewedAt": "2026-09-08T10:45:03.2441545+00:00"
     },
     "e43b478b-4cb8-42b1-a5b0-0b1421b84852": {
@@ -25495,6 +25501,7 @@
       "label": "",
       "scryfallId": "ccbc6fd0-42bc-4e8b-96bc-69a631ba7106",
       "effects": [
+        "Removal",
         "CardAdvantage"
       ],
       "reviewedAt": "2026-09-10T13:18:35.5284736+00:00"
@@ -27731,6 +27738,7 @@
       "scryfallId": "3d634087-77ba-4543-aa7a-8a3774d69cd7",
       "effects": [
         "Tokens",
+        "Removal",
         "ManaFixing"
       ],
       "reviewedAt": "2026-09-10T07:22:10.3589283+00:00"
@@ -33731,7 +33739,6 @@
       "label": "",
       "scryfallId": "6188149a-58ed-4ded-bae9-bc942fe5162a",
       "effects": [
-        "Removal",
         "Wipe"
       ],
       "reviewedAt": "2026-09-08T13:09:22.8698402+00:00"
@@ -44208,6 +44215,7 @@
       "label": "",
       "scryfallId": "fbe072da-0524-492b-af3d-7c2600e915ab",
       "effects": [
+        "Removal",
         "Buff"
       ],
       "reviewedAt": "2026-09-08T06:48:14.9244906+00:00"
@@ -52825,7 +52833,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "346eef90-35c3-4153-a64a-55f4d7b232e2",
-      "effects": [],
+      "effects": [
+        "Removal"
+      ],
       "reviewedAt": "2026-09-05T10:30:09.9450143+00:00"
     },
     "c645a616-0d7d-416c-b5f3-057b3a1666a0": {
@@ -63405,9 +63415,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "c9fb6ef0-0a57-4521-9401-92ad6c614af2",
-      "effects": [
-        "Removal"
-      ],
+      "effects": [],
       "reviewedAt": "2026-09-04T15:02:50.8220742+00:00"
     },
     "f6a6da20-52c8-4921-9884-29d3a3051b0d": {
@@ -65687,7 +65695,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "c234a73c-4257-47af-a710-29ab765a7b2d",
-      "effects": [],
+      "effects": [
+        "Removal"
+      ],
       "reviewedAt": "2026-09-05T10:32:20.104195+00:00"
     },
     "058062c7-071b-4b14-903d-ae8d2876b37f": {
@@ -70960,6 +70970,7 @@
       "label": "",
       "scryfallId": "075e48f1-3c95-42c4-b90d-55dc6738435d",
       "effects": [
+        "Removal",
         "RemovePermanent"
       ],
       "reviewedAt": "2026-09-04T14:13:03.4735213+00:00"
@@ -72679,6 +72690,7 @@
       "label": "",
       "scryfallId": "5e34fc6b-5f00-4a22-9ee2-afc1caf99961",
       "effects": [
+        "Removal",
         "Burn"
       ],
       "reviewedAt": "2026-09-04T14:52:38.4488169+00:00"
@@ -76193,6 +76205,7 @@
       "label": "",
       "scryfallId": "06e11710-fc99-4d86-9ca5-9d8c7ab03b24",
       "effects": [
+        "Removal",
         "Burn"
       ],
       "reviewedAt": "2026-09-04T14:14:04.3758579+00:00"
@@ -102329,7 +102342,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "aad10ff3-6d8d-4de4-9c30-1ae1aec85e5e",
-      "effects": [],
+      "effects": [
+        "Removal"
+      ],
       "reviewedAt": "2026-09-04T14:54:47.5612815+00:00"
     },
     "3c756eda-4fc1-4766-99be-32d8c9f35262": {
@@ -102813,6 +102828,7 @@
       "label": "",
       "scryfallId": "36658368-88c8-4c55-8147-f6e581f6af36",
       "effects": [
+        "Removal",
         "Buff"
       ],
       "reviewedAt": "2026-09-08T11:57:19.9967793+00:00"
@@ -108724,9 +108740,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "8b6da540-6803-47e5-9af0-7ae8e2f84b6c",
-      "effects": [
-        "Removal"
-      ],
+      "effects": [],
       "reviewedAt": "2026-09-04T15:09:19.4044316+00:00"
     },
     "b5641fcf-135e-43e7-a547-344fac61e279": {
@@ -111837,6 +111851,7 @@
       "label": "",
       "scryfallId": "31aed8e9-44be-4e7c-85ac-a084eaecaea7",
       "effects": [
+        "Removal",
         "CardAdvantage",
         "Buff",
         "Burn"
@@ -117923,6 +117938,7 @@
       "label": "",
       "scryfallId": "1c39164f-adb5-448e-a779-1e92652f57a2",
       "effects": [
+        "Removal",
         "Burn"
       ],
       "reviewedAt": "2026-09-11T19:43:38.4503893+00:00"
