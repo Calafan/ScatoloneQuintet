@@ -5995,7 +5995,8 @@
       "scryfallId": "584394a0-9d72-4fe3-bcfe-bfaceac12e98",
       "effects": [
         "Ramp",
-        "CardAdvantage"
+        "CardAdvantage",
+        "Regrowth"
       ],
       "reviewedAt": "2026-09-11T22:08:55.5303991+00:00"
     },

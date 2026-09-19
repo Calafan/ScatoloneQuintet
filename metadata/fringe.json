@@ -7642,7 +7642,8 @@
       "scryfallId": "63e84ece-b129-457d-84ed-b4280120f08b",
       "effects": [
         "CardAdvantage",
-        "Filter"
+        "Filter",
+        "Regrowth"
       ],
       "reviewedAt": "2026-09-10T15:18:39.4404526+00:00"
     },
@@ -26582,7 +26583,8 @@
       "label": "",
       "scryfallId": "4e430ac6-ee63-4fb9-b1d2-bc584e6c434b",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Regrowth"
       ],
       "reviewedAt": "2026-09-11T22:16:14.3728545+00:00"
     },
@@ -33281,7 +33283,8 @@
       "scryfallId": "3410f9c6-ac11-4e7f-aefd-69fba43e1315",
       "effects": [
         "Ramp",
-        "CardAdvantage"
+        "CardAdvantage",
+        "Regrowth"
       ],
       "reviewedAt": "2026-09-11T19:44:32.0522429+00:00"
     },
@@ -52136,7 +52139,8 @@
       "label": "",
       "scryfallId": "4d7d6623-52c4-473f-91db-55c78aae5512",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Regrowth"
       ],
       "reviewedAt": "2026-09-10T15:36:24.8989527+00:00"
     },
@@ -69970,7 +69974,8 @@
       "label": "",
       "scryfallId": "1881a66b-956d-4bab-b578-5b2d3407c972",
       "effects": [
-        "Reanimate"
+        "Reanimate",
+        "Regrowth"
       ],
       "reviewedAt": "2026-09-10T14:35:43.914795+00:00"
     },
@@ -70091,7 +70096,8 @@
       "effects": [
         "Ramp",
         "CardAdvantage",
-        "Filter"
+        "Filter",
+        "Regrowth"
       ],
       "reviewedAt": "2026-09-11T21:22:44.1972233+00:00"
     },
