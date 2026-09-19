@@ -1212,7 +1212,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "271ef715-861c-4dad-93b2-160e29131c49",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "2577ef8e-d85e-47af-ac34-629f31992751": {
       "name": "Aether Rift",
@@ -17030,7 +17032,8 @@
       "label": "",
       "scryfallId": "1785cf85-1ac0-4246-9b89-1a8221a8e1b2",
       "effects": [
-        "Tokens"
+        "Tokens",
+        "Removal"
       ]
     },
     "7e6c7b57-bd6a-4ac8-bcab-c3a879f479c2": {
@@ -18787,6 +18790,7 @@
       "label": "",
       "scryfallId": "7301fdec-ca17-47ae-9a0a-84ea8665ece1",
       "effects": [
+        "Removal",
         "Buff"
       ]
     },
@@ -21645,7 +21649,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "8953e11b-cc3a-4c8d-9d7e-04bf90c77027",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "0b5f94be-7e56-44ee-9af2-d664d9f91193": {
       "name": "Crown of Vigor",
@@ -37458,14 +37464,18 @@
       "rating": 1,
       "label": "",
       "scryfallId": "1160e476-8a2b-4b90-b4db-f386a80ab067",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "77a77622-dc5b-4ff2-a98b-732d44c8856e": {
       "name": "Flowstone Blade",
       "rating": 1,
       "label": "",
       "scryfallId": "08ffbdce-bf74-4366-a4c5-422e3d5c92b4",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "a19e0a7f-d356-4d2c-8414-70a40ce18674": {
       "name": "Flowstone Charger",
@@ -37510,7 +37520,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "b57c3674-9a31-4418-b306-e6b0a2514d8f",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "49475268-be95-4670-a5ca-2f2b6c5cf005": {
       "name": "Flowstone Kavu",
@@ -37531,7 +37543,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "3e644ab8-3cc3-413d-a918-44fc636087ae",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "a0e40eb1-a909-405b-8fb4-3759df8edf7f": {
       "name": "Flowstone Salamander",
@@ -37568,7 +37582,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "a1203053-0829-4f46-a361-62cb9cd17280",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "fb1755a0-3334-419b-8cb5-5a3ac7fa5b13": {
       "name": "Flowstone Surge",
@@ -40438,6 +40454,7 @@
       "label": "",
       "scryfallId": "20de45c3-7abd-427b-b786-55f5c63b78b7",
       "effects": [
+        "Removal",
         "CardAdvantage"
       ]
     },
@@ -41326,6 +41343,7 @@
       "label": "",
       "scryfallId": "7acb0164-bd37-43bf-b8ce-246e3936fe99",
       "effects": [
+        "Removal",
         "Buff"
       ]
     },
@@ -50173,7 +50191,9 @@
       "rating": 2,
       "label": "",
       "scryfallId": "09b0c449-f316-43ed-b5dd-3c1fc0ec337a",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "6e3b3a3f-e32f-4c72-a9fb-dd1e877876b6": {
       "name": "Ill-Timed Explosion",
@@ -51063,7 +51083,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "8569cdf7-e0e9-4733-98b5-56fac216fad3",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "2f0dec6c-797f-4dc3-9994-066c00cbf1a4": {
       "name": "Infernal Captor",
@@ -58149,7 +58171,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "77679638-2294-4d76-ba07-9c67a145a0fe",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "66499407-3ad2-464b-bbfe-95d860f53616": {
       "name": "Lash of the Balrog",
@@ -58270,7 +58294,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "295f7fe0-0681-4b25-807f-30ed70ec78d5",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "f780d6f6-540b-4773-8a48-e56e95c2d39e": {
       "name": "Lasyd Prowler",
@@ -62070,7 +62096,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "42f133d6-35c3-49b7-85f6-d6cfa6bac3d9",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "008ac258-763c-4379-bfcd-b9cc4d7296dd": {
       "name": "Magma Sliver",
@@ -66914,7 +66942,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "5b83e695-80ac-40d3-ae06-98f8b59949a3",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "445ad01c-c899-424d-8666-ee7bb2a6e535": {
       "name": "Moira and Teshar",
@@ -70143,7 +70173,6 @@
       "label": "",
       "scryfallId": "0c1eed0f-9692-44c0-b1ad-afa691165d52",
       "effects": [
-        "Removal",
         "CardAdvantage"
       ]
     },
@@ -71187,6 +71216,7 @@
       "label": "",
       "scryfallId": "7114c9c8-5370-42e0-8aaf-dc05e2422a76",
       "effects": [
+        "Removal",
         "Counter"
       ]
     },
@@ -74780,6 +74810,7 @@
       "label": "",
       "scryfallId": "6431d71c-f76c-4b36-9e11-b492ec67a266",
       "effects": [
+        "Removal",
         "Protection"
       ]
     },
@@ -91402,7 +91433,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "b5b93715-985f-4719-a3c3-044c2a150e96",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "a9b08567-398a-46ba-b0e8-ade65fec83c6": {
       "name": "Shameless Charlatan",
@@ -93840,9 +93873,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "0f470a7b-63ef-4efa-855e-f8a3ce1ab534",
-      "effects": [
-        "Removal"
-      ]
+      "effects": []
     },
     "4bc0bdd5-32da-46df-b624-29a709efc676": {
       "name": "Skophos Reaver",
@@ -111406,7 +111437,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "64e37889-7dc0-476b-8b99-8f06881d352c",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "c7ad20a3-51bf-4a22-a09c-fff8cae22765": {
       "name": "Twisted Riddlekeeper",
@@ -120573,7 +120606,9 @@
       "rating": 2,
       "label": "",
       "scryfallId": "49243e92-93e3-4090-b4f7-86fa4ca2fef5",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "08dcda8e-704d-444e-a7ca-34586a7f42a7": {
       "name": "Wreck Hunter",
@@ -121407,7 +121442,6 @@
       "label": "",
       "scryfallId": "726da84a-fdd4-46df-8ba4-f94d582bcce4",
       "effects": [
-        "Removal",
         "Bounce",
         "Buff"
       ]

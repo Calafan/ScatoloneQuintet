@@ -473,6 +473,7 @@
       "label": "",
       "scryfallId": "cd8980af-c3fa-4027-917a-4a3d441c0a75",
       "effects": [
+        "Removal",
         "Protection"
       ]
     },
@@ -5492,7 +5493,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "05f0092a-b642-41be-a907-4c8931962ef9",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "5ec0e58c-99b5-4ebf-8053-f59c30b86ef7": {
       "name": "Augmenting Automaton",
@@ -5548,7 +5551,8 @@
       "label": "",
       "scryfallId": "8d2ffe5f-635a-4920-8496-7c5ef361de56",
       "effects": [
-        "Tokens"
+        "Tokens",
+        "Removal"
       ]
     },
     "245469ff-72b6-4846-8a82-a1d29f4d09bb": {
@@ -7855,6 +7859,7 @@
       "label": "",
       "scryfallId": "4411a717-fda0-45f1-a8ba-618884de5ce2",
       "effects": [
+        "Removal",
         "Burn",
         "LandDestruction"
       ]
@@ -8895,6 +8900,7 @@
       "label": "",
       "scryfallId": "69d276fe-5f2b-41aa-80fa-64d3b60fd54f",
       "effects": [
+        "Removal",
         "Buff"
       ]
     },
@@ -11205,7 +11211,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "55a2f767-5928-44c5-91b7-2300bade458f",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "00abb43b-550f-42d2-9049-61ac56ff5d8d": {
       "name": "Boros Recruit",
@@ -14481,7 +14489,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "1a5dbac5-273c-4452-a9c2-32fb6086a8d1",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "ba0a815c-1dfe-47c1-890f-496c670124f3": {
       "name": "Celestial Reunion",
@@ -23890,7 +23900,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "16e31e43-84d3-429e-9e81-60b325989c93",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "14bee98b-6dd8-48f3-8043-06f03cc93aa7": {
       "name": "Dewdrop Spy",
@@ -24872,6 +24884,7 @@
       "label": "",
       "scryfallId": "ec06e42f-e294-44ef-8fa8-1d1a4c2090d8",
       "effects": [
+        "Removal",
         "Protection"
       ]
     },
@@ -31229,8 +31242,7 @@
       "label": "",
       "scryfallId": "3103505c-b071-4ae9-bf82-978e582d030c",
       "effects": [
-        "Tokens",
-        "Removal"
+        "Tokens"
       ]
     },
     "40eacdae-fae5-46b9-a9e5-9211469f74fc": {
@@ -34413,7 +34425,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "9f10fa1c-2c7b-49ba-87b6-3b652b65704d",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "18a45b81-1946-4be6-8f2c-8c21d11c86f8": {
       "name": "Flowstone Embrace",
@@ -38393,7 +38407,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "8ed3d16f-f0c6-4080-8913-758208b08234",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "bcfc112e-0482-4616-8ca9-32338a37fa82": {
       "name": "Glare of Subdual",
@@ -41682,7 +41698,6 @@
       "label": "",
       "scryfallId": "08b5301b-9f3c-4fb2-a308-a47a16c08fc0",
       "effects": [
-        "Removal",
         "CardAdvantage"
       ]
     },
@@ -42372,7 +42387,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "beb10d42-fa19-400c-bad8-ec3827f077bc",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "315772f2-abd2-4681-b8c8-1db4b0ccbbcd": {
       "name": "Gurmag Angler",
@@ -43047,9 +43064,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "0f487fde-6d24-4068-8ba3-b1a40904b1ef",
-      "effects": [
-        "Removal"
-      ]
+      "effects": []
     },
     "0e735ba6-7fd1-4d12-b20c-21525dc1e2b5": {
       "name": "Hanweir Battlements",
@@ -47213,7 +47228,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "3f5615d9-a451-41cc-aca0-120ccddb46bd",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "416f9656-9247-4ef2-971b-1515fc8e031b": {
       "name": "Immobilizer Eldrazi",
@@ -53719,9 +53736,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "5ce45a70-7fbc-42f8-8608-980eb4aee2b8",
-      "effects": [
-        "Removal"
-      ]
+      "effects": []
     },
     "3c741801-bfa5-4ff6-bf06-8d5edc06388d": {
       "name": "Kraul Raider",
@@ -55888,7 +55903,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "8e4146a2-08a2-4a9c-b208-a2d02c68e713",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "63625b26-3a19-4c3c-b18a-91247bb2a40c": {
       "name": "Lignify",
@@ -64199,7 +64216,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "4e2e70a6-2987-4e82-9dc6-72120e6dd02f",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "dff11626-ad4d-443a-b7db-f508790b5fd2": {
       "name": "Namor the Sub-Mariner",
@@ -66833,6 +66852,7 @@
       "label": "",
       "scryfallId": "1910d072-1660-4918-a338-d9f87926541d",
       "effects": [
+        "Removal",
         "Buff"
       ]
     },
@@ -71363,6 +71383,7 @@
       "label": "",
       "scryfallId": "191111ba-fdaa-437f-b1e2-ee15711a94d2",
       "effects": [
+        "Removal",
         "Discard"
       ]
     },
@@ -73920,6 +73941,7 @@
       "label": "",
       "scryfallId": "b3a5d913-0b78-4918-87cf-0bb33b9d120e",
       "effects": [
+        "Removal",
         "Disenchant"
       ]
     },
@@ -76930,7 +76952,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "bcdceb36-fd36-4315-8ebe-9b8fc3777428",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "e4e61fe3-27a4-4149-bdfb-67dcfc8eb32c": {
       "name": "Refurbish",
@@ -78877,7 +78901,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "63d0f909-9906-4ff7-9b10-9d817f20d8a9",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "5d45fa1f-110c-4bc8-a0fc-ed04556cf639": {
       "name": "Rip-Clan Crasher",
@@ -81170,7 +81196,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "0cd4007c-eb51-4da0-b8df-38aae1482a5a",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "021e4165-2f02-4bd4-86ca-cb7bf4c9e23d": {
       "name": "Saltcrusted Steppe",
@@ -84690,6 +84718,7 @@
       "label": "",
       "scryfallId": "881aae7e-1458-4b0c-b991-82ed93f7932a",
       "effects": [
+        "Removal",
         "Buff"
       ]
     },
@@ -85247,7 +85276,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "4e311fa4-c854-45af-9353-5844216255fe",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "744f79da-240f-4d14-a98c-e2796645ae88": {
       "name": "Shapers of Nature",
@@ -90496,7 +90527,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "11ec0a38-5b3e-4d73-bbac-8e8e31bbc43e",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "aa166578-b13b-4adb-a78e-d5183e987112": {
       "name": "Spatial Merging",
@@ -91741,7 +91774,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "49a90d9e-fbd0-4e5b-ac66-a839edf87b8a",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "a30dee74-86e3-4888-980e-b22437fbbb66": {
       "name": "Spitting Image",
@@ -91771,7 +91806,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "568b0f30-9e78-4f05-b562-77cd8b048c9e",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "13fe5e46-77a6-45d8-ac0b-c3d740eccf86": {
       "name": "Splendid Reclamation",
@@ -98090,6 +98127,7 @@
       "label": "",
       "scryfallId": "58265203-bc16-41d2-875c-2ff3b4870824",
       "effects": [
+        "Removal",
         "ManaFixing"
       ]
     },
@@ -99277,7 +99315,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "140265a2-61c3-4731-989c-9d55c27400ec",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "fe01e07c-dbca-4598-a944-1b194df44260": {
       "name": "Thornwatch Scarecrow",
@@ -100470,9 +100510,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "32561f72-bb4d-44b2-9c90-9d1041cf3699",
-      "effects": [
-        "Removal"
-      ]
+      "effects": []
     },
     "7ce28a3c-5f93-4434-918e-1e74f9fc71d8": {
       "name": "Time to Reflect",
@@ -108692,7 +108730,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "134802b2-7c5c-4eda-a879-b29bc06faaed",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "c8b9fa02-0a0c-4a87-9a00-3c1c7e2f4bfd": {
       "name": "Warping Wail",

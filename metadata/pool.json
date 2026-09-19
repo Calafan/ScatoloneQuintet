@@ -11310,7 +11310,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "0542d0d7-5b0f-4093-b74d-6a60f174aeb5",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "2111588d-9af5-4a33-989e-b074d83f0463": {
       "name": "Library of Alexandria",
@@ -14640,7 +14642,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "03a8bb65-07b7-462a-9bbb-0f48cb872b43",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "9af4a832-d634-47aa-91ed-79d44fe08864": {
       "name": "Pick Your Poison",
@@ -23882,7 +23886,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "011c2566-7b86-4000-bf84-3319dc58d715",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "484eeb13-fe74-45fe-b089-7beec87cfcdb": {
       "name": "Wrench Mind",
@@ -24026,7 +24032,6 @@
       "label": "",
       "scryfallId": "8a247116-45c4-480f-b380-da9d5e24fcc2",
       "effects": [
-        "Removal",
         "Bounce",
         "Buff"
       ]
