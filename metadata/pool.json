@@ -4200,6 +4200,7 @@
       "label": "",
       "scryfallId": "39b11ff0-9946-4337-86fb-42e967f3d2e4",
       "effects": [
+        "Steal",
         "Mill"
       ]
     },
@@ -8901,6 +8902,7 @@
       "label": "",
       "scryfallId": "0d59bf12-f898-40ad-a8a9-2f31f733cf15",
       "effects": [
+        "Steal",
         "Mill"
       ]
     },

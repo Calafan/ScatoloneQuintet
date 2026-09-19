@@ -5580,7 +5580,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "0e398a02-1456-4fae-be75-4231c968bf47",
-      "effects": []
+      "effects": [
+        "Steal"
+      ]
     },
     "586aebf2-4653-49fa-8425-13bd1f511bf0": {
       "name": "Aura Gnarlid",
@@ -11737,6 +11739,7 @@
       "scryfallId": "50e30e21-0bf7-4d10-b2cc-ed0c52b95955",
       "effects": [
         "Reanimate",
+        "Steal",
         "Mill"
       ]
     },
@@ -23603,7 +23606,6 @@
       "label": "",
       "scryfallId": "2ec01f4b-b3df-4e2b-ae93-2f2d0cc279bd",
       "effects": [
-        "Steal",
         "LandDestruction"
       ]
     },
@@ -30946,6 +30948,7 @@
       "scryfallId": "17592ec3-cffb-4cf9-86bc-4ad3ac696d91",
       "effects": [
         "Reanimate",
+        "Steal",
         "Mill"
       ]
     },
@@ -49461,6 +49464,7 @@
       "label": "",
       "scryfallId": "aeec1661-43e9-4e64-8798-c9aebad421e6",
       "effects": [
+        "Steal",
         "Mill"
       ]
     },
@@ -49588,6 +49592,7 @@
       "effects": [
         "CardAdvantage",
         "Filter",
+        "Steal",
         "Mill",
         "Regrowth"
       ]
@@ -52608,7 +52613,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "4c663245-dfb6-4d92-8ac7-ffe3d5d12187",
-      "effects": []
+      "effects": [
+        "Steal"
+      ]
     },
     "ed854708-5a65-4293-bebc-d7c639407ba5": {
       "name": "Kitsune Palliator",
@@ -52985,7 +52992,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "393454c2-b256-4a6e-9bc2-56a47cab5073",
-      "effects": []
+      "effects": [
+        "Steal"
+      ]
     },
     "ed68b5ca-c52a-40e0-89ac-6276a3c4fdeb": {
       "name": "Knowledge and Power",
@@ -60202,6 +60211,7 @@
       "label": "",
       "scryfallId": "8182c9e0-861e-4736-997b-e79e62a2fec5",
       "effects": [
+        "Steal",
         "Mill"
       ]
     },
@@ -65613,9 +65623,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "11a431fa-e98c-434a-9138-b4bcc86edde8",
-      "effects": [
-        "Steal"
-      ]
+      "effects": []
     },
     "f5cf3f74-e497-46d0-acfb-3b57ee27a314": {
       "name": "Nikko-Onna",
@@ -87081,7 +87089,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "6f0656a7-ec7c-4fc2-983b-efd902752690",
-      "effects": []
+      "effects": [
+        "Steal"
+      ]
     },
     "c7c37369-47f8-4027-a016-a2055307dd24": {
       "name": "Simic Initiate",
@@ -109206,8 +109216,7 @@
       "scryfallId": "0d554c5c-33b7-4605-b7ab-14f92892ed4d",
       "effects": [
         "Discard",
-        "CardAdvantage",
-        "Steal"
+        "CardAdvantage"
       ]
     },
     "10aff3f6-8347-4e1b-b8e7-c204c9e46657": {

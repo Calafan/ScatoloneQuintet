@@ -18936,7 +18936,8 @@
       "scryfallId": "29a56b5c-1aea-4f05-80eb-891249bec62a",
       "effects": [
         "Ramp",
-        "Protection"
+        "Protection",
+        "Steal"
       ]
     },
     "3a007dbd-18fd-44d1-a305-7cc8dd6231eb": {
@@ -35625,7 +35626,6 @@
       "label": "",
       "scryfallId": "0333e99d-9c5d-420d-b462-aab000434a21",
       "effects": [
-        "Steal",
         "Cheat"
       ]
     },
@@ -38498,6 +38498,7 @@
       "label": "",
       "scryfallId": "2d841faa-9e0b-45ff-9dfd-f8a169d9af76",
       "effects": [
+        "Steal",
         "Mill"
       ]
     },
@@ -45757,7 +45758,8 @@
       "label": "",
       "scryfallId": "97502411-5c93-434c-b77b-ceb2c32feae7",
       "effects": [
-        "Buff"
+        "Buff",
+        "Steal"
       ]
     },
     "c7371040-160c-4502-b7f9-77b7f54cc020": {
@@ -56217,6 +56219,7 @@
       "label": "",
       "scryfallId": "4c4edeef-7582-4027-8087-e643601d5161",
       "effects": [
+        "Steal",
         "ManaFixing",
         "Mill"
       ]
@@ -59141,9 +59144,7 @@
       "rating": 2,
       "label": "",
       "scryfallId": "42a3cc9f-cbea-4454-8e91-894ff18db618",
-      "effects": [
-        "Steal"
-      ]
+      "effects": []
     },
     "4dc0831a-0eb1-4f7d-9591-6e670e180116": {
       "name": "Lie in Wait",
@@ -63313,8 +63314,7 @@
       "label": "",
       "scryfallId": "8fdb30c1-0551-48b7-8bcb-d7e0dbb6690a",
       "effects": [
-        "CardAdvantage",
-        "Steal"
+        "CardAdvantage"
       ]
     },
     "6d44c87b-8945-4c39-b034-7690cf483992": {
@@ -74218,6 +74218,7 @@
       "scryfallId": "125d156c-daf7-478f-9054-80c09095c16c",
       "effects": [
         "Reanimate",
+        "Steal",
         "Mill"
       ]
     },
@@ -85605,8 +85606,7 @@
       "label": "",
       "scryfallId": "21a521a4-3834-47ec-a0ae-37497bf46f80",
       "effects": [
-        "Ramp",
-        "Steal"
+        "Ramp"
       ]
     },
     "0394846e-bc27-4d67-988e-b08a389690de": {
