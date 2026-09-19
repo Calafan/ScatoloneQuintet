@@ -1617,7 +1617,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "7026c374-0776-403b-86fd-5092677fd5c9",
-      "effects": []
+      "effects": [
+        "Tutor"
+      ]
     },
     "9c77eb0a-543a-41db-ba1f-aa0163837ae0": {
       "name": "Ajani's Chosen",
@@ -2953,7 +2955,8 @@
       "label": "",
       "scryfallId": "36197ed0-4382-4de3-8359-73cb74edc78b",
       "effects": [
-        "Sacrifice"
+        "Sacrifice",
+        "Tutor"
       ]
     },
     "6b232bb7-d372-4174-a049-5f8d620810e6": {
@@ -3140,7 +3143,8 @@
       "scryfallId": "708006ba-d494-4093-b108-8249b110831e",
       "effects": [
         "Removal",
-        "Burn"
+        "Burn",
+        "Tutor"
       ]
     },
     "2d4976d4-649c-4d42-ac5a-ada4b46a480c": {
@@ -6880,8 +6884,7 @@
       "scryfallId": "2b5e4c5d-7d1d-4426-8351-35c12e29d9c3",
       "effects": [
         "Tokens",
-        "Bounce",
-        "Redirect"
+        "Bounce"
       ]
     },
     "9f560b83-32d4-4bb4-a956-8f5db18599db": {
@@ -7917,7 +7920,8 @@
       "label": "",
       "scryfallId": "b51e84d7-bf9f-454f-bdcd-a2458b1b5b33",
       "effects": [
-        "Sacrifice"
+        "Sacrifice",
+        "Tutor"
       ]
     },
     "e84837bd-4f94-43e1-876e-d82cae6ee247": {
@@ -8503,9 +8507,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "2879e7a1-0256-4116-be22-7c9972e4ce0b",
-      "effects": [
-        "Redirect"
-      ]
+      "effects": []
     },
     "f3e025ce-6114-42d0-842f-73366c853657": {
       "name": "Bitter Revelation",
@@ -10349,7 +10351,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "510ab1c5-c507-4e27-9390-f8105b9a2668",
-      "effects": []
+      "effects": [
+        "Tutor"
+      ]
     },
     "54831951-2cd3-41bb-8326-6cfce48feb34": {
       "name": "Boggart Arsonists",
@@ -10912,9 +10916,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "e21aa266-4264-4e02-9403-02930e641573",
-      "effects": [
-        "Redirect"
-      ]
+      "effects": []
     },
     "fb6d24cb-4e79-4d0c-b32f-47d5f709de1b": {
       "name": "Book Devourer",
@@ -15030,7 +15032,8 @@
       "scryfallId": "5f13b6a7-fa62-4d94-a56c-f2e64c8c1666",
       "effects": [
         "Removal",
-        "Burn"
+        "Burn",
+        "Tutor"
       ]
     },
     "eb16f188-fe12-4a13-9947-d43cd6ce270c": {
@@ -15055,7 +15058,8 @@
       "label": "",
       "scryfallId": "f1e849c3-f357-4e81-a580-be5056bed51b",
       "effects": [
-        "Burn"
+        "Burn",
+        "Tutor"
       ]
     },
     "47437865-0032-4f47-b0ab-034cc841bb84": {
@@ -15248,8 +15252,7 @@
       "scryfallId": "beb039db-7367-4af1-8d85-4951f58e2732",
       "effects": [
         "Removal",
-        "Burn",
-        "Redirect"
+        "Burn"
       ]
     },
     "6a3dee57-9912-4c51-872e-2ec47acdaf52": {
@@ -16792,9 +16795,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "c62ee3ea-8b85-4b14-87ae-7fca1d98b98b",
-      "effects": [
-        "Redirect"
-      ]
+      "effects": []
     },
     "2c6658c3-8c0e-46c9-8127-bc5b77eb0dab": {
       "name": "Clutch of Currents",
@@ -20270,9 +20271,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "147dbe42-665a-4e21-b405-d17554d5efcf",
-      "effects": [
-        "Redirect"
-      ]
+      "effects": []
     },
     "6659fae5-09d9-4095-8de3-643afd6ad3be": {
       "name": "Curse of Exhaustion",
@@ -22987,7 +22986,8 @@
       "label": "",
       "scryfallId": "f5aa309e-5df3-4419-9e9c-3fd928c1e360",
       "effects": [
-        "Sacrifice"
+        "Sacrifice",
+        "Tutor"
       ]
     },
     "ee38377f-8d3a-402e-a5d7-a01cfe3a5322": {
@@ -24958,9 +24958,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "3e39a2b4-fa70-4572-8480-533bdbf6293a",
-      "effects": [
-        "Redirect"
-      ]
+      "effects": []
     },
     "f9de4cea-27c4-4343-8a7a-09b8f346c3b5": {
       "name": "Djinn of Infinite Deceits",
@@ -25097,7 +25095,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "1abe58d8-67d1-4719-8e84-27747dea3506",
-      "effects": []
+      "effects": [
+        "Tutor"
+      ]
     },
     "afc2269c-d3b5-487d-9445-800c7a8e526b": {
       "name": "Domri, Anarch of Bolas",
@@ -25371,18 +25371,14 @@
       "rating": 0,
       "label": "",
       "scryfallId": "b0ec6d79-8a22-49d5-ac00-7fd60b278a4d",
-      "effects": [
-        "Redirect"
-      ]
+      "effects": []
     },
     "946675f5-8998-4f1b-934b-85ffe6e2f002": {
       "name": "Doublecast",
       "rating": 0,
       "label": "",
       "scryfallId": "34bef63a-cb84-4013-856c-8211b76d5efa",
-      "effects": [
-        "Redirect"
-      ]
+      "effects": []
     },
     "be48877f-97b1-4a10-a618-cbc57515e617": {
       "name": "Doubling Chant",
@@ -25458,7 +25454,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "6328e6b5-9dfb-4fd4-99ee-a1ffc2c707da",
-      "effects": []
+      "effects": [
+        "Tutor"
+      ]
     },
     "1b388371-f9ef-45b4-82a3-ca20a8cd7807": {
       "name": "Dovin's Veto",
@@ -25706,7 +25704,8 @@
       "label": "",
       "scryfallId": "2d5873e8-ba15-4a24-aab8-91f1f390d821",
       "effects": [
-        "Sacrifice"
+        "Sacrifice",
+        "Tutor"
       ]
     },
     "8cf77dc4-763b-41b7-a5da-0ef2734f08e6": {
@@ -27647,9 +27646,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "165dd3b0-0878-448e-b922-019d0ba372d0",
-      "effects": [
-        "Redirect"
-      ]
+      "effects": []
     },
     "d0bc217b-1149-4a33-a4a1-29e07597dc41": {
       "name": "Echoing Calm",
@@ -28466,7 +28463,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "0f18dbbb-498c-4180-b467-f97b372d050b",
-      "effects": []
+      "effects": [
+        "Tutor"
+      ]
     },
     "5fba553e-81b9-419b-aa20-b2a7cfcd042b": {
       "name": "Elvish Doomsayer",
@@ -30244,7 +30243,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "3f4d0ed2-3fc5-4cb0-b886-e30b21e76872",
-      "effects": []
+      "effects": [
+        "Tutor"
+      ]
     },
     "0e24c0d2-2333-425c-952e-9a13e6519cd3": {
       "name": "Ethereal Guidance",
@@ -37749,7 +37750,8 @@
       "label": "",
       "scryfallId": "52de8fc6-6d9b-402e-a6c8-4c39b0c92f07",
       "effects": [
-        "Buff"
+        "Buff",
+        "Tutor"
       ]
     },
     "083dcc19-3357-48e4-94e8-8da5bbfba210": {
@@ -37809,7 +37811,8 @@
       "label": "",
       "scryfallId": "a30b8c40-39ac-423f-b7da-845a16cd1b63",
       "effects": [
-        "Buff"
+        "Buff",
+        "Tutor"
       ]
     },
     "1af63a5e-2bec-4f8d-a373-d9ce43a7d242": {
@@ -37976,16 +37979,16 @@
       "rating": 0,
       "label": "",
       "scryfallId": "8b2dee56-95b7-4672-aeea-56dd58c5d8dd",
-      "effects": [
-        "Redirect"
-      ]
+      "effects": []
     },
     "d9e1bae6-2d56-45d1-bdac-2431a18aab3e": {
       "name": "Gigantiform",
       "rating": 0,
       "label": "",
       "scryfallId": "aa476306-9d6b-45ed-9e6c-fd4aee6592e7",
-      "effects": []
+      "effects": [
+        "Tutor"
+      ]
     },
     "c4b5567a-f195-4638-94b5-0b933dba1850": {
       "name": "Gigantomancer",
@@ -39838,7 +39841,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "67edcb9b-f56b-4a34-b4bd-d22ee929041a",
-      "effects": []
+      "effects": [
+        "Tutor"
+      ]
     },
     "f12400e5-8288-48e1-b3b7-0cc4f8d9ca67": {
       "name": "Goldmeadow",
@@ -40513,7 +40518,8 @@
       "label": "",
       "scryfallId": "e7344ffb-aada-4be1-bc82-2ed96e6cb5bf",
       "effects": [
-        "Bounce"
+        "Bounce",
+        "Tutor"
       ]
     },
     "47d16c11-3033-44f3-9a12-2daf3453cc5b": {
@@ -41809,7 +41815,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "0f97cdf4-231d-4bd0-af5e-bcb64ce1556c",
-      "effects": []
+      "effects": [
+        "Tutor"
+      ]
     },
     "8ecbc87e-a63e-4afc-b5eb-2fc3dcd685f5": {
       "name": "Grozoth",
@@ -46043,9 +46051,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "5db4baf3-f0dc-4b27-8323-a76764332590",
-      "effects": [
-        "Redirect"
-      ]
+      "effects": []
     },
     "868b758c-e21c-4079-a1fc-4c89af106f4b": {
       "name": "Howl of the Night Pack",
@@ -47938,7 +47944,8 @@
       "label": "",
       "scryfallId": "ee44df88-45a4-46ef-a8bd-f7fb7b9542b8",
       "effects": [
-        "Buff"
+        "Buff",
+        "Tutor"
       ]
     },
     "0931206b-eed2-40d0-9496-5ecefc7f8f90": {
@@ -49495,8 +49502,7 @@
       "label": "",
       "scryfallId": "cfcd7ff3-4bad-4205-9d62-b3763eae9513",
       "effects": [
-        "Ramp",
-        "Redirect"
+        "Ramp"
       ]
     },
     "cc2b6e58-2d6f-495e-95f3-9496105c4cba": {
@@ -49577,7 +49583,8 @@
       "label": "",
       "scryfallId": "03e8d2c7-cd6e-48bf-9d54-73f3d6cff0aa",
       "effects": [
-        "Bounce"
+        "Bounce",
+        "Tutor"
       ]
     },
     "22d7048e-d538-4fd3-9fb3-2e99e74875fe": {
@@ -53599,9 +53606,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "06a981cd-1951-438e-95c9-68294795638e",
-      "effects": [
-        "Redirect"
-      ]
+      "effects": []
     },
     "0964288c-0397-428a-9a84-784aaea4e040": {
       "name": "Krark-Clan Engineers",
@@ -54834,8 +54839,7 @@
       "label": "",
       "scryfallId": "c011b432-ec39-44c8-bf2a-1c3fec32a576",
       "effects": [
-        "Buff",
-        "Redirect"
+        "Buff"
       ]
     },
     "6614dbe5-d7c7-4a51-91db-912764050269": {
@@ -55360,7 +55364,8 @@
       "label": "",
       "scryfallId": "c9d2156e-2d54-440e-b0fd-7bef702afbfc",
       "effects": [
-        "Removal"
+        "Removal",
+        "Tutor"
       ]
     },
     "6643fc8e-548e-48db-9f67-ffbca9e57016": {
@@ -55919,7 +55924,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "28cdf48e-e0d4-45ca-b48d-74ada54ba62e",
-      "effects": []
+      "effects": [
+        "Tutor"
+      ]
     },
     "bd104c7e-311e-4b03-98d3-5f20f3a99d26": {
       "name": "Liliana's Mastery",
@@ -57061,9 +57068,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "4b5d23a6-3a23-4169-aea1-f10bf5153180",
-      "effects": [
-        "Redirect"
-      ]
+      "effects": []
     },
     "53175678-1f5c-4889-9086-66381b3ddc3a": {
       "name": "Ludevic's Test Subject // Ludevic's Abomination",
@@ -59912,8 +59917,7 @@
       "label": "",
       "scryfallId": "19b4dc6c-940e-478c-b87f-b3939a30efbd",
       "effects": [
-        "CardAdvantage",
-        "Redirect"
+        "CardAdvantage"
       ]
     },
     "6593a7c1-fb48-4e53-8e6a-339ad2cc4489": {
@@ -59930,9 +59934,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "bf22da0c-5bf5-4c81-9422-671ce17c8ffa",
-      "effects": [
-        "Redirect"
-      ]
+      "effects": []
     },
     "6f2f4c31-74dc-4a52-96ad-94c3d51398d1": {
       "name": "Melira's Keepers",
@@ -60985,8 +60987,7 @@
       "label": "",
       "scryfallId": "f4ada33a-5b7c-426a-8416-4ce01bccaa5c",
       "effects": [
-        "Steal",
-        "Redirect"
+        "Steal"
       ]
     },
     "6ebdc9f3-6b23-4716-8011-48f00d7e30c8": {
@@ -65344,7 +65345,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "c638677c-2b92-4d0c-b61c-598b5a843844",
-      "effects": []
+      "effects": [
+        "Tutor"
+      ]
     },
     "d14d41a5-6f38-43c7-b95c-b4a723002c20": {
       "name": "Niblis of Dusk",
@@ -67378,8 +67381,7 @@
       "scryfallId": "4bb07091-86d6-4735-82b6-6e71e26710f4",
       "effects": [
         "Removal",
-        "Counter",
-        "Redirect"
+        "Counter"
       ]
     },
     "0e9864e2-1bb4-4527-b2af-62433a90b669": {
@@ -67726,7 +67728,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "81fb103d-f07c-4113-9da7-843cc7dab340",
-      "effects": []
+      "effects": [
+        "Tutor"
+      ]
     },
     "a0c956dc-d7de-4f11-b76f-7537fbee1731": {
       "name": "Oko, Lorwyn Liege // Oko, Shadowmoor Scion",
@@ -72647,8 +72651,7 @@
       "scryfallId": "57c0e869-9324-4352-899c-61c0cc5484b9",
       "effects": [
         "Ramp",
-        "ManaFixing",
-        "Redirect"
+        "ManaFixing"
       ]
     },
     "5cd064b9-1277-4edc-bf2c-82eb5e62f9d7": {
@@ -74124,9 +74127,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "0f9cea68-4390-4d73-a374-d6299cbc9271",
-      "effects": [
-        "Redirect"
-      ]
+      "effects": []
     },
     "87038d1b-0fa9-4604-b119-1de56db30144": {
       "name": "Pyromancer's Assault",
@@ -74151,8 +74152,7 @@
       "label": "",
       "scryfallId": "0f92d8df-e913-4a95-9f65-4fe98c332a6e",
       "effects": [
-        "Ramp",
-        "Redirect"
+        "Ramp"
       ]
     },
     "9931a999-ee1b-465b-a912-9f4697a01014": {
@@ -74176,8 +74176,7 @@
       "scryfallId": "795a7929-2c32-4006-bdf1-def0a4400f59",
       "effects": [
         "Removal",
-        "Burn",
-        "Redirect"
+        "Burn"
       ]
     },
     "fa70903d-3c8b-49f7-8817-f708b5ba250f": {
@@ -74994,9 +74993,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "0bab5da5-72a7-4340-9b53-492ab14a9f71",
-      "effects": [
-        "Redirect"
-      ]
+      "effects": []
     },
     "041e2a01-3652-46c1-a9d1-d38ae7ee0551": {
       "name": "Rain of Embers",
@@ -75370,7 +75367,8 @@
       "label": "",
       "scryfallId": "a2660fae-6459-446d-85dc-3c9126c81cb3",
       "effects": [
-        "Bounce"
+        "Bounce",
+        "Tutor"
       ]
     },
     "5e715875-28e0-44b4-af25-f6bb8ddec823": {
@@ -75421,8 +75419,7 @@
       "scryfallId": "3aaf86e6-c171-4c9a-a64b-d01a42883928",
       "effects": [
         "Filter",
-        "Burn",
-        "Redirect"
+        "Burn"
       ]
     },
     "0a557383-596b-4b8f-b81f-21706fef7b63": {
@@ -77406,7 +77403,8 @@
       "label": "",
       "scryfallId": "500f72e0-2de2-4c02-bda0-8a61aa9b37fc",
       "effects": [
-        "Ramp"
+        "Ramp",
+        "Tutor"
       ]
     },
     "562684ca-6e3c-47df-9e94-8ff772c25a96": {
@@ -77439,9 +77437,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "1cb03593-9369-4c26-bfcc-8819648dc018",
-      "effects": [
-        "Redirect"
-      ]
+      "effects": []
     },
     "a08c599e-ee75-4d2b-ae9b-0987c233dd17": {
       "name": "Repeating Barrage",
@@ -78398,7 +78394,8 @@
       "label": "",
       "scryfallId": "be82ea29-66d4-471d-bef7-c6524207b96d",
       "effects": [
-        "Bounce"
+        "Bounce",
+        "Tutor"
       ]
     },
     "f074c0d0-8455-484d-ae75-820fdfbc4740": {
@@ -78605,8 +78602,7 @@
       "label": "",
       "scryfallId": "70dd138f-391a-4956-bc2a-fe186429c71a",
       "effects": [
-        "Tokens",
-        "Redirect"
+        "Tokens"
       ]
     },
     "0c4e0e46-77f1-4ff6-afbc-1a67feceedfb": {
@@ -78660,9 +78656,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "23d41fc1-5b74-4ab5-9b14-43aaf3a7d125",
-      "effects": [
-        "Redirect"
-      ]
+      "effects": []
     },
     "b760b1db-764b-4b40-8a84-691b5c9c1dbc": {
       "name": "Rimehorn Aurochs",
@@ -79888,8 +79882,7 @@
       "label": "",
       "scryfallId": "2120a046-9c8c-47e9-93d5-46841794ba5c",
       "effects": [
-        "Wipe",
-        "Redirect"
+        "Wipe"
       ]
     },
     "ce07104c-8573-4dc0-a492-f9548d4317d2": {
@@ -79904,7 +79897,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "b537c4e3-88d1-430d-b4c8-16e0716d1927",
-      "effects": []
+      "effects": [
+        "Tutor"
+      ]
     },
     "cd83f886-c651-4ad7-82ca-2446c60c8f94": {
       "name": "Rowan, Fearless Sparkmage",
@@ -84842,9 +84837,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "2c209efe-b4dc-44a3-bd45-d647f5680cbe",
-      "effects": [
-        "Redirect"
-      ]
+      "effects": []
     },
     "c7f1a49a-cc22-432f-bf3e-50ba61982b87": {
       "name": "Sewer Nemesis",
@@ -85395,8 +85388,7 @@
       "label": "",
       "scryfallId": "6563f7d2-1b34-40ce-b758-5c64e8ab80c5",
       "effects": [
-        "Disenchant",
-        "Redirect"
+        "Disenchant"
       ]
     },
     "aa241f75-ce34-49a8-8ffd-785172249bcf": {
@@ -86487,9 +86479,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "13bf0a97-2dcf-4d18-bb3f-92d0406c7b4b",
-      "effects": [
-        "Redirect"
-      ]
+      "effects": []
     },
     "fcd281e3-f336-449f-a887-4b98dc14dfe7": {
       "name": "Siegebreaker Giant",
@@ -86520,7 +86510,8 @@
       "label": "",
       "scryfallId": "077bde4d-4cdb-42db-acc5-441ed8fa4a5b",
       "effects": [
-        "Filter"
+        "Filter",
+        "Tutor"
       ]
     },
     "ed36b1f6-2922-46a9-b48d-b9ebedb9a142": {
@@ -89653,7 +89644,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "416b000d-77d0-4c83-bbbd-d1107f746dde",
-      "effects": []
+      "effects": [
+        "Tutor"
+      ]
     },
     "ff27ff37-96c0-41af-8881-a078e884e67b": {
       "name": "Sorin's Thirst",
@@ -91118,7 +91111,8 @@
       "label": "",
       "scryfallId": "bd7e2501-2d36-41eb-a77a-747b62affc09",
       "effects": [
-        "Sacrifice"
+        "Sacrifice",
+        "Tutor"
       ]
     },
     "01f675c3-d1c4-45c8-8a2e-75f535db3025": {
@@ -91340,9 +91334,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "10808193-6ddc-4d53-a3fa-32d7ba80a04f",
-      "effects": [
-        "Redirect"
-      ]
+      "effects": []
     },
     "fbdec63e-0679-47e9-b82a-daa56df50481": {
       "name": "Spinneret Sliver",
@@ -93848,8 +93840,7 @@
       "label": "",
       "scryfallId": "8b75bef5-a039-4edf-8e43-56b8d089605e",
       "effects": [
-        "Mill",
-        "Redirect"
+        "Mill"
       ]
     },
     "7da64f81-64d0-4019-a208-9ee8b6782d85": {
@@ -94664,7 +94655,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "6f06ac1f-0bae-4aaa-9ff4-28c806828c40",
-      "effects": []
+      "effects": [
+        "Tutor"
+      ]
     },
     "9debaed0-b605-4778-9977-216d194ecdeb": {
       "name": "Sun-Collared Raptor",
@@ -95478,9 +95471,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "2c573d12-4c69-4a54-b1b9-236c003ba98a",
-      "effects": [
-        "Redirect"
-      ]
+      "effects": []
     },
     "77b98632-e103-44fa-a940-2c3b2897b60f": {
       "name": "Swarm Surge",
@@ -98049,7 +98040,8 @@
       "label": "",
       "scryfallId": "0a2064b2-58f4-4c41-b7e4-1e8ad396f6c0",
       "effects": [
-        "Removal"
+        "Removal",
+        "Tutor"
       ]
     },
     "b33d2b77-f068-4fdc-a1a8-0353a35e3973": {
@@ -98713,8 +98705,7 @@
       "label": "",
       "scryfallId": "18ee3a98-0254-4fe9-ba6b-94eb9266ac70",
       "effects": [
-        "Regrowth",
-        "Redirect"
+        "Regrowth"
       ]
     },
     "82a6fa6f-13c2-4ea3-bec2-c51b56b2783b": {
@@ -98802,9 +98793,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "a7475e46-2dd9-487e-8cbb-5a259fb5ec99",
-      "effects": [
-        "Redirect"
-      ]
+      "effects": []
     },
     "6206e6b7-20b4-4299-8c99-0dbc407badda": {
       "name": "The Underworld Fantasy Queen",
@@ -102494,7 +102483,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "8a65f118-3812-4698-8f43-669ceb6b7982",
-      "effects": []
+      "effects": [
+        "Tutor"
+      ]
     },
     "bd8c633c-ba99-47ac-a1d1-9e15aa948933": {
       "name": "Trusty Companion",
@@ -103472,9 +103463,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "19907ce2-345d-44a9-a8f5-5c74efc86915",
-      "effects": [
-        "Redirect"
-      ]
+      "effects": []
     },
     "97435e03-2fff-4fe0-8fa9-69ab0a046a33": {
       "name": "Unbreakable Formation",
@@ -104559,8 +104548,7 @@
       "label": "",
       "scryfallId": "32dfe9aa-8303-460b-a4c3-e5533af2e1fd",
       "effects": [
-        "Bounce",
-        "Redirect"
+        "Bounce"
       ]
     },
     "c42ce2e9-4dfe-468a-8f41-49e187cb91d4": {
@@ -106662,7 +106650,8 @@
       "label": "",
       "scryfallId": "f29bbfe2-d59f-4361-8ea4-6a8d1b909769",
       "effects": [
-        "Ramp"
+        "Ramp",
+        "Tutor"
       ]
     },
     "77630700-3828-4063-95a7-f6283f0f9da5": {
@@ -107672,7 +107661,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "569ff807-365d-4f25-9fad-86617ed1c8f2",
-      "effects": []
+      "effects": [
+        "Tutor"
+      ]
     },
     "c39e2046-173a-44b6-8e93-b22ede35485d": {
       "name": "Vraska's Stoneglare",
@@ -107680,7 +107671,8 @@
       "label": "",
       "scryfallId": "27fc4db6-a5f5-4254-ae64-c8eaf2c98030",
       "effects": [
-        "Removal"
+        "Removal",
+        "Tutor"
       ]
     },
     "131096a3-2d53-4ec2-96d3-fcb58e698a13": {
@@ -109921,9 +109913,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "5ba048ce-77ca-4b15-9344-1f3d4967ac47",
-      "effects": [
-        "Redirect"
-      ]
+      "effects": []
     },
     "f76a0e5b-74c1-4ee8-b502-e8b988086de4": {
       "name": "Wild Slash",
@@ -110130,8 +110120,7 @@
       "scryfallId": "406a3ae5-f57e-40ff-8eac-a01781f2329f",
       "effects": [
         "Ramp",
-        "CardAdvantage",
-        "Redirect"
+        "CardAdvantage"
       ]
     },
     "520b6637-0a9f-4dc4-846e-f1cd2b868263": {
@@ -111279,8 +111268,7 @@
       "label": "",
       "scryfallId": "535189ec-572f-44ed-9741-09b9f575fc40",
       "effects": [
-        "Tokens",
-        "Redirect"
+        "Tokens"
       ]
     },
     "37733e29-3ade-4bfd-89c9-efd13b548a53": {
@@ -111648,7 +111636,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "93aca389-6830-4297-97bc-e3a2a1a1d41a",
-      "effects": []
+      "effects": [
+        "Tutor"
+      ]
     },
     "ed66cd31-958f-4b28-82a3-e04acc819afc": {
       "name": "Yargle, Glutton of Urborg",
