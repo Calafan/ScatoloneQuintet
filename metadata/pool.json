@@ -3280,7 +3280,8 @@
       "label": "",
       "scryfallId": "19ce55bf-007d-4c13-90ac-29f0b21b66b1",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Redirect"
       ]
     },
     "d1b815d1-2848-40d4-a555-66822d1becbc": {
@@ -3694,7 +3695,9 @@
       "rating": 5,
       "label": "",
       "scryfallId": "17a104d3-e4ac-44a0-9c6a-39965b1b9751",
-      "effects": []
+      "effects": [
+        "Tutor"
+      ]
     },
     "871e4c4e-8105-4cb9-b1cd-53c5f8e64494": {
       "name": "Colossal Skyturtle",
@@ -3815,7 +3818,8 @@
       "label": "",
       "scryfallId": "bc95af55-d1dd-4fe6-adb0-3ad6db20d986",
       "effects": [
-        "Counter"
+        "Counter",
+        "Redirect"
       ]
     },
     "fa81e7ff-0f2c-40df-9169-c0a22f00cd76": {
@@ -4711,7 +4715,8 @@
       "scryfallId": "18445778-6176-40f6-a396-05e85579e85e",
       "effects": [
         "Removal",
-        "Disenchant"
+        "Disenchant",
+        "LandDestruction"
       ]
     },
     "2d0bd780-b754-44a3-894c-a9c8aa711f05": {
@@ -5282,7 +5287,8 @@
       "label": "",
       "scryfallId": "0e6d81e3-c83f-495a-b947-154fb4551a32",
       "effects": [
-        "Bounce"
+        "Bounce",
+        "Tutor"
       ]
     },
     "231f8edb-4ea1-44be-8794-b76a31462dfc": {
@@ -5504,7 +5510,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "2d9f0734-7bdf-4d06-b1ac-15919fb7bce3",
-      "effects": []
+      "effects": [
+        "Tutor"
+      ]
     },
     "3c958b5f-680b-45fc-8c3d-27b23677436e": {
       "name": "Dream-Thief's Bandana",
@@ -6060,6 +6068,7 @@
       "label": "",
       "scryfallId": "3a6a52ab-6d38-4429-9969-90064e615152",
       "effects": [
+        "Tutor",
         "Cheat"
       ]
     },
@@ -6667,7 +6676,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "1f4d1bb6-cb8f-4d01-9879-0b3a0585cbf4",
-      "effects": []
+      "effects": [
+        "Tutor"
+      ]
     },
     "d4e2b541-31b6-4bcb-a28a-d897deb91484": {
       "name": "Ezio, Brash Novice",
@@ -8429,7 +8440,9 @@
       "rating": 4,
       "label": "",
       "scryfallId": "256ff8d2-0f0d-4717-a58f-ce3be1d6340c",
-      "effects": []
+      "effects": [
+        "Tutor"
+      ]
     },
     "60186579-285b-4034-a782-431f79df5b07": {
       "name": "Go Blank",
@@ -9491,6 +9504,7 @@
       "effects": [
         "Tokens",
         "Ramp",
+        "Tutor",
         "ManaFixing"
       ]
     },
@@ -9727,7 +9741,8 @@
       "scryfallId": "5781ad7b-dc1b-4cc1-9e72-6e714b9ba1de",
       "effects": [
         "Removal",
-        "Burn"
+        "Burn",
+        "Tutor"
       ]
     },
     "c8de43a3-ebd3-4000-b343-a6ffed11d34d": {
@@ -10411,7 +10426,9 @@
       "rating": 4,
       "label": "",
       "scryfallId": "01985566-275b-4bf0-8667-c81eb95ad70c",
-      "effects": []
+      "effects": [
+        "Redirect"
+      ]
     },
     "7bdfe368-353c-4f8d-851f-05b7ea9f905d": {
       "name": "Jokulhaups",
@@ -10733,7 +10750,8 @@
       "label": "",
       "scryfallId": "183d4ce5-0d8c-4733-a344-20bf7ea48411",
       "effects": [
-        "Buff"
+        "Buff",
+        "Tutor"
       ]
     },
     "904b2603-00c3-44d2-a43c-c25439dd8038": {
@@ -11458,7 +11476,8 @@
       "scryfallId": "20ae3609-a3cc-486c-94f6-b8f647adfb47",
       "status": "Banned",
       "effects": [
-        "Wipe"
+        "Wipe",
+        "LandDestruction"
       ]
     },
     "50330e48-db74-4c5f-a0bc-f9a8607e8f31": {
@@ -11684,7 +11703,8 @@
       "label": "",
       "scryfallId": "985bdb0c-ce6c-4506-8163-76f3b2fdf5fb",
       "effects": [
-        "Counter"
+        "Counter",
+        "Redirect"
       ]
     },
     "5c446a7f-0301-4343-b0df-146cf2db605b": {
@@ -11860,6 +11880,7 @@
       "scryfallId": "079e6263-e54c-4899-a336-5315909b9322",
       "effects": [
         "Ramp",
+        "Tutor",
         "ManaFixing"
       ]
     },
@@ -12270,7 +12291,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "3b820e40-178d-4dac-b5f9-e4192e6d9161",
-      "effects": []
+      "effects": [
+        "Redirect"
+      ]
     },
     "be8b9bef-a98d-40a8-bedd-d78f1f08f93b": {
       "name": "Merfolk Windrobber",
@@ -13588,7 +13611,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "1021bcbd-566c-4f31-b148-0517b96a63db",
-      "effects": []
+      "effects": [
+        "LandDestruction"
+      ]
     },
     "57fe941c-a830-4570-afe2-18f93c7a7b84": {
       "name": "Obliterating Bolt",
@@ -15857,6 +15882,7 @@
       "scryfallId": "182520ae-d98f-4ef0-ad32-252f932f5d51",
       "effects": [
         "Ramp",
+        "Tutor",
         "Mill"
       ]
     },
@@ -16818,7 +16844,8 @@
         "RemovePermanent",
         "Ramp",
         "CardAdvantage",
-        "Burn"
+        "Burn",
+        "Redirect"
       ]
     },
     "11765eaf-87a1-48bd-90c1-7a5f21be5918": {
@@ -18827,7 +18854,8 @@
       "label": "",
       "scryfallId": "3f893ac7-d6e4-4cee-b1a3-5ea92a344498",
       "effects": [
-        "Buff"
+        "Buff",
+        "Tutor"
       ]
     },
     "8f7479e6-b2bd-46b1-96ad-34deb43565c1": {
@@ -20043,7 +20071,8 @@
       "effects": [
         "Ramp",
         "Buff",
-        "ManaFixing"
+        "ManaFixing",
+        "Redirect"
       ]
     },
     "b1544f21-7e98-461b-aed5-e748b0168c52": {
@@ -23903,7 +23932,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "3d8df219-1da0-4311-b9bb-c74b5fa55293",
-      "effects": []
+      "effects": [
+        "Redirect"
+      ]
     },
     "8291543f-d086-48aa-b2b7-5481ca8c9198": {
       "name": "Xander's Lounge",
