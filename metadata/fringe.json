@@ -71215,8 +71215,8 @@
       "label": "",
       "scryfallId": "7114c9c8-5370-42e0-8aaf-dc05e2422a76",
       "effects": [
-        "Removal",
-        "Counter"
+        "Counter",
+        "RemovePermanent"
       ]
     },
     "2f83ca86-e23d-40f7-8085-6928d8cfef9b": {
