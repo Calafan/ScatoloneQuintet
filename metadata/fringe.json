@@ -5559,7 +5559,8 @@
       "label": "",
       "scryfallId": "686aebd0-0d34-47e3-bbbd-ad08d2a3a864",
       "effects": [
-        "Reanimate"
+        "Reanimate",
+        "Steal"
       ],
       "reviewedAt": "2026-09-08T06:47:49.9056338+00:00"
     },
@@ -17338,7 +17339,8 @@
       "label": "",
       "scryfallId": "4c03f326-9dfc-49e0-992f-dee29e20f3c9",
       "effects": [
-        "Reanimate"
+        "Reanimate",
+        "Steal"
       ],
       "reviewedAt": "2026-09-11T21:58:51.4089565+00:00"
     },
@@ -36089,7 +36091,8 @@
       "label": "",
       "scryfallId": "77e548c9-8bed-40c3-bcdd-9d97a82c885d",
       "effects": [
-        "Sacrifice"
+        "Sacrifice",
+        "Steal"
       ],
       "reviewedAt": "2026-09-11T21:56:24.7055969+00:00"
     },
@@ -36173,7 +36176,8 @@
       "scryfallId": "c0688a03-05b6-472e-8559-f30169145bfa",
       "effects": [
         "Reanimate",
-        "Buff"
+        "Buff",
+        "Steal"
       ],
       "reviewedAt": "2026-09-10T16:10:13.9267099+00:00"
     },
@@ -44724,7 +44728,9 @@
       "rating": 2,
       "label": "",
       "scryfallId": "1d8c8ecc-7637-424a-bae2-ed3b8678f97d",
-      "effects": [],
+      "effects": [
+        "Steal"
+      ],
       "reviewedAt": "2026-09-08T09:50:26.1376377+00:00"
     },
     "0144d9bb-d3cb-4c23-b133-6653d7c3a76d": {
@@ -56984,7 +56990,8 @@
       "label": "",
       "scryfallId": "d0898e8b-41c5-4c82-942f-fc0fa9293080",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Steal"
       ],
       "reviewedAt": "2026-09-11T10:37:15.6609033+00:00"
     },
@@ -65849,7 +65856,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "0f9cbeaf-3456-4a87-ac75-e7658ccbd97f",
-      "effects": [],
+      "effects": [
+        "Steal"
+      ],
       "reviewedAt": "2026-09-04T14:54:27.1704013+00:00"
     },
     "c4ab446a-97e4-46a5-89a8-180a0bf3447c": {
@@ -76869,6 +76878,7 @@
       "label": "",
       "scryfallId": "139b146c-9033-4743-bd5e-92c7535cbf3a",
       "effects": [
+        "Steal",
         "Pacify"
       ],
       "reviewedAt": "2026-09-11T12:25:38.3568426+00:00"
@@ -106407,7 +106417,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "016d00a2-a75f-4394-b70d-8affa7691674",
-      "effects": [],
+      "effects": [
+        "Steal"
+      ],
       "reviewedAt": "2026-09-04T14:24:07.842136+00:00"
     },
     "008011e2-7b82-4962-af6e-be627112f37f": {
@@ -112965,6 +112977,7 @@
         "Ramp",
         "CardAdvantage",
         "Buff",
+        "Steal",
         "ManaFixing"
       ],
       "reviewedAt": "2026-09-11T22:06:15.4983456+00:00"

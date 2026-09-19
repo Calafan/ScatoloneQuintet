@@ -206,7 +206,8 @@
       "label": "",
       "scryfallId": "9361b548-a8d9-4e57-98cf-0c464742e1c9",
       "effects": [
-        "Reanimate"
+        "Reanimate",
+        "Steal"
       ],
       "reviewedAt": "2026-09-10T11:01:58.5120123+00:00"
     },
@@ -2134,7 +2135,8 @@
       "scryfallId": "1b3188ab-feb9-4486-bda0-1b80f128f7d2",
       "effects": [
         "Tokens",
-        "Buff"
+        "Buff",
+        "Steal"
       ],
       "reviewedAt": "2026-09-10T15:11:24.0794836+00:00"
     },
@@ -5686,7 +5688,8 @@
       "label": "",
       "scryfallId": "9207362c-3605-4794-803f-ad1d0175fcca",
       "effects": [
-        "RemovePermanent"
+        "RemovePermanent",
+        "Disenchant"
       ],
       "reviewedAt": "2026-09-11T13:25:04.327101+00:00"
     },
@@ -6293,7 +6296,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "00b70f7a-8e77-4a99-8d13-7465a190630e",
-      "effects": []
+      "effects": [
+        "Steal"
+      ]
     },
     "0e2c11b2-d95f-4402-9a4a-afd3f7ffb8be": {
       "name": "Eureka Moment",
@@ -10651,7 +10656,8 @@
       "scryfallId": "21cfc161-11b8-4253-a872-3b08a13b6991",
       "effects": [
         "CardAdvantage",
-        "Burn"
+        "Burn",
+        "Steal"
       ],
       "reviewedAt": "2026-09-10T11:05:14.7338739+00:00"
     },
@@ -20882,7 +20888,8 @@
       "effects": [
         "Wipe",
         "Discard",
-        "Reanimate"
+        "Reanimate",
+        "Steal"
       ],
       "reviewedAt": "2026-09-11T13:42:29.0794331+00:00"
     },
