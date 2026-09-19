@@ -85,7 +85,6 @@
       "scryfallId": "10f257e3-1d03-4395-8a2d-c71f702db9ad",
       "effects": [
         "Tokens",
-        "Removal",
         "Reanimate"
       ]
     },
@@ -2147,9 +2146,7 @@
       "rating": 3,
       "label": "",
       "scryfallId": "77a43413-3ab0-4ef6-83de-192a11d48f00",
-      "effects": [
-        "Removal"
-      ]
+      "effects": []
     },
     "8574f57a-768d-42a0-ac8c-cc0a1de181e0": {
       "name": "Bog Down",
@@ -2866,7 +2863,9 @@
       "rating": 4,
       "label": "",
       "scryfallId": "18a5e38a-6c8c-427f-9143-59212e711f1c",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "96c12c12-140a-462d-bff0-0554d192b1f4": {
       "name": "Callous Bloodmage",
@@ -11109,7 +11108,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "5956dbe0-0d4c-42b1-8554-0fa6de1ee6bc",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "126e9140-2c05-4c00-8b01-5653456c736a": {
       "name": "Lair of the Hydra",
@@ -14551,8 +14552,7 @@
       "label": "",
       "scryfallId": "64513f0a-067d-4b70-bb23-9ebe606bda1a",
       "effects": [
-        "Tokens",
-        "Removal"
+        "Tokens"
       ]
     },
     "32c84176-cf11-4010-b1cc-ed570a8c3e54": {
@@ -15340,7 +15340,9 @@
       "rating": 4,
       "label": "",
       "scryfallId": "35a91a58-cc8b-47a3-8c53-43c32753a00d",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "78f9ec0f-6015-4024-aca6-9a14cba373fa": {
       "name": "Pyrotechnic Performer",
@@ -17220,7 +17222,6 @@
       "scryfallId": "24521350-ffa6-46d9-95ed-6573c681e095",
       "effects": [
         "Tokens",
-        "Removal",
         "Reanimate"
       ]
     },
@@ -18660,7 +18661,9 @@
       "rating": 5,
       "label": "",
       "scryfallId": "0150e5a9-99d8-4d81-be9c-3a8e98a41758",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "895f23a2-55b7-4cc0-8939-2efaaf097e6f": {
       "name": "Solphim, Mayhem Dominus",
@@ -21528,9 +21531,7 @@
       "rating": 3,
       "label": "",
       "scryfallId": "45b5d677-ff77-47ce-8612-bae70c326e4e",
-      "effects": [
-        "Removal"
-      ]
+      "effects": []
     },
     "0e9c7380-7584-43e6-8c31-5d1bb1685fe0": {
       "name": "Tolsimir, Midnight's Light",
@@ -23406,7 +23407,9 @@
       "rating": 4,
       "label": "",
       "scryfallId": "3c9fb10f-2be6-4412-876a-e62e673bf59b",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "086a911f-9ed4-4260-ae46-58c9333b95f5": {
       "name": "Werewolf Pack Leader",

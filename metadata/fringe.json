@@ -1393,7 +1393,6 @@
       "label": "",
       "scryfallId": "3cd8dd4e-6892-49d7-8fae-97d04f9f6c84",
       "effects": [
-        "Removal",
         "Reanimate"
       ]
     },
@@ -14495,7 +14494,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "770ee3da-d33e-466f-9a2e-ad2d08ef5012",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "93d20859-249f-47ae-8f6d-095228e7b6e9": {
       "name": "Calming Licid",
@@ -15366,6 +15367,7 @@
       "label": "",
       "scryfallId": "0862bf07-8a76-4e80-bba2-20d22f8eee30",
       "effects": [
+        "Removal",
         "Buff"
       ]
     },
@@ -19445,7 +19447,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "bb237330-ac2e-411d-836c-6628f96f3262",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "c00074ec-5b31-44d3-b69b-e2bf6f6a2477": {
       "name": "Commissar Severina Raine",
@@ -19910,7 +19914,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "73b5a0a5-5486-409a-b324-668ae03fc62a",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "c850a29e-dc40-4ab6-89f1-d501a1a350d1": {
       "name": "Constant Mists",
@@ -20239,7 +20245,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "d498cd5d-5807-4297-bc8a-c0941f2f5ce2",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "6ff39311-565e-4414-b32b-eb24c70b3090": {
       "name": "Coordinated Maneuver",
@@ -20525,7 +20533,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "0f7c6f6f-9516-4cfd-830f-5910a25bd1a2",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "ec84201d-757f-4a7a-b3a2-85ccd5ee81ae": {
       "name": "Corrupt Court Official",
@@ -20976,7 +20986,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "1bc98779-5ee4-4169-8a98-02e0f63a599a",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "6e5b8bb2-9dd8-4986-9d0a-659114be5a2a": {
       "name": "Cram Session",
@@ -22433,7 +22445,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "7433b9bf-ee6e-41fe-b826-0d20584198b1",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "0d61239f-28e4-4adb-8f6e-b56e9c8699af": {
       "name": "Cursed Land",
@@ -27779,6 +27793,7 @@
       "label": "",
       "scryfallId": "5cf531dd-0a93-43e3-880b-f705fa5f533d",
       "effects": [
+        "Removal",
         "Burn"
       ]
     },
@@ -32616,9 +32631,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "2d3eeddd-c86d-4f35-ba57-3caa9565fcb0",
-      "effects": [
-        "Removal"
-      ]
+      "effects": []
     },
     "65260087-48b5-4968-8584-7cc561bb312c": {
       "name": "Escape Routes",
@@ -33434,7 +33447,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "1eff81c4-c402-437d-aace-dfe875d9857d",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "9480e142-289a-439d-b6a5-2666fb0e5be3": {
       "name": "Exotic Disease",
@@ -34135,6 +34150,7 @@
       "label": "",
       "scryfallId": "358c18b7-5321-4793-b54a-e48e39548b9c",
       "effects": [
+        "Removal",
         "Filter"
       ]
     },
@@ -35441,6 +35457,7 @@
       "label": "",
       "scryfallId": "0a623b30-c105-44ac-b8fd-4ebc8b6dea2c",
       "effects": [
+        "Removal",
         "Filter"
       ]
     },
@@ -36450,9 +36467,7 @@
       "rating": 2,
       "label": "",
       "scryfallId": "4bcff20b-06f7-4228-a99c-6ff46e73e353",
-      "effects": [
-        "Removal"
-      ]
+      "effects": []
     },
     "6b151418-092f-4a43-8b21-3de64ea80cab": {
       "name": "Firefly",
@@ -38920,7 +38935,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "24076763-88ba-4dee-b548-9c27bd34fdb7",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "02a8b849-e708-427c-92fe-9a41bb0ec7fe": {
       "name": "Friendly Teddy",
@@ -42592,7 +42609,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "1a825f83-0f7b-4ecd-857f-a232f225b274",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "6ef0dd51-31df-4fd3-8153-49a427a7fdcf": {
       "name": "Goblin Chariot",
@@ -43913,7 +43932,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "83edf626-ed34-417f-818d-597ecf439167",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "6c4a0e3d-c63c-4acf-8386-b51f1ec37463": {
       "name": "Grafted Butcher",
@@ -47110,7 +47131,6 @@
       "label": "",
       "scryfallId": "88a28a48-d4a1-47ce-9aa0-ee65325029c4",
       "effects": [
-        "Removal",
         "Filter"
       ]
     },
@@ -48300,7 +48320,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "09e9dc36-f2d8-4384-98cb-e44c00b02433",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "4d92b3d3-d34b-430f-af6a-db512d204d06": {
       "name": "Hobgoblin Captain",
@@ -49432,7 +49454,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "8943304a-89c9-48b0-97b4-3e1aa690ca4d",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "102d73bc-94ed-4a57-9872-6f7b9bf282f9": {
       "name": "Hunting Moa",
@@ -52371,7 +52395,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "49ec5e00-22f4-486e-8e99-e950725f6fbc",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "73c7fdb3-4742-4d08-8658-daa4435c49b1": {
       "name": "Invasion of Vryn // Overloaded Mage-Ring",
@@ -57738,7 +57764,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "4fb92039-03fd-4aee-be74-96997be629d6",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "0d9ac5e0-2b4e-4e7b-937e-9e9bfce7e96b": {
       "name": "Laccolith Titan",
@@ -58798,7 +58826,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "1beb0e18-9886-4663-8b9a-030e61987357",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "cd47eedd-57cb-460d-b339-4785f63a5475": {
       "name": "Leinore, Autumn Sovereign",
@@ -59146,9 +59176,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "96794470-31ea-478f-b11c-dc8342a508e2",
-      "effects": [
-        "Removal"
-      ]
+      "effects": []
     },
     "c5081f2d-ebe2-4ff3-a8ef-fe50f8ecde60": {
       "name": "Liberated Dwarf",
@@ -61234,7 +61262,6 @@
       "label": "",
       "scryfallId": "2a8f74c3-c552-4331-a47c-e8155841bb27",
       "effects": [
-        "Removal",
         "CardAdvantage",
         "Burn"
       ]
@@ -61911,7 +61938,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "6ab963aa-2304-4ee6-a8c7-c485c5133b40",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "ada82f93-dc93-4a95-a13f-42b5942b3413": {
       "name": "Magic Damper",
@@ -62683,6 +62712,7 @@
       "label": "",
       "scryfallId": "f3da5010-78b6-426f-aeb4-73c21d2af581",
       "effects": [
+        "Removal",
         "Pacify"
       ]
     },
@@ -65838,7 +65868,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "0ae0c536-612d-4916-a8da-5aaaf14218b1",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "1d88014b-8189-4a88-bee3-c2310d36f6e8": {
       "name": "Miriam, Herd Whisperer",
@@ -66998,7 +67030,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "95234b29-9ac8-4200-b42d-9653ba51b010",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "d955a26a-d474-4dff-9eba-69fcfe92d8ae": {
       "name": "Molten Influence",
@@ -68598,6 +68632,7 @@
       "label": "",
       "scryfallId": "169e7084-ced8-4ff6-8c7f-6ef5968dd7ff",
       "effects": [
+        "Removal",
         "Reanimate"
       ]
     },
@@ -73856,7 +73891,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "45ad514e-28a6-4816-b764-69ef89e117f1",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "6d9dc632-414e-480c-85ef-c2b98a6460ad": {
       "name": "Pang Tong, \"Young Phoenix\"",
@@ -74289,9 +74326,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "17022b1f-5d1a-4306-8688-c3b01df8b4fc",
-      "effects": [
-        "Removal"
-      ]
+      "effects": []
     },
     "00ad27a1-9162-408d-ac75-970e45d7e06c": {
       "name": "Patchwork Gnomes",
@@ -74411,7 +74446,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "309bc2e7-bece-493d-b7ab-0e08a9f40909",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "1f65c853-5262-4b75-b324-1fe0c165170d": {
       "name": "Patrician Geist",
@@ -74693,8 +74730,7 @@
       "label": "",
       "scryfallId": "1d958ec3-1ddc-4622-9089-cbe5b3b47c90",
       "effects": [
-        "Tokens",
-        "Removal"
+        "Tokens"
       ]
     },
     "07462467-e4a3-409e-bcef-9cc92ca4c299": {
@@ -77293,7 +77329,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "91b448f4-aa0c-42c7-a771-e8dd20e0520c",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "37c49483-bef6-47c6-9354-ead8560d48da": {
       "name": "Pradesh Gypsies",
@@ -77325,7 +77363,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "7293f9b4-565a-4065-940b-543f76ebecae",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "6d1a9d06-028f-487a-b490-27100c128ea3": {
       "name": "Precognition",
@@ -78307,7 +78347,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "55e5c69c-43d0-4f5b-8720-40074eb122bb",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "ac935fad-2fa7-4afc-9db4-3cd30ec4aabd": {
       "name": "Protocol Knight",
@@ -78373,6 +78415,7 @@
       "label": "",
       "scryfallId": "770dea30-cef4-476a-beec-7a7fa967d07b",
       "effects": [
+        "Removal",
         "CardAdvantage"
       ]
     },
@@ -79065,6 +79108,7 @@
       "label": "",
       "scryfallId": "5968f641-48b5-4b97-8072-ddd8073cd4d7",
       "effects": [
+        "Removal",
         "Regrowth"
       ]
     },
@@ -88941,8 +88985,7 @@
       "label": "",
       "scryfallId": "b87d368f-e1e0-41ab-9da0-f07c01c8ae38",
       "effects": [
-        "Tokens",
-        "Removal"
+        "Tokens"
       ]
     },
     "c6dfc91f-bfac-40c2-99e5-0cec981f7f1f": {
@@ -90267,9 +90310,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "c9b1c300-aec3-4512-9902-309615e86c73",
-      "effects": [
-        "Removal"
-      ]
+      "effects": []
     },
     "4507d35a-f7f3-4abe-b06b-90c5331b533a": {
       "name": "Selfless Glyphweaver // Deadly Vanity",
@@ -91265,6 +91306,7 @@
       "label": "",
       "scryfallId": "00538777-8230-42bf-a6ea-adbe430d6b18",
       "effects": [
+        "Removal",
         "CardAdvantage",
         "Buff"
       ]
@@ -92637,7 +92679,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "aa1beb5d-0ef2-4013-932b-5e4a5d0af559",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "728d2e30-2f36-4054-81db-29b01e376a82": {
       "name": "Sickening Dreams",
@@ -97398,6 +97442,7 @@
       "label": "",
       "scryfallId": "59fbf45a-23b4-4d06-abd9-4cc3895cb29d",
       "effects": [
+        "Removal",
         "Ramp",
         "ManaFixing"
       ]
@@ -97650,7 +97695,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "efdbe7c6-99ad-4c73-bffe-7bbdc6965854",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "c77ff526-c0a8-45c7-9730-2e306a0d01b8": {
       "name": "Spirit Link",
@@ -97947,9 +97994,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "adbaa356-28ba-487f-930a-a957d9960ab0",
-      "effects": [
-        "Removal"
-      ]
+      "effects": []
     },
     "21486218-70ec-4c60-9844-8f7c80912333": {
       "name": "Splashy Spellcaster",
@@ -103196,6 +103241,7 @@
       "label": "",
       "scryfallId": "0eb51be0-6a2e-464a-86d1-aa36179c8c18",
       "effects": [
+        "Removal",
         "Buff"
       ]
     },
@@ -103711,7 +103757,6 @@
       "scryfallId": "4c0c6c2a-4352-4c65-b41d-2a722bbef6c5",
       "effects": [
         "Tokens",
-        "Removal",
         "Buff"
       ]
     },
@@ -104860,7 +104905,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "51c523cd-78b0-438f-bba5-19160f648d5f",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "e12b38e5-621b-4b2c-8c04-c15c41d4fc70": {
       "name": "Tetzin, Gnome Champion // The Golden-Gear Colossus",
@@ -105121,6 +105168,7 @@
       "label": "",
       "scryfallId": "28ea046b-1bbc-4430-a859-321602c9e928",
       "effects": [
+        "Removal",
         "Steal"
       ]
     },
@@ -109258,7 +109306,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "85caf7c1-b9f6-420b-a69c-d8356d85abe8",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "f467ec85-ffe2-4963-82e0-509a7873fd63": {
       "name": "Torrent of Lava",
@@ -110084,6 +110134,7 @@
       "label": "",
       "scryfallId": "d4b6413d-68d3-4097-9bb3-873df4900e4c",
       "effects": [
+        "Removal",
         "Reanimate"
       ]
     },
@@ -110461,7 +110512,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "fa62f67a-d20f-4d99-b0a2-327634299c9f",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "a5425d4f-cd6c-4240-89a4-dd13e0e1a95f": {
       "name": "Trial of a Time Lord",
@@ -112181,7 +112234,6 @@
       "label": "",
       "scryfallId": "d8c7aa89-3777-49ec-a6d0-c568150864e8",
       "effects": [
-        "Removal",
         "Reanimate"
       ]
     },
@@ -113804,6 +113856,7 @@
       "label": "",
       "scryfallId": "a22ad436-215a-4da1-b12e-1faac474f948",
       "effects": [
+        "Removal",
         "Filter",
         "Reanimate"
       ]
@@ -117694,7 +117747,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "0b101b5e-d478-4686-b3cf-bdc545f089e5",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "2346be19-7344-4f11-be2c-a22750cb7e1d": {
       "name": "Wave of Terror",
@@ -119903,7 +119958,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "9ce4be1e-97dd-45ec-89e5-2fb56145c098",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "ce65c6ed-e5d4-48d8-b569-4e2774b2912c": {
       "name": "Withering Wisps",
@@ -120298,6 +120355,7 @@
       "label": "",
       "scryfallId": "6c7c1b08-3184-478f-92be-88db6cda33c5",
       "effects": [
+        "Removal",
         "ManaFixing"
       ]
     },
