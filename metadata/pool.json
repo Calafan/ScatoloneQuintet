@@ -857,6 +857,7 @@
       "label": "",
       "scryfallId": "34bd7a66-afb1-4a6b-80b3-fce1bb361d88",
       "effects": [
+        "Tokens",
         "Reanimate"
       ],
       "reviewedAt": "2026-09-11T19:46:20.4664296+00:00"
@@ -2695,6 +2696,7 @@
       "label": "",
       "scryfallId": "4d1909cd-25c1-437b-88da-af98f9386dc2",
       "effects": [
+        "Tokens",
         "Ramp"
       ],
       "reviewedAt": "2026-09-10T15:47:30.7490905+00:00"
@@ -6197,6 +6199,7 @@
       "label": "",
       "scryfallId": "6cb18871-dd23-4ce8-a535-16adefae63c0",
       "effects": [
+        "Tokens",
         "Reanimate"
       ],
       "reviewedAt": "2026-09-10T15:38:10.6282228+00:00"
