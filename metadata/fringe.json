@@ -70999,7 +70999,6 @@
       "label": "",
       "scryfallId": "075e48f1-3c95-42c4-b90d-55dc6738435d",
       "effects": [
-        "Removal",
         "RemovePermanent"
       ],
       "reviewedAt": "2026-09-04T14:13:03.4735213+00:00"
@@ -96582,7 +96581,7 @@
       "label": "",
       "scryfallId": "17a98f74-1b59-47ce-b5ab-dda5aefd9f78",
       "effects": [
-        "Removal"
+        "RemovePermanent"
       ],
       "reviewedAt": "2026-09-08T10:45:20.5800295+00:00"
     },

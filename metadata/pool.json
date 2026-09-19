@@ -130,7 +130,7 @@
       "label": "",
       "scryfallId": "35d304de-5a24-487e-87f9-0ba9b6d70296",
       "effects": [
-        "Removal"
+        "RemovePermanent"
       ],
       "reviewedAt": "2026-09-04T14:58:54.8825391+00:00"
     },
@@ -2124,8 +2124,8 @@
       "label": "",
       "scryfallId": "0892ec35-8bab-4fe5-8cc9-a25032d4bc8d",
       "effects": [
-        "Removal",
-        "Counter"
+        "Counter",
+        "RemovePermanent"
       ],
       "reviewedAt": "2026-09-04T13:20:05.4745906+00:00"
     },
@@ -7471,7 +7471,7 @@
       "label": "",
       "scryfallId": "1b15f78d-6133-4404-b9f7-b8c91b587ea7",
       "effects": [
-        "Removal"
+        "RemovePermanent"
       ],
       "reviewedAt": "2026-09-04T15:05:03.4117848+00:00"
     },
@@ -15975,8 +15975,8 @@
       "label": "",
       "scryfallId": "18cb5303-de57-4aff-a068-9701ebe19869",
       "effects": [
-        "Removal",
-        "Counter"
+        "Counter",
+        "RemovePermanent"
       ],
       "reviewedAt": "2026-09-04T14:14:40.0964957+00:00"
     },
