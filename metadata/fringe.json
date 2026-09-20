@@ -15369,6 +15369,7 @@
       "scryfallId": "29ee07df-215f-45a6-9a5a-708143d73e45",
       "effects": [
         "Removal",
+        "Filter",
         "Burn"
       ]
     },
@@ -16665,7 +16666,6 @@
       "scryfallId": "11f9b98e-48a1-491e-bdab-6e94e4ec747a",
       "effects": [
         "Tokens",
-        "CardAdvantage",
         "Filter",
         "Sacrifice"
       ],
@@ -47667,7 +47667,7 @@
       "label": "",
       "scryfallId": "4148d7e8-6371-468c-858b-35254995409a",
       "effects": [
-        "CardAdvantage",
+        "Filter",
         "Buff"
       ],
       "reviewedAt": "2026-09-11T10:48:44.5552068+00:00"
