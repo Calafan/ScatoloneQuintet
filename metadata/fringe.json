@@ -99751,6 +99751,7 @@
       "label": "",
       "scryfallId": "4c7065a2-f819-4cbe-b453-a55e904f0461",
       "effects": [
+        "Burn",
         "LandDestruction"
       ],
       "reviewedAt": "2026-09-05T12:05:20.3470363+00:00"
@@ -115137,7 +115138,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "01770e13-ebd4-4c83-9e72-99374239a63d",
-      "effects": [],
+      "effects": [
+        "Burn"
+      ],
       "reviewedAt": "2026-09-08T13:34:29.6534536+00:00"
     },
     "1d82f01a-29be-4756-8745-e2c04bf77c61": {

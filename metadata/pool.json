@@ -3439,6 +3439,7 @@
       "label": "",
       "scryfallId": "2211a86b-24d6-4db6-9621-3f84c7f94cc4",
       "effects": [
+        "Burn",
         "LandDestruction"
       ],
       "reviewedAt": "2026-09-08T09:34:15.3407182+00:00"
@@ -9712,6 +9713,7 @@
       "label": "",
       "scryfallId": "14b4dd4d-c617-4603-8a87-761ec6fc6883",
       "effects": [
+        "Burn",
         "LandDestruction"
       ],
       "reviewedAt": "2026-09-05T12:05:12.0043326+00:00"
@@ -9902,17 +9904,6 @@
       "label": "",
       "scryfallId": "2e99b114-7786-4d50-9835-851f214e09bb",
       "effects": []
-    },
-    "11b14eab-5268-485b-ad39-a0c0dfef9f28": {
-      "name": "Inferno",
-      "rating": 4,
-      "label": "",
-      "scryfallId": "02c3a185-8184-40e9-bba6-4b4dc5be5c1e",
-      "effects": [
-        "Removal",
-        "Burn"
-      ],
-      "reviewedAt": "2026-09-04T15:04:49.6130822+00:00"
     },
     "cd54438d-7f9d-4d80-b15b-0f0bf4becc15": {
       "name": "Inferno of the Star Mounts",
@@ -24375,6 +24366,17 @@
       "effects": [
         "Removal"
       ]
+    },
+    "69e2df4e-c7f3-4c3a-be5b-1c4afb29cead": {
+      "name": "Inferno",
+      "rating": 4,
+      "label": "",
+      "scryfallId": "bf6895de-9c74-49a0-a71c-1e55a6897dfa",
+      "effects": [
+        "Wipe",
+        "Burn"
+      ],
+      "reviewedAt": "2026-09-04T15:04:49.6130822+00:00"
     }
   }
 }
