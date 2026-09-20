@@ -1969,7 +1969,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "e0ddcf4a-1943-49dd-a02c-75804ce4bc3e",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "25a0fe3b-59c8-496a-a8d6-fca966ca6602": {
       "name": "Blizzard Brawl",
@@ -12772,6 +12774,7 @@
       "label": "",
       "scryfallId": "a1ca565c-3b9e-4dbb-898a-d0d470e02e45",
       "effects": [
+        "Burn",
         "LandDestruction"
       ]
     },

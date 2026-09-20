@@ -50171,7 +50171,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "97431dca-54ca-47ef-ab00-943140e8e758",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "9fc7aba7-eda2-4134-9c10-31ee35201b72": {
       "name": "Ichormoon Gauntlet",
@@ -99601,7 +99603,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "d3936053-b2ed-49b8-ab69-fe47a972cfe4",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "8cbc0fa4-4f62-47e1-90dc-c21d2682a493": {
       "name": "Steamclaw",
@@ -115087,7 +115091,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "bcbab69d-3259-40f4-a588-ab550858a178",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "74c5bfb0-1375-46e9-9a6c-1b9fada2913b": {
       "name": "Viashino Grappler",
@@ -115131,7 +115137,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "102f139d-1baf-4ca6-a940-70b7efdc29f2",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "cbfccfc0-3117-4ca0-b7ce-8e2d67ec49ab": {
       "name": "Viashino Sandstalker",

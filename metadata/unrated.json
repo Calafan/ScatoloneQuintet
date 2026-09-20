@@ -3812,7 +3812,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "32014715-7faa-412a-b8b4-751102e6b8a3",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "f1c26b25-371e-4fbf-a43d-7fd59a364d3a": {
       "name": "Arc Trail",
@@ -4325,7 +4327,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "6c6f1a8b-329e-4094-8141-6bc88311a08c",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "a80ea391-54d1-4b61-95a3-f8deb4cbe842": {
       "name": "Arclight Phoenix",
@@ -19873,6 +19877,7 @@
       "label": "",
       "scryfallId": "6a892711-a1a4-4402-957f-92077d00320d",
       "effects": [
+        "Burn",
         "LandDestruction"
       ]
     },
@@ -38954,7 +38959,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "a1519521-7f53-4f13-a104-daf52e8c7234",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "45c29ac0-f9ca-4ab9-b93e-8b678509bcd7": {
       "name": "Glittering Wish",
@@ -41853,7 +41860,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "1692ba5a-7ccd-4623-876d-a587d6491cec",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "da344e46-6bdf-4032-8590-bac850d5713d": {
       "name": "Groundchuck & Dirtbag",
@@ -44410,7 +44419,8 @@
       "label": "",
       "scryfallId": "2b5fab78-9391-4247-ab26-467fc78e9b97",
       "effects": [
-        "Reanimate"
+        "Reanimate",
+        "Burn"
       ]
     },
     "90514aa5-84b6-4be7-b6d0-b05529c97140": {
@@ -44554,7 +44564,8 @@
       "label": "",
       "scryfallId": "205bd3b3-969a-4cbf-b4c7-4973c0a0a10b",
       "effects": [
-        "Reanimate"
+        "Reanimate",
+        "Burn"
       ]
     },
     "38a3c87f-006e-4fc2-8c67-77b5bbb0471f": {
@@ -47598,7 +47609,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "1ba7acc0-6ef0-4c34-be23-118e1872271f",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "a03059dd-f499-407a-9346-6710b0468202": {
       "name": "Impetuous Protege",
@@ -56003,7 +56016,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "826e3183-9e72-478f-a5f3-a28bf7aad014",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "a5196310-f449-4d5e-8ea8-901a83bad6ff": {
       "name": "Lightning Shrieker",
@@ -56018,7 +56033,8 @@
       "label": "",
       "scryfallId": "5734012b-31db-4125-8fea-c88666969cd6",
       "effects": [
-        "Discard"
+        "Discard",
+        "Burn"
       ]
     },
     "2c0fceb6-d92d-4f4a-85a2-0af5be5bba81": {
@@ -60244,6 +60260,7 @@
       "label": "",
       "scryfallId": "1d94a1d1-6d24-46e1-9568-42e1a810ad31",
       "effects": [
+        "Burn",
         "LandDestruction"
       ]
     },
@@ -70543,6 +70560,7 @@
       "label": "",
       "scryfallId": "ed0a00f7-aee0-4ab2-bab6-bc0949176a7a",
       "effects": [
+        "Burn",
         "LandDestruction"
       ]
     },
@@ -72140,6 +72158,7 @@
       "label": "",
       "scryfallId": "cb86eeec-d50f-4823-86bd-35437926a6e4",
       "effects": [
+        "Burn",
         "LandDestruction"
       ]
     },
@@ -74316,7 +74335,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "b2b2c3f9-a831-4fd2-80e8-b67b0df3e98b",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "9b271430-f53d-42d6-a547-2f286dd9bcb6": {
       "name": "Putrefy",
@@ -79813,7 +79834,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "87d3a425-01d1-4001-92f9-8e297dd862b7",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "77fef82d-e8d0-444b-8d76-68e9b533f38b": {
       "name": "Roiling Waters",
@@ -90710,7 +90733,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "09e7dfad-aca9-498d-bd1c-5503b411ca5f",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "25756e33-25e5-4976-8cce-a39fa2c4b007": {
       "name": "Spark Harvest",
@@ -90747,7 +90772,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "09eb69b5-b8e2-48c6-8c27-cb0108df8dad",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "22504fd0-0353-4ef0-baf4-4b7be28d1a66": {
       "name": "Spark of Creativity",
@@ -106460,7 +106487,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "f7d1def0-1450-44ec-b7c4-0fa50fe12c15",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "1e49f33b-84c0-4b68-abd4-e8c00b3ce98f": {
       "name": "Viashino Shanktail",
