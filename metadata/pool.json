@@ -1371,7 +1371,8 @@
       "label": "",
       "scryfallId": "485dc8d8-9e44-4a0f-9ff6-fa448e232290",
       "effects": [
-        "Discard"
+        "Discard",
+        "Burn"
       ]
     },
     "9c9b3bf7-afb7-4e9b-bdbc-e2b4d5ba477f": {
@@ -5603,7 +5604,8 @@
       "label": "",
       "scryfallId": "153265b4-0ca4-4245-9226-dd1a083ec91c",
       "effects": [
-        "Removal"
+        "Removal",
+        "Burn"
       ],
       "reviewedAt": "2026-09-11T15:02:08.0890254+00:00"
     },
@@ -11941,7 +11943,9 @@
       "rating": 4,
       "label": "",
       "scryfallId": "729e9fe0-fd33-4a2c-b445-48b35946b6db",
-      "effects": [],
+      "effects": [
+        "Burn"
+      ],
       "reviewedAt": "2026-09-11T13:29:45.188186+00:00"
     },
     "8226f31d-6f51-49c3-87f7-0c68f7f4f9ce": {
@@ -13495,8 +13499,7 @@
       "label": "",
       "scryfallId": "23adc472-acee-4642-8306-00505eb82e0f",
       "effects": [
-        "Removal",
-        "Burn"
+        "Removal"
       ],
       "reviewedAt": "2026-09-11T15:04:55.4584749+00:00"
     },
@@ -14195,7 +14198,8 @@
       "label": "",
       "scryfallId": "22cad680-d46a-4589-a633-b6ee9a78d61e",
       "effects": [
-        "Discard"
+        "Discard",
+        "Burn"
       ],
       "reviewedAt": "2026-09-11T13:30:44.0282787+00:00"
     },
@@ -15795,8 +15799,7 @@
       "label": "",
       "scryfallId": "0f7c16c7-8b74-45fa-a094-104eb0572cd8",
       "effects": [
-        "CardAdvantage",
-        "Burn"
+        "CardAdvantage"
       ],
       "reviewedAt": "2026-09-11T13:32:01.933555+00:00"
     },
@@ -16859,7 +16862,6 @@
       "effects": [
         "Removal",
         "Ramp",
-        "Burn",
         "ManaFixing"
       ]
     },
@@ -19701,7 +19703,8 @@
       "scryfallId": "13e0ad67-35a6-48f3-83cb-5ffd07daf717",
       "effects": [
         "Removal",
-        "CardAdvantage"
+        "CardAdvantage",
+        "Burn"
       ],
       "reviewedAt": "2026-09-11T19:59:40.8219928+00:00"
     },
@@ -19857,7 +19860,9 @@
       "rating": 4,
       "label": "",
       "scryfallId": "8995ceaf-b7e0-423c-8f3e-25212d522502",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "de6b26e4-8700-490f-9df2-dac430463274": {
       "name": "Sunstar Chaplain",
@@ -19973,7 +19978,8 @@
       "label": "",
       "scryfallId": "38c98aa0-bfa1-42f4-b035-a48dac86f0ce",
       "effects": [
-        "Removal"
+        "Removal",
+        "Burn"
       ]
     },
     "da412474-1da8-409b-bd7b-87cbfc239fb0": {
@@ -20774,7 +20780,8 @@
       "label": "",
       "scryfallId": "1b4d8a51-2307-4ed6-af25-c48946219096",
       "effects": [
-        "Ramp"
+        "Ramp",
+        "Burn"
       ],
       "reviewedAt": "2026-09-10T16:04:17.0049648+00:00"
     },
@@ -22867,7 +22874,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "96c957b1-ef31-4575-9003-fe4a649d303b",
-      "effects": [],
+      "effects": [
+        "Burn"
+      ],
       "reviewedAt": "2026-09-11T21:17:14.818345+00:00"
     },
     "63c1ac21-e3d8-40c2-8c09-3f31c52992ef": {
@@ -23563,7 +23572,8 @@
       "scryfallId": "b322ba2f-8474-4c73-b2fb-0f2e380a4e04",
       "effects": [
         "Removal",
-        "Reanimate"
+        "Reanimate",
+        "Burn"
       ],
       "reviewedAt": "2026-09-10T13:18:21.9582613+00:00"
     },
