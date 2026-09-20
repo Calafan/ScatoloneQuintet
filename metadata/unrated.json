@@ -2489,7 +2489,8 @@
       "label": "",
       "scryfallId": "488a7bbd-b2e3-43d8-8f37-d8c2ddd320f3",
       "effects": [
-        "Ramp"
+        "Ramp",
+        "CardAdvantage"
       ]
     },
     "3a30089d-cd2d-49be-9b06-7a2454117692": {

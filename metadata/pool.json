@@ -20422,7 +20422,7 @@
       "label": "",
       "scryfallId": "4134a2aa-623c-49fc-bd87-26b861860ad5",
       "effects": [
-        "CardAdvantage",
+        "Filter",
         "Burn"
       ]
     },

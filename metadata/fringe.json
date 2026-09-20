@@ -36520,7 +36520,7 @@
       "label": "",
       "scryfallId": "b78fbaa3-c580-4290-9c28-b74169aab2fc",
       "effects": [
-        "CardAdvantage",
+        "Filter",
         "Steal"
       ]
     },
@@ -53720,7 +53720,7 @@
       "effects": [
         "Tokens",
         "Removal",
-        "CardAdvantage"
+        "Filter"
       ]
     },
     "39ee576a-0803-4063-9c84-f2b537e4d44c": {
@@ -62176,7 +62176,7 @@
       "label": "",
       "scryfallId": "57e97739-7df5-4325-a03d-1d57c7b50e3c",
       "effects": [
-        "CardAdvantage"
+        "Filter"
       ]
     },
     "59322432-591a-4e8d-aff5-12ca1feb1028": {
@@ -66343,7 +66343,7 @@
       "label": "",
       "scryfallId": "bb142d99-b210-47c8-897c-be62f90d2192",
       "effects": [
-        "CardAdvantage",
+        "Filter",
         "Reanimate"
       ]
     },
@@ -74313,7 +74313,7 @@
       "label": "",
       "scryfallId": "52bb8272-e60f-4aa1-8f98-6110715a78fa",
       "effects": [
-        "CardAdvantage"
+        "Filter"
       ]
     },
     "2d8ebb48-5f37-4b7e-b8ec-3296d9a039c7": {
@@ -100768,7 +100768,7 @@
       "label": "",
       "scryfallId": "b2223eb8-59f9-489b-a3f3-b6496218cb79",
       "effects": [
-        "CardAdvantage"
+        "Filter"
       ]
     },
     "7dabd64c-8d0b-4e56-b6be-5651c9e985c5": {
