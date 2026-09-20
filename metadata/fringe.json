@@ -696,7 +696,6 @@
       "label": "",
       "scryfallId": "99009400-ffa4-40af-8305-78295ae605ac",
       "effects": [
-        "Burn",
         "Sacrifice"
       ]
     },
@@ -1215,7 +1214,8 @@
       "label": "",
       "scryfallId": "271ef715-861c-4dad-93b2-160e29131c49",
       "effects": [
-        "Removal"
+        "Removal",
+        "Burn"
       ]
     },
     "2577ef8e-d85e-47af-ac34-629f31992751": {
@@ -1224,7 +1224,8 @@
       "label": "",
       "scryfallId": "692c186a-997c-4f7e-a339-bf84884e1019",
       "effects": [
-        "Reanimate"
+        "Reanimate",
+        "Burn"
       ]
     },
     "e4a85647-0b8c-40b2-a5d5-43c78877ce36": {
@@ -1488,9 +1489,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "5a5984d3-1e76-4d97-9373-b59cfa9c38ae",
-      "effects": [
-        "Burn"
-      ]
+      "effects": []
     },
     "b2142d8b-ea53-443e-bd60-9e70d9da9bd7": {
       "name": "Agent of the Shadow Thieves",
@@ -2328,7 +2327,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "4ff67241-4c6a-436d-893b-ef7760825e68",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "48f80047-a4f9-4ebb-a97a-cad157b9bb64": {
       "name": "All of History, All at Once",
@@ -2393,7 +2394,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "edf238c9-61de-4f3a-b82f-05af46e5e81b",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "399af8ea-7a6f-4f43-bd39-dc29a6e75e06": {
       "name": "Alley Grifters",
@@ -2863,7 +2866,8 @@
       "label": "",
       "scryfallId": "57adbd6e-88ec-4472-a9c9-90b679fa881f",
       "effects": [
-        "Removal"
+        "Removal",
+        "Burn"
       ]
     },
     "2ddbbe65-f928-4b8e-8c4c-a9ce82e2594d": {
@@ -3404,7 +3408,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "0c7b248a-3c74-4592-b357-47989568298c",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "1a587b8d-fcb4-47ca-9689-610897117166": {
       "name": "Angelfire Crusader",
@@ -4202,7 +4208,8 @@
       "label": "",
       "scryfallId": "b2496c4a-df03-4583-bd76-f98ed5cb61ee",
       "effects": [
-        "Discard"
+        "Discard",
+        "Burn"
       ]
     },
     "9640225a-8f31-495f-b9de-53ed348ff24b": {
@@ -4529,7 +4536,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "01d02c56-bf38-4bd8-9e0b-c1e2cc2e5dfe",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "62c240ac-f2dd-4e39-9e82-50307efa833e": {
       "name": "Archfiend's Vessel",
@@ -5915,7 +5924,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "3c993df3-9ecf-471b-b27f-1204f6892dd9",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "196962f0-6aff-4198-9e0c-eaf42aeaf147": {
       "name": "Astor, Bearer of Blades",
@@ -6094,6 +6105,7 @@
       "scryfallId": "e6098b4a-a92f-4477-8122-5913ac9247f8",
       "effects": [
         "CardAdvantage",
+        "Burn",
         "Mill"
       ]
     },
@@ -7205,7 +7217,8 @@
       "scryfallId": "7a3f8bc2-ef66-474f-92a3-9c4df1670cec",
       "effects": [
         "Discard",
-        "CardAdvantage"
+        "CardAdvantage",
+        "Burn"
       ]
     },
     "fc5d3341-cbce-49e5-93cc-8add92479dca": {
@@ -7487,9 +7500,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "f0621b32-95c5-4f70-96cf-d46d20efc85d",
-      "effects": [
-        "Burn"
-      ]
+      "effects": []
     },
     "e8e15ab4-e4c7-4faf-b469-288451ddee02": {
       "name": "Ballad of the Black Flag",
@@ -7781,7 +7792,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "e38f0f9f-ad7b-48da-89f3-b3e5346a3b71",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "59faa1b9-17aa-4f2c-a8f8-17ab50392b36": {
       "name": "Barbarian Class",
@@ -8403,8 +8416,7 @@
       "label": "",
       "scryfallId": "0c9a8ae0-af8b-41e5-b841-314106e40eaf",
       "effects": [
-        "Tokens",
-        "Burn"
+        "Tokens"
       ]
     },
     "c2022f95-2c26-4a2a-b83b-60efa937cdde": {
@@ -8536,7 +8548,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "ee1be893-1287-40a3-81d6-271df3154b45",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "8294539d-7982-4ec9-8392-99eed78542f5": {
       "name": "Battle for Bretagard",
@@ -9110,7 +9124,9 @@
       "rating": 2,
       "label": "",
       "scryfallId": "271e784a-b9ba-4f21-b52a-37d34cb61abe",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "74c9cc13-c03f-4322-82af-b7bce1f2a0d8": {
       "name": "Beloved Beggar // Generous Soul",
@@ -9929,7 +9945,8 @@
       "label": "",
       "scryfallId": "3a4ac16c-eea8-40f9-a2b0-5016af0ac722",
       "effects": [
-        "Removal"
+        "Removal",
+        "Burn"
       ]
     },
     "173e86f4-17f3-44f5-8073-78e7e2e12c4a": {
@@ -10291,7 +10308,8 @@
       "label": "",
       "scryfallId": "87ce6584-0a21-43d0-a2fe-cbdea564927a",
       "effects": [
-        "Removal"
+        "Removal",
+        "Burn"
       ]
     },
     "6c3faf4f-83c1-4098-98b8-bae15d59b0de": {
@@ -10653,7 +10671,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "3ea597a5-0057-4328-9f6e-a446cde91ece",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "698feaaa-2fff-4809-81d1-4caad44c6c0a": {
       "name": "Blizzard",
@@ -10826,7 +10846,8 @@
       "label": "",
       "scryfallId": "607b1066-1ca0-45e1-a55c-30aed77cc8dc",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Burn"
       ]
     },
     "e05c6c80-a91a-45e0-b991-0014fd5a6472": {
@@ -11482,7 +11503,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "8e9535a5-29ea-4085-a36b-4905d85e97ac",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "60092fb4-98db-4f2d-a5d7-24b5f11c8acc": {
       "name": "Bombadil's Song",
@@ -11694,6 +11717,7 @@
       "label": "",
       "scryfallId": "bead678c-7b6a-4668-9919-623312e08a65",
       "effects": [
+        "Burn",
         "Mill"
       ]
     },
@@ -12197,6 +12221,7 @@
       "scryfallId": "49aa8d4c-04e9-4f38-9786-2c9ad735dd72",
       "effects": [
         "Discard",
+        "Burn",
         "Regrowth"
       ]
     },
@@ -12569,7 +12594,8 @@
       "label": "",
       "scryfallId": "73e348dd-2d8a-4ee6-a834-2d5861566043",
       "effects": [
-        "Wipe"
+        "Wipe",
+        "Burn"
       ]
     },
     "f455b731-6ff9-4acb-9447-f524faa49b27": {
@@ -12585,7 +12611,8 @@
       "label": "",
       "scryfallId": "130f60d0-4fac-4e4e-a938-58f3b96e5335",
       "effects": [
-        "Removal"
+        "Removal",
+        "Burn"
       ]
     },
     "9f18a580-1c30-4f97-be06-098a763dfda8": {
@@ -13285,7 +13312,8 @@
       "label": "",
       "scryfallId": "1170ee2d-ab25-4c7f-a910-cc01471a2cab",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Burn"
       ]
     },
     "5b42e91a-e3bd-4f69-9abf-ed6273715fff": {
@@ -13333,7 +13361,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "04013bc6-7774-400b-a6af-de755b4c324d",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "b33a7ec6-b22b-41cf-9312-65add1529b51": {
       "name": "Brushfire Elemental",
@@ -13587,6 +13617,7 @@
       "scryfallId": "899e278d-5d4e-461a-9878-2b85de16b38d",
       "effects": [
         "Ramp",
+        "Burn",
         "ManaFixing"
       ]
     },
@@ -13954,7 +13985,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "4bdf6e2a-1bf5-4d63-a58b-883cfb1ea0fa",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "7358e164-5704-4e78-9b21-6a9bf2a968ce": {
       "name": "Cabal Coffers",
@@ -14528,7 +14561,8 @@
       "label": "",
       "scryfallId": "770ee3da-d33e-466f-9a2e-ad2d08ef5012",
       "effects": [
-        "Removal"
+        "Removal",
+        "Burn"
       ]
     },
     "93d20859-249f-47ae-8f6d-095228e7b6e9": {
@@ -15603,6 +15637,7 @@
       "label": "",
       "scryfallId": "a27b48bf-aa80-4159-aa48-8a56c6780860",
       "effects": [
+        "Burn",
         "Sacrifice"
       ]
     },
@@ -15771,7 +15806,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "3700a61f-76fe-42e6-be93-0ba319b7b543",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "fea997a4-3ed1-4f83-b16a-56939f4b2211": {
       "name": "Caustic Wasps",
@@ -20098,7 +20135,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "481e8dac-8292-4e8f-89a1-b396ce98d3ab",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "ee327c5e-ed29-4de3-bf50-92488f51a3a5": {
       "name": "Contaminated Drink",
@@ -20577,7 +20616,8 @@
       "label": "",
       "scryfallId": "0f7c6f6f-9516-4cfd-830f-5910a25bd1a2",
       "effects": [
-        "Removal"
+        "Removal",
+        "Burn"
       ]
     },
     "ec84201d-757f-4a7a-b3a2-85ccd5ee81ae": {
@@ -21030,7 +21070,8 @@
       "label": "",
       "scryfallId": "1bc98779-5ee4-4169-8a98-02e0f63a599a",
       "effects": [
-        "Removal"
+        "Removal",
+        "Burn"
       ]
     },
     "6e5b8bb2-9dd8-4986-9d0a-659114be5a2a": {
@@ -21848,7 +21889,8 @@
       "label": "",
       "scryfallId": "7fbe8cf1-11df-4ca4-9a6b-265193c49250",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Burn"
       ]
     },
     "865715e9-6759-4e01-803d-702c959e386e": {
@@ -22439,7 +22481,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "371b7795-5cfc-4e2b-b26c-2def52c61dbf",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "36e267c5-ea98-4e26-b2b4-3faa05493eb4": {
       "name": "Curse of Silence",
@@ -22675,7 +22719,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "1fe32187-ce41-48b8-9bb9-ddca2ca0bab6",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "ca173221-1661-41f6-a353-29a32d6ccce0": {
       "name": "Cybermat",
@@ -22909,7 +22955,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "5caeb415-0e90-4f5b-ada4-a46241cf5dda",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "00efb113-ba5a-4749-b42b-5693b980f26f": {
       "name": "Dakmor Lancer",
@@ -23143,7 +23191,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "54dcf5e3-4303-41a3-b54c-24a9d462ce07",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "863ad4b8-094b-46b3-b6cd-0640e1f01d6d": {
       "name": "Daring Apprentice",
@@ -23320,7 +23370,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "d518e2fd-7767-43d7-92e3-62a4a465154c",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "885630a8-c43b-4804-acd6-14a7c7321d73": {
       "name": "Dark Triumph",
@@ -24046,7 +24098,8 @@
       "label": "",
       "scryfallId": "f8a84715-c5dc-4a19-af6a-796c6ee912c2",
       "effects": [
-        "Removal"
+        "Removal",
+        "Burn"
       ]
     },
     "491606d8-e9c1-4f89-bbef-b7590d310097": {
@@ -25251,7 +25304,6 @@
       "scryfallId": "6839fd15-5656-4006-a11b-d0e1cbea05b3",
       "effects": [
         "Tokens",
-        "Burn",
         "Sacrifice"
       ]
     },
@@ -25317,7 +25369,8 @@
       "label": "",
       "scryfallId": "d3e5b091-2aa7-4aca-9855-bb802d3d563e",
       "effects": [
-        "Counter"
+        "Counter",
+        "Burn"
       ]
     },
     "8daed4d8-1a43-4452-85dd-51b320714489": {
@@ -25572,6 +25625,7 @@
       "label": "",
       "scryfallId": "06bb6ff7-2cd6-430e-a618-0b83d9c1d044",
       "effects": [
+        "Burn",
         "LandDestruction"
       ]
     },
@@ -26108,7 +26162,6 @@
       "label": "",
       "scryfallId": "056da29c-8ae8-4e37-93c7-2d367cb51900",
       "effects": [
-        "Burn",
         "Sacrifice"
       ]
     },
@@ -27089,9 +27142,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "60f6a159-b969-4767-802e-409f8bf286fe",
-      "effects": [
-        "Burn"
-      ]
+      "effects": []
     },
     "1e79b7bf-8a2d-4585-81d0-755dce78a4ea": {
       "name": "Dokuchi Shadow-Walker",
@@ -27220,14 +27271,18 @@
       "rating": 2,
       "label": "",
       "scryfallId": "51ccdca0-2c29-4b5c-ba5a-364cc6945801",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "0d6e76aa-2966-48b7-be4e-2d3e2cc94fc1": {
       "name": "Donna Noble",
       "rating": 1,
       "label": "",
       "scryfallId": "4a9fe657-e9c8-4b74-bda5-ee03b909c97b",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "c761af28-d7d8-46d3-9bc7-1e44fdf6d0a0": {
       "name": "Doom Cannon",
@@ -28105,7 +28160,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "205eb029-68a0-4895-b142-2eb09987b5cb",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "da21c21c-88d8-4a93-b2b4-6d7bb28959c9": {
       "name": "Dread Specter",
@@ -28165,9 +28222,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "0d86a2e0-a391-458c-a775-79f5b9760d45",
-      "effects": [
-        "Burn"
-      ]
+      "effects": []
     },
     "068b9586-53e3-4791-a26c-a6b38d038f66": {
       "name": "Dreadlight Monstrosity",
@@ -28403,7 +28458,6 @@
       "label": "",
       "scryfallId": "4ef82b33-82ba-4521-846b-e651764ef46d",
       "effects": [
-        "Burn",
         "Sacrifice"
       ]
     },
@@ -28630,8 +28684,7 @@
       "scryfallId": "70e68656-3204-4bb5-9f31-8036083fcba6",
       "effects": [
         "Tokens",
-        "Buff",
-        "Burn"
+        "Buff"
       ]
     },
     "ecba74bd-850e-4cbe-9b1c-b0d4d6f27d1c": {
@@ -29286,6 +29339,7 @@
       "scryfallId": "69d815d3-7e33-4de9-aa36-ff5ffb893d73",
       "effects": [
         "Removal",
+        "Burn",
         "LandDestruction"
       ]
     },
@@ -29294,7 +29348,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "bbd6a95a-11b9-43aa-b293-20a3102bae71",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "6da00e2d-4287-48eb-8abe-d153318381fd": {
       "name": "Dwarven Grunt",
@@ -29403,7 +29459,8 @@
       "label": "",
       "scryfallId": "099873b1-7181-4b9d-8ce1-8ec63c814afe",
       "effects": [
-        "Removal"
+        "Removal",
+        "Burn"
       ]
     },
     "55ae9711-65ac-4166-8a51-1deeb10a8904": {
@@ -30380,9 +30437,7 @@
       "rating": 2,
       "label": "",
       "scryfallId": "1c3f0ffe-cf51-4c30-8cd5-9e3c7e92c019",
-      "effects": [
-        "Burn"
-      ]
+      "effects": []
     },
     "d95cd013-6f32-4a8b-9c46-a28695eea4f1": {
       "name": "Elder Arthur Maxson",
@@ -30450,9 +30505,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "7d5bbb02-a04e-4add-ae9a-67819cffdb3a",
-      "effects": [
-        "Burn"
-      ]
+      "effects": []
     },
     "3795fc31-2369-47d0-b9c9-120f44b8f114": {
       "name": "Elderleaf Mentor",
@@ -32440,8 +32493,7 @@
       "scryfallId": "dfed2acf-9ac8-447b-94f5-7db3a713c991",
       "effects": [
         "Discard",
-        "Buff",
-        "Burn"
+        "Buff"
       ]
     },
     "710a3499-64f8-4d2c-8c9c-d58950e47ea7": {
@@ -32969,7 +33021,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "b2f1afa2-ca71-49cf-953b-d5dfc60c178f",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "f1bd0d32-7513-4d1d-94aa-d06101a940c0": {
       "name": "Etched Slith",
@@ -33509,7 +33563,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "4e9624e5-79a2-41de-997b-12d871d4be66",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "497cb281-e057-42fc-937d-512855b74159": {
       "name": "Exotic Pets",
@@ -33774,7 +33830,8 @@
       "label": "",
       "scryfallId": "da54bbfd-48d8-4b1f-9336-e45be7e0b0e5",
       "effects": [
-        "Removal"
+        "Removal",
+        "Burn"
       ]
     },
     "f3f01fe8-0a2c-4afa-94d2-268d27c0d252": {
@@ -34329,7 +34386,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "4aee8867-dab3-4655-a746-6e6233008c0f",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "33c0a8c0-d1d9-4b03-869d-65dab8ace3df": {
       "name": "Fall of Cair Andros",
@@ -34492,7 +34551,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "ef397db1-2d99-4cb0-a6e9-6f72d615ebad",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "efd9cc25-f445-4de0-9a69-adab9f8878f4": {
       "name": "False Dawn",
@@ -35280,7 +35341,8 @@
       "label": "",
       "scryfallId": "9f013a1a-d4b9-4380-9802-c299ee6c4492",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Burn"
       ]
     },
     "2ff92886-5c17-47a4-a02b-a97432d9203e": {
@@ -35396,6 +35458,7 @@
       "scryfallId": "020a6903-350b-4b12-8fbc-5da40f77cb77",
       "effects": [
         "CardAdvantage",
+        "Burn",
         "Sacrifice"
       ]
     },
@@ -36108,7 +36171,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "097dbfae-1a18-4c10-8d1f-b2c20971c75e",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "4d98aea2-b4ff-4903-ba28-a53fbfaad6b1": {
       "name": "Final Strike",
@@ -37981,7 +38046,8 @@
       "label": "",
       "scryfallId": "031884be-66e9-4474-bba3-ddd6ee0f8086",
       "effects": [
-        "Removal"
+        "Removal",
+        "Burn"
       ]
     },
     "65589538-d3c1-4dfd-a328-71f57f556212": {
@@ -39266,7 +39332,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "66e577a0-e5d7-4e6a-919c-d85c2ae819ce",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "5f3ef680-90f4-487f-b44b-db25e29e57ce": {
       "name": "Fruition",
@@ -39397,8 +39465,7 @@
       "label": "",
       "scryfallId": "48237c98-5067-47a8-af74-7b9bce57c6a4",
       "effects": [
-        "Reanimate",
-        "Burn"
+        "Reanimate"
       ]
     },
     "fa76ee16-ff48-418b-819a-69f1139b36f3": {
@@ -40501,7 +40568,8 @@
       "scryfallId": "20de45c3-7abd-427b-b786-55f5c63b78b7",
       "effects": [
         "Removal",
-        "CardAdvantage"
+        "CardAdvantage",
+        "Burn"
       ]
     },
     "45f159dc-a5f9-4335-896b-ad544c303801": {
@@ -40545,7 +40613,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "2001d23e-feae-4a91-917e-e239b1c2b17c",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "c3162232-b713-44be-b2af-29d801279ab2": {
       "name": "Gempalm Sorcerer",
@@ -41606,7 +41676,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "28b41c48-0715-49d9-98e5-e82b706da816",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "9f3941d8-b4d2-4faf-881a-f15973b4368d": {
       "name": "Gimli, Mournful Avenger",
@@ -41923,7 +41995,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "5949e77b-a9e8-4c1c-8ee0-f3c7ac5f8f83",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "66465bc1-4a34-4951-be53-57f90002976a": {
       "name": "Gleeful Demolition",
@@ -42683,7 +42757,8 @@
       "label": "",
       "scryfallId": "1a825f83-0f7b-4ecd-857f-a232f225b274",
       "effects": [
-        "Removal"
+        "Removal",
+        "Burn"
       ]
     },
     "6ef0dd51-31df-4fd3-8153-49a427a7fdcf": {
@@ -42810,7 +42885,9 @@
       "rating": 2,
       "label": "",
       "scryfallId": "367a1fd8-2010-41ae-a746-d2e51c3d6eff",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "29781b19-0917-4d8f-abe3-df0b7e96d8a6": {
       "name": "Goblin Gardener",
@@ -43340,7 +43417,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "738fecfd-1119-4dcb-acd6-ec9715d9c074",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "81a38340-9558-49d3-8de6-d7d01babfd97": {
       "name": "Goblin War Wagon",
@@ -44254,7 +44333,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "9ad5f9f2-282a-4ee0-a259-cc24404ddf6f",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "42c5c1aa-10a4-4cd5-b1f8-a393ed553f99": {
       "name": "Grave Defiler",
@@ -45001,6 +45082,7 @@
       "effects": [
         "Tokens",
         "Removal",
+        "Burn",
         "Sacrifice"
       ]
     },
@@ -45423,7 +45505,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "8276b064-60ba-4079-b790-e2eea831e35e",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "a1439ace-5880-4fb8-a321-ec8063e7ed0e": {
       "name": "Guilty Conscience",
@@ -47036,7 +47120,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "8dbb98db-f2ee-446f-9170-dd05b1a7dbd8",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "fafdba94-51cd-413c-82f3-eb294825c6ca": {
       "name": "Heaven's Gate",
@@ -48125,7 +48211,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "12a9ece9-3805-401a-bc83-7245342a42e5",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "df020a47-1784-479b-9882-be77b7f30950": {
       "name": "Highway Robbery",
@@ -50244,7 +50332,8 @@
       "label": "",
       "scryfallId": "09b0c449-f316-43ed-b5dd-3c1fc0ec337a",
       "effects": [
-        "Removal"
+        "Removal",
+        "Burn"
       ]
     },
     "6e3b3a3f-e32f-4c72-a9fb-dd1e877876b6": {
@@ -50570,7 +50659,9 @@
       "rating": 2,
       "label": "",
       "scryfallId": "14b44833-0482-4b47-a594-4050bb87f1a5",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "280e05c5-7ab4-45bf-aa15-e594cec49ef3": {
       "name": "Imoen, Mystic Trickster",
@@ -50615,7 +50706,8 @@
       "label": "",
       "scryfallId": "5681db91-5dab-41e6-96f2-275ec9495e5b",
       "effects": [
-        "Buff"
+        "Buff",
+        "Burn"
       ]
     },
     "7089512e-f9b6-4d8e-bccc-29e6785cc041": {
@@ -51381,7 +51473,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "1d8dd6c3-3699-4dd1-a019-fdb569eaf722",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "99853d2e-2223-4c05-bbd7-0a746f8f810d": {
       "name": "Ingenious Leonin",
@@ -51599,6 +51693,7 @@
       "scryfallId": "43048d9a-3673-4b41-825c-b9631c06bb44",
       "effects": [
         "CardAdvantage",
+        "Burn",
         "Tutor"
       ]
     },
@@ -51698,7 +51793,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "d8009a37-f966-4a71-9a2a-469127758dc6",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "b7140f72-91b6-4be4-8d71-c019e64c2351": {
       "name": "Insomnia, Crown City",
@@ -51976,9 +52073,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "596fb7a2-bb79-44b7-ad84-414c8139ec13",
-      "effects": [
-        "Burn"
-      ]
+      "effects": []
     },
     "8db0a379-4cf2-43a7-932b-c5646a604578": {
       "name": "Into the Fae Court",
@@ -52222,7 +52317,8 @@
       "label": "",
       "scryfallId": "92f5b177-b0c6-4573-b860-f75dad1941bd",
       "effects": [
-        "Discard"
+        "Discard",
+        "Burn"
       ]
     },
     "fe84933e-d98f-4cbc-b272-387a80894e31": {
@@ -52477,7 +52573,8 @@
       "label": "",
       "scryfallId": "49ec5e00-22f4-486e-8e99-e950725f6fbc",
       "effects": [
-        "Removal"
+        "Removal",
+        "Burn"
       ]
     },
     "73c7fdb3-4742-4d08-8658-daa4435c49b1": {
@@ -54488,8 +54585,7 @@
       "label": "",
       "scryfallId": "3eaa19ce-cace-499e-8b23-ef9e56b23700",
       "effects": [
-        "Tokens",
-        "Burn"
+        "Tokens"
       ]
     },
     "ca04089c-24b6-465e-9303-ea28c0d6f3c7": {
@@ -54811,7 +54907,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "1e81e5fc-0e18-4dd8-a505-aa7dba8521a8",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "7c69cb2b-14f1-4215-aba8-c107493c3036": {
       "name": "Kaervek's Hex",
@@ -54997,8 +55095,7 @@
       "label": "",
       "scryfallId": "163366ce-d20f-4b2f-b0c5-e9e621075eb9",
       "effects": [
-        "Tokens",
-        "Burn"
+        "Tokens"
       ]
     },
     "0b620775-70a5-4423-8453-e403a5b79554": {
@@ -55153,9 +55250,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "09758399-de1f-49e7-9672-431c8a78e105",
-      "effects": [
-        "Burn"
-      ]
+      "effects": []
     },
     "0507a9d2-cbad-4a7b-b888-fbd5ac1ed02f": {
       "name": "Karfell Harbinger",
@@ -55247,8 +55342,7 @@
       "scryfallId": "1b674243-f953-4d67-b15f-dd7ad88c289e",
       "effects": [
         "Removal",
-        "Ramp",
-        "Burn"
+        "Ramp"
       ]
     },
     "8a7c6391-020a-4d7a-8abb-702631bbee56": {
@@ -57194,7 +57288,8 @@
       "label": "",
       "scryfallId": "49db5812-49f7-452a-8f1d-88e6fb4880f3",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Burn"
       ]
     },
     "a9b9e798-debc-4f2c-9770-e16f670082f7": {
@@ -57222,7 +57317,6 @@
       "scryfallId": "016cc13b-3b0e-4fc7-b7e1-fa5065eba030",
       "effects": [
         "Removal",
-        "Burn",
         "ManaFixing"
       ]
     },
@@ -58039,7 +58133,6 @@
       "label": "",
       "scryfallId": "90609f70-ae14-4abb-be3a-f3f70437c4a5",
       "effects": [
-        "Burn",
         "Sacrifice"
       ]
     },
@@ -58126,7 +58219,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "c0ddc0dc-8783-4659-bbbd-db6698843b47",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "67a025eb-6e65-435c-becb-b51085175292": {
       "name": "Lantern Bearer // Lanterns' Lift",
@@ -58339,7 +58434,8 @@
       "effects": [
         "Tokens",
         "Removal",
-        "CardAdvantage"
+        "CardAdvantage",
+        "Burn"
       ]
     },
     "cdd8d7cf-28f2-4a4d-a373-40d48bff615b": {
@@ -58348,7 +58444,8 @@
       "label": "",
       "scryfallId": "295f7fe0-0681-4b25-807f-30ed70ec78d5",
       "effects": [
-        "Removal"
+        "Removal",
+        "Burn"
       ]
     },
     "f780d6f6-540b-4773-8a48-e56e95c2d39e": {
@@ -58469,6 +58566,7 @@
       "label": "",
       "scryfallId": "cd0e9e53-2710-4c2a-a8e4-48f25375ebc7",
       "effects": [
+        "Burn",
         "LandDestruction"
       ]
     },
@@ -58676,8 +58774,7 @@
       "label": "",
       "scryfallId": "87f69249-c6e4-40c1-9870-b9c45ce24c39",
       "effects": [
-        "Buff",
-        "Burn"
+        "Buff"
       ]
     },
     "e8fb2323-3eed-45a6-bfc4-44292c8b3697": {
@@ -59432,7 +59529,6 @@
       "scryfallId": "60e1921e-6c98-4c60-88f4-8fbb6f30236e",
       "effects": [
         "Ramp",
-        "Burn",
         "ManaFixing"
       ]
     },
@@ -59842,6 +59938,7 @@
       "scryfallId": "7fba2a97-8e35-4c12-b902-6a058b449116",
       "effects": [
         "Removal",
+        "Burn",
         "Regrowth"
       ]
     },
@@ -60489,8 +60586,7 @@
       "label": "",
       "scryfallId": "7417067d-de28-404c-981e-e62b05d2bdf1",
       "effects": [
-        "CardAdvantage",
-        "Burn"
+        "CardAdvantage"
       ]
     },
     "f9dce026-2653-4793-b949-357b08a936ea": {
@@ -60652,7 +60748,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "bf0dcf33-8d3f-429c-8ad8-a65d07d7c790",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "6a0a7b02-10e6-4dbf-8356-659095519480": {
       "name": "Longhorn Sharpshooter",
@@ -60785,8 +60883,7 @@
       "label": "",
       "scryfallId": "0d5beee7-d11d-4198-89db-dcf56ce388ad",
       "effects": [
-        "Buff",
-        "Burn"
+        "Buff"
       ]
     },
     "467f756f-75db-4748-99d3-62651776adfe": {
@@ -61031,7 +61128,8 @@
       "label": "",
       "scryfallId": "3f7f1d3b-d6bb-4ddb-81d8-12f7aaaec49e",
       "effects": [
-        "Removal"
+        "Removal",
+        "Burn"
       ]
     },
     "ed839fae-3429-4ac5-997c-286d8e8cf05f": {
@@ -61511,8 +61609,7 @@
       "scryfallId": "4396e4c7-660d-4055-bc94-4ccea95223b7",
       "effects": [
         "Tokens",
-        "CardAdvantage",
-        "Burn"
+        "CardAdvantage"
       ]
     },
     "d95fc2cb-5e49-4a22-a93e-d21cf64dcd84": {
@@ -61923,8 +62020,7 @@
       "scryfallId": "48fe7387-f956-47f0-a5c3-63802ae4d3d9",
       "effects": [
         "Tokens",
-        "Removal",
-        "Burn"
+        "Removal"
       ]
     },
     "85905607-dceb-4c37-81a3-ab441ce9490c": {
@@ -62055,7 +62151,8 @@
       "label": "",
       "scryfallId": "64fe1894-fc7d-4f09-adc1-18b2a3107898",
       "effects": [
-        "Removal"
+        "Removal",
+        "Burn"
       ]
     },
     "caed9999-74b8-43e3-a319-fa505c04c71c": {
@@ -62158,7 +62255,8 @@
       "label": "",
       "scryfallId": "42f133d6-35c3-49b7-85f6-d6cfa6bac3d9",
       "effects": [
-        "Removal"
+        "Removal",
+        "Burn"
       ]
     },
     "008ac258-763c-4379-bfcd-b9cc4d7296dd": {
@@ -63009,9 +63107,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "1f9de75b-5295-4c7f-b149-b9cd508db1f2",
-      "effects": [
-        "Burn"
-      ]
+      "effects": []
     },
     "cbbd507e-06da-4b47-befc-61db8c92539e": {
       "name": "Marauding Brinefang",
@@ -64235,6 +64331,7 @@
       "scryfallId": "19385c88-9af3-4931-8dfc-6e51a5c5f816",
       "effects": [
         "Removal",
+        "Burn",
         "Sacrifice"
       ]
     },
@@ -64766,7 +64863,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "48aa964f-99b5-4b6b-b158-42f39514c910",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "24aaadda-ef1c-44eb-9b01-4847bf454cd5": {
       "name": "Meria, Scholar of Antiquity",
@@ -65175,7 +65274,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "c9b7543f-2a45-4db6-b560-d15507a58c91",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "d3579282-5045-4b37-9998-9a282e9932b9": {
       "name": "Midsummer Revel",
@@ -65996,9 +66097,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "15f035df-784a-4dc8-b7f5-77139a4e6e99",
-      "effects": [
-        "Burn"
-      ]
+      "effects": []
     },
     "30f373d8-cd8c-4fb2-9383-9969fc547df9": {
       "name": "Mirkwood Channeler",
@@ -66271,6 +66370,7 @@
       "label": "",
       "scryfallId": "2be66eaf-222b-4c40-a9fa-aad56b9218e0",
       "effects": [
+        "Burn",
         "Regrowth"
       ]
     },
@@ -66700,6 +66800,7 @@
       "label": "",
       "scryfallId": "3f43e214-2e20-4168-abff-e5abefc5b009",
       "effects": [
+        "Burn",
         "Pacify"
       ]
     },
@@ -66753,7 +66854,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "b790d789-bb21-4119-a0e3-43af9bef8acc",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "47654b36-b215-4333-aa70-d88d627447e3": {
       "name": "Mob Lookout",
@@ -66942,7 +67045,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "6f95224d-666f-4515-892a-2d711dfa6285",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "fb7171f8-60a0-4309-93ff-113e1f62113c": {
       "name": "Mogg Mob",
@@ -67135,7 +67240,8 @@
       "label": "",
       "scryfallId": "95234b29-9ac8-4200-b42d-9653ba51b010",
       "effects": [
-        "Removal"
+        "Removal",
+        "Burn"
       ]
     },
     "d955a26a-d474-4dff-9eba-69fcfe92d8ae": {
@@ -67144,7 +67250,8 @@
       "label": "",
       "scryfallId": "4c2b326b-d177-4a03-a0a3-fe2c2d4af272",
       "effects": [
-        "Counter"
+        "Counter",
+        "Burn"
       ]
     },
     "c6fcf3c1-0626-4d53-92c0-caa22fa61e9a": {
@@ -67473,7 +67580,8 @@
       "label": "",
       "scryfallId": "2da97319-de80-4d71-82fc-715109cf8e2c",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Burn"
       ]
     },
     "c48df45c-3513-4d56-aed6-30c2f3a759cd": {
@@ -69584,7 +69692,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "5a0bf165-d7eb-4ae6-b30a-4e9fd55f401d",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "9f820f1e-3cd1-4a3e-8d00-194c8a80b296": {
       "name": "Necratog",
@@ -69709,7 +69819,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "18cdd4b0-d969-43f3-a1a1-c9ad3fedce10",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "7df82bf8-b232-48e1-858b-1571c48b6f46": {
       "name": "Necropanther",
@@ -70494,6 +70606,7 @@
       "label": "",
       "scryfallId": "443d468d-3676-4fba-810c-ea342c520ab9",
       "effects": [
+        "Burn",
         "Steal"
       ]
     },
@@ -71131,8 +71244,7 @@
       "label": "",
       "scryfallId": "d01a2b68-efe6-4027-846d-db7b19d9eef6",
       "effects": [
-        "Buff",
-        "Burn"
+        "Buff"
       ]
     },
     "ec8c2927-d857-426e-b81b-c3b1aa81045a": {
@@ -71817,9 +71929,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "63ce03ee-279b-4955-98e3-9ce1990f8b7b",
-      "effects": [
-        "Burn"
-      ]
+      "effects": []
     },
     "bf5d44e7-9ff1-4c9a-a62e-628aa5be720d": {
       "name": "Oceanus Dragon",
@@ -72981,7 +73091,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "6233d4c3-9407-41b0-92a9-5f90dfd6a584",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "a6f0dcbc-ca45-4ae8-961e-e42ef8d8a975": {
       "name": "Organ Hoarder",
@@ -73429,7 +73541,8 @@
       "label": "",
       "scryfallId": "4183e73d-609a-4292-b173-e39eb51949f3",
       "effects": [
-        "Ramp"
+        "Ramp",
+        "Burn"
       ]
     },
     "8104e454-77f5-4d38-894e-41ed0d74c17c": {
@@ -73713,7 +73826,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "d3350367-42bd-44af-be13-ad31c002f8ac",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "70f26726-0373-4e50-a1de-37392ca94890": {
       "name": "Ox Drover",
@@ -73813,7 +73928,8 @@
       "label": "",
       "scryfallId": "481d268a-848c-4ccd-95ff-eed77dc20776",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Burn"
       ]
     },
     "e02fff6b-9ee4-474f-97fc-d70d4bc8001b": {
@@ -74208,7 +74324,8 @@
       "label": "",
       "scryfallId": "0e8dec27-b09c-43dc-8ed9-b8de12336298",
       "effects": [
-        "Buff"
+        "Buff",
+        "Burn"
       ]
     },
     "9e660f66-0a94-4694-95e0-25296799b193": {
@@ -74318,7 +74435,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "20f06fae-4677-4245-bd19-fa49edf4a87b",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "f00dd41d-4b11-491a-9e7b-12245092ab77": {
       "name": "Paroxysm",
@@ -74514,6 +74633,7 @@
       "effects": [
         "Tokens",
         "Removal",
+        "Burn",
         "ManaFixing"
       ]
     },
@@ -75913,7 +76033,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "61cd85ec-13b3-4d63-b144-5baa39ad6524",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "b628150b-08a1-4ea3-978d-60255dfb0b7e": {
       "name": "Phyrexian Vault",
@@ -76651,7 +76773,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "6fa09e3a-bc7e-4292-aa5d-ce97c1b1f79f",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "cebc1e6d-ab14-4e54-9906-e8a7cf4c2043": {
       "name": "Planeswalker's Mirth",
@@ -77356,7 +77480,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "13d0296c-c0f5-491e-9e61-be8f5af2e631",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "5c615c99-77b7-4bea-9286-1e8d257153fb": {
       "name": "Power of Persuasion",
@@ -77694,7 +77820,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "0860cd66-f18e-4254-965d-fa88878391c4",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "a1ef3b31-b996-48ea-967a-2b56fb2fb22b": {
       "name": "Prickly Marmoset",
@@ -78835,8 +78963,7 @@
       "scryfallId": "d98022d2-3b46-41f4-8f31-0a238d881ac6",
       "effects": [
         "Tokens",
-        "Removal",
-        "Burn"
+        "Removal"
       ]
     },
     "37bd9e54-c93e-4fec-9b21-6940da75ab7a": {
@@ -80869,8 +80996,7 @@
       "effects": [
         "Tokens",
         "Removal",
-        "Buff",
-        "Burn"
+        "Buff"
       ]
     },
     "098a43e3-341d-4b27-8c17-ef5990e21b0a": {
@@ -81037,6 +81163,7 @@
       "label": "",
       "scryfallId": "07ca1184-ade0-4d6d-87f9-ad17f37679b3",
       "effects": [
+        "Burn",
         "Tutor"
       ]
     },
@@ -81205,9 +81332,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "e2df3cb4-1658-450a-912a-df336706acdc",
-      "effects": [
-        "Burn"
-      ]
+      "effects": []
     },
     "6c4ac289-edca-4dce-8572-817efbdd08b2": {
       "name": "Ravener",
@@ -81221,7 +81346,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "057dedd1-6632-4d87-a5bb-8c66c7492857",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "87424e20-00ab-4f6d-a905-1955897b358e": {
       "name": "Ravenous Amulet",
@@ -81229,6 +81356,7 @@
       "label": "",
       "scryfallId": "80cadee5-6f26-4440-ad31-a8e573a90436",
       "effects": [
+        "Burn",
         "Sacrifice"
       ]
     },
@@ -81672,7 +81800,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "93b68168-e77d-4745-9393-726ef9fb72ec",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "80c663a5-2794-4748-b47a-34352fb2112f": {
       "name": "Reaping the Graves",
@@ -82718,7 +82848,6 @@
       "scryfallId": "4b9ae607-e0bc-4415-ad58-65944848bbe9",
       "effects": [
         "CardAdvantage",
-        "Burn",
         "Sacrifice"
       ]
     },
@@ -83032,7 +83161,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "1da327c8-730b-4fab-827f-64e7f5b60e1d",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "523ae937-5535-490d-96ea-07f331b5e5ad": {
       "name": "Replenish",
@@ -83916,7 +84047,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "750c5df2-e299-4bf3-8018-725893702314",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "1c6da9a9-6395-460b-8150-ea46d7299dc2": {
       "name": "Rhystic Tutor",
@@ -84304,6 +84437,7 @@
       "scryfallId": "2a8495c3-96cf-40ab-b68a-1b5711b7659e",
       "effects": [
         "Removal",
+        "Burn",
         "Regrowth"
       ]
     },
@@ -84747,7 +84881,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "3b79677b-d5b9-47c7-a5f5-45446d5cddff",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "ecff46b9-fcc9-4895-8b6f-c697fd15d01a": {
       "name": "Rivaz of the Claw",
@@ -84823,7 +84959,9 @@
       "rating": 2,
       "label": "",
       "scryfallId": "09d064ea-85c8-4daa-8ee2-ccde9bb84115",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "60a63eb4-b0f7-4930-9bf6-afd42261d4d0": {
       "name": "River Song's Diary",
@@ -85447,9 +85585,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "02ed0d3c-def9-4ba5-98d4-5bf35d711ec9",
-      "effects": [
-        "Burn"
-      ]
+      "effects": []
     },
     "f3baef8c-f8d7-4cb2-b5cc-b889a991e4e8": {
       "name": "Rooftop Assassin",
@@ -86127,7 +86263,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "a73d1cb0-d0dc-4f2a-9cf2-954d5889dd08",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "16ad3b64-a87f-47e8-8e7b-b97bf084a3d2": {
       "name": "Ruham Djinn",
@@ -86467,7 +86605,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "5349eefe-e996-4777-b072-8d733985f5bb",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "32717625-46c6-45c5-ad0a-fb6a91f9878c": {
       "name": "Runed Arch",
@@ -88038,7 +88178,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "162db102-5675-4827-a668-27a8561b18d1",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "5b5b9390-bb3a-4f71-809a-cfe2a6566b59": {
       "name": "Sarinth Greatwurm",
@@ -89778,7 +89920,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "4f66ff2d-f2d2-4a6b-bf26-b510de60c0b6",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "d3c68573-95b1-4db5-bbea-363b86f713c1": {
       "name": "Searing Spear Askari",
@@ -91440,7 +91584,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "0dcb27cd-e5f1-46c6-b7cf-33fa90335459",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "53ec394a-5aaa-4d83-82ec-f00e99902c0d": {
       "name": "Shalai's Acolyte",
@@ -91699,8 +91845,7 @@
       "effects": [
         "Removal",
         "Disenchant",
-        "Buff",
-        "Burn"
+        "Buff"
       ]
     },
     "2ffc7509-c7ce-44c4-a8cf-90ed161b5d10": {
@@ -91916,7 +92061,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "384d5883-1aab-4f7b-a59f-498f33f53142",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "c0535854-e4e7-43e4-bc5c-7cc95fb17929": {
       "name": "Shepherd of the Clouds",
@@ -92914,9 +93061,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "2262ed52-9532-4b39-aece-fd78fe75c832",
-      "effects": [
-        "Burn"
-      ]
+      "effects": []
     },
     "9e9d538b-a9e5-4d59-b7c1-208fe18110e3": {
       "name": "Siege-Gang Lieutenant",
@@ -93374,7 +93519,8 @@
       "label": "",
       "scryfallId": "01ae964b-a3dd-4747-a229-d0b4e112179e",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Burn"
       ]
     },
     "67d55b4f-944e-4376-93ed-1a240bca1eae": {
@@ -93406,7 +93552,8 @@
       "label": "",
       "scryfallId": "37a00f95-d563-4d51-a5f2-af139261921a",
       "effects": [
-        "Buff"
+        "Buff",
+        "Burn"
       ]
     },
     "128e201a-f520-4917-a1a4-2f3836f1f92d": {
@@ -93630,6 +93777,7 @@
       "label": "",
       "scryfallId": "334bc010-5b60-4075-be12-0b36f41f32c6",
       "effects": [
+        "Burn",
         "Sacrifice",
         "Mill",
         "Regrowth"
@@ -94124,7 +94272,8 @@
       "label": "",
       "scryfallId": "88f1343c-77bf-4f44-8226-fdfb2c2c7015",
       "effects": [
-        "Discard"
+        "Discard",
+        "Burn"
       ]
     },
     "99348e1d-e95e-4911-aae0-8fd1a7345a82": {
@@ -95040,8 +95189,7 @@
       "label": "",
       "scryfallId": "355b184a-96e5-47ea-82c8-5c5c632d9c34",
       "effects": [
-        "CardAdvantage",
-        "Burn"
+        "CardAdvantage"
       ]
     },
     "0c31edd0-a471-4994-8209-b0a7370fc27b": {
@@ -95237,6 +95385,7 @@
       "label": "",
       "scryfallId": "9af06057-9adc-4e75-96dc-334b4c5c345f",
       "effects": [
+        "Burn",
         "ManaFixing"
       ]
     },
@@ -96239,7 +96388,8 @@
       "scryfallId": "7f647096-f6b8-439a-948f-c49a851aa3b1",
       "effects": [
         "Ramp",
-        "Filter"
+        "Filter",
+        "Burn"
       ]
     },
     "3e4cb1b2-e2cc-4925-a226-6c6f1501d9c1": {
@@ -96343,8 +96493,7 @@
       "label": "",
       "scryfallId": "6f22ac67-06ce-47cc-a515-d216d30b9cae",
       "effects": [
-        "Removal",
-        "Burn"
+        "Removal"
       ]
     },
     "366ea3b4-5e7e-4693-9f4b-1e549972609e": {
@@ -96362,7 +96511,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "0963dbd8-6d02-4c84-8a4f-efe584c87f54",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "47068c31-d07d-473c-aa89-6de8625f74df": {
       "name": "Soul Foundry",
@@ -96432,7 +96583,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "4aa7d91b-cfbb-4da0-97fa-3c0a15f1dbb9",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "d407abd0-69a9-405d-ab69-75b379a45780": {
       "name": "Soul Sculptor",
@@ -96930,7 +97083,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "73e3cfbc-7177-4bbc-89c4-560c9c2f97db",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "af32ce11-c026-4135-b1e3-10c6aa15c72c": {
       "name": "Specter's Wail",
@@ -97559,8 +97714,7 @@
       "scryfallId": "b90164a1-8b0a-4445-a0ad-43e4c3324925",
       "effects": [
         "Tokens",
-        "Removal",
-        "Burn"
+        "Removal"
       ]
     },
     "a0aa1aa1-f011-4c65-9886-95521947beef": {
@@ -97902,9 +98056,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "cf3765b7-11e2-4837-b5e5-ca24adc0e33c",
-      "effects": [
-        "Burn"
-      ]
+      "effects": []
     },
     "b075b645-2e5a-4d91-9440-02db4e6f5d08": {
       "name": "Spirit of Resistance",
@@ -99137,6 +99289,7 @@
       "label": "",
       "scryfallId": "ace5e601-2583-4d9c-8bdf-aa33666c717c",
       "effects": [
+        "Burn",
         "Sacrifice"
       ]
     },
@@ -99200,23 +99353,25 @@
       "rating": 1,
       "label": "",
       "scryfallId": "5379a77e-4b98-4abc-b967-fbc76bb85fc6",
-      "effects": [
-        "Burn"
-      ]
+      "effects": []
     },
     "3e924a35-0e08-4050-b33a-a143d2ab5aea": {
       "name": "Starscream, Power Hungry // Starscream, Seeker Leader",
       "rating": 1,
       "label": "",
       "scryfallId": "8234ea77-9ed6-4f3e-acc2-f52fb7003ed2",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "12a165c4-229b-458b-8fc7-c1b7cba35a8e": {
       "name": "Starseer Mentor",
       "rating": 1,
       "label": "",
       "scryfallId": "6b2f6dc5-9fe8-49c1-b24c-1d99ce1da619",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "d8e255ec-7d66-43f6-b5f0-712f5957687f": {
       "name": "Start from Scratch",
@@ -99679,7 +99834,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "436044d7-981c-4273-a0b4-6dd455608c47",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "8315aa34-08b8-403e-a2e6-796a2d6978ad": {
       "name": "Stern Lesson",
@@ -100398,7 +100555,8 @@
       "label": "",
       "scryfallId": "9b704165-4587-48f1-8830-c5a07ec666cc",
       "effects": [
-        "Protection"
+        "Protection",
+        "Burn"
       ]
     },
     "e24916ff-7566-4f27-8e31-732311a4a88c": {
@@ -100789,7 +100947,8 @@
       "label": "",
       "scryfallId": "57dcf434-5c67-440a-8b67-2df7307e92bd",
       "effects": [
-        "Discard"
+        "Discard",
+        "Burn"
       ]
     },
     "a4d46c1b-7742-4ac8-9794-b669ee4d2cc1": {
@@ -100841,7 +101000,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "2509a386-0c11-425c-9946-ab4add1abfee",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "797bb53d-b111-41fe-95d7-64cb0f833b22": {
       "name": "Stronghold Gambit",
@@ -101052,9 +101213,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "50f1bca9-5831-4e8b-8920-f28ebb3ffb27",
-      "effects": [
-        "Burn"
-      ]
+      "effects": []
     },
     "6d4472ad-3fbf-4a5d-94de-dfee04fda9c3": {
       "name": "Subway Train",
@@ -102350,7 +102509,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "a6bdb984-06f8-4bca-a943-17fe5db97682",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "e1169108-1bc8-42ca-a056-a9358fba10cb": {
       "name": "Swelter",
@@ -102739,8 +102900,7 @@
       "label": "",
       "scryfallId": "251e36f1-1bfd-4c04-8c61-1c2bc18beb8a",
       "effects": [
-        "CardAdvantage",
-        "Burn"
+        "CardAdvantage"
       ]
     },
     "0d6be8a4-b05b-40fb-a653-5aabf71809e0": {
@@ -103653,8 +103813,7 @@
       "label": "",
       "scryfallId": "3ebc53c8-171a-4b71-93b3-f2bb4dc1b886",
       "effects": [
-        "Tokens",
-        "Burn"
+        "Tokens"
       ]
     },
     "b38c0575-37f7-413c-9dad-c8d7e6a41b90": {
@@ -104661,7 +104820,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "0559352e-95c1-403b-bd8f-d0679717cfa2",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "3b00f415-2496-4333-be89-601fd837fe7c": {
       "name": "Tendrils of Despair",
@@ -104697,8 +104858,7 @@
       "label": "",
       "scryfallId": "92eba33e-efea-4e58-a832-1c6049fb211f",
       "effects": [
-        "Buff",
-        "Burn"
+        "Buff"
       ]
     },
     "7fb837d7-e2c9-40f8-8a7d-156b3aa86830": {
@@ -104726,7 +104886,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "41b65eba-140b-4c1d-b796-8134b7c1ede8",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "a00cb1fa-a196-4403-9008-532dbd15769e": {
       "name": "Teremko Griffin",
@@ -105042,7 +105204,8 @@
       "label": "",
       "scryfallId": "51c523cd-78b0-438f-bba5-19160f648d5f",
       "effects": [
-        "Removal"
+        "Removal",
+        "Burn"
       ]
     },
     "e12b38e5-621b-4b2c-8c04-c15c41d4fc70": {
@@ -106176,7 +106339,8 @@
       "label": "",
       "scryfallId": "31d458bd-ac12-4980-85d5-81cfb2a105e9",
       "effects": [
-        "Tokens"
+        "Tokens",
+        "Burn"
       ]
     },
     "306b6b9b-f488-4ea8-9f5e-9e8e7354df64": {
@@ -106728,7 +106892,9 @@
       "rating": 2,
       "label": "",
       "scryfallId": "381de078-6eac-462c-b6d9-095779279d42",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "78f99c66-cb50-49e3-ab2d-e7755818ffd7": {
       "name": "The Trickster-God's Heist",
@@ -106736,6 +106902,7 @@
       "label": "",
       "scryfallId": "4aa19a68-0d71-4123-a64d-8cb76f93cd74",
       "effects": [
+        "Burn",
         "Steal"
       ]
     },
@@ -108158,7 +108325,8 @@
       "label": "",
       "scryfallId": "22abdc2f-bdc8-46c4-8ce2-f06befedbc32",
       "effects": [
-        "Buff"
+        "Buff",
+        "Burn"
       ]
     },
     "9cef3013-6a84-4edd-9a47-e842df2200e3": {
@@ -108725,7 +108893,8 @@
       "label": "",
       "scryfallId": "4063be5b-bfd9-43c5-bc39-09a40bc793bf",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Burn"
       ]
     },
     "f7cac691-960f-4e36-8eae-f24bcdc1269b": {
@@ -109094,7 +109263,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "2f5f2e19-41ce-40c6-9732-d0f88ad6735f",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "986f510c-e2ec-423e-a443-51a169939558": {
       "name": "Tomb Fortress",
@@ -109177,7 +109348,8 @@
       "label": "",
       "scryfallId": "2c5a7550-fe1a-4797-9583-70ab56cfac0d",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Burn"
       ]
     },
     "a26f3cbb-39b5-4688-92f7-26534613a9f3": {
@@ -109405,7 +109577,8 @@
       "label": "",
       "scryfallId": "2318d4f8-309e-4645-b6d1-46572edd6996",
       "effects": [
-        "Buff"
+        "Buff",
+        "Burn"
       ]
     },
     "1573f7f9-672c-421a-b1ac-3d0d8aea59ca": {
@@ -109449,7 +109622,8 @@
       "label": "",
       "scryfallId": "85caf7c1-b9f6-420b-a69c-d8356d85abe8",
       "effects": [
-        "Removal"
+        "Removal",
+        "Burn"
       ]
     },
     "f467ec85-ffe2-4963-82e0-509a7873fd63": {
@@ -111549,8 +111723,7 @@
       "scryfallId": "d6e3ddf7-582d-4923-be30-8428e52237e4",
       "effects": [
         "Tokens",
-        "Buff",
-        "Burn"
+        "Buff"
       ]
     },
     "58dee718-6820-495a-8c03-5cc130b84167": {
@@ -112694,7 +112867,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "3985f240-4289-4d48-978c-bb2ce2b54c36",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "df33b298-9e4b-4522-96e5-c8d8d6af2bb4": {
       "name": "Unnatural Moonrise",
@@ -112779,6 +112954,7 @@
       "scryfallId": "9e56a8df-db04-4a88-a5ab-6954d3449976",
       "effects": [
         "CardAdvantage",
+        "Burn",
         "Sacrifice"
       ]
     },
@@ -113532,7 +113708,8 @@
       "label": "",
       "scryfallId": "18cb7bf6-9c7c-4e62-a678-7b75862e2f64",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Burn"
       ]
     },
     "a871dfbf-1fb9-4d1c-81bb-e4f0b131a11b": {
@@ -113776,7 +113953,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "02f210ed-b40b-44c8-9424-fbefb31e9c3c",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "e8941499-2b31-417b-b2d2-10a144826703": {
       "name": "Vampiric Dragon",
@@ -114311,7 +114490,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "a5dabc03-a706-4e84-83e4-dbd405dfb025",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "4cdbc466-42fc-471f-beab-397caec18101": {
       "name": "Vengeful Bloodwitch",
@@ -114334,9 +114515,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "7c11c11d-9809-4031-8cbc-21aef07d7f1f",
-      "effects": [
-        "Burn"
-      ]
+      "effects": []
     },
     "55d01851-2669-4552-b580-088e445ac30c": {
       "name": "Vengeful Dreams",
@@ -114374,7 +114553,8 @@
       "label": "",
       "scryfallId": "a247c9a0-0c65-47bc-92fd-bebe95cd35a3",
       "effects": [
-        "Disenchant"
+        "Disenchant",
+        "Burn"
       ]
     },
     "ad6442c2-7aa2-4c24-8133-f679a3499bde": {
@@ -115285,7 +115465,8 @@
       "label": "",
       "scryfallId": "419e6697-89ab-49f1-a867-8f86f001c80c",
       "effects": [
-        "Removal"
+        "Removal",
+        "Burn"
       ]
     },
     "0ef80a38-f464-4d1f-9e81-d4087d6ecc9b": {
@@ -115802,7 +115983,6 @@
       "effects": [
         "CardAdvantage",
         "Filter",
-        "Burn",
         "Regrowth"
       ]
     },
@@ -116064,7 +116244,8 @@
       "label": "",
       "scryfallId": "4f663979-a778-4fb2-97c4-67ab82926f13",
       "effects": [
-        "Removal"
+        "Removal",
+        "Burn"
       ]
     },
     "9b61f5b1-7688-4336-8fe9-66da37a34df9": {
@@ -116886,7 +117067,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "a5b8d9a2-91d7-4172-b778-b5dc3ac28abe",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "ed836d84-ff1e-4af8-b4b8-314569b3faec": {
       "name": "Wall of Spears",
@@ -118956,9 +119139,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "e26ec4b8-0012-48c4-9ccb-0f062df0c250",
-      "effects": [
-        "Burn"
-      ]
+      "effects": []
     },
     "730d02c7-2f8a-47d3-99f0-e4ada7f6255c": {
       "name": "Wickerfolk Indomitable",
@@ -119556,7 +119737,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "59e66be1-f18a-433f-8504-aa1e85e22023",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "857392fe-1ce6-4d53-b039-98339d292ebb": {
       "name": "Wingbeat Warrior",
@@ -119946,9 +120129,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "74463d05-3928-4d55-84d4-21d65623a3e6",
-      "effects": [
-        "Burn"
-      ]
+      "effects": []
     },
     "48adccf6-adb4-49b2-b013-4dc5e0fc7bcb": {
       "name": "Witch Engine",
@@ -120004,8 +120185,7 @@
       "scryfallId": "03c6aae5-f85a-4083-b880-71c0e141cc22",
       "effects": [
         "Filter",
-        "Buff",
-        "Burn"
+        "Buff"
       ]
     },
     "6ec9a14a-0a62-4f8a-9147-3cab01411a65": {
@@ -120057,9 +120237,7 @@
       "rating": 2,
       "label": "",
       "scryfallId": "2b8238f3-05af-46a1-a1d4-ddea0219c3bd",
-      "effects": [
-        "Burn"
-      ]
+      "effects": []
     },
     "6cd58a88-6434-4c55-bf93-a739b5ed9bc1": {
       "name": "Witherbloom Campus",
@@ -120709,7 +120887,8 @@
       "label": "",
       "scryfallId": "49243e92-93e3-4090-b4f7-86fa4ca2fef5",
       "effects": [
-        "Removal"
+        "Removal",
+        "Burn"
       ]
     },
     "08dcda8e-704d-444e-a7ca-34586a7f42a7": {
@@ -122186,6 +122365,7 @@
       "effects": [
         "Ramp",
         "CardAdvantage",
+        "Burn",
         "Sacrifice"
       ]
     },
@@ -122535,6 +122715,7 @@
       "scryfallId": "1b1aad48-88f0-464d-9776-ecd023d87b8f",
       "effects": [
         "CardAdvantage",
+        "Burn",
         "Regrowth"
       ]
     },
@@ -122622,8 +122803,7 @@
       "effects": [
         "Tokens",
         "Removal",
-        "Filter",
-        "Burn"
+        "Filter"
       ]
     },
     "1ee3753c-3b6e-4182-9305-2ab757f485f0": {

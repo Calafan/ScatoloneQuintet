@@ -110,7 +110,9 @@
       "rating": 4,
       "label": "",
       "scryfallId": "790157c9-b1ed-4da5-9d50-e99e0dd807b7",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "fcdfe9d5-2743-4d3e-ab57-bf0f96beaa15": {
       "name": "Aclazotz, Deepest Betrayal // Temple of the Dead",
@@ -789,7 +791,8 @@
       "label": "",
       "scryfallId": "0c81ade7-0074-4447-ba2c-b16fa0f09ccb",
       "effects": [
-        "Removal"
+        "Removal",
+        "Burn"
       ]
     },
     "ab1cc360-b9de-48d9-9983-4dfe4a7d2a37": {
@@ -1018,7 +1021,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "019b1f71-2d99-47da-8df3-237ef25a4916",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "2c7818f4-a818-4603-9af1-05aee2d56ec8": {
       "name": "Assaultron Dominator",
@@ -1263,6 +1268,7 @@
       "label": "",
       "scryfallId": "a3a1d840-a5b0-449a-a1ba-95f3d9bff008",
       "effects": [
+        "Burn",
         "Pacify"
       ]
     },
@@ -1342,7 +1348,8 @@
       "effects": [
         "Disenchant",
         "Discard",
-        "Filter"
+        "Filter",
+        "Burn"
       ]
     },
     "2dd32fec-5bc3-4cc0-a9b4-814229a64914": {
@@ -2346,7 +2353,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "1e20d56c-20df-4fe9-a329-df5768a180af",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "d85aa59b-c6aa-4b2f-885c-59d6e5e6e8b9": {
       "name": "Braids, Cabal Minion",
@@ -2373,6 +2382,7 @@
       "label": "",
       "scryfallId": "0984b1f1-dfc8-4cb9-90a3-e084950438bf",
       "effects": [
+        "Burn",
         "Steal",
         "ManaFixing"
       ]
@@ -2418,7 +2428,8 @@
       "label": "",
       "scryfallId": "026fb1dc-9044-47c1-bd8d-d7ce53335d72",
       "effects": [
-        "Removal"
+        "Removal",
+        "Burn"
       ]
     },
     "f93dc9cc-3dd2-4e2b-b972-217ab9d89dfe": {
@@ -2742,8 +2753,7 @@
       "effects": [
         "Tokens",
         "Removal",
-        "Wipe",
-        "Burn"
+        "Wipe"
       ]
     },
     "90865918-2f9a-4ab6-a881-e86f61a527cc": {
@@ -3259,8 +3269,7 @@
       "effects": [
         "Removal",
         "Ramp",
-        "CardAdvantage",
-        "Burn"
+        "CardAdvantage"
       ]
     },
     "7721e800-fba6-4ae7-855e-631b2ecc8d6b": {
@@ -4434,7 +4443,8 @@
       "label": "",
       "scryfallId": "0829742d-7268-46a3-a8f3-172559b1315f",
       "effects": [
-        "Removal"
+        "Removal",
+        "Burn"
       ]
     },
     "18ae6be7-cfb6-42e3-a04e-99e9c1471ecd": {
@@ -4891,6 +4901,7 @@
       "scryfallId": "581e7ac6-65e5-4a16-ab0b-0988c3a3cfea",
       "effects": [
         "Discard",
+        "Burn",
         "Mill"
       ]
     },
@@ -5889,7 +5900,8 @@
       "label": "",
       "scryfallId": "281a741f-288c-4f19-b200-cacef57674e9",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Burn"
       ]
     },
     "3db16fb8-5650-4568-b975-42ad3d44ebcd": {
@@ -6177,6 +6189,7 @@
       "label": "",
       "scryfallId": "11454c82-3f1d-4456-8857-0dcb01d34298",
       "effects": [
+        "Burn",
         "Steal"
       ]
     },
@@ -6240,6 +6253,7 @@
       "label": "",
       "scryfallId": "5b61711f-8982-4ff0-86ba-01e0125cd705",
       "effects": [
+        "Burn",
         "Steal"
       ]
     },
@@ -6657,7 +6671,6 @@
       "effects": [
         "Tokens",
         "Removal",
-        "Burn",
         "Regrowth"
       ]
     },
@@ -8635,9 +8648,7 @@
       "rating": 4,
       "label": "",
       "scryfallId": "41932ef6-0f64-40c1-946c-679976326e2d",
-      "effects": [
-        "Burn"
-      ]
+      "effects": []
     },
     "9c009b3f-6580-4ab8-84e8-d4cf7a456a02": {
       "name": "Gravpack Monoist",
@@ -9253,7 +9264,8 @@
       "label": "",
       "scryfallId": "082e1f8f-5f73-4419-8f6c-2d5a6909dc2c",
       "effects": [
-        "Filter"
+        "Filter",
+        "Burn"
       ]
     },
     "d56f24a1-04dc-4769-9941-05bd99508e40": {
@@ -9399,9 +9411,7 @@
       "rating": 3,
       "label": "",
       "scryfallId": "3becd8e2-677a-4e54-8839-2b9f80573aa1",
-      "effects": [
-        "Burn"
-      ]
+      "effects": []
     },
     "e8a9350a-07c1-47ed-8c4f-88e4b3b17545": {
       "name": "Hop to It",
@@ -9437,7 +9447,8 @@
       "scryfallId": "2c2ee817-9ca9-4f09-bc71-7994c19a9470",
       "effects": [
         "Discard",
-        "Filter"
+        "Filter",
+        "Burn"
       ]
     },
     "e8d20361-d9b7-4f9c-8ec5-3ac7c460dcb2": {
@@ -10156,7 +10167,8 @@
       "label": "",
       "scryfallId": "359445e8-2f4a-4e73-9201-2c7a11d26666",
       "effects": [
-        "Removal"
+        "Removal",
+        "Burn"
       ]
     },
     "3e5cd60f-8fef-4152-a957-0a803997b3da": {
@@ -10467,7 +10479,8 @@
       "scryfallId": "1050fea7-307b-47fb-94f4-36f5cb481b2b",
       "effects": [
         "Discard",
-        "Reanimate"
+        "Reanimate",
+        "Burn"
       ]
     },
     "c6867301-296c-4840-aad4-1ad8345c091c": {
@@ -11022,7 +11035,8 @@
       "label": "",
       "scryfallId": "01cb2a12-4c1c-413d-91b1-574e4a00e251",
       "effects": [
-        "Discard"
+        "Discard",
+        "Burn"
       ]
     },
     "77212081-0b49-4d92-9c5a-1f21e6907fce": {
@@ -11153,7 +11167,9 @@
       "rating": 4,
       "label": "",
       "scryfallId": "0e7ed355-894a-4592-9a64-ef061550d560",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "9602b5f7-65f9-4447-815e-f60d3e4f7290": {
       "name": "Laser Screwdriver",
@@ -11315,7 +11331,8 @@
       "label": "",
       "scryfallId": "0542d0d7-5b0f-4093-b74d-6a60f174aeb5",
       "effects": [
-        "Removal"
+        "Removal",
+        "Burn"
       ]
     },
     "2111588d-9af5-4a33-989e-b074d83f0463": {
@@ -11459,7 +11476,8 @@
       "effects": [
         "Removal",
         "Discard",
-        "Reanimate"
+        "Reanimate",
+        "Burn"
       ]
     },
     "3f8e7a45-4c6e-4ee6-93d0-b7de9715ec97": {
@@ -11636,7 +11654,8 @@
       "scryfallId": "26c4f762-4c25-496e-8473-0f44756b1c6c",
       "effects": [
         "Tokens",
-        "CardAdvantage"
+        "CardAdvantage",
+        "Burn"
       ]
     },
     "9d63ba8a-a5cd-4fdb-bba3-95612be0077c": {
@@ -11721,7 +11740,6 @@
         "Ramp",
         "Filter",
         "Buff",
-        "Burn",
         "ManaFixing"
       ]
     },
@@ -11867,7 +11885,9 @@
       "rating": 4,
       "label": "",
       "scryfallId": "699efd96-3e68-46fd-897d-cf95a16a8863",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "9464ddf2-4bcb-44f6-b945-89a132544de6": {
       "name": "Maestros Theater",
@@ -11918,6 +11938,7 @@
         "Removal",
         "Ramp",
         "CardAdvantage",
+        "Burn",
         "ManaFixing"
       ]
     },
@@ -13154,8 +13175,7 @@
         "Removal",
         "Ramp",
         "CardAdvantage",
-        "Filter",
-        "Burn"
+        "Filter"
       ]
     },
     "d04b6c2c-50fc-464d-9991-230efec70d2b": {
@@ -13754,9 +13774,7 @@
       "rating": 3,
       "label": "",
       "scryfallId": "4f0582b4-d951-4450-b158-4a34109e48cd",
-      "effects": [
-        "Burn"
-      ]
+      "effects": []
     },
     "cce84cf1-5574-43b0-9d75-72e6451403a7": {
       "name": "Old Man of the Sea",
@@ -14265,7 +14283,8 @@
       "scryfallId": "0b4eb9a2-7d4c-4a4d-b57b-92f00e65b6dc",
       "effects": [
         "CardAdvantage",
-        "Filter"
+        "Filter",
+        "Burn"
       ]
     },
     "2fff8441-1f5a-423b-ab98-93016266f5c5": {
@@ -14649,7 +14668,8 @@
       "label": "",
       "scryfallId": "03a8bb65-07b7-462a-9bbb-0f48cb872b43",
       "effects": [
-        "Removal"
+        "Removal",
+        "Burn"
       ]
     },
     "9af4a832-d634-47aa-91ed-79d44fe08864": {
@@ -15349,7 +15369,8 @@
       "label": "",
       "scryfallId": "35a91a58-cc8b-47a3-8c53-43c32753a00d",
       "effects": [
-        "Removal"
+        "Removal",
+        "Burn"
       ]
     },
     "78f9ec0f-6015-4024-aca6-9a14cba373fa": {
@@ -15649,7 +15670,8 @@
       "label": "",
       "scryfallId": "44063a90-e4cf-4bcd-a128-792de15371a7",
       "effects": [
-        "Removal"
+        "Removal",
+        "Burn"
       ]
     },
     "a3b8690e-ac47-444f-924e-ab2a12a85431": {
@@ -15746,7 +15768,8 @@
       "scryfallId": "9073df58-69b6-4faa-b993-d504da1ee2c5",
       "effects": [
         "Wipe",
-        "Discard"
+        "Discard",
+        "Burn"
       ]
     },
     "54accd4a-b471-4ae5-b3b2-a5cec44023b7": {
@@ -15754,7 +15777,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "685c72fb-ebb8-4474-bd73-bcbbbc38c496",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "04e5e84f-8fd4-43ab-8f9d-5b24646f7ae5": {
       "name": "Raucous Theater",
@@ -15838,7 +15863,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "25c34cb6-c8cb-4814-a647-9c63b10f02c4",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "6cb37ac1-dd11-4a8c-bca5-ef44d828059f": {
       "name": "Razortide Bridge",
@@ -16330,6 +16357,7 @@
       "label": "",
       "scryfallId": "57ddce10-6bf7-4854-ac1c-28f550e5bb20",
       "effects": [
+        "Burn",
         "ManaFixing"
       ]
     },
@@ -17470,7 +17498,9 @@
       "rating": 4,
       "label": "",
       "scryfallId": "467ffe37-f466-4eea-8efc-50b53e2c27da",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "b574c540-9f8a-4fd4-8809-d02c9b099ddc": {
       "name": "Sea Gate",
@@ -17597,7 +17627,8 @@
       "label": "",
       "scryfallId": "075bfaa8-3d54-4934-aaf6-72be43a87324",
       "effects": [
-        "Tokens"
+        "Tokens",
+        "Burn"
       ]
     },
     "144d0817-348c-4171-aa7e-3468b23cf97d": {
@@ -18001,7 +18032,9 @@
       "rating": 5,
       "label": "",
       "scryfallId": "11a1cfc1-0bfc-40e8-b57f-f267bf9b6542",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "7c2a4fe5-43e8-4e20-bef2-0278d18afc4b": {
       "name": "Shifting Woodland",
@@ -18263,9 +18296,7 @@
       "rating": 3,
       "label": "",
       "scryfallId": "2a15e06c-2608-4e7a-a16c-d35417669d86",
-      "effects": [
-        "Burn"
-      ]
+      "effects": []
     },
     "36a7d1a6-4eb8-4ddc-942c-00fd2acbf2ee": {
       "name": "Sinister Waltz",
@@ -20102,7 +20133,8 @@
       "label": "",
       "scryfallId": "0c12a66b-3a89-49a5-8a2f-7d260f4d68d4",
       "effects": [
-        "Discard"
+        "Discard",
+        "Burn"
       ]
     },
     "92eed395-62ca-4293-882b-8565c40daab5": {
@@ -20245,7 +20277,8 @@
       "label": "",
       "scryfallId": "42733529-b72c-4a4c-9907-620640c103d1",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Burn"
       ]
     },
     "4c0a0448-b9d6-43a0-8549-64066dac63f0": {
@@ -20517,7 +20550,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "14dc88ee-bba9-4625-af0d-89f3762a0ead",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "e7d8b8ea-07d7-4b6c-aa49-6a2ad185a304": {
       "name": "Termagant Swarm",
@@ -20917,9 +20952,7 @@
       "rating": 4,
       "label": "",
       "scryfallId": "0227e3cc-3d75-4e62-8ee8-deaa1d5db9d1",
-      "effects": [
-        "Burn"
-      ]
+      "effects": []
     },
     "2e3ec514-fc9e-4964-a493-2a6cc9e63630": {
       "name": "The Mindskinner",
@@ -21159,7 +21192,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "0686d1c6-bebe-45ac-b82e-78cf420b5e33",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "99720c65-be96-4220-8ed4-720660bf6928": {
       "name": "Thornglint Bridge",
@@ -21537,8 +21572,7 @@
       "label": "",
       "scryfallId": "dbaa9a2d-e9fd-4746-a26c-f99ae731f024",
       "effects": [
-        "Removal",
-        "Burn"
+        "Removal"
       ]
     },
     "79b69b38-c01d-499a-a865-8c1cecf9fae0": {
@@ -21572,7 +21606,8 @@
       "status": "Token",
       "effects": [
         "Tokens",
-        "Discard"
+        "Discard",
+        "Burn"
       ]
     },
     "af65bbf9-e328-4b8b-8caa-c6dff743867b": {
@@ -21974,7 +22009,6 @@
       "scryfallId": "382d6085-79b9-48f7-8949-9f44dde2c753",
       "effects": [
         "Buff",
-        "Burn",
         "Steal"
       ]
     },
@@ -22228,7 +22262,8 @@
       "label": "",
       "scryfallId": "2334bc71-5f85-47ff-b393-601a1e746a4e",
       "effects": [
-        "Counter"
+        "Counter",
+        "Burn"
       ]
     },
     "b446c3bd-3c7d-4d59-ba59-3dd80818465e": {
@@ -22334,7 +22369,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "468864b4-d10f-4920-af05-ba107fe54a25",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "b2b0a5d0-0084-43a4-b6dc-e893ef42cdb7": {
       "name": "Unruly Catapult",
@@ -23498,8 +23535,7 @@
       "scryfallId": "6929750f-cf08-4e3e-83b0-076e1f6fa8e0",
       "status": "Token",
       "effects": [
-        "Buff",
-        "Burn"
+        "Buff"
       ]
     },
     "39e21a5a-b278-478a-854c-17695c0f6246": {
@@ -23554,8 +23590,7 @@
       "label": "",
       "scryfallId": "824331ff-3055-4628-8486-7d0dd088eec8",
       "effects": [
-        "Tokens",
-        "Burn"
+        "Tokens"
       ]
     },
     "50c7b13d-f217-45de-837c-49f934840368": {
@@ -23732,6 +23767,7 @@
       "scryfallId": "0d68dee5-56ff-45bb-a37e-9e2dfc07c5a7",
       "effects": [
         "Removal",
+        "Burn",
         "Mill",
         "Regrowth"
       ]
@@ -23899,7 +23935,8 @@
       "label": "",
       "scryfallId": "011c2566-7b86-4000-bf84-3319dc58d715",
       "effects": [
-        "Removal"
+        "Removal",
+        "Burn"
       ]
     },
     "484eeb13-fe74-45fe-b089-7beec87cfcdb": {
@@ -24143,8 +24180,7 @@
       "effects": [
         "Tokens",
         "Removal",
-        "Buff",
-        "Burn"
+        "Buff"
       ]
     },
     "4dde484a-8d5b-4eb6-ab4a-e30cc370431c": {
