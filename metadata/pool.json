@@ -10332,6 +10332,7 @@
       "label": "",
       "scryfallId": "021d0abf-7c1a-4081-9686-fba578120249",
       "effects": [
+        "Removal",
         "Discard",
         "CardAdvantage"
       ],

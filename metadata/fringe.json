@@ -18402,7 +18402,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "3e99c91c-7bcb-4405-8cd4-87290710f8c0",
-      "effects": [],
+      "effects": [
+        "Filter"
+      ],
       "reviewedAt": "2026-09-11T19:49:09.7252519+00:00"
     },
     "ceba3d03-be5a-4dd7-b829-7db216a0f44e": {
@@ -34621,8 +34623,7 @@
       "label": "",
       "scryfallId": "2934c9c8-d23a-462b-83d5-94e88c8663ac",
       "effects": [
-        "Ramp",
-        "Sacrifice"
+        "Ramp"
       ],
       "reviewedAt": "2026-09-11T21:59:11.1140306+00:00"
     },
@@ -37681,7 +37682,7 @@
       "scryfallId": "368b28e4-a367-4a38-866d-c3768bd9b7ad",
       "effects": [
         "Discard",
-        "CardAdvantage"
+        "Filter"
       ],
       "reviewedAt": "2026-09-08T11:57:43.6095196+00:00"
     },
@@ -38285,7 +38286,8 @@
       "label": "",
       "scryfallId": "8cc8e367-1aa4-43b6-b17a-01bfb097f620",
       "effects": [
-        "Discard"
+        "Discard",
+        "Filter"
       ],
       "reviewedAt": "2026-09-04T23:21:49.2244869+00:00"
     },
@@ -82244,6 +82246,7 @@
       "scryfallId": "3e01ae10-56c4-4edd-abc3-f208ca17f518",
       "effects": [
         "CardAdvantage",
+        "Filter",
         "Buff"
       ],
       "reviewedAt": "2026-09-10T15:16:48.2533231+00:00"
