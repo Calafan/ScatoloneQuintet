@@ -38,8 +38,7 @@
       "label": "",
       "scryfallId": "4a140142-30bd-428b-82cb-323029090c21",
       "effects": [
-        "Tokens",
-        "Filter"
+        "Tokens"
       ]
     },
     "d6ae77b3-59e7-475c-800c-930a5cb2e0ca": {
@@ -2454,8 +2453,7 @@
       "scryfallId": "209e9bbc-a15d-47fc-b149-6b0c57dd09ea",
       "effects": [
         "Tokens",
-        "Disenchant",
-        "Filter"
+        "Disenchant"
       ]
     },
     "1e44bb4e-aeea-4f43-9cbd-4c24a9b6b022": {
@@ -9038,8 +9036,7 @@
       "label": "",
       "scryfallId": "0c6148f7-01cb-4789-87a6-53d741f44ec2",
       "effects": [
-        "Tokens",
-        "Filter"
+        "Tokens"
       ]
     },
     "749d2994-44e7-40d3-8630-7bebed239e9e": {
@@ -13463,8 +13460,7 @@
       "label": "",
       "scryfallId": "44f6daf9-e3fa-474e-a6af-356c619f8d22",
       "effects": [
-        "Tokens",
-        "Filter"
+        "Tokens"
       ]
     },
     "f3f10173-fead-48a2-9726-a4e7efec3951": {
@@ -18183,8 +18179,7 @@
       "scryfallId": "a1cf5baa-58ca-4ce7-89b0-3f163f6dad99",
       "effects": [
         "Ramp",
-        "Disenchant",
-        "Filter"
+        "Disenchant"
       ]
     },
     "081bfd50-a436-463b-9d2c-5bc8a32b387c": {
@@ -21962,8 +21957,7 @@
       "scryfallId": "644714dd-7a0b-4d4b-9a61-8f6e505b1d22",
       "effects": [
         "Tokens",
-        "Counter",
-        "Filter"
+        "Counter"
       ]
     },
     "a5ae75de-0dff-44bf-9dc6-5895ab3ae731": {
@@ -22171,7 +22165,6 @@
       "scryfallId": "0aaf1ad3-00ad-48ec-a71f-812649d55e14",
       "effects": [
         "Tokens",
-        "Filter",
         "Regrowth"
       ]
     },
@@ -22592,7 +22585,6 @@
       "scryfallId": "3518fbe6-5640-4aca-a2fd-e83c82d2e2fd",
       "effects": [
         "Tokens",
-        "Filter",
         "Buff"
       ]
     },

@@ -28589,8 +28589,7 @@
       "label": "",
       "scryfallId": "03ef5cff-2e2b-4096-8310-4c5aabcb0eac",
       "effects": [
-        "Ramp",
-        "Filter"
+        "Ramp"
       ]
     },
     "f557697a-4c1b-44f6-a989-4879bbe26eb5": {
@@ -51532,7 +51531,7 @@
       "scryfallId": "38b403e1-8c7e-45af-8d10-fceabbe79bfb",
       "effects": [
         "Discard",
-        "Filter",
+        "CardAdvantage",
         "Burn"
       ]
     },
@@ -73649,8 +73648,7 @@
       "label": "",
       "scryfallId": "1145d817-9c84-4acd-977c-fe00325568fd",
       "effects": [
-        "Discard",
-        "Filter"
+        "Discard"
       ]
     },
     "2876e74f-a242-4995-9702-0b737a1ab67a": {
