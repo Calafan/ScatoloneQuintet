@@ -745,6 +745,7 @@
       "label": "",
       "scryfallId": "d874f345-e623-4317-9aa7-66d14a011303",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -11728,7 +11729,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "013cefb7-a059-45c2-81b0-187f35aac4a2",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "5ba04e0d-a3eb-448d-8a97-08c155ef9694": {
       "name": "Breaching Hippocamp",
@@ -16167,7 +16170,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "0b19c0f3-68a5-4544-985a-677aa2c2b50b",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "30afacd9-4680-4aac-8c22-584f9418822d": {
       "name": "Circuitous Route",
@@ -23154,7 +23159,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "27197660-8489-419b-9ad6-29a8713e4673",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "049777d0-910d-46d2-9ca1-10277b2fb845": {
       "name": "Demonlord of Ashmouth",
@@ -26342,6 +26349,7 @@
       "label": "",
       "scryfallId": "47df0059-431a-459d-845d-adc9b4c4c685",
       "effects": [
+        "CardAdvantage",
         "Steal"
       ]
     },
@@ -29283,7 +29291,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "32385604-dcff-41e4-97a5-fcf230033a87",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "312a831a-5da9-4a22-9974-f2d90ae3eb75": {
       "name": "Endless Obedience",
@@ -39848,6 +39858,7 @@
       "label": "",
       "scryfallId": "2dcf3975-7f81-4bdd-810d-476f46444b7a",
       "effects": [
+        "CardAdvantage",
         "Buff"
       ]
     },
@@ -44115,6 +44126,7 @@
       "label": "",
       "scryfallId": "b2b73bbf-39a8-4358-9af6-8f4f0b57c028",
       "effects": [
+        "CardAdvantage",
         "Steal"
       ]
     },
@@ -49560,7 +49572,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "2970c679-562b-48ee-b631-2e3016f4f37c",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "1da438f3-db1c-4713-a60c-e078f31d809c": {
       "name": "Izzet Chronarch",
@@ -50999,6 +51013,7 @@
       "label": "",
       "scryfallId": "7a5ad263-6b0d-4eaa-bc5a-16f5077206e1",
       "effects": [
+        "CardAdvantage",
         "Tutor"
       ]
     },
@@ -62823,7 +62838,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "8d36357a-97f6-4b2f-abbf-43f84c29609d",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "a3635b3f-839c-4fe5-83a5-7c70e8630184": {
       "name": "Moonshadow",
@@ -65895,6 +65912,7 @@
       "label": "",
       "scryfallId": "762e1528-52d7-46fc-a035-e2af6b4676b8",
       "effects": [
+        "CardAdvantage",
         "Steal"
       ]
     },
@@ -74972,7 +74990,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "7c1290ba-dd9d-4cfe-b906-e3f9f89af9e4",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "13044ca1-76a3-43b2-a8e4-3bbc692c30c5": {
       "name": "Raff Capashen, Ship's Mage",
@@ -79741,7 +79761,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "45420f5e-f7f8-4db7-9b54-e2fa1be22094",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "56551cba-3871-4746-a11f-7ab8aaf46cf6": {
       "name": "Ronin Cavekeeper",
@@ -85683,7 +85705,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "4d80f3e7-c3f0-462f-8ae9-8b27a7c15fcd",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "f748b2fb-6c2a-400a-8e96-fa4e4a1dfe80": {
       "name": "Shelldock Isle",
@@ -93859,7 +93883,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "15931d65-9b4e-4506-8f1d-714d06f9c2f3",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "fccc57f6-2555-4ab3-b85a-83b524abe892": {
       "name": "Stormchaser Chimera",
@@ -99124,6 +99150,7 @@
       "label": "",
       "scryfallId": "4962bf58-74d8-4c11-b042-d054312fb8b7",
       "effects": [
+        "CardAdvantage",
         "Burn"
       ]
     },
@@ -99265,7 +99292,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "352d99db-de6d-4405-90ec-b144abbaa5a4",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "045ece1e-23aa-4122-8726-86b2af4345ba": {
       "name": "Thirst for Identity",
@@ -103412,7 +103441,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "fa3ecb4e-d08f-4fac-8842-c3e772b95bd5",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "f4e15575-2277-4cb1-a343-e9407c050eb1": {
       "name": "Ubul Sar Gatekeepers",
@@ -104081,6 +104112,7 @@
       "scryfallId": "606206c7-1a8a-46f4-b368-cf18e02f3df8",
       "effects": [
         "Removal",
+        "CardAdvantage",
         "Burn"
       ]
     },

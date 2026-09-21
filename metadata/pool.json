@@ -4110,6 +4110,7 @@
       "label": "",
       "scryfallId": "27207ba1-ce8b-41c3-9129-4458c13ed1c1",
       "effects": [
+        "CardAdvantage",
         "Steal"
       ]
     },
@@ -6306,6 +6307,7 @@
       "label": "",
       "scryfallId": "3e97c609-3932-4428-96d4-1c97e61f0abb",
       "effects": [
+        "CardAdvantage",
         "Steal"
       ]
     },
@@ -10058,6 +10060,7 @@
       "label": "",
       "scryfallId": "73342536-fd44-4958-b77e-56eec222252e",
       "effects": [
+        "CardAdvantage",
         "Steal",
         "ManaFixing"
       ]
@@ -21932,7 +21935,8 @@
       "label": "",
       "scryfallId": "35957bfb-c75f-4181-9726-19956992a6e6",
       "effects": [
-        "Removal"
+        "Removal",
+        "CardAdvantage"
       ]
     },
     "58d944fb-d1ba-4141-baaf-37dd10978656": {
@@ -22618,6 +22622,7 @@
       "label": "",
       "scryfallId": "0a44bbbf-2c38-4ecb-99a0-b944983f7e51",
       "effects": [
+        "CardAdvantage",
         "Steal"
       ]
     },
@@ -22639,6 +22644,7 @@
         "Removal",
         "Ramp",
         "Disenchant",
+        "CardAdvantage",
         "Steal",
         "ManaFixing"
       ]

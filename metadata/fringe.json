@@ -13645,6 +13645,7 @@
       "scryfallId": "4c9c45b6-dedd-4481-a06a-c83ace2f18fa",
       "effects": [
         "Ramp",
+        "CardAdvantage",
         "ManaFixing"
       ]
     },
@@ -14880,7 +14881,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "380ed1dc-afa2-4b00-8da6-6177295965b5",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "e295d207-128f-419a-866a-c9ac6248c199": {
       "name": "Capashen Knight",
@@ -17197,7 +17200,9 @@
       "rating": 2,
       "label": "",
       "scryfallId": "27a1bfb5-ddfc-49cf-baa3-5d1958d2067a",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "3901bf30-b7c1-4977-a7b1-fcdafcc266cd": {
       "name": "Chimney Imp",
@@ -20133,7 +20138,8 @@
       "label": "",
       "scryfallId": "c6679e01-acd1-460a-a4c6-096059510288",
       "effects": [
-        "Removal"
+        "Removal",
+        "CardAdvantage"
       ]
     },
     "b891a683-2ebc-4e9c-b402-5dd9c1b42b69": {
@@ -23166,7 +23172,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "8976c2bd-ac7a-4e25-be17-1099a104626b",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "c777002d-dcd4-4d75-8175-5440a8bb118e": {
       "name": "Daring Escape",
@@ -26028,7 +26036,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "dfa3cd5e-b727-479d-9a77-9f320b92f3f2",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "e57025ed-3de6-4b2f-92bd-5481fd33b7f1": {
       "name": "Digsite Engineer",
@@ -30404,6 +30414,7 @@
       "label": "",
       "scryfallId": "14e49d20-170a-4b6a-ac82-d3ceaab226ea",
       "effects": [
+        "CardAdvantage",
         "Steal",
         "ManaFixing"
       ]
@@ -32940,6 +32951,7 @@
       "label": "",
       "scryfallId": "6d4075a8-c15d-4078-bf4b-0f85c03fecec",
       "effects": [
+        "CardAdvantage",
         "Buff"
       ]
     },
@@ -38297,7 +38309,8 @@
       "label": "",
       "scryfallId": "16c32c5a-e011-4729-a4a0-b2deac7d5056",
       "effects": [
-        "Ramp"
+        "Ramp",
+        "CardAdvantage"
       ]
     },
     "619ef7e1-33cd-4470-a1d4-83c5f1f5c31e": {
@@ -40737,7 +40750,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "7f9c1a82-695b-4df2-8e51-2d71a62e7baf",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "c7c1352a-0332-4495-a384-8d6fed01f91b": {
       "name": "Geology Enthusiast",
@@ -42047,7 +42062,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "c1e9c025-1cdb-4da8-8d28-14ad5efb512d",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "12778951-7b11-400b-98ed-06434d7ecc11": {
       "name": "Glimpse of Tomorrow",
@@ -47889,14 +47906,18 @@
       "rating": 1,
       "label": "",
       "scryfallId": "69f317fc-f603-45b5-9208-545be4dcbf36",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "e19d5071-4ea1-4883-b067-a21e553f96e0": {
       "name": "Hidden Courtyard",
       "rating": 1,
       "label": "",
       "scryfallId": "b8685d46-99fc-44b3-be95-707a4b7b8327",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "2315b044-bfd2-40dd-a73e-4cf064b36999": {
       "name": "Hidden Gibbons",
@@ -47942,14 +47963,18 @@
       "rating": 1,
       "label": "",
       "scryfallId": "f67fd04f-05da-4418-97de-abeb7346cc69",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "1a26e2d6-6bfc-4cdc-9bd6-8b37a9be2961": {
       "name": "Hidden Nursery",
       "rating": 1,
       "label": "",
       "scryfallId": "a942939a-c06e-4b90-a404-ae5acfffcff9",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "f1c9f5df-d36a-4e15-bae4-81190e4be477": {
       "name": "Hidden Path",
@@ -47995,7 +48020,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "1a40757f-a9ef-4832-b063-14686633ab3b",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "94b15f1d-827b-45e9-a684-5d0c52ea0a09": {
       "name": "Hide in Plain Sight",
@@ -48272,6 +48299,7 @@
       "label": "",
       "scryfallId": "255ebdd8-2bbe-4a0f-8aaf-c0aa815db0c7",
       "effects": [
+        "CardAdvantage",
         "ManaFixing"
       ]
     },
@@ -49608,7 +49636,8 @@
       "label": "",
       "scryfallId": "5946463a-2240-4376-b6f5-fd6e3a9cc51c",
       "effects": [
-        "Counter"
+        "Counter",
+        "CardAdvantage"
       ]
     },
     "fac57730-8fd8-4702-8b35-4ef0ed5fa41a": {
@@ -55683,7 +55712,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "673aaf8d-6716-4f2d-ad2a-b18430c13367",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "43bae4b3-57e8-4d9a-9d1b-9805b0e0fff5": {
       "name": "Kayla's Reconstruction",
@@ -56443,6 +56474,7 @@
       "label": "",
       "scryfallId": "4c4edeef-7582-4027-8087-e643601d5161",
       "effects": [
+        "CardAdvantage",
         "Steal",
         "ManaFixing",
         "Mill"
@@ -57770,7 +57802,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "5e65a06a-e7af-422a-9481-446731009935",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "6ae3a901-9f9a-4a99-94db-22c38fda7aef": {
       "name": "Kyren Glider",
@@ -67463,7 +67497,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "0970efb6-427f-4d5b-9b66-eda4b91015bd",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "b92f2a4c-36dc-40a6-a874-7405fc97fb7a": {
       "name": "Monstrous War-Leech",
@@ -74113,7 +74149,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "150a35f8-bbdc-4f6e-98e3-3bd6a3b8154a",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "334e83cd-b513-4bd4-89a2-86875667e6c4": {
       "name": "Papalymo Totolymo",
@@ -77978,7 +78016,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "a18f5ad0-e9c1-4e45-b245-2946e29baecb",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "133109c3-a2ca-4231-b3b1-baa700800b07": {
       "name": "Primordial Ooze",
@@ -79687,6 +79727,7 @@
       "effects": [
         "Tokens",
         "Ramp",
+        "CardAdvantage",
         "Burn"
       ]
     },
@@ -85300,7 +85341,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "3d1fc4cc-182a-4cd8-bd5a-3cc16257044a",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "c29a04ab-4e14-45d8-a993-3fffd0e2f6eb": {
       "name": "Rod of Ruin",
@@ -85344,6 +85387,7 @@
       "label": "",
       "scryfallId": "0727f65b-cfbe-47d5-87c6-239cf8d93ca6",
       "effects": [
+        "CardAdvantage",
         "Steal",
         "ManaFixing"
       ]
@@ -86824,7 +86868,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "038c8271-f814-4d00-b719-984120dd18b5",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "0d007479-c5e8-4aa1-b53e-fa962783deee": {
       "name": "Rydia's Return",
@@ -88074,7 +88120,8 @@
       "label": "",
       "scryfallId": "12794c31-8aea-4cd9-9534-e890fe3ebc8c",
       "effects": [
-        "Ramp"
+        "Ramp",
+        "CardAdvantage"
       ]
     },
     "4e215ede-e4ac-482a-a2e1-cacb20affa70": {
@@ -88746,6 +88793,7 @@
       "label": "",
       "scryfallId": "28308e05-5c20-4037-b2ba-30bc45566a0e",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -91692,6 +91740,7 @@
       "label": "",
       "scryfallId": "0d21e0de-317d-4378-aec2-30f832af3b0a",
       "effects": [
+        "CardAdvantage",
         "ManaFixing"
       ]
     },
@@ -102379,6 +102428,7 @@
       "label": "",
       "scryfallId": "24a85c52-e5b5-4d65-931c-eacc0cf0fb31",
       "effects": [
+        "CardAdvantage",
         "Pacify"
       ]
     },
@@ -106730,6 +106780,7 @@
       "label": "",
       "scryfallId": "084123b5-c60a-4ebd-ad47-5f9eb10fa171",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -106738,7 +106789,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "10ea9e80-0d3a-4b75-8f29-56e88d6fe66a",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "771bf51d-cb32-4240-936c-f9d1e0c90cf0": {
       "name": "The Terror of Serpent's Pass",
@@ -116624,6 +116677,7 @@
       "label": "",
       "scryfallId": "71a6f85b-5ef8-4526-9c86-7cb71508b4c0",
       "effects": [
+        "CardAdvantage",
         "Regrowth"
       ]
     },
@@ -122401,7 +122455,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "a2f498ac-179e-4055-9b83-97bcc5ab1bb9",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "7d8af783-e73f-49ce-bcdb-ba55e1650481": {
       "name": "Zombie Assassin",
