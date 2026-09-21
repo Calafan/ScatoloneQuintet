@@ -36958,7 +36958,6 @@
       "scryfallId": "1bd7755f-7ca5-4948-8baf-976823906891",
       "effects": [
         "Removal",
-        "CardAdvantage",
         "Burn"
       ],
       "reviewedAt": "2026-09-05T10:24:06.5265433+00:00"
@@ -65512,8 +65511,7 @@
       "label": "",
       "scryfallId": "1a9a0296-3690-45c7-98af-d546296ad9fe",
       "effects": [
-        "Discard",
-        "CardAdvantage"
+        "Discard"
       ],
       "reviewedAt": "2026-09-04T23:17:33.1369501+00:00"
     },
@@ -120788,9 +120786,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "e3151960-cc0c-47b5-b476-295d7a17ae14",
-      "effects": [
-        "CardAdvantage"
-      ],
+      "effects": [],
       "reviewedAt": "2026-09-11T10:49:52.1565681+00:00"
     },
     "7e10c141-dfb0-409b-b8c9-cdfe93b42a06": {
