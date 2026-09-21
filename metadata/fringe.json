@@ -16514,7 +16514,6 @@
       "label": "",
       "scryfallId": "98392aac-2c1c-4cff-ad14-0e2f51439012",
       "effects": [
-        "CardAdvantage",
         "Filter",
         "Regrowth"
       ],
@@ -58529,7 +58528,6 @@
       "label": "",
       "scryfallId": "9268ccdb-0b5b-4624-9443-f7b5330ec71f",
       "effects": [
-        "CardAdvantage",
         "Filter"
       ],
       "reviewedAt": "2026-09-11T19:53:49.0366097+00:00"
@@ -61938,7 +61936,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "85ca58c0-bf3a-49fe-848c-adb1449c29bf",
-      "effects": [],
+      "effects": [
+        "CardAdvantage"
+      ],
       "reviewedAt": "2026-09-10T11:02:07.447002+00:00"
     },
     "97dea59e-2090-4653-9ed9-86820a20605f": {
@@ -88593,7 +88593,6 @@
       "effects": [
         "Tokens",
         "Discard",
-        "CardAdvantage",
         "Buff"
       ]
     },
@@ -95332,7 +95331,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "2f1cae39-6120-4630-83c6-9ededc96308c",
-      "effects": [],
+      "effects": [
+        "CardAdvantage"
+      ],
       "reviewedAt": "2026-09-10T11:02:26.666439+00:00"
     },
     "8bc30bd5-554e-4fcf-9dec-c7634921858a": {
@@ -96392,6 +96393,7 @@
       "scryfallId": "42b37a6b-9753-4e37-a617-42e15797351f",
       "effects": [
         "Tokens",
+        "CardAdvantage",
         "Sacrifice"
       ]
     },
@@ -102331,6 +102333,7 @@
       "label": "",
       "scryfallId": "1fd62e02-fb02-4ee9-b76f-5d191fd0654a",
       "effects": [
+        "CardAdvantage",
         "Sacrifice"
       ],
       "reviewedAt": "2026-09-10T11:07:12.4265074+00:00"
@@ -104236,7 +104239,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "048f2368-0e2f-4197-b977-353d38b38ccc",
-      "effects": [],
+      "effects": [
+        "Filter"
+      ],
       "reviewedAt": "2026-09-08T09:30:54.3015494+00:00"
     },
     "ce55657d-d82f-4528-a83e-5cad7de111fd": {
