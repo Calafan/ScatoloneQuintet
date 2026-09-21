@@ -4593,7 +4593,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "2a0d4110-907d-4777-a759-aed47801a8df",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "28045b32-4c1a-40e5-a15d-524d0f8fe6ec": {
       "name": "Archmage of Runes",
@@ -30045,7 +30047,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "35d0fade-372a-4a02-b649-52966abc6e89",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "d15dba3a-3b85-43fb-b5f3-c4d8d1e23b1d": {
       "name": "Echoing Assault",
@@ -34357,7 +34361,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "3eafd571-9364-44d9-8da5-1d93c07f0300",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "940080ce-c504-48c8-a763-326fef907217": {
       "name": "Falkenrath Forebear",
@@ -45031,7 +45037,8 @@
       "label": "",
       "scryfallId": "53cdf2ab-3acd-49bd-8273-84c1cfc92883",
       "effects": [
-        "Removal"
+        "Removal",
+        "CardAdvantage"
       ]
     },
     "b9d9d118-a073-4e73-90fe-026462d1d895": {
@@ -53393,6 +53400,7 @@
       "label": "",
       "scryfallId": "10fe09d9-2c3d-44cf-8d66-193ba9ddc8c6",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -53829,6 +53837,7 @@
       "effects": [
         "Tokens",
         "Removal",
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -69244,7 +69253,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "58e3b25f-beb1-4688-8b14-be597b9aee81",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "1bf6248c-658c-4540-8bee-81af79d349be": {
       "name": "Nalia de'Arnise",
@@ -70648,6 +70659,7 @@
       "scryfallId": "6c4e9cfe-e72e-46a1-a8d8-9fda5f2bae73",
       "effects": [
         "Removal",
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -100455,7 +100467,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "1a02fac3-8990-4bd1-8e34-beec6332088c",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "7022ae9a-2589-493b-a050-a230fd02f80b": {
       "name": "Storm of Souls",
@@ -106752,7 +106766,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "129ea0f5-67f6-4364-b8db-ee582b3e23fd",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "0afcc646-cb34-4c0e-b3f5-4115ad4faa8e": {
       "name": "The Sound of Drums",
@@ -109342,7 +109358,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "30b5bf0c-e617-4a41-bfaa-2b299728a93f",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "37feb05b-1f69-4d0d-837c-592461a431e0": {
       "name": "Tombfire",
@@ -113998,6 +114016,7 @@
       "label": "",
       "scryfallId": "02f210ed-b40b-44c8-9424-fbefb31e9c3c",
       "effects": [
+        "CardAdvantage",
         "Burn"
       ]
     },

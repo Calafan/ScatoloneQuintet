@@ -57325,7 +57325,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "4b5d23a6-3a23-4169-aea1-f10bf5153180",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "53175678-1f5c-4889-9086-66381b3ddc3a": {
       "name": "Ludevic's Test Subject // Ludevic's Abomination",
@@ -99134,6 +99136,7 @@
       "label": "",
       "scryfallId": "18ee3a98-0254-4fe9-ba6b-94eb9266ac70",
       "effects": [
+        "CardAdvantage",
         "Regrowth"
       ]
     },
@@ -99913,7 +99916,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "14da9c9a-1778-4eea-ad40-2475fe6fabc2",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "2f3bd1fc-387e-41b7-b19b-62dd9fbe2d10": {
       "name": "Thousand-legged Kami",
