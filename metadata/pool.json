@@ -1396,9 +1396,7 @@
       "rating": 4,
       "label": "",
       "scryfallId": "1271251b-7d79-4cb4-80bb-98574aa63249",
-      "effects": [
-        "Buff"
-      ]
+      "effects": []
     },
     "28b22709-3e69-4eb7-8a3d-b75b6e65f30e": {
       "name": "Barbed Spike",
@@ -1586,7 +1584,6 @@
       "label": "",
       "scryfallId": "15927163-f203-4d45-b78f-70eafb941bfd",
       "effects": [
-        "Buff",
         "Steal"
       ]
     },
@@ -1833,7 +1830,9 @@
       "rating": 4,
       "label": "",
       "scryfallId": "2029be79-88d8-4d15-a7d7-f5b8d469ad54",
-      "effects": []
+      "effects": [
+        "Buff"
+      ]
     },
     "84fb1c2f-cf1b-4166-834f-a887aa182d09": {
       "name": "Blade-Blizzard Kitsune",
@@ -1979,8 +1978,7 @@
       "label": "",
       "scryfallId": "6318918f-34e4-4bbf-9816-8e88f21ae324",
       "effects": [
-        "Removal",
-        "Buff"
+        "Removal"
       ]
     },
     "090018e0-4dcb-4b3c-b4e0-7ba62de0484d": {
@@ -2290,9 +2288,7 @@
       "rating": 3,
       "label": "",
       "scryfallId": "802cc901-ae12-45e0-a9cf-e505c3a21dd1",
-      "effects": [
-        "Buff"
-      ]
+      "effects": []
     },
     "f1ac4e0e-5633-46e4-9a21-d3924e481d13": {
       "name": "Borrowed Time",
@@ -2476,8 +2472,7 @@
       "label": "",
       "scryfallId": "723ec2ef-aa82-449d-88b0-405d06454fc2",
       "effects": [
-        "Disenchant",
-        "Buff"
+        "Disenchant"
       ]
     },
     "f3dd1f6d-f7d7-4358-8139-7495404f29c7": {
@@ -4669,9 +4664,7 @@
       "rating": 4,
       "label": "",
       "scryfallId": "7cb2b582-1c45-4bb2-8aef-59a71a5a9e94",
-      "effects": [
-        "Buff"
-      ]
+      "effects": []
     },
     "f6d24565-5b32-4eff-b2e0-6e2c25516ff0": {
       "name": "Deathcap Glade",
@@ -6959,7 +6952,6 @@
       "scryfallId": "2d8bd585-c5ea-46f8-8e11-f33c067f2f8e",
       "effects": [
         "Removal",
-        "Buff",
         "Sacrifice"
       ]
     },
@@ -9765,8 +9757,7 @@
       "label": "",
       "scryfallId": "131eea92-2898-4b89-a332-ee11c155afda",
       "effects": [
-        "Ramp",
-        "Buff"
+        "Ramp"
       ]
     },
     "c2c47e13-b581-41a8-a4af-542557a6249a": {
@@ -10197,8 +10188,7 @@
       "label": "",
       "scryfallId": "0861a74a-a4d5-4b9f-8c62-74cdfcc67825",
       "effects": [
-        "Tokens",
-        "Buff"
+        "Tokens"
       ]
     },
     "4f8c4927-46c2-4c18-b5af-c6288dbaff6d": {
@@ -17100,9 +17090,7 @@
       "rating": 3,
       "label": "",
       "scryfallId": "3934d535-740d-471a-bbf1-c3b26b1cd596",
-      "effects": [
-        "Buff"
-      ]
+      "effects": []
     },
     "0f68ae67-1671-4281-8b6b-3e52fdd4915f": {
       "name": "Salvation Swan",
@@ -17199,8 +17187,7 @@
       "label": "",
       "scryfallId": "269ddd84-fdc4-4c94-b183-32ecec56967c",
       "effects": [
-        "Tokens",
-        "Buff"
+        "Tokens"
       ]
     },
     "b81a748b-f7a6-4ec4-8b18-40a1819745f6": {
@@ -18926,8 +18913,7 @@
       "label": "",
       "scryfallId": "2a243d72-b196-433b-aef5-0159f5a69017",
       "effects": [
-        "Filter",
-        "Buff"
+        "Filter"
       ]
     },
     "a5270cf7-1eb3-4907-9f47-d787f61940d3": {
@@ -19465,9 +19451,7 @@
       "rating": 4,
       "label": "",
       "scryfallId": "e4885101-989f-4c1c-94aa-69223d38c8e3",
-      "effects": [
-        "Buff"
-      ]
+      "effects": []
     },
     "b967870d-9773-4ad5-bf06-c3be5465dab9": {
       "name": "Strict Proctor",
@@ -21047,7 +21031,8 @@
       "label": "",
       "scryfallId": "85c4b837-1557-4dda-a324-9646ce702dfd",
       "effects": [
-        "Tokens"
+        "Tokens",
+        "Buff"
       ]
     },
     "92cfba68-12f6-4f97-9187-0f6a39656a0f": {
@@ -22004,7 +21989,6 @@
       "label": "",
       "scryfallId": "382d6085-79b9-48f7-8949-9f44dde2c753",
       "effects": [
-        "Buff",
         "Steal"
       ]
     },
@@ -22349,7 +22333,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "08fa38c0-353c-4f6a-b87e-3f6366af44d8",
-      "effects": []
+      "effects": [
+        "Buff"
+      ]
     },
     "8386f43f-8106-415c-a9a6-7fd3f5b060f3": {
       "name": "Unnerve",
@@ -23383,8 +23369,7 @@
       "label": "",
       "scryfallId": "354b9ea4-3d55-48cc-b426-c46b1d1bb397",
       "effects": [
-        "Ramp",
-        "Buff"
+        "Ramp"
       ]
     },
     "572afa0f-9e82-4899-b622-a7554625b9f4": {
@@ -24270,6 +24255,7 @@
       "label": "",
       "scryfallId": "328e2d37-eb8a-46b6-a9a0-ea8efb064683",
       "effects": [
+        "Buff",
         "Sacrifice"
       ]
     },
