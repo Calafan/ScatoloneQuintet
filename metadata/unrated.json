@@ -11612,7 +11612,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "059723d4-94dd-460e-8f2b-8e07ced8be50",
-      "effects": []
+      "effects": [
+        "Buff"
+      ]
     },
     "13f63b98-40b0-499b-bb5d-640b95a6ea1c": {
       "name": "Branching Bolt",
@@ -20845,7 +20847,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "10c77d2d-ca35-4021-9e29-95be41385fd4",
-      "effects": []
+      "effects": [
+        "Buff"
+      ]
     },
     "cdc4048a-73ec-4ec1-a179-2b36c397bf1a": {
       "name": "Dakmor Salvage",
@@ -29722,7 +29726,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "6e480d04-9a35-463e-928e-8da3556629e6",
-      "effects": []
+      "effects": [
+        "Buff"
+      ]
     },
     "0870e9f8-9e02-4997-9554-41a4e8eec4cb": {
       "name": "Ephara's Radiance",
@@ -34790,7 +34796,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "246c6f63-59df-41a5-8c28-f43e1e89c25f",
-      "effects": []
+      "effects": [
+        "Buff"
+      ]
     },
     "448b27a5-7c0c-4ab6-bddf-bd62b920aacc": {
       "name": "Forced Fruition",
@@ -42014,7 +42022,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "3aa40ce2-76df-43bd-a59e-7cf6e4f46a1d",
-      "effects": []
+      "effects": [
+        "Buff"
+      ]
     },
     "e3d6d146-47f4-46f9-9a15-2ea649093668": {
       "name": "Grunn, the Lonely King",
@@ -53784,6 +53794,7 @@
       "label": "",
       "scryfallId": "8da986da-e8ee-4b53-8bbd-9285d0f7f3cb",
       "effects": [
+        "Buff",
         "Pacify"
       ]
     },
@@ -60695,7 +60706,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "1aa4eba9-9e91-4beb-9296-a18baa73a318",
-      "effects": []
+      "effects": [
+        "Buff"
+      ]
     },
     "c4920e95-a6fc-4373-a0d6-244f51851364": {
       "name": "Metallic Rebuke",
@@ -68264,7 +68277,8 @@
       "label": "",
       "scryfallId": "065b8f9e-3b0c-4d8f-bdf2-7aada41e114b",
       "effects": [
-        "Discard"
+        "Discard",
+        "Buff"
       ]
     },
     "439f7ac8-19f0-4227-82a7-48294adc2114": {
@@ -72843,7 +72857,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "3a75889d-8746-4516-934b-efce9c48dc70",
-      "effects": []
+      "effects": [
+        "Buff"
+      ]
     },
     "350f5c0a-563f-41c5-8f7b-10f409bb4d3b": {
       "name": "Primal Command",
@@ -80971,7 +80987,8 @@
       "label": "",
       "scryfallId": "36d22296-8eb6-4367-bb21-47b20ad700d9",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Buff"
       ]
     },
     "bdbf70da-af38-4827-9b8b-39f553ebd34a": {
@@ -85343,7 +85360,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "5436d55d-d2d0-4f22-b399-93f1d48e080f",
-      "effects": []
+      "effects": [
+        "Buff"
+      ]
     },
     "d96506b1-845d-4a9b-8414-456bb457d80f": {
       "name": "Shape the Sands",

@@ -8231,7 +8231,8 @@
       "label": "",
       "scryfallId": "06eda212-933c-484e-bbf6-611472a168ea",
       "effects": [
-        "Ramp"
+        "Ramp",
+        "Buff"
       ]
     },
     "bd0c0e85-ff24-46c9-a547-4f633355c131": {
@@ -8801,7 +8802,8 @@
       "label": "",
       "scryfallId": "1a13af89-95aa-4bc2-9ec4-a5ddf71639b0",
       "effects": [
-        "Tokens"
+        "Tokens",
+        "Buff"
       ]
     },
     "9df60bb7-2dd4-4d22-b814-f52145356424": {

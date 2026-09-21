@@ -6892,7 +6892,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "51378e10-2f17-445b-97e9-5c373234ba52",
-      "effects": []
+      "effects": [
+        "Buff"
+      ]
     },
     "5563427d-ffdc-4bea-ad7d-1605894b8a6c": {
       "name": "Awakening",
@@ -54940,6 +54942,7 @@
       "label": "",
       "scryfallId": "5df8cb7c-ad05-473b-9deb-7ce56c6799b8",
       "effects": [
+        "Buff",
         "ManaFixing"
       ]
     },
@@ -63756,7 +63759,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "acd941ff-b423-4379-91c3-7c3d95a4b0cb",
-      "effects": []
+      "effects": [
+        "Buff"
+      ]
     },
     "94a16609-8529-4301-8a3d-47ced194f7cd": {
       "name": "Master Decoy",
@@ -67806,7 +67811,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "22fdbe71-abca-4e48-99b2-1cb6b35d930b",
-      "effects": []
+      "effects": [
+        "Buff"
+      ]
     },
     "76c2571d-7d45-4c7a-99d1-302e2b26f8f6": {
       "name": "Morkrut Behemoth",
@@ -77563,7 +77570,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "db6d9d28-3a05-4dfa-a322-36b4cc2697d4",
-      "effects": []
+      "effects": [
+        "Buff"
+      ]
     },
     "87f22ec6-6668-4e15-b38c-fa1ac0292c6b": {
       "name": "Predatory Impetus",
@@ -82872,7 +82881,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "1998356b-4eb3-43a7-8534-10eb212c7f2a",
-      "effects": []
+      "effects": [
+        "Buff"
+      ]
     },
     "e9ece3c6-81c2-441a-acce-c109aaa9026b": {
       "name": "Render Inert",
@@ -89986,7 +89997,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "fe050c16-9be5-42ef-988f-0531a8bb2352",
-      "effects": []
+      "effects": [
+        "Buff"
+      ]
     },
     "a53baf90-8d0c-4900-9f24-893ad31628ec": {
       "name": "Secret Door",
@@ -94987,7 +95000,8 @@
       "scryfallId": "9c442742-902c-49ae-813e-38a21ff8a78f",
       "effects": [
         "Removal",
-        "Ramp"
+        "Ramp",
+        "Buff"
       ]
     },
     "a6b28298-9624-49d7-ad73-fcd1fd3556d2": {
