@@ -5168,7 +5168,6 @@
       "scryfallId": "584774b5-640f-45e0-810b-f5faf119645b",
       "effects": [
         "Ramp",
-        "CardAdvantage",
         "ManaFixing"
       ]
     },

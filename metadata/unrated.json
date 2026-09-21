@@ -5887,7 +5887,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "354255d7-dc29-403b-aa90-9044cde669d0",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "3f806353-592e-431c-a7dd-a4c64034f94d": {
       "name": "Avatar of Discord",
@@ -23568,6 +23570,7 @@
       "label": "",
       "scryfallId": "1a88a833-273b-4fe6-b9aa-f014170f06fd",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -24032,7 +24035,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "01b98947-6790-4caf-9855-692a89be1906",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "3d960d33-623a-4415-ae00-f8cffbc15f5a": {
       "name": "Dictate of the Twin Gods",
@@ -34641,7 +34646,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "18dc8a02-d284-4eb1-9d2a-02f7151e2f15",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "b8805aa6-fa5f-4c70-ad90-8502611bef5a": {
       "name": "Font of Return",
@@ -38389,6 +38396,7 @@
       "label": "",
       "scryfallId": "25a320fb-a92f-423f-bab0-ff69dc8e5b99",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -47066,7 +47074,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "1a2db886-d394-4a8b-8fe0-dc2613500adc",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "4f40d66a-1fd8-4b06-b6cb-9cbcf33bc041": {
       "name": "Iizuka the Ruthless",
@@ -51208,7 +51218,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "958cdaca-60f7-4c26-ae28-bdc41bb59a84",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "be6d78c7-b7fb-46a9-99ea-f10d21c3da58": {
       "name": "Kami of the Honored Dead",
@@ -51973,6 +51985,7 @@
       "scryfallId": "72295cf1-e8bb-4ec6-8153-503c12d10881",
       "effects": [
         "Removal",
+        "CardAdvantage",
         "Burn"
       ]
     },
@@ -60928,7 +60941,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "14875840-044d-482f-845e-79240cad66f3",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "e8c7566d-7cc0-48af-a986-83223ec7e06c": {
       "name": "Midnight Reaper",
@@ -66944,6 +66959,7 @@
       "label": "",
       "scryfallId": "319fb987-2bf2-4d94-81d1-c601edae3f28",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -69314,7 +69330,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "11bbc404-a456-4a4b-af88-23921d80d671",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "543599e2-8312-43a6-ab26-0be17e690d4f": {
       "name": "Overblaze",
@@ -78768,6 +78786,7 @@
       "label": "",
       "scryfallId": "6695e5bb-56a9-49ab-8940-72336e845875",
       "effects": [
+        "CardAdvantage",
         "Buff"
       ]
     },
@@ -79279,7 +79298,8 @@
       "label": "",
       "scryfallId": "0e3d43ce-8297-47f6-a877-d723b9b43fdb",
       "effects": [
-        "Ramp"
+        "Ramp",
+        "CardAdvantage"
       ]
     },
     "ed1a1c04-1b2b-4616-abb2-8bd19c47b589": {
@@ -81965,7 +81985,8 @@
       "label": "",
       "scryfallId": "c58064fd-4d8b-4f54-812f-0bb1d7e2ddc2",
       "effects": [
-        "Removal"
+        "Removal",
+        "CardAdvantage"
       ]
     },
     "f71d55f5-f220-4cb0-9468-b8d339ab8535": {
@@ -98866,6 +98887,7 @@
       "scryfallId": "5e92b0d5-b171-4096-b1bb-65755db73b73",
       "effects": [
         "Ramp",
+        "CardAdvantage",
         "Buff"
       ]
     },

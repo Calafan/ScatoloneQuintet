@@ -22432,7 +22432,8 @@
       "label": "",
       "scryfallId": "69ba6262-a3b1-4009-b2ed-ae684dfae022",
       "effects": [
-        "Discard"
+        "Discard",
+        "CardAdvantage"
       ]
     },
     "297494f0-1f79-4f77-b68b-6ed858e21f4e": {
@@ -26044,6 +26045,7 @@
       "label": "",
       "scryfallId": "9091e8dc-b546-4b74-9dc9-aef55f60d13a",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -30870,6 +30872,7 @@
       "label": "",
       "scryfallId": "249bc870-e945-466c-81cd-8b9e9b7ac4ac",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -37941,6 +37944,7 @@
       "label": "",
       "scryfallId": "56419022-bed8-425c-99a9-fc288446efd1",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -44053,7 +44057,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "3b8424e6-4a92-4be3-b69e-49ac9a736f94",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "7986908d-8af2-465a-8597-26e92ca2f1c9": {
       "name": "Graham O'Brien",
@@ -47164,7 +47170,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "2765be4f-23bf-49c1-9546-11a7916156be",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "513fd896-ab78-44fb-b136-f7c93288dc63": {
       "name": "Heightened Reflexes",
@@ -55259,7 +55267,8 @@
       "scryfallId": "1b674243-f953-4d67-b15f-dd7ad88c289e",
       "effects": [
         "Removal",
-        "Ramp"
+        "Ramp",
+        "CardAdvantage"
       ]
     },
     "8a7c6391-020a-4d7a-8abb-702631bbee56": {
@@ -60797,7 +60806,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "0d5beee7-d11d-4198-89db-dcf56ce388ad",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "467f756f-75db-4748-99d3-62651776adfe": {
       "name": "Lord Skitter's Butcher",
@@ -77951,7 +77962,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "eae26b8d-c3af-42d1-94f4-56950ceac1c7",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "28a1e053-eb14-4fbf-afd1-bfb6117a839a": {
       "name": "Primoc Escapee",
@@ -120487,7 +120500,6 @@
       "scryfallId": "2593a6a6-dc21-4742-acb8-f7092931b1ce",
       "effects": [
         "Removal",
-        "CardAdvantage",
         "Burn"
       ]
     },
@@ -120497,8 +120509,7 @@
       "label": "",
       "scryfallId": "d2dcb8ed-23e7-4cee-9f43-042232c6035a",
       "effects": [
-        "Discard",
-        "CardAdvantage"
+        "Discard"
       ]
     },
     "888582df-4fe2-4d05-9b62-10c90aaa76f2": {
@@ -120507,8 +120518,7 @@
       "label": "",
       "scryfallId": "fdb9565f-5b09-4127-b169-3146079dab84",
       "effects": [
-        "Tokens",
-        "CardAdvantage"
+        "Tokens"
       ]
     },
     "523d3e3d-8fdf-44f8-868d-7b00995e4577": {
@@ -120516,9 +120526,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "5595a57a-a76c-467b-afaf-5affffc24f35",
-      "effects": [
-        "CardAdvantage"
-      ]
+      "effects": []
     },
     "cff1b9bb-2a4c-4522-94a4-a674f942e376": {
       "name": "Words of Wisdom",
@@ -120534,9 +120542,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "0ea5c6e0-8361-4214-997b-32a66b19fae9",
-      "effects": [
-        "CardAdvantage"
-      ]
+      "effects": []
     },
     "bb4ab425-3da7-455d-b217-3d585d476113": {
       "name": "Workhorse",
