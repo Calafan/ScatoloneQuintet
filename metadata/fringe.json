@@ -5115,7 +5115,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "18a91ed4-131e-455b-a3bd-0bd42aa754e5",
-      "effects": [],
+      "effects": [
+        "Buff"
+      ],
       "reviewedAt": "2026-09-04T14:48:12.1680133+00:00"
     },
     "1c482b20-b423-48ef-b162-53960d43b4f7": {
@@ -12386,7 +12388,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "200c9655-e51c-4b63-96cf-7f3fba3ec75c",
-      "effects": [],
+      "effects": [
+        "Buff"
+      ],
       "reviewedAt": "2026-09-08T12:41:58.5647977+00:00"
     },
     "c8ce324f-aa58-48f9-9f56-435e49dfff0a": {
@@ -18774,9 +18778,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "3380d87a-c460-409c-8d47-9b2fc5ddd2ea",
-      "effects": [
-        "Buff"
-      ],
+      "effects": [],
       "reviewedAt": "2026-09-11T10:52:23.4478081+00:00"
     },
     "65d8b481-ebe9-4029-98a8-dd4693340bff": {
@@ -20425,7 +20427,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "42fe2280-a996-4072-b5bf-f4fd56607a51",
-      "effects": [],
+      "effects": [
+        "Buff"
+      ],
       "reviewedAt": "2026-09-04T23:16:24.9422384+00:00"
     },
     "d4f0dd14-bc2a-4c6d-bfd5-bc5838ab18a5": {
@@ -29214,7 +29218,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "1d50bf06-97ab-4874-a484-9289f41dc98e",
-      "effects": [],
+      "effects": [
+        "Buff"
+      ],
       "reviewedAt": "2026-09-04T14:54:57.5045055+00:00"
     },
     "aba53a54-8666-430d-899e-45ad9f783a4a": {
@@ -29222,7 +29228,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "7d14a430-6e08-40cf-970a-cae84bba6ef7",
-      "effects": [],
+      "effects": [
+        "Buff"
+      ],
       "reviewedAt": "2026-09-05T10:33:35.743816+00:00"
     },
     "cc43507a-ca61-45ae-ac0a-4ddb851c27ef": {
@@ -52901,7 +52909,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "5899a575-a97d-4850-b55c-22ad6900ba20",
-      "effects": [],
+      "effects": [
+        "Buff"
+      ],
       "reviewedAt": "2026-09-08T12:42:14.0786014+00:00"
     },
     "51708bd1-23db-4597-84a7-f36abd93c537": {
@@ -58683,7 +58693,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "5d89b377-80d2-42a0-b84e-a455a72ed9fe",
-      "effects": [],
+      "effects": [
+        "Buff"
+      ],
       "reviewedAt": "2026-09-08T09:57:49.3476488+00:00"
     },
     "b2f92310-3725-44c2-8953-8b280437217e": {
@@ -82923,8 +82935,7 @@
       "label": "",
       "scryfallId": "8b7e679d-c99e-49c7-91e6-e2b3d6b57482",
       "effects": [
-        "Tokens",
-        "Buff"
+        "Tokens"
       ],
       "reviewedAt": "2026-09-10T15:11:35.0003401+00:00"
     },
@@ -108702,7 +108713,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "3375dcc6-9399-48eb-9aa4-7b40c3686cc5",
-      "effects": [],
+      "effects": [
+        "Buff"
+      ],
       "reviewedAt": "2026-09-08T12:23:37.3787828+00:00"
     },
     "af0ad159-8264-4526-9a95-eddd32c0a13f": {
@@ -113649,9 +113662,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "1c744764-3b54-49a0-aa68-1fb22d8162a9",
-      "effects": [
-        "Buff"
-      ]
+      "effects": []
     },
     "16e9c452-6288-4da8-813d-2eb6b7a538c3": {
       "name": "Valley Mightcaller",
@@ -113666,8 +113677,7 @@
       "label": "",
       "scryfallId": "7dd5eae0-d583-45dc-a04d-a938cbebc73e",
       "effects": [
-        "Filter",
-        "Buff"
+        "Filter"
       ]
     },
     "5b919920-b1b6-499b-a7fe-c630778a7831": {
