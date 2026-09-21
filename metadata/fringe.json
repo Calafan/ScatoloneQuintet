@@ -12147,16 +12147,6 @@
       "scryfallId": "11b30ab5-3101-485d-9851-35cbc42d9a15",
       "effects": []
     },
-    "50fe6d9d-1062-4fc0-a76c-f73840090dbc": {
-      "name": "Bounty Hunter",
-      "rating": 1,
-      "label": "",
-      "scryfallId": "5982969b-c0c1-4afa-b8d3-ece7f6925062",
-      "effects": [
-        "Removal"
-      ],
-      "reviewedAt": "2026-09-08T12:45:12.7350724+00:00"
-    },
     "e4bfe005-7c4e-4178-ae41-a28eb2352ad1": {
       "name": "Bounty of Skemfar",
       "rating": 1,
@@ -28721,14 +28711,6 @@
         "Removal"
       ]
     },
-    "4808e39c-213b-4034-bbc4-f8450b82817d": {
-      "name": "Drowned",
-      "rating": 1,
-      "label": "",
-      "scryfallId": "6f573891-83f4-44b7-932c-c60134edb10d",
-      "effects": [],
-      "reviewedAt": "2026-09-04T15:08:02.1187024+00:00"
-    },
     "db19a27a-ee22-4931-ae3c-0ce21f456ea6": {
       "name": "Drowner of Truth // Drowned Jungle",
       "rating": 1,
@@ -44350,14 +44332,6 @@
       "label": "",
       "scryfallId": "0fe474af-55bb-4732-abaa-350984d5d7e5",
       "effects": []
-    },
-    "a69990e3-78e6-401d-8efd-3402541fbaa1": {
-      "name": "Grave Robbers",
-      "rating": 1,
-      "label": "",
-      "scryfallId": "7c363de3-af48-4e4a-b179-a77f05c06be7",
-      "effects": [],
-      "reviewedAt": "2026-09-04T15:07:17.3329665+00:00"
     },
     "6f54e7ea-bb87-4ce0-96b6-4fc82605ed2a": {
       "name": "Grave Servitude",
@@ -122832,6 +122806,32 @@
       "effects": [
         "Tokens"
       ]
+    },
+    "2fd1cfc5-fbcd-4d31-ba8b-759d8c41b435": {
+      "name": "Bounty Hunter",
+      "rating": 1,
+      "label": "",
+      "scryfallId": "98319fd3-0aad-4fc3-bb83-3c027d0ed652",
+      "effects": [
+        "Removal"
+      ],
+      "reviewedAt": "2026-09-08T12:45:12.7350724+00:00"
+    },
+    "3da87e58-6a4b-48c3-873c-bc654277d4df": {
+      "name": "Drowned",
+      "rating": 1,
+      "label": "",
+      "scryfallId": "92debe15-70c2-4d91-9fdc-f85c05ceef1d",
+      "effects": [],
+      "reviewedAt": "2026-09-04T15:08:02.1187024+00:00"
+    },
+    "6698b059-f1ed-4023-9d44-fbdf39fb159a": {
+      "name": "Grave Robbers",
+      "rating": 1,
+      "label": "",
+      "scryfallId": "a131605a-f646-4745-a1e4-48d155a3d94f",
+      "effects": [],
+      "reviewedAt": "2026-09-04T15:07:17.3329665+00:00"
     }
   }
 }
