@@ -4147,7 +4147,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "5dbc1e48-b148-41a5-b0aa-50aaa7d0d5e8",
-      "effects": []
+      "effects": [
+        "Pacify"
+      ]
     },
     "273f5483-b67e-4dd6-bba8-c0a047fa34d7": {
       "name": "Crackle with Power",
@@ -5434,7 +5436,9 @@
       "rating": 4,
       "label": "",
       "scryfallId": "5d83e4c7-dc4a-4cbe-b43b-a34c47927e5c",
-      "effects": []
+      "effects": [
+        "Pacify"
+      ]
     },
     "7237d607-2613-4786-96d6-55792c2e02b9": {
       "name": "Dragon's Fire",
@@ -5798,7 +5802,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "475e28bb-1333-45e1-b6fd-83121c2f1ab9",
-      "effects": []
+      "effects": [
+        "Pacify"
+      ]
     },
     "b6f8cc3b-b8f1-4b1a-8768-eddcb0631d80": {
       "name": "Eater of Virtue",
@@ -6981,7 +6987,8 @@
       "label": "",
       "scryfallId": "017a5dbf-5773-448d-abf3-9a3d42bde9e5",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Pacify"
       ]
     },
     "a23293cf-4352-4ce6-8a68-3b30f908e137": {
@@ -7213,7 +7220,8 @@
       "label": "",
       "scryfallId": "04cb4e4e-8275-4132-8f1a-84b486725400",
       "effects": [
-        "Removal"
+        "Removal",
+        "Pacify"
       ]
     },
     "50463946-1ce3-4ff0-ad68-2fb87adbe2fd": {
@@ -8751,7 +8759,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "50088a60-642b-47ed-a289-ef0b617b688f",
-      "effects": []
+      "effects": [
+        "Pacify"
+      ]
     },
     "d4a9d63a-5a8a-4f51-9e49-43d6dc3234b1": {
       "name": "Greedy Freebooter",
@@ -8989,7 +8999,8 @@
       "label": "",
       "scryfallId": "e7429a5b-5579-4c4e-89ff-ee7f43db37e4",
       "effects": [
-        "Tokens"
+        "Tokens",
+        "Pacify"
       ]
     },
     "d827575f-e364-4a20-887e-3091e5501a4f": {
@@ -9724,7 +9735,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "02e0cbc9-fc3f-45f8-80d3-a321ccb82f1f",
-      "effects": []
+      "effects": [
+        "Pacify"
+      ]
     },
     "8c0a6ac1-b1cc-405a-95fb-f06b7fecbb54": {
       "name": "Icequake",
@@ -9742,9 +9755,7 @@
       "rating": 4,
       "label": "",
       "scryfallId": "26b0e68a-9d4e-42ea-8dac-c47cbed0c6ad",
-      "effects": [
-        "Pacify"
-      ]
+      "effects": []
     },
     "3608f1f7-8dc5-4dd1-ae91-c830e1de9529": {
       "name": "Icy Manipulator",
@@ -9965,7 +9976,7 @@
       "scryfallId": "3362ade8-d585-40be-8486-382cad6efaf8",
       "effects": [
         "Tokens",
-        "Protection"
+        "Pacify"
       ]
     },
     "915b75d1-b5e3-4aca-a54c-beaccef0a2e4": {
@@ -10866,7 +10877,8 @@
       "scryfallId": "2b604451-4f6c-4cfa-8d3a-01f18d01d88f",
       "effects": [
         "Tokens",
-        "Steal"
+        "Steal",
+        "Pacify"
       ]
     },
     "5d748bce-dff8-46fa-a3d1-633863b7bbff": {
@@ -10964,7 +10976,8 @@
       "label": "",
       "scryfallId": "0ea77f6d-9e1b-479f-bc1b-8d2474ddf46a",
       "effects": [
-        "Tokens"
+        "Tokens",
+        "Pacify"
       ]
     },
     "1ebf2142-f171-40cd-8143-15f50084b707": {
@@ -11951,7 +11964,8 @@
         "Ramp",
         "CardAdvantage",
         "Burn",
-        "ManaFixing"
+        "ManaFixing",
+        "Pacify"
       ]
     },
     "2a3b29c3-f69d-4671-8907-600d21528153": {
@@ -14913,7 +14927,8 @@
       "label": "",
       "scryfallId": "fe4aceba-f386-457c-bc68-6382eda46754",
       "effects": [
-        "Filter"
+        "Filter",
+        "Pacify"
       ]
     },
     "e88a2b71-c90d-4e16-99a3-93d11fe7a968": {
@@ -16171,7 +16186,6 @@
       "label": "",
       "scryfallId": "0b59c75b-d8f8-4f95-9030-ed73c67d988e",
       "effects": [
-        "Pacify",
         "Mill"
       ]
     },
@@ -16903,7 +16917,8 @@
         "RemovePermanent",
         "Ramp",
         "CardAdvantage",
-        "Burn"
+        "Burn",
+        "Pacify"
       ]
     },
     "11765eaf-87a1-48bd-90c1-7a5f21be5918": {
@@ -19590,7 +19605,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "c14d9fc0-bfbf-4359-93bf-5e53466965d6",
-      "effects": []
+      "effects": [
+        "Pacify"
+      ]
     },
     "b95f704d-96b9-437e-8c49-aba874139e12": {
       "name": "Sudden Edict",
@@ -20375,7 +20392,8 @@
       "effects": [
         "Tokens",
         "RemovePermanent",
-        "Ramp"
+        "Ramp",
+        "Pacify"
       ]
     },
     "1ed9e351-0000-4b75-8ecb-d15bd88df68a": {
@@ -20707,7 +20725,6 @@
       "scryfallId": "44f3e141-03a4-482e-88c6-cc97849f80e7",
       "effects": [
         "Filter",
-        "Pacify",
         "Mill"
       ]
     },
@@ -21547,7 +21564,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "11b8d352-d282-489a-9c34-cdc127173d17",
-      "effects": []
+      "effects": [
+        "Pacify"
+      ]
     },
     "fd335b2f-e6a2-45ac-949e-a67278b21cb6": {
       "name": "Tinybones, Bauble Burglar",
@@ -21665,8 +21684,7 @@
       "label": "",
       "scryfallId": "15de3307-137c-4055-add8-acd10f03fb46",
       "effects": [
-        "Ramp",
-        "Pacify"
+        "Ramp"
       ]
     },
     "fffcb71f-e802-436e-917d-eaa6607ab74f": {
@@ -22598,7 +22616,8 @@
       "label": "",
       "scryfallId": "8a6f90b3-450c-490a-b6d0-2393c4646c85",
       "effects": [
-        "Counter"
+        "Counter",
+        "Pacify"
       ]
     },
     "fb4d99c2-daec-430a-9ca2-5a178a96618b": {
@@ -23597,7 +23616,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "140cd8bd-b74d-4cb1-b78f-8de3cbd878ff",
-      "effects": []
+      "effects": [
+        "Pacify"
+      ]
     },
     "0a07a676-890f-49a2-9a2d-17d7b1dc6868": {
       "name": "Wight",
@@ -24384,7 +24405,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "1b4fc3c3-6fc5-4e9b-8fe2-91d3889c9558",
-      "effects": []
+      "effects": [
+        "Pacify"
+      ]
     },
     "c07340bb-04b6-4a80-9999-727b8ab3534d": {
       "name": "Éomer of the Riddermark",
