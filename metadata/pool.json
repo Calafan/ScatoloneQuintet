@@ -19312,7 +19312,9 @@
       "rating": 4,
       "label": "",
       "scryfallId": "16779471-4636-4a10-9c6a-3eb5fac405ef",
-      "effects": [],
+      "effects": [
+        "Pacify"
+      ],
       "reviewedAt": "2026-09-04T14:16:06.2327375+00:00"
     },
     "0004ebd0-dfd6-4276-b4a6-de0003e94237": {
@@ -19927,7 +19929,8 @@
       "label": "",
       "scryfallId": "83719626-3ff8-4566-9911-88212e753c69",
       "effects": [
-        "Buff"
+        "Buff",
+        "Pacify"
       ],
       "reviewedAt": "2026-09-10T15:31:10.2315438+00:00"
     },
@@ -19974,7 +19977,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "fbdaca43-a5be-43e3-8dd9-3a5f2cd8f0d0",
-      "effects": []
+      "effects": [
+        "Pacify"
+      ]
     },
     "864d9db7-34ca-4440-8d6d-096f9eddedd4": {
       "name": "Surge Engine",
@@ -21415,7 +21420,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "59a9f3f5-c80f-47a4-bf84-b7262437017f",
-      "effects": [],
+      "effects": [
+        "Pacify"
+      ],
       "reviewedAt": "2026-09-08T10:44:36.1338681+00:00"
     },
     "d0be5969-0442-4557-a5fc-bee56e1835c2": {
