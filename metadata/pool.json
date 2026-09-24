@@ -160,9 +160,7 @@
       "rating": 3,
       "label": "",
       "scryfallId": "68f91092-b679-46c1-9f0c-3b286ee1d02f",
-      "effects": [
-        "Tokens"
-      ]
+      "effects": []
     },
     "a361fdd1-7f97-4aed-8e24-ab2a03387f73": {
       "name": "Adult Gold Dragon",
@@ -187,7 +185,6 @@
       "label": "",
       "scryfallId": "2026190a-1463-4b55-923c-bc00c85ef3e0",
       "effects": [
-        "Tokens",
         "Bounce"
       ]
     },
@@ -395,9 +392,7 @@
       "rating": 3,
       "label": "",
       "scryfallId": "26f9ebbe-3791-4d19-88d2-d5de95faff48",
-      "effects": [
-        "Tokens"
-      ]
+      "effects": []
     },
     "98295bdc-db58-4e1f-ad4c-63092aea207e": {
       "name": "Allosaurus Shepherd",
@@ -1648,9 +1643,7 @@
       "rating": 4,
       "label": "",
       "scryfallId": "08ff764d-2c0d-4599-a22a-6a64766dad3a",
-      "effects": [
-        "Tokens"
-      ]
+      "effects": []
     },
     "8b67d192-9a05-4a47-82ae-5fc4b7834d88": {
       "name": "Berserk",
@@ -2532,7 +2525,6 @@
       "label": "",
       "scryfallId": "3257715a-5232-4352-b984-e5a8483a3816",
       "effects": [
-        "Tokens",
         "CardAdvantage",
         "Buff",
         "Sacrifice"
@@ -2883,9 +2875,7 @@
       "rating": 3,
       "label": "",
       "scryfallId": "640f0f9a-926d-422a-84d4-14ea0a76533c",
-      "effects": [
-        "Tokens"
-      ]
+      "effects": []
     },
     "5d950fd4-8956-4b1a-ab0f-ab31bcffce4e": {
       "name": "Callous Inspector",
@@ -5580,9 +5570,7 @@
       "rating": 3,
       "label": "",
       "scryfallId": "049c8129-07a6-4761-85f2-e3ed859d818b",
-      "effects": [
-        "Tokens"
-      ]
+      "effects": []
     },
     "383e9005-5869-4d1d-917d-30e5f214fbd9": {
       "name": "Drop of Honey",
@@ -5901,9 +5889,7 @@
       "rating": 3,
       "label": "",
       "scryfallId": "37f79ba7-7b65-4387-b498-f770816ce8dd",
-      "effects": [
-        "Tokens"
-      ]
+      "effects": []
     },
     "281ea9b6-055a-4274-90b3-c74311a6f863": {
       "name": "Eldritch Pact",
@@ -6681,7 +6667,6 @@
       "label": "",
       "scryfallId": "506fde34-f9a8-4e37-bde3-f1b087fd85a3",
       "effects": [
-        "Tokens",
         "Removal",
         "Regrowth"
       ]
@@ -7755,7 +7740,6 @@
       "label": "",
       "scryfallId": "0d85d8c7-07b2-4577-8c62-7a34dca73ad8",
       "effects": [
-        "Tokens",
         "ManaFixing"
       ]
     },
@@ -7981,9 +7965,7 @@
       "rating": 3,
       "label": "",
       "scryfallId": "e7ff8345-227c-43b4-bed5-af3a34c0a990",
-      "effects": [
-        "Tokens"
-      ]
+      "effects": []
     },
     "2dbe384b-71c4-43f9-be35-ba2894021b85": {
       "name": "Garruk's Harbinger",
@@ -8619,9 +8601,7 @@
       "rating": 3,
       "label": "",
       "scryfallId": "25850394-05ff-4600-8d4b-819605658dee",
-      "effects": [
-        "Tokens"
-      ]
+      "effects": []
     },
     "dc600c06-8239-409e-b53d-20f813a3f5e7": {
       "name": "Grand Crescendo",
@@ -8826,7 +8806,6 @@
       "label": "",
       "scryfallId": "1a13af89-95aa-4bc2-9ec4-a5ddf71639b0",
       "effects": [
-        "Tokens",
         "Buff"
       ]
     },
@@ -9532,7 +9511,6 @@
       "label": "",
       "scryfallId": "3cdeebd8-28d4-42a5-9a99-3c72771359ea",
       "effects": [
-        "Tokens",
         "Ramp",
         "Tutor",
         "ManaFixing"
@@ -11083,7 +11061,6 @@
       "label": "",
       "scryfallId": "06b25752-26be-4189-bc8b-828db6f0e612",
       "effects": [
-        "Tokens",
         "ManaFixing"
       ]
     },
@@ -11362,9 +11339,7 @@
       "rating": 3,
       "label": "",
       "scryfallId": "3c4d8f36-461f-48a6-a4e4-9ddfb388de19",
-      "effects": [
-        "Tokens"
-      ]
+      "effects": []
     },
     "f224db3d-cdd2-43f2-b625-4b861efa6449": {
       "name": "Lier, Disciple of the Drowned",
@@ -11938,7 +11913,6 @@
       "label": "",
       "scryfallId": "0cce08e8-340b-4a67-9884-4cbf01d63790",
       "effects": [
-        "Tokens",
         "Counter"
       ]
     },
@@ -13598,7 +13572,8 @@
       "label": "",
       "scryfallId": "076213d7-49d9-40a8-93d5-bf1429a8862a",
       "effects": [
-        "Reanimate"
+        "Reanimate",
+        "Steal"
       ]
     },
     "642bbdf6-9a8c-4158-83c8-d59feb49101b": {
@@ -13718,9 +13693,7 @@
       "rating": 3,
       "label": "",
       "scryfallId": "40895b38-092a-42ed-a152-cede1316eed5",
-      "effects": [
-        "Tokens"
-      ]
+      "effects": []
     },
     "be4499e6-616a-4c11-b37e-9201d2492682": {
       "name": "Offer Immortality",
@@ -13811,7 +13784,6 @@
       "label": "",
       "scryfallId": "214a778a-61d5-4bbe-b0e1-e9eb542f441d",
       "effects": [
-        "Tokens",
         "Regrowth"
       ]
     },
@@ -14248,7 +14220,6 @@
       "label": "",
       "scryfallId": "02cf5079-9da8-470d-8eea-00d6aac68d04",
       "effects": [
-        "Tokens",
         "Regrowth"
       ]
     },
@@ -14456,9 +14427,7 @@
       "rating": 3,
       "label": "",
       "scryfallId": "21049fee-a748-4856-99ae-3a225a168532",
-      "effects": [
-        "Tokens"
-      ]
+      "effects": []
     },
     "295fe873-ecb5-4d5e-a73c-3af6c478afc5": {
       "name": "Perch Protection",
@@ -14755,7 +14724,6 @@
       "label": "",
       "scryfallId": "6831de3d-b8d8-4c44-84e2-dbde719d733d",
       "effects": [
-        "Tokens",
         "Removal",
         "Burn"
       ]
@@ -15210,9 +15178,7 @@
       "rating": 3,
       "label": "",
       "scryfallId": "8347f2e8-ef70-4879-860a-12f7cab25902",
-      "effects": [
-        "Tokens"
-      ]
+      "effects": []
     },
     "e3c8e552-d315-486d-a176-813b3a300174": {
       "name": "Professor's Warning",
@@ -15939,6 +15905,7 @@
       "scryfallId": "182520ae-d98f-4ef0-ad32-252f932f5d51",
       "effects": [
         "Ramp",
+        "Steal",
         "Tutor",
         "Mill"
       ]
@@ -16045,7 +16012,6 @@
       "label": "",
       "scryfallId": "59cb9275-07f2-46b1-a64b-2971390a35de",
       "effects": [
-        "Tokens",
         "CardAdvantage",
         "Sacrifice"
       ]
@@ -16549,9 +16515,7 @@
       "rating": 3,
       "label": "",
       "scryfallId": "913e09a2-2eaf-4103-b266-9c70cb279896",
-      "effects": [
-        "Tokens"
-      ]
+      "effects": []
     },
     "c7031047-5109-482f-b2e9-14800b9279bf": {
       "name": "Riders of the Mark",
@@ -16832,9 +16796,7 @@
       "rating": 3,
       "label": "",
       "scryfallId": "2498b591-4a80-459f-a639-fe4cf8880be2",
-      "effects": [
-        "Tokens"
-      ]
+      "effects": []
     },
     "48fe0f52-1676-49d5-acf6-5476081e8e1b": {
       "name": "Rorix Bladewing",
@@ -16947,7 +16909,6 @@
       "label": "",
       "scryfallId": "0a968eac-2840-41ba-b7de-3182964d4913",
       "effects": [
-        "Tokens",
         "Reanimate"
       ]
     },
@@ -17229,9 +17190,7 @@
       "rating": 4,
       "label": "",
       "scryfallId": "269ddd84-fdc4-4c94-b183-32ecec56967c",
-      "effects": [
-        "Tokens"
-      ]
+      "effects": []
     },
     "b81a748b-f7a6-4ec4-8b18-40a1819745f6": {
       "name": "Sanguine Syphoner",
@@ -18431,9 +18390,7 @@
       "rating": 3,
       "label": "",
       "scryfallId": "20c76db5-4d24-4eb5-b356-f544b6866008",
-      "effects": [
-        "Tokens"
-      ]
+      "effects": []
     },
     "0c77d37e-791c-415e-b369-55e93147ec34": {
       "name": "Skizzik",
@@ -21514,7 +21471,6 @@
       "label": "",
       "scryfallId": "044902aa-29a1-4627-a4fc-0beccd2a10b3",
       "effects": [
-        "Tokens",
         "ManaFixing"
       ]
     },
@@ -21597,7 +21553,6 @@
       "label": "",
       "scryfallId": "432f2b57-4e7e-4717-8707-8cdbc1aae154",
       "effects": [
-        "Tokens",
         "Disenchant"
       ]
     },
@@ -21925,9 +21880,7 @@
       "rating": 3,
       "label": "",
       "scryfallId": "081d4375-1d86-4fb1-9ccc-198dfbfacf8e",
-      "effects": [
-        "Tokens"
-      ]
+      "effects": []
     },
     "6f8a4998-35c7-4e30-a9e7-7d4ec933238a": {
       "name": "Triumph of Saint Katherine",
@@ -23874,7 +23827,6 @@
       "label": "",
       "scryfallId": "05500b14-d36d-49b3-82b0-d0c533d4ec00",
       "effects": [
-        "Tokens",
         "Filter",
         "Sacrifice"
       ]
@@ -23957,9 +23909,7 @@
       "rating": 4,
       "label": "",
       "scryfallId": "021d8afe-b3da-411c-aa12-d482f9801554",
-      "effects": [
-        "Tokens"
-      ]
+      "effects": []
     },
     "b166b670-febc-4821-855e-f8d465644c03": {
       "name": "Worn Powerstone",
@@ -24025,9 +23975,7 @@
       "rating": 3,
       "label": "",
       "scryfallId": "cc9b30e0-3934-4e4c-bdd9-5b7696b45948",
-      "effects": [
-        "Tokens"
-      ]
+      "effects": []
     },
     "8d35cef8-a52d-45fb-8f5f-cccea26826d0": {
       "name": "Wyll's Reversal",
