@@ -435,9 +435,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "aa8f58f1-4843-4926-b3c4-98898201c216",
-      "effects": [
-        "Buff"
-      ]
+      "effects": []
     },
     "21f45043-5419-4019-8b6c-e5294bd5f549": {
       "name": "Acidic Slime",
@@ -980,7 +978,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "783da808-6698-4e55-9fac-430a6effe2b1",
-      "effects": []
+      "effects": [
+        "Bounce"
+      ]
     },
     "be89a032-8ade-4048-b95d-76e958dca330": {
       "name": "Aether Herder",
@@ -1209,7 +1209,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "04a19129-312b-47e3-abed-1dc39e432921",
-      "effects": []
+      "effects": [
+        "Bounce"
+      ]
     },
     "47c685b1-6e1e-4e08-8a52-9da6902df113": {
       "name": "Aethersquall Ancient",
@@ -3501,7 +3503,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "062ee892-cce7-42bd-97c7-032cec61faca",
-      "effects": []
+      "effects": [
+        "Discard"
+      ]
     },
     "f041b37e-25af-4aff-b7e3-f07a4d5c6f9a": {
       "name": "Appetite for the Unnatural",
@@ -6038,8 +6042,7 @@
       "label": "",
       "scryfallId": "03dea775-bbb3-4e9c-8514-0605b5ad2e8b",
       "effects": [
-        "Tokens",
-        "Buff"
+        "Tokens"
       ]
     },
     "6c29add6-8524-4a33-9f2e-f792032dd6cd": {
@@ -7996,9 +7999,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "68f9dd25-cbf0-4b00-ad7f-34afdbb7cb6c",
-      "effects": [
-        "Buff"
-      ]
+      "effects": []
     },
     "b9ed0081-7eda-4ff9-ac2d-bcdc29a22d9f": {
       "name": "Belltower Sphinx",
@@ -8282,8 +8283,7 @@
       "label": "",
       "scryfallId": "0e850205-d010-49af-b68b-262360751b70",
       "effects": [
-        "Tokens",
-        "Buff"
+        "Tokens"
       ]
     },
     "30812870-87c0-469c-95a5-811d5a181e72": {
@@ -11453,7 +11453,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "15060db3-65bb-404b-9fa1-71297ef23621",
-      "effects": []
+      "effects": [
+        "Discard"
+      ]
     },
     "94dc9937-91e3-4c38-a544-c1cdb6989222": {
       "name": "Brain Pry",
@@ -11566,9 +11568,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "059723d4-94dd-460e-8f2b-8e07ced8be50",
-      "effects": [
-        "Buff"
-      ]
+      "effects": []
     },
     "13f63b98-40b0-499b-bb5d-640b95a6ea1c": {
       "name": "Branching Bolt",
@@ -12784,9 +12784,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "17755d1b-3a56-4362-a534-85b35ceb1802",
-      "effects": [
-        "Buff"
-      ]
+      "effects": []
     },
     "893fed41-c144-433f-af88-bc7d419b7fb3": {
       "name": "Burnished Hart",
@@ -13944,7 +13942,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "112c47e4-5ff8-4ea0-ac14-956e4b94119a",
-      "effects": []
+      "effects": [
+        "Discard"
+      ]
     },
     "f8f4fc60-725d-46d8-8e8f-e68e00d20589": {
       "name": "Castle Ardenvale",
@@ -18281,9 +18281,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "0d91e61d-e3bf-4ddc-9f01-18b1abe35a61",
-      "effects": [
-        "Buff"
-      ]
+      "effects": []
     },
     "0ad44727-41c3-471c-b038-1bf43c5f296a": {
       "name": "Core Prowler",
@@ -25283,7 +25281,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "17db6ef5-1aa9-4b8c-b0b7-d6668a2347a1",
-      "effects": []
+      "effects": [
+        "Discard"
+      ]
     },
     "ab94d8f7-f811-436a-9a22-9a12bd929e98": {
       "name": "Doomgape",
@@ -27780,8 +27780,7 @@
       "label": "",
       "scryfallId": "089b6e6f-c178-4612-866f-da9cbc01b442",
       "effects": [
-        "Tokens",
-        "Buff"
+        "Tokens"
       ]
     },
     "42d86827-6459-42fc-86b6-6eb055604c36": {
@@ -37178,7 +37177,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "8b118200-55e0-4d06-9e7e-ecde2814d24e",
-      "effects": []
+      "effects": [
+        "Discard"
+      ]
     },
     "3bf20e68-0e19-4242-bfba-a8a1bb244685": {
       "name": "Ghastly Conscription",
@@ -43544,8 +43545,7 @@
       "label": "",
       "scryfallId": "beca3e00-2c04-41be-98d1-59bc2b5f05e4",
       "effects": [
-        "Tokens",
-        "Buff"
+        "Tokens"
       ]
     },
     "8fda6c20-04dc-4b60-9313-896a032ee5cb": {
@@ -44582,9 +44582,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "5fb84323-b6f7-43ea-baf1-3e29b33b680d",
-      "effects": [
-        "Buff"
-      ]
+      "effects": []
     },
     "a484120f-1027-4fc0-b4ea-cba94c262203": {
       "name": "Heretic's Punishment",
@@ -46140,8 +46138,7 @@
       "label": "",
       "scryfallId": "6a5a6f7b-149d-46d3-9814-d38a302db17c",
       "effects": [
-        "Removal",
-        "Buff"
+        "Removal"
       ]
     },
     "5ab5b82a-83e1-44d7-b8c3-9cd7accc1ca4": {
@@ -46290,7 +46287,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "bba50e47-2417-447f-b334-50ef0faecfae",
-      "effects": []
+      "effects": [
+        "Buff"
+      ]
     },
     "d1dde190-8124-4590-9507-801ea4c8cde3": {
       "name": "Hungering Hydra",
@@ -46320,9 +46319,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "22e3d351-62b3-4c89-bbcf-b50684d977a4",
-      "effects": [
-        "Buff"
-      ]
+      "effects": []
     },
     "f80c8533-b29c-49ae-a241-ef4b73a9e327": {
       "name": "Hungry Spriggan",
@@ -46745,9 +46742,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "0409a15a-7cf6-43e5-958c-d23da4304f29",
-      "effects": [
-        "Buff"
-      ]
+      "effects": []
     },
     "d33aa11b-011b-4d12-85a9-4f956153fb1d": {
       "name": "Ichor Explosion",
@@ -47724,7 +47719,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "356793ec-3285-4bda-9b8e-23bf2d60f124",
-      "effects": []
+      "effects": [
+        "Buff"
+      ]
     },
     "363edb16-009f-4cc2-99e3-2b15db84e7af": {
       "name": "Incubation // Incongruity",
@@ -47876,7 +47873,6 @@
       "label": "",
       "scryfallId": "07015524-874f-4856-a5c1-3148bd126886",
       "effects": [
-        "Buff",
         "Sacrifice"
       ]
     },
@@ -48561,9 +48557,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "010bd0f4-994c-4793-99b3-f64f6f87fe67",
-      "effects": [
-        "Buff"
-      ]
+      "effects": []
     },
     "12f252b1-d3da-43af-ab31-0c8a6807c3c4": {
       "name": "Integrity // Intervention",
@@ -48728,9 +48722,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "08c445ea-6a4d-4d51-a38f-b423aa78006c",
-      "effects": [
-        "Buff"
-      ]
+      "effects": []
     },
     "85a59833-b661-4599-a5d1-042dee033617": {
       "name": "Intrusive Packbeast",
@@ -51510,9 +51502,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "da42df13-eded-48e2-ad1a-ff74d718ce3c",
-      "effects": [
-        "Buff"
-      ]
+      "effects": []
     },
     "3b0694ff-aa92-4a2e-a366-69fdf5a57c4b": {
       "name": "Kazuul's Toll Collector",
@@ -52547,7 +52537,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "88496096-fd9a-451a-85d9-31ccc3580623",
-      "effects": []
+      "effects": [
+        "Discard"
+      ]
     },
     "b365a7dd-fed1-40f8-9544-2b5bc1af761c": {
       "name": "Kitesail Scout",
@@ -53979,8 +53971,7 @@
       "label": "",
       "scryfallId": "9bd6ae71-29de-45d6-97bb-f60e6f821d6e",
       "effects": [
-        "CardAdvantage",
-        "Buff"
+        "CardAdvantage"
       ]
     },
     "f1b1cf99-b44c-4bcc-b0ed-98f69e66c54a": {
@@ -55472,7 +55463,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "98370735-5303-40d4-9e80-cdb40dee18e2",
-      "effects": []
+      "effects": [
+        "Discard"
+      ]
     },
     "b14d05c0-fe10-4079-a90e-0aea1a8fd375": {
       "name": "Lifeblood Hydra",
@@ -65473,7 +65466,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "5091658c-0314-42ee-87d8-95d3f457c4ab",
-      "effects": []
+      "effects": [
+        "Discard"
+      ]
     },
     "916bd025-c44f-49c9-8d76-4b7b2f9a8ba3": {
       "name": "Night of Souls' Betrayal",
@@ -68067,8 +68062,7 @@
       "label": "",
       "scryfallId": "065b8f9e-3b0c-4d8f-bdf2-7aada41e114b",
       "effects": [
-        "Discard",
-        "Buff"
+        "Discard"
       ]
     },
     "439f7ac8-19f0-4227-82a7-48294adc2114": {
@@ -70145,8 +70139,7 @@
       "label": "",
       "scryfallId": "0a403dbd-c127-4e3f-892f-f0950d92228a",
       "effects": [
-        "Removal",
-        "Buff"
+        "Removal"
       ]
     },
     "d5b33c1a-6e15-4a08-b834-38b0465b0cfb": {
@@ -70685,9 +70678,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "11f42791-070a-4e3a-91c8-b801980abb76",
-      "effects": [
-        "Buff"
-      ]
+      "effects": []
     },
     "e7a13f43-1171-4808-9964-c5ad424027cb": {
       "name": "Phantom Ninja",
@@ -71051,7 +71042,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "416283f4-7dc9-4a82-93e4-abdd26f3de37",
-      "effects": []
+      "effects": [
+        "Discard"
+      ]
     },
     "7b599b4d-95bc-4ed2-a167-84a697944747": {
       "name": "Pieces of the Puzzle",
@@ -72197,8 +72190,7 @@
       "label": "",
       "scryfallId": "23c33648-fb0e-4460-aae6-f3793d86e689",
       "effects": [
-        "Tokens",
-        "Buff"
+        "Tokens"
       ]
     },
     "3c75234b-e367-46da-8454-be4315f9b9de": {
@@ -74801,7 +74793,6 @@
       "label": "",
       "scryfallId": "4f59e9a3-3ee9-431d-8d3e-85bd8ffab4d7",
       "effects": [
-        "Buff",
         "Burn"
       ]
     },
@@ -76335,7 +76326,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "c6297df2-c67a-4054-9617-5c6202c76de8",
-      "effects": []
+      "effects": [
+        "Discard"
+      ]
     },
     "dd6cec11-5c66-4f0e-a12f-9b483a09a777": {
       "name": "Reap What Is Sown",
@@ -80733,9 +80726,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "f7de412a-9731-4bfc-8fbc-c95988a3dd70",
-      "effects": [
-        "Buff"
-      ]
+      "effects": []
     },
     "003c48d4-0303-4970-8637-47ae060385aa": {
       "name": "Safewright Quest",
@@ -80775,8 +80766,7 @@
       "label": "",
       "scryfallId": "36d22296-8eb6-4367-bb21-47b20ad700d9",
       "effects": [
-        "CardAdvantage",
-        "Buff"
+        "CardAdvantage"
       ]
     },
     "bdbf70da-af38-4827-9b8b-39f553ebd34a": {
@@ -81972,7 +81962,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "b5346ed7-2e17-4d8c-9c4b-b5efdd26380d",
-      "effects": []
+      "effects": [
+        "Buff"
+      ]
     },
     "0acbc9a6-0de0-4096-b35c-1a586a1312ea": {
       "name": "Savage Surge",
@@ -85600,9 +85592,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "c1b1b66e-dd06-41ef-9f1a-3672829ac377",
-      "effects": [
-        "Buff"
-      ]
+      "effects": []
     },
     "e9bdb194-745d-4abb-9312-a65a68c40a18": {
       "name": "Shielding Plax",
@@ -87293,7 +87283,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "305a3feb-df49-486c-a3b4-ff2721d60019",
-      "effects": []
+      "effects": [
+        "Discard"
+      ]
     },
     "745efa76-7063-4971-9d1b-b2b4cb336a57": {
       "name": "Sin Prodder",
@@ -90591,7 +90583,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "edae2c29-1418-477c-9efe-e53fa6c7fe93",
-      "effects": []
+      "effects": [
+        "Discard"
+      ]
     },
     "dbc2b0f9-73e8-41b7-9d64-07f86fbc5d6c": {
       "name": "Specter's Shroud",
@@ -93716,9 +93710,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "6da2b004-97e5-41ab-98b0-3637cb32a35a",
-      "effects": [
-        "Buff"
-      ]
+      "effects": []
     },
     "159098f1-172f-408e-a962-86763a29a8e1": {
       "name": "Storrev, Devkarin Lich",
@@ -98166,9 +98158,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "3b619bda-12ff-4390-bda7-af0a44e5f955",
-      "effects": [
-        "Buff"
-      ]
+      "effects": []
     },
     "9b7f1d05-707c-4ed3-9f0e-8ced1232c2ee": {
       "name": "Thalia, Guardian of Thraben",
@@ -99356,7 +99346,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "27bf5e61-87d4-446e-8583-cece83d3aacd",
-      "effects": []
+      "effects": [
+        "Discard"
+      ]
     },
     "f31bb2b4-061c-4ba6-9f91-374f40fe6b05": {
       "name": "Thoughtbind",
@@ -100196,7 +100188,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "09521f23-52d6-482d-9f3b-c4d12fcc08cc",
-      "effects": []
+      "effects": [
+        "Discard"
+      ]
     },
     "19a39cc5-2134-4dee-932c-81389806c57b": {
       "name": "Tidehollow Strix",
@@ -101584,7 +101578,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "f5742910-3d0f-4710-a5f5-f7a7908833dc",
-      "effects": []
+      "effects": [
+        "Discard"
+      ]
     },
     "86f94f8e-f45e-42fc-8ad6-e9bdfaaa997d": {
       "name": "Transguild Courier",
@@ -102030,9 +102026,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "a1db2c83-41d1-4cc6-b9a3-fed504b01127",
-      "effects": [
-        "Buff"
-      ]
+      "effects": []
     },
     "c2b51295-8820-425f-a517-55231123c7de": {
       "name": "Tribute Mage",
@@ -105051,6 +105045,7 @@
       "label": "",
       "scryfallId": "4c3ae3db-c14a-4ffc-805c-a3a51da9370d",
       "effects": [
+        "Buff",
         "Sacrifice"
       ]
     },
@@ -106395,9 +106390,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "63c573fe-e74c-48ca-ad05-92f37dc466f1",
-      "effects": [
-        "Buff"
-      ]
+      "effects": []
     },
     "62204fac-a367-475c-bfb9-80a87af2d2f1": {
       "name": "Vinelasher Kudzu",
@@ -107859,8 +107852,7 @@
       "label": "",
       "scryfallId": "4124807b-15f9-46d7-8b0b-d4f1b3587d99",
       "effects": [
-        "Tokens",
-        "Buff"
+        "Tokens"
       ]
     },
     "edc6db57-3519-4649-9c4a-5cf264cce26f": {

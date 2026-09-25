@@ -5448,7 +5448,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "834b4e6a-1812-4399-8fe4-bb1686ba49ef",
-      "effects": []
+      "effects": [
+        "Buff"
+      ]
     },
     "451e8ece-7389-4d52-8bc9-450cb5e53e6a": {
       "name": "Ascend from Avernus",
@@ -9729,9 +9731,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "b41a35ef-dae1-4534-a12a-d3951b285273",
-      "effects": [
-        "Buff"
-      ]
+      "effects": []
     },
     "7d27c583-469c-42d7-a547-8c65654e9d95": {
       "name": "Biorganic Carapace",
@@ -14693,7 +14693,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "0ccdc9d7-71b5-4304-8d19-a63952e17a6b",
-      "effects": []
+      "effects": [
+        "Buff"
+      ]
     },
     "a9e59ee4-02a6-498c-82f0-f4f2ff334d65": {
       "name": "Canopy Dragon",
@@ -19042,7 +19044,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "6eba24f6-8a9c-4398-b2ab-3924b107c7b7",
-      "effects": []
+      "effects": [
+        "Buff"
+      ]
     },
     "75dcdf05-b392-4a96-98ae-5ec4cd425eee": {
       "name": "Coiling Woodworm",
@@ -25573,6 +25577,7 @@
       "label": "",
       "scryfallId": "46e101e5-2b20-48dd-aac4-15a3c32a7441",
       "effects": [
+        "Bounce",
         "Filter"
       ]
     },
@@ -26707,6 +26712,7 @@
       "label": "",
       "scryfallId": "1af4954e-c5b2-4b15-a9f9-da46202d8bf3",
       "effects": [
+        "Bounce",
         "Sacrifice"
       ]
     },
@@ -27910,8 +27916,7 @@
       "label": "",
       "scryfallId": "2bb164ab-ee63-4025-9d72-6db71b99bdd7",
       "effects": [
-        "Tokens",
-        "Buff"
+        "Tokens"
       ]
     },
     "e3473ed5-f2b2-4a41-aed9-ee37caa9d7be": {
@@ -29758,7 +29763,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "26bb65ba-d605-4b79-a700-4a08ec5a90b4",
-      "effects": []
+      "effects": [
+        "Buff"
+      ]
     },
     "b783246a-e00b-4cdf-9111-fe0afb896a8e": {
       "name": "Easy Prey",
@@ -36118,8 +36125,7 @@
       "label": "",
       "scryfallId": "c7f05d49-dfc1-4dad-89e0-07174330d98e",
       "effects": [
-        "CardAdvantage",
-        "Buff"
+        "CardAdvantage"
       ]
     },
     "5bd806e7-3f9b-4bb4-9708-f87a578f531e": {
@@ -45993,8 +45999,7 @@
       "label": "",
       "scryfallId": "838f4cde-c428-44ed-b7e8-e330e228a304",
       "effects": [
-        "Removal",
-        "Buff"
+        "Removal"
       ]
     },
     "0089b07c-7f47-4a9a-9fb7-cc38ec9d7bcd": {
@@ -49070,8 +49075,7 @@
       "label": "",
       "scryfallId": "37cad74a-df5c-467f-b8f6-7e8497d37d83",
       "effects": [
-        "Tokens",
-        "Buff"
+        "Tokens"
       ]
     },
     "d95d0b24-2e6f-4f61-8668-26effeaaf2fb": {
@@ -52318,8 +52322,7 @@
       "scryfallId": "00255899-aaaf-46c6-8037-bd0e3c06250c",
       "effects": [
         "Tokens",
-        "Reanimate",
-        "Buff"
+        "Reanimate"
       ]
     },
     "f1acb469-9d02-44e6-8c09-8b4157551b2c": {
@@ -64923,7 +64926,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "74f12c23-5c15-4ae6-8f4d-c5e6c1878817",
-      "effects": []
+      "effects": [
+        "Buff"
+      ]
     },
     "d2605782-09f1-4d52-b3e7-5ec1442bd9b5": {
       "name": "Micromancer",
@@ -66259,7 +66264,9 @@
       "rating": 2,
       "label": "",
       "scryfallId": "4c6c7a43-c3d1-450e-834a-54e1b9def1cd",
-      "effects": []
+      "effects": [
+        "Bounce"
+      ]
     },
     "eaffdf95-8e20-408d-99fa-3adc9e19523d": {
       "name": "Misleading Signpost",
@@ -66501,8 +66508,7 @@
       "label": "",
       "scryfallId": "a55a5edb-edf3-4f6c-90b8-1780b1e73997",
       "effects": [
-        "Tokens",
-        "Buff"
+        "Tokens"
       ]
     },
     "3dc364f3-3094-4660-80ca-9418588c7fde": {
@@ -69365,9 +69371,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "15bab0bd-3467-429f-897a-188e11ff101e",
-      "effects": [
-        "Buff"
-      ]
+      "effects": []
     },
     "b1e76ce9-6f39-419c-99e3-ede2dfa4858c": {
       "name": "Nebelgast Beguiler",
@@ -74217,9 +74221,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "be398100-89e2-432b-8017-74fb7e4dbc26",
-      "effects": [
-        "Buff"
-      ]
+      "effects": []
     },
     "34a7026f-c6ca-4d89-8364-fd60fb613634": {
       "name": "Patch Up",
@@ -75364,8 +75366,7 @@
       "label": "",
       "scryfallId": "7257c615-9bfd-477b-822c-accc5f361726",
       "effects": [
-        "Tokens",
-        "Buff"
+        "Tokens"
       ]
     },
     "47148b5d-3850-4614-822e-6ef2755996f8": {
@@ -77195,6 +77196,7 @@
       "label": "",
       "scryfallId": "8d84cb72-d0a0-4af0-aded-47e5fb7addef",
       "effects": [
+        "Bounce",
         "Steal"
       ]
     },
@@ -78541,6 +78543,7 @@
       "label": "",
       "scryfallId": "f6f86c92-c19e-4f2c-96d3-d3b05623cb00",
       "effects": [
+        "Discard",
         "Steal"
       ]
     },
@@ -82977,7 +82980,6 @@
       "label": "",
       "scryfallId": "22dde654-5bde-47f9-8e90-4f38dddc07b3",
       "effects": [
-        "Buff",
         "Protection"
       ]
     },
@@ -83412,7 +83414,8 @@
       "label": "",
       "scryfallId": "401edb61-83f1-4a8d-ae91-58b62a9ced9c",
       "effects": [
-        "Tokens"
+        "Tokens",
+        "Bounce"
       ]
     },
     "29e3a3d9-4839-44d0-ad48-159c01645a6a": {
@@ -86118,7 +86121,8 @@
       "label": "",
       "scryfallId": "d874d839-924e-4d1d-98d2-73aea61e004d",
       "effects": [
-        "Ramp"
+        "Ramp",
+        "Buff"
       ]
     },
     "57f15861-82cf-4faf-827c-9bc7f4844d2a": {
@@ -107170,6 +107174,7 @@
       "label": "",
       "scryfallId": "409087ef-8232-489c-8b98-b601bb0a47a4",
       "effects": [
+        "Discard",
         "Burn"
       ]
     },
@@ -108588,9 +108593,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "171eb68a-bce4-4518-a4d4-9ec90e92aa0b",
-      "effects": [
-        "Buff"
-      ]
+      "effects": []
     },
     "46c3a69a-4984-40b0-905f-4b0762c7ad72": {
       "name": "Titania, Nature's Force",
@@ -108774,7 +108777,9 @@
       "rating": 2,
       "label": "",
       "scryfallId": "153dfc34-767e-4df2-a1dc-4361e94d65ed",
-      "effects": []
+      "effects": [
+        "Bounce"
+      ]
     },
     "d999f2a3-5cb4-4f12-a79a-c5db0a300620": {
       "name": "Tolarian Drake",
@@ -112450,7 +112455,9 @@
       "rating": 2,
       "label": "",
       "scryfallId": "76ebb2df-8891-434e-9cd0-f25b848cb754",
-      "effects": []
+      "effects": [
+        "Bounce"
+      ]
     },
     "8ff7c8af-de9a-45f8-a9ba-98209a746891": {
       "name": "Unlucky Witness",
@@ -112996,8 +113003,7 @@
       "label": "",
       "scryfallId": "79afcfb3-7483-491c-87df-f8ce01c37eb0",
       "effects": [
-        "Tokens",
-        "Buff"
+        "Tokens"
       ]
     },
     "0e353a41-b523-4c22-9bda-d10460ba99c7": {
@@ -113360,9 +113366,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "18b1a4ee-437f-4a08-b176-8342d526143f",
-      "effects": [
-        "Buff"
-      ]
+      "effects": []
     },
     "1333d690-a6dc-4ef8-8c57-2ba16727c0a5": {
       "name": "Valkyrie Aerial Unit",
@@ -113537,9 +113541,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "b6d7adfe-0356-4d5a-b13b-5dce5f163b9e",
-      "effects": [
-        "Buff"
-      ]
+      "effects": []
     },
     "bbea8ade-a641-4132-b306-f39fe2f14311": {
       "name": "Vampire Soulcaller",
