@@ -1273,8 +1273,7 @@
       "rating": 5,
       "label": "",
       "scryfallId": "340c5799-4964-44dd-8c48-8f3f3aba5211",
-      "effects": [],
-      "reviewedAt": "2026-09-11T13:23:15.8263327+00:00"
+      "effects": []
     },
     "13ff3222-91cb-4796-a34e-899ed817694c": {
       "name": "Badlands",
@@ -2719,8 +2718,7 @@
       "scryfallId": "4d1909cd-25c1-437b-88da-af98f9386dc2",
       "effects": [
         "Ramp"
-      ],
-      "reviewedAt": "2026-09-10T15:47:30.7490905+00:00"
+      ]
     },
     "4cbfb898-e1ca-4e34-9cb2-11ba50272984": {
       "name": "Burly Breaker // Dire-Strain Demolisher",
@@ -5137,8 +5135,7 @@
       "effects": [
         "RemovePermanent",
         "Buff"
-      ],
-      "reviewedAt": "2026-09-11T19:50:15.1811444+00:00"
+      ]
     },
     "a45065e9-951a-4c6d-80b6-bd86a49f7439": {
       "name": "Dire Downdraft",
@@ -5468,8 +5465,7 @@
       "rating": 3,
       "label": "",
       "scryfallId": "d92bce20-308e-4841-aaf8-8e20698292e7",
-      "effects": [],
-      "reviewedAt": "2026-09-11T19:50:17.8924286+00:00"
+      "effects": []
     },
     "4de0ccab-bb5d-4c7c-827e-36aa1d00b182": {
       "name": "Drake Hatcher",
@@ -5672,8 +5668,7 @@
       "rating": 3,
       "label": "",
       "scryfallId": "e17c0d27-e88d-4ba9-acbb-3f916cee3d7e",
-      "effects": [],
-      "reviewedAt": "2026-09-11T19:50:32.8123557+00:00"
+      "effects": []
     },
     "d0e6203b-cef2-470f-8c79-7b139290e2d5": {
       "name": "Dystopia",
@@ -8643,8 +8638,7 @@
       "rating": 3,
       "label": "",
       "scryfallId": "2a968f01-36ef-4cf6-b1db-630c9cde2064",
-      "effects": [],
-      "reviewedAt": "2026-09-11T15:02:57.6807437+00:00"
+      "effects": []
     },
     "d22ff377-d282-4a28-9dce-96f25913dc96": {
       "name": "Grazilaxx, Illithid Scholar",
@@ -9294,8 +9288,7 @@
       "scryfallId": "60aed76e-2265-471d-8e41-1d8605603b78",
       "effects": [
         "Buff"
-      ],
-      "reviewedAt": "2026-09-10T16:07:32.332396+00:00"
+      ]
     },
     "031cfc7d-8bda-454b-b88a-15d3f5fe47e2": {
       "name": "Hired Claw",
@@ -18940,8 +18933,7 @@
       "rating": 3,
       "label": "",
       "scryfallId": "d1f3196a-fe48-446f-ab07-00c66b7816c8",
-      "effects": [],
-      "reviewedAt": "2026-09-11T21:24:59.2527098+00:00"
+      "effects": []
     },
     "c0280d66-699f-4139-828b-a0f79ae2d20d": {
       "name": "Spider-Man 2099, Miguel O'Hara",
@@ -20748,8 +20740,7 @@
       "scryfallId": "3687f487-eec1-4979-8008-5c907adafe9d",
       "effects": [
         "Ramp"
-      ],
-      "reviewedAt": "2026-09-11T13:33:57.436558+00:00"
+      ]
     },
     "4945f03b-ff99-4923-b62d-3cdb60275ef1": {
       "name": "The Elder Dragon War",

@@ -481,8 +481,7 @@
       "effects": [
         "Tokens",
         "ManaFixing"
-      ],
-      "reviewedAt": "2026-09-10T14:29:14.8501846+00:00"
+      ]
     },
     "b22de128-6dad-4e15-a547-1c9ca08df5ff": {
       "name": "Academic Dispute",
@@ -7119,8 +7118,7 @@
       "effects": [
         "Tokens",
         "Reanimate"
-      ],
-      "reviewedAt": "2026-09-11T21:48:58.6649905+00:00"
+      ]
     },
     "05c2dec2-d2f7-4036-b91f-4fccba10a8bb": {
       "name": "Back to Basics",
@@ -7206,8 +7204,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "aabbd420-b7fc-496f-9168-bad823d51d9e",
-      "effects": [],
-      "reviewedAt": "2026-09-11T13:23:20.4338432+00:00"
+      "effects": []
     },
     "33b401b1-cf94-4c7a-8a8a-426ac3d87bd0": {
       "name": "Baeloth Barrityl, Entertainer",
@@ -12977,8 +12974,7 @@
       "effects": [
         "Tokens",
         "Removal"
-      ],
-      "reviewedAt": "2026-09-05T10:30:25.5679116+00:00"
+      ]
     },
     "a90de2b8-4d71-4d0e-82b3-3b7ab194165b": {
       "name": "Brokers Charm",
@@ -13513,8 +13509,7 @@
       "scryfallId": "f324a384-7380-4f6e-bbba-fac1f2a01b5d",
       "effects": [
         "Buff"
-      ],
-      "reviewedAt": "2026-09-11T13:47:17.3238128+00:00"
+      ]
     },
     "f7493bcf-5c17-4562-a759-37082ec49ff8": {
       "name": "Bumi, King of Three Trials",
@@ -13523,8 +13518,7 @@
       "scryfallId": "a268697b-22b0-4e1b-a5b6-d9be95025e57",
       "effects": [
         "Filter"
-      ],
-      "reviewedAt": "2026-09-10T11:07:02.6362295+00:00"
+      ]
     },
     "f4e4060d-bfff-4991-9ae5-8f848304cd1e": {
       "name": "Buoyancy",
@@ -22790,8 +22784,7 @@
       "scryfallId": "82822ac1-9288-4bac-8afd-83563e693731",
       "effects": [
         "Burn"
-      ],
-      "reviewedAt": "2026-09-10T15:20:42.0465739+00:00"
+      ]
     },
     "f13a8621-4d88-4c1f-8b6e-80f8ef383cd2": {
       "name": "Dai Li Censor",
@@ -28653,8 +28646,7 @@
       "scryfallId": "52b352de-e989-4ad5-963c-818092fc9f1a",
       "effects": [
         "Tokens"
-      ],
-      "reviewedAt": "2026-09-05T10:30:52.8487626+00:00"
+      ]
     },
     "dcbcbf42-4654-487a-acad-21f2606d229b": {
       "name": "Druid Class",
@@ -29092,8 +29084,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "b98ecc96-f557-479a-8685-2b5487d5b407",
-      "effects": [],
-      "reviewedAt": "2026-09-11T21:35:14.6230416+00:00"
+      "effects": []
     },
     "f91ff377-a997-4f24-926c-76edcbf91a6c": {
       "name": "Dutiful Griffin",
@@ -29578,8 +29569,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "8688fce5-74b1-41e1-a59a-05a3878a75cb",
-      "effects": [],
-      "reviewedAt": "2026-09-11T10:52:28.0160471+00:00"
+      "effects": []
     },
     "3bfb3913-808d-444b-97c3-a90af3bc585b": {
       "name": "Earth Kingdom Protectors",
@@ -29641,8 +29631,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "56d4e0b7-232f-4953-84a3-e6f17781aa45",
-      "effects": [],
-      "reviewedAt": "2026-09-11T13:25:26.2920805+00:00"
+      "effects": []
     },
     "043d8dee-379f-4706-ad47-0bb562717007": {
       "name": "Earth-Cult Elemental",
@@ -29668,8 +29657,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "1f068ce9-f4c2-4d40-bfa3-7f21f6d3b0b7",
-      "effects": [],
-      "reviewedAt": "2026-09-11T13:47:28.5434755+00:00"
+      "effects": []
     },
     "e8e35b49-8cfb-4fb5-89aa-8050f15b11bf": {
       "name": "Earthbind",
@@ -31283,8 +31271,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "5cf181ae-daa7-42f9-b667-5e679d80cf34",
-      "effects": [],
-      "reviewedAt": "2026-09-11T12:17:26.9332838+00:00"
+      "effects": []
     },
     "42e95ad5-c10a-46fe-ab97-c7a734138586": {
       "name": "Embalmed Brawler",
@@ -32996,8 +32983,7 @@
         "Discard",
         "CardAdvantage",
         "Sacrifice"
-      ],
-      "reviewedAt": "2026-09-11T22:01:33.8732896+00:00"
+      ]
     },
     "e34f8aae-bf55-4bba-9524-c841591bb14b": {
       "name": "Eunuchs' Intrigues",
@@ -38428,8 +38414,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "b647a018-1d70-43a1-a265-928bcd863689",
-      "effects": [],
-      "reviewedAt": "2026-09-11T10:02:12.3623559+00:00"
+      "effects": []
     },
     "1b430f67-3686-4452-8594-b060f1a5a04e": {
       "name": "Fortune Teller's Talent",
@@ -48594,8 +48579,7 @@
       "scryfallId": "05a6ab03-f0b9-4738-a5f9-5d95bb22de75",
       "effects": [
         "Tutor"
-      ],
-      "reviewedAt": "2026-09-11T15:03:16.1120384+00:00"
+      ]
     },
     "52934f16-eb9b-4d0a-b372-155461660f6e": {
       "name": "Hooded Kavu",
@@ -51191,8 +51175,7 @@
       "effects": [
         "Tokens",
         "CardAdvantage"
-      ],
-      "reviewedAt": "2026-09-11T15:03:38.6132312+00:00"
+      ]
     },
     "7c59ad65-ad1f-4dc4-bcf2-ea6b2b48fad8": {
       "name": "Infinite Hourglass",
@@ -52008,8 +51991,7 @@
       "rating": 2,
       "label": "",
       "scryfallId": "b8845bba-d116-43cd-8ae0-e553f3324d66",
-      "effects": [],
-      "reviewedAt": "2026-09-11T21:54:58.0161224+00:00"
+      "effects": []
     },
     "97369152-3b85-4cf1-aeb9-b3a8f1c37611": {
       "name": "Invasion Submersible",
@@ -55304,8 +55286,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "7d919fd2-5faa-47fd-8abe-101d86add7ed",
-      "effects": [],
-      "reviewedAt": "2026-09-11T13:28:51.3712808+00:00"
+      "effects": []
     },
     "0972d46e-423b-454e-87c7-a2d40fb6fb6d": {
       "name": "Katara, the Fearless",
@@ -60881,8 +60862,7 @@
       "effects": [
         "Tokens",
         "Bounce"
-      ],
-      "reviewedAt": "2026-09-10T14:07:07.0188014+00:00"
+      ]
     },
     "a2a39123-8b70-4678-8675-ba79f37a5db8": {
       "name": "Lothlórien Blade",
@@ -63078,8 +63058,7 @@
       "effects": [
         "Tokens",
         "ManaFixing"
-      ],
-      "reviewedAt": "2026-09-10T11:06:45.0824293+00:00"
+      ]
     },
     "c202f124-4283-48f6-aef1-470ad9ded22b": {
       "name": "Marhault Elsdragon",
@@ -68561,8 +68540,7 @@
       "rating": 2,
       "label": "",
       "scryfallId": "6bc39af4-be19-4889-b930-df7ebf7b9481",
-      "effects": [],
-      "reviewedAt": "2026-09-11T22:03:29.7375314+00:00"
+      "effects": []
     },
     "99419378-8a23-44f3-aebe-e62d6e20e877": {
       "name": "Mysterio's Phantasm",
@@ -70060,8 +70038,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "15717af0-30cd-4417-947a-c27cca06d93a",
-      "effects": [],
-      "reviewedAt": "2026-09-11T21:22:38.9874831+00:00"
+      "effects": []
     },
     "4b9a2d17-205a-49cf-98c3-fd833015da18": {
       "name": "Nexos",
@@ -70486,8 +70463,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "47717312-f6c6-4e86-ba6a-a30698962430",
-      "effects": [],
-      "reviewedAt": "2026-09-10T16:01:54.3224071+00:00"
+      "effects": []
     },
     "e95a9488-3f86-4598-9c6e-6b1b959f8570": {
       "name": "Nimble Trapfinder",
@@ -80593,8 +80569,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "6436e2d0-989f-47e3-90bc-9cde82a2ddb4",
-      "effects": [],
-      "reviewedAt": "2026-09-11T13:31:45.6507756+00:00"
+      "effects": []
     },
     "c73a9939-0742-4919-94d6-c3b537697f17": {
       "name": "Ranar the Ever-Watchful",
@@ -84154,8 +84129,7 @@
       "scryfallId": "3f77c0f4-7a1b-496e-b030-55627446dfe3",
       "effects": [
         "Buff"
-      ],
-      "reviewedAt": "2026-09-11T19:57:18.2442778+00:00"
+      ]
     },
     "c027f369-e445-46a8-94ad-93396321295a": {
       "name": "Rip, Spawn Hunter",
@@ -86028,8 +86002,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "1e0b6ca1-9008-48dc-8103-2fe4def3c345",
-      "effects": [],
-      "reviewedAt": "2026-09-04T13:15:48.1779405+00:00"
+      "effects": []
     },
     "53e88e64-6f82-4154-a66e-6aeb0154b368": {
       "name": "Rule of Law",
@@ -87852,8 +87825,7 @@
       "scryfallId": "5e26f693-4e62-4925-923f-f46376a8a179",
       "effects": [
         "Tokens"
-      ],
-      "reviewedAt": "2026-09-08T10:50:17.7175391+00:00"
+      ]
     },
     "6db90f86-205a-4e0b-944b-74742bc4e59d": {
       "name": "Sardian Avenger",
@@ -87927,8 +87899,7 @@
       "effects": [
         "Ramp",
         "ManaFixing"
-      ],
-      "reviewedAt": "2026-09-11T21:40:56.6900154+00:00"
+      ]
     },
     "bbcae463-ba05-4cfe-9c25-13f2e64698c7": {
       "name": "Sarkhan, Soul Aflame",
@@ -97250,8 +97221,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "a8874e6e-400f-48ff-a9da-6bce557bde78",
-      "effects": [],
-      "reviewedAt": "2026-09-11T21:25:38.7328606+00:00"
+      "effects": []
     },
     "ba08b4cf-9a13-40fd-8522-9504d2ff1a19": {
       "name": "Spider-Suit",
@@ -97286,8 +97256,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "1183262e-1f02-46b3-8cfa-fe30e0016c11",
-      "effects": [],
-      "reviewedAt": "2026-09-11T21:26:06.3642377+00:00"
+      "effects": []
     },
     "ad73e5eb-197c-45a3-9d20-a406ba126c79": {
       "name": "Spidersilk Armor",
@@ -98812,8 +98781,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "4e9df135-4449-42ff-868b-56b1f702aca6",
-      "effects": [],
-      "reviewedAt": "2026-09-04T15:06:59.428144+00:00"
+      "effects": []
     },
     "578ddb51-e128-43e5-a115-471f0cae1222": {
       "name": "Star Charter",
@@ -101147,8 +101115,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "32eb192b-de6b-4814-8077-628d343d014e",
-      "effects": [],
-      "reviewedAt": "2026-09-11T19:59:09.837319+00:00"
+      "effects": []
     },
     "b6b22bac-853a-45a8-a74d-9904ec2b34fd": {
       "name": "Summon: G.F. Cerberus",
@@ -101739,8 +101706,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "686c005b-39c8-4c6c-bf5a-462774f1d6d9",
-      "effects": [],
-      "reviewedAt": "2026-09-11T10:21:26.8946666+00:00"
+      "effects": []
     },
     "4d720849-56cd-4b78-b9a7-7b9484702f0f": {
       "name": "Surge of Brilliance",
@@ -104835,8 +104801,7 @@
       "scryfallId": "1fdd0fd4-34be-45f5-a42e-74b4134fc345",
       "effects": [
         "Tokens"
-      ],
-      "reviewedAt": "2026-09-04T15:11:42.2922651+00:00"
+      ]
     },
     "ff132d04-c3a9-4949-83ba-d80bcbcd7b9b": {
       "name": "Tetsuo Umezawa",
@@ -109108,8 +109073,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "ff68fa7b-8065-407b-a8b4-bfbb14f1c99c",
-      "effects": [],
-      "reviewedAt": "2026-09-10T14:05:32.231593+00:00"
+      "effects": []
     },
     "fbfef028-b10c-4ade-9503-d9af5b0c211b": {
       "name": "Toph, the First Metalbender",
