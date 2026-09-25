@@ -26,8 +26,7 @@
       "label": "",
       "scryfallId": "4d7424b6-b56a-47b7-8204-294d3dca925f",
       "effects": [
-        "Filter",
-        "Sacrifice"
+        "Filter"
       ]
     },
     "fd230ab5-874e-4827-9b5c-6d39d079cee6": {
@@ -1440,8 +1439,7 @@
       "label": "",
       "scryfallId": "92652c41-1239-4299-a486-11fe1a96e912",
       "effects": [
-        "Removal",
-        "Sacrifice"
+        "Removal"
       ]
     },
     "468658bc-19d8-464a-ab8e-d36281680273": {
@@ -2693,7 +2691,6 @@
       "scryfallId": "5842332a-b27b-49ac-948d-f88a21deb1de",
       "effects": [
         "CardAdvantage",
-        "Sacrifice",
         "Regrowth"
       ]
     },
@@ -4701,8 +4698,7 @@
       "label": "",
       "scryfallId": "e71768e7-4ef7-4fb2-838b-eb3a7f662d38",
       "effects": [
-        "Buff",
-        "Sacrifice"
+        "Buff"
       ]
     },
     "a8730922-3f47-4c07-bdd5-4a0f557a3d3d": {
@@ -6246,8 +6242,7 @@
       "label": "",
       "scryfallId": "816cb69f-8c9f-4a1e-90d4-8c304501876c",
       "effects": [
-        "Ramp",
-        "Sacrifice"
+        "Ramp"
       ]
     },
     "4eb8d877-ee46-4bbe-99da-fee9e238ca58": {
@@ -7193,7 +7188,6 @@
       "label": "",
       "scryfallId": "660845b5-96fa-4484-822b-aa0508801306",
       "effects": [
-        "Sacrifice",
         "Regrowth"
       ]
     },
@@ -9471,7 +9465,6 @@
       "scryfallId": "18c59776-e1f1-4197-a128-db1d603f56b7",
       "effects": [
         "CardAdvantage",
-        "Sacrifice",
         "Tutor"
       ]
     },
@@ -12559,7 +12552,6 @@
       "scryfallId": "821b9e86-d108-42e5-b642-c5e07ab16c37",
       "effects": [
         "Tokens",
-        "Sacrifice",
         "ManaFixing"
       ]
     },
@@ -15126,9 +15118,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "e8c71a1f-191b-45f6-bb34-fba3e981a711",
-      "effects": [
-        "Sacrifice"
-      ]
+      "effects": []
     },
     "eb7b024c-da9b-4544-8648-0ac0395cf7fc": {
       "name": "Capricious Hellraiser",
@@ -20338,7 +20328,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "55b2a121-e0d8-46d6-b1dc-fd857ea109f4",
-      "effects": []
+      "effects": [
+        "Sacrifice"
+      ]
     },
     "fa7efcef-a688-4e25-a823-4d53b2e96508": {
       "name": "Contemplation",
@@ -22143,9 +22135,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "c0bba170-5176-4fab-a10d-e23d70128875",
-      "effects": [
-        "Sacrifice"
-      ]
+      "effects": []
     },
     "b0bc2d60-20d0-4ca2-be86-65b297226ac7": {
       "name": "Crypt Sliver",
@@ -22867,7 +22857,6 @@
       "label": "",
       "scryfallId": "31184dd0-4080-44c1-a3e0-f6d10a4d1fcb",
       "effects": [
-        "Sacrifice",
         "Mill"
       ]
     },
@@ -22886,8 +22875,7 @@
       "label": "",
       "scryfallId": "00e76749-cc11-401e-926f-f4286aab1ea9",
       "effects": [
-        "CardAdvantage",
-        "Sacrifice"
+        "CardAdvantage"
       ]
     },
     "5707c278-dab9-43bc-b3a3-a6b7923511f4": {
@@ -23072,7 +23060,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "07917b35-24bc-4d07-9095-fcf53254b91a",
-      "effects": []
+      "effects": [
+        "Sacrifice"
+      ]
     },
     "290323d7-d8cb-4706-87d9-b920a4e2f680": {
       "name": "Daemogoth Woe-Eater",
@@ -23080,7 +23070,8 @@
       "label": "",
       "scryfallId": "c965cbe3-50e5-41bb-bdb9-e65d97aab716",
       "effects": [
-        "Discard"
+        "Discard",
+        "Sacrifice"
       ]
     },
     "43ccc568-2509-49b6-99d7-c56900d1565a": {
@@ -23601,8 +23592,7 @@
       "label": "",
       "scryfallId": "025d36de-2db2-462c-b52a-e42f42bed9cf",
       "effects": [
-        "Buff",
-        "Sacrifice"
+        "Buff"
       ]
     },
     "5667376e-e59c-4b17-b096-5d92cdfe3db1": {
@@ -25282,9 +25272,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "da64094f-df6e-4c43-b4ae-03aab6b92816",
-      "effects": [
-        "Sacrifice"
-      ]
+      "effects": []
     },
     "8a64cf8e-ae7f-4697-93fc-9c946eb1088b": {
       "name": "Delta Bloodflies",
@@ -26319,7 +26307,6 @@
       "label": "",
       "scryfallId": "902abe4d-5c19-4c96-b825-e6cd4d954a84",
       "effects": [
-        "Sacrifice",
         "Regrowth"
       ]
     },
@@ -26387,9 +26374,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "646d604f-b187-4122-bd4b-67634654b6f1",
-      "effects": [
-        "Sacrifice"
-      ]
+      "effects": []
     },
     "f9b02a7c-c122-4282-90e2-81fcfa663193": {
       "name": "Diminishing Returns",
@@ -26496,8 +26481,7 @@
       "scryfallId": "0d2d98ae-fe02-4a86-9e80-7b95e08de21c",
       "effects": [
         "Removal",
-        "Buff",
-        "Sacrifice"
+        "Buff"
       ]
     },
     "ee08435b-a2c1-491a-87cb-e60789b09c25": {
@@ -27091,8 +27075,7 @@
       "label": "",
       "scryfallId": "1af4954e-c5b2-4b15-a9f9-da46202d8bf3",
       "effects": [
-        "Bounce",
-        "Sacrifice"
+        "Bounce"
       ]
     },
     "0123b162-0413-4022-acc0-e5bd061d3fb4": {
@@ -28679,7 +28662,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "c11f5d27-37f3-430a-833c-84e249b5e744",
-      "effects": []
+      "effects": [
+        "Sacrifice"
+      ]
     },
     "1ecb3349-ccb8-4b54-bd81-8d649d6f96f0": {
       "name": "Dreamstalker Manticore",
@@ -28830,7 +28815,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "2bc8758b-68cc-45ab-85d0-b870cef7dd85",
-      "effects": []
+      "effects": [
+        "Sacrifice"
+      ]
     },
     "bf0c85d7-16a0-46a5-a3a6-5591849bef60": {
       "name": "Dripping Dead",
@@ -35342,8 +35329,7 @@
       "scryfallId": "a3f484b9-486f-4aff-8b23-d8e555b476d3",
       "effects": [
         "CardAdvantage",
-        "Filter",
-        "Sacrifice"
+        "Filter"
       ]
     },
     "62411ced-843e-4b63-bdf6-dafb2ac27047": {
@@ -35836,8 +35822,7 @@
       "scryfallId": "020a6903-350b-4b12-8fbc-5da40f77cb77",
       "effects": [
         "CardAdvantage",
-        "Burn",
-        "Sacrifice"
+        "Burn"
       ]
     },
     "fbfa19ca-98bb-4c7d-a04e-920a8aafb031": {
@@ -36541,8 +36526,7 @@
       "label": "",
       "scryfallId": "09a4dcdb-6939-4d9f-8921-549e0ddc9f63",
       "effects": [
-        "Removal",
-        "Sacrifice"
+        "Removal"
       ]
     },
     "8d0adc5c-3fdd-4e22-b783-5651f8e57b65": {
@@ -37485,7 +37469,6 @@
       "label": "",
       "scryfallId": "1c808629-ee2b-4f3e-a316-7182fbc38d34",
       "effects": [
-        "Sacrifice",
         "Steal"
       ]
     },
@@ -38427,7 +38410,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "18a1bb9e-006c-495e-8f99-d451183d2669",
-      "effects": []
+      "effects": [
+        "Sacrifice"
+      ]
     },
     "aab3774c-4ec3-4946-a09b-af0fab7cacb7": {
       "name": "Food Coma",
@@ -42804,8 +42789,7 @@
       "label": "",
       "scryfallId": "7580ad36-7362-4dee-9511-d119173b70e8",
       "effects": [
-        "Buff",
-        "Sacrifice"
+        "Buff"
       ]
     },
     "e3886fe8-9b76-4613-8891-4ec74657c087": {
@@ -45549,9 +45533,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "6322e12d-b932-4ca1-a51d-e2a928140cc7",
-      "effects": [
-        "Sacrifice"
-      ]
+      "effects": []
     },
     "196f8f13-d4df-4740-8746-8fed3bc71840": {
       "name": "Grist, Voracious Larva // Grist, the Plague Swarm",
@@ -46537,9 +46519,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "a4ec5544-c138-44bb-a807-5798313c9a50",
-      "effects": [
-        "Sacrifice"
-      ]
+      "effects": []
     },
     "fa0bff4f-af97-4733-b9d3-a0bc9ef1e2ca": {
       "name": "Hamlet Vanguard",
@@ -48613,8 +48593,7 @@
       "label": "",
       "scryfallId": "f0fc77e7-154d-4433-93b3-1a1dee34791b",
       "effects": [
-        "Burn",
-        "Sacrifice"
+        "Burn"
       ]
     },
     "b59053d5-b5f2-44aa-a29c-7f3908d86577": {
@@ -50908,7 +50887,6 @@
       "label": "",
       "scryfallId": "1f7cced2-390b-499f-ace3-e52fd53d4712",
       "effects": [
-        "Sacrifice",
         "Tutor"
       ]
     },
@@ -53017,8 +52995,7 @@
       "scryfallId": "f5926c8e-8049-418e-9a84-f8558e5ba9d1",
       "effects": [
         "Removal",
-        "Disenchant",
-        "Sacrifice"
+        "Disenchant"
       ]
     },
     "480ea052-87d7-4fea-ac97-b6121b78f863": {
@@ -54822,8 +54799,7 @@
       "label": "",
       "scryfallId": "31408397-36f5-479f-b822-fa97411b7872",
       "effects": [
-        "Bounce",
-        "Sacrifice"
+        "Bounce"
       ]
     },
     "8068f80f-88ee-4c0b-a0fb-3a6337f83f22": {
@@ -54876,8 +54852,7 @@
       "label": "",
       "scryfallId": "ff2665f7-6cf8-4f9b-810e-17e264753225",
       "effects": [
-        "Tokens",
-        "Sacrifice"
+        "Tokens"
       ]
     },
     "9eba1789-6e58-4d78-8a0d-b54a8be76ec5": {
@@ -55807,8 +55782,7 @@
         "Removal",
         "Discard",
         "Reanimate",
-        "Burn",
-        "Sacrifice"
+        "Burn"
       ]
     },
     "bc14356c-3a1a-47af-9a6e-2b449de0331f": {
@@ -56680,8 +56654,7 @@
       "label": "",
       "scryfallId": "0cc727a6-f875-49b1-b7a4-67f22fbc3d50",
       "effects": [
-        "Removal",
-        "Sacrifice"
+        "Removal"
       ]
     },
     "2f2d75a0-d751-4c74-b357-8f92a992447f": {
@@ -60254,8 +60227,7 @@
       "label": "",
       "scryfallId": "5c80b3da-bda1-4d8d-ba50-7162574f4564",
       "effects": [
-        "Removal",
-        "Sacrifice"
+        "Removal"
       ]
     },
     "cd854e00-c9da-4593-8402-4bae637f5185": {
@@ -61148,8 +61120,7 @@
       "label": "",
       "scryfallId": "11a59a6f-6ef0-4acc-8358-a4e2cebdb7d5",
       "effects": [
-        "Removal",
-        "Sacrifice"
+        "Removal"
       ]
     },
     "d360ce89-d80d-4be6-be8c-7e7758cd5840": {
@@ -61532,8 +61503,7 @@
       "label": "",
       "scryfallId": "21b31d2b-ef66-4e16-a75e-4e27eb5ebfe9",
       "effects": [
-        "Filter",
-        "Sacrifice"
+        "Filter"
       ]
     },
     "d17bfa94-5046-46ae-80af-be5d1d35af13": {
@@ -62648,6 +62618,7 @@
       "scryfallId": "402a930b-7590-4d1d-ada3-02546f13c9cb",
       "effects": [
         "CardAdvantage",
+        "Sacrifice",
         "Regrowth"
       ]
     },
@@ -63156,8 +63127,7 @@
       "label": "",
       "scryfallId": "3f2d6a21-ea77-484b-9e3a-1bd49806f907",
       "effects": [
-        "Counter",
-        "Sacrifice"
+        "Counter"
       ]
     },
     "1c7ca399-7d85-452b-97c0-5d7f6c0eeb12": {
@@ -66329,9 +66299,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "3d6d91df-008b-48f2-a84f-550702fbcdb3",
-      "effects": [
-        "Sacrifice"
-      ]
+      "effects": []
     },
     "5109aa76-ca40-44d1-abb4-5e7a23a2c274": {
       "name": "Mind Warp",
@@ -66384,9 +66352,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "23a3c1f4-571e-40c2-a68c-699256e4fc3f",
-      "effects": [
-        "Sacrifice"
-      ]
+      "effects": []
     },
     "4864cc98-4fde-4010-81e9-ea4944347e7e": {
       "name": "Mindleecher",
@@ -71404,7 +71370,8 @@
       "label": "",
       "scryfallId": "a037ef49-8849-41aa-aa6e-3ac6ee34cdad",
       "effects": [
-        "Reanimate"
+        "Reanimate",
+        "Sacrifice"
       ]
     },
     "0203e250-d60e-46c6-9c58-d620f0377be0": {
@@ -72280,6 +72247,7 @@
       "label": "",
       "scryfallId": "1b212e7d-2ea1-4ba7-a060-c67d44e259a7",
       "effects": [
+        "Sacrifice",
         "Pacify"
       ]
     },
@@ -74338,8 +74306,7 @@
       "label": "",
       "scryfallId": "2fae9b40-a1ee-425d-bbf6-fa4b0861cdc4",
       "effects": [
-        "Counter",
-        "Sacrifice"
+        "Counter"
       ]
     },
     "8e576de0-0846-4665-a07c-83fe483ac196": {
@@ -78779,8 +78746,7 @@
       "label": "",
       "scryfallId": "12aea94d-a4a2-4b6b-a78f-5b8c03410baf",
       "effects": [
-        "Ramp",
-        "Sacrifice"
+        "Ramp"
       ]
     },
     "58d7b8b3-ac47-4805-8259-4ba8e70d7dc3": {
@@ -82243,8 +82209,7 @@
       "label": "",
       "scryfallId": "ca260253-40b8-4846-9e41-4e9cfc56d691",
       "effects": [
-        "Removal",
-        "Sacrifice"
+        "Removal"
       ]
     },
     "3583ec24-4f26-45ea-8fb4-a45bdd7bfc79": {
@@ -82621,8 +82586,7 @@
       "scryfallId": "845b3c26-05da-4a09-a6c9-4ea4166104a7",
       "effects": [
         "Removal",
-        "Burn",
-        "Sacrifice"
+        "Burn"
       ]
     },
     "b81eaa2f-0554-41c6-bdf6-d1cb73b8f56f": {
@@ -84068,7 +84032,6 @@
       "label": "",
       "scryfallId": "3106775c-31a0-4b53-b357-6beabe0eea64",
       "effects": [
-        "Sacrifice",
         "Regrowth"
       ]
     },
@@ -85998,8 +85961,7 @@
       "label": "",
       "scryfallId": "a3ec95f6-88c8-4daf-882f-8b4bc73452c3",
       "effects": [
-        "CardAdvantage",
-        "Sacrifice"
+        "CardAdvantage"
       ]
     },
     "1d8c8c71-d569-450d-adc1-1a1b9aea0123": {
@@ -86489,7 +86451,6 @@
       "label": "",
       "scryfallId": "d7a84781-b40c-41e0-a0b9-86e466c9b12d",
       "effects": [
-        "Sacrifice",
         "Pacify"
       ]
     },
@@ -87652,7 +87613,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "967a08cd-72b3-4b3f-9f23-15697704acb3",
-      "effects": []
+      "effects": [
+        "Sacrifice"
+      ]
     },
     "61df991d-32e7-4b6b-b8e6-700ba915c3f2": {
       "name": "Rust Goliath",
@@ -93656,8 +93619,7 @@
       "label": "",
       "scryfallId": "a6147bdc-4e02-48be-9ab9-c212f70d9194",
       "effects": [
-        "Disenchant",
-        "Sacrifice"
+        "Disenchant"
       ]
     },
     "ec238819-81f6-4904-922d-298a17cbac7e": {
@@ -95180,8 +95142,7 @@
       "label": "",
       "scryfallId": "0e0904c0-4d9a-4c60-a6ce-5ba2fde8abea",
       "effects": [
-        "Tokens",
-        "Sacrifice"
+        "Tokens"
       ]
     },
     "67601399-089b-44fe-82db-c319729c75bf": {
@@ -95425,8 +95386,7 @@
       "label": "",
       "scryfallId": "87300ac8-8b6f-4c37-8058-beb59eaa66be",
       "effects": [
-        "RemovePermanent",
-        "Sacrifice"
+        "RemovePermanent"
       ]
     },
     "1e9ebdf3-306a-48e1-8096-6a1d289e108c": {
@@ -96713,7 +96673,8 @@
       "label": "",
       "scryfallId": "758724f9-93c9-4178-ae40-3fefc75a010e",
       "effects": [
-        "Tokens"
+        "Tokens",
+        "Sacrifice"
       ]
     },
     "c5ee72d5-3a9e-4fe5-8802-3286ee612055": {
@@ -99845,6 +99806,7 @@
       "effects": [
         "RemovePermanent",
         "CardAdvantage",
+        "Sacrifice",
         "ManaFixing"
       ]
     },
@@ -101049,8 +101011,7 @@
       "label": "",
       "scryfallId": "c1debb8c-d5e0-49e5-ab27-2d50e6f9d8d2",
       "effects": [
-        "Filter",
-        "Sacrifice"
+        "Filter"
       ]
     },
     "068b370f-a358-4244-8050-6c81680c55c7": {
@@ -101254,8 +101215,7 @@
       "label": "",
       "scryfallId": "fb22f79c-3075-439d-a072-ceaabe35d76f",
       "effects": [
-        "Removal",
-        "Sacrifice"
+        "Removal"
       ]
     },
     "9d277206-9156-4dc9-bdd2-9d9219787735": {
@@ -105843,7 +105803,6 @@
       "label": "",
       "scryfallId": "c40be735-0780-459b-8dd2-a298575beaab",
       "effects": [
-        "Sacrifice",
         "Regrowth"
       ]
     },
@@ -106386,7 +106345,8 @@
       "scryfallId": "43c4eb73-7e50-4c22-8fa6-c770152ebdaf",
       "effects": [
         "Ramp",
-        "CardAdvantage"
+        "CardAdvantage",
+        "Sacrifice"
       ]
     },
     "46abaabe-7015-4d82-a5aa-2706b1f51bed": {
@@ -107216,7 +107176,6 @@
       "effects": [
         "Tokens",
         "Buff",
-        "Sacrifice",
         "ManaFixing"
       ]
     },
@@ -109366,8 +109325,7 @@
       "label": "",
       "scryfallId": "4d274a25-1346-4f9f-9dd7-a32ef67e5e19",
       "effects": [
-        "Filter",
-        "Sacrifice"
+        "Filter"
       ]
     },
     "7716ad72-9e96-4915-bc1e-e12b4d0f6f9c": {
@@ -112253,8 +112211,7 @@
       "label": "",
       "scryfallId": "7f7b2fc0-d3f6-4c4d-a163-986a372e5b12",
       "effects": [
-        "Disenchant",
-        "Sacrifice"
+        "Disenchant"
       ]
     },
     "601d9bc3-ca75-43de-beea-ab3f0a49f543": {
@@ -122431,7 +122388,6 @@
       "scryfallId": "2154df0d-9d35-4a67-aeff-c9f224b969a2",
       "effects": [
         "CardAdvantage",
-        "Sacrifice",
         "Steal"
       ]
     },
@@ -123153,7 +123109,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "066f28c3-aedb-488b-bedf-531814c02250",
-      "effects": []
+      "effects": [
+        "Sacrifice"
+      ]
     },
     "e84d146a-1c67-49df-b062-622794e45c42": {
       "name": "Zack Fair",

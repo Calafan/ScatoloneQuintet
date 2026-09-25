@@ -450,7 +450,8 @@
       "scryfallId": "18098505-2d75-4310-bf1e-788b85ac3aed",
       "effects": [
         "Tokens",
-        "Reanimate"
+        "Reanimate",
+        "Sacrifice"
       ]
     },
     "d64e9152-ef24-4394-aeb0-9c3befc56549": {
@@ -2985,8 +2986,7 @@
       "label": "",
       "scryfallId": "190d97bc-dbef-496d-9bd1-b785bdf8a964",
       "effects": [
-        "Removal",
-        "Sacrifice"
+        "Removal"
       ]
     },
     "7c8e4f29-53e0-4242-8ef8-7a9476dce178": {
@@ -8821,8 +8821,7 @@
       "label": "",
       "scryfallId": "08e8108a-182d-4dfb-bcb5-a159e86b43d5",
       "effects": [
-        "Removal",
-        "Sacrifice"
+        "Removal"
       ]
     },
     "9c93acf3-d3da-4b4b-947f-ec8fc99d0d34": {
@@ -9929,8 +9928,7 @@
       "label": "",
       "scryfallId": "4af9f237-f338-4335-843b-d352c01b73e5",
       "effects": [
-        "Counter",
-        "Sacrifice"
+        "Counter"
       ]
     },
     "a0b97e33-2d0c-4800-a9f5-9cd9be651ea8": {
@@ -12844,7 +12842,8 @@
         "Removal",
         "CardAdvantage",
         "Buff",
-        "Burn"
+        "Burn",
+        "Sacrifice"
       ]
     },
     "c8c88c33-b8df-4b19-b12c-79c9709af8f1": {
@@ -13969,8 +13968,7 @@
         "Removal",
         "Discard",
         "CardAdvantage",
-        "Burn",
-        "Sacrifice"
+        "Burn"
       ]
     },
     "47496941-8007-45a0-a981-76c683cbddc1": {
@@ -16398,7 +16396,8 @@
       "label": "",
       "scryfallId": "25d2ca0c-5e96-4d64-aa64-054d4dbcc471",
       "effects": [
-        "Reanimate"
+        "Reanimate",
+        "Sacrifice"
       ]
     },
     "ff6e4346-463c-445d-8f72-11cb35dd99ee": {
@@ -17290,8 +17289,7 @@
       "scryfallId": "1be6786e-0569-42dd-b03c-82da7b32a14f",
       "effects": [
         "CardAdvantage",
-        "Filter",
-        "Sacrifice"
+        "Filter"
       ]
     },
     "dd06c11c-c4fd-414e-ac63-5556f31491f5": {
@@ -22194,8 +22192,7 @@
       "scryfallId": "b3d6027c-813f-46df-95b4-e2e305a67620",
       "effects": [
         "Removal",
-        "Filter",
-        "Sacrifice"
+        "Filter"
       ]
     },
     "9d6ab594-aea9-4f13-8802-f3794ee45425": {
@@ -23752,8 +23749,7 @@
       "label": "",
       "scryfallId": "5a9b7141-45b9-4629-a4e4-b50f93929717",
       "effects": [
-        "Removal",
-        "Sacrifice"
+        "Removal"
       ]
     },
     "5d96840e-f9b3-4c86-8f59-f12e5736318f": {
