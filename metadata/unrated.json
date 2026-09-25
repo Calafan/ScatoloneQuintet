@@ -14819,7 +14819,8 @@
       "label": "",
       "scryfallId": "342196b9-ab65-4922-864e-00f067153261",
       "effects": [
-        "Reanimate"
+        "Reanimate",
+        "Sacrifice"
       ]
     },
     "3fd8ba0c-75ec-43ea-8706-f71e6cf1d236": {
@@ -53696,7 +53697,8 @@
       "label": "",
       "scryfallId": "0a255a75-2fbd-43d5-974e-8196da0be810",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Sacrifice"
       ]
     },
     "9cfe86ae-eebe-44aa-a956-4b3e9e621105": {
@@ -55378,9 +55380,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "ca24a105-e32a-4b2c-99bf-cfd85bae6229",
-      "effects": [
-        "Sacrifice"
-      ]
+      "effects": []
     },
     "57170e91-6ebe-4b14-bf56-96d8cf6a4d03": {
       "name": "Licia, Sanguine Tribune",
