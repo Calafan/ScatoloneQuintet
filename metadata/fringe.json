@@ -887,8 +887,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "bb13a34b-6ac8-47cb-9e91-47106a585fc1",
-      "effects": [],
-      "reviewedAt": "2026-09-10T14:28:44.4647436+00:00"
+      "effects": []
     },
     "c3dc6b0e-8790-4bd3-b166-63b2dc77488f": {
       "name": "Adrenaline Jockey",
@@ -1524,8 +1523,7 @@
       "scryfallId": "993ade84-031f-4a3e-bd68-55f61b559248",
       "effects": [
         "Discard"
-      ],
-      "reviewedAt": "2026-09-11T22:14:27.3472548+00:00"
+      ]
     },
     "43f5a93b-0f8d-48d2-ab9d-275d44cf88b5": {
       "name": "Aggressive Urge",
@@ -5183,8 +5181,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "e999fdc3-9269-44d7-9015-e16f5e5b73eb",
-      "effects": [],
-      "reviewedAt": "2026-09-08T07:13:03.3850222+00:00"
+      "effects": []
     },
     "68f7d1bf-48c7-483e-b17f-a60008854b46": {
       "name": "Armory Mice",
@@ -5676,8 +5673,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "2aa5b289-36ba-49b1-a5ac-f23bf71f8241",
-      "effects": [],
-      "reviewedAt": "2026-09-04T14:42:04.3183506+00:00"
+      "effects": []
     },
     "7dfae95e-f67e-49e3-b68a-40ea7e5099dd": {
       "name": "Ashnod, Flesh Mechanist",
@@ -7029,8 +7025,7 @@
       "scryfallId": "416b9207-a2af-44d1-9b87-4943f6e46d42",
       "effects": [
         "Removal"
-      ],
-      "reviewedAt": "2026-09-11T13:22:48.5286877+00:00"
+      ]
     },
     "89f96032-5cba-404d-82b0-38d2be963e4b": {
       "name": "Azula, On the Hunt",
@@ -7255,8 +7250,7 @@
       "scryfallId": "7f927f72-fc9b-444f-9e0e-78a5e8e7bcaa",
       "effects": [
         "Filter"
-      ],
-      "reviewedAt": "2026-09-10T16:15:06.048721+00:00"
+      ]
     },
     "1d078108-f88c-4a32-a28f-bae5182b2f53": {
       "name": "Baird, Argivian Recruiter",
@@ -8920,8 +8914,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "8680fbe9-b231-4334-bca7-7fff7a7b10f9",
-      "effects": [],
-      "reviewedAt": "2026-09-10T14:32:04.8283334+00:00"
+      "effects": []
     },
     "0e6609b4-f359-4bf1-a06e-f4317a0e7b3c": {
       "name": "Beetle-Headed Merchants",
@@ -9768,8 +9761,7 @@
       "scryfallId": "6d73a4a8-5d52-4c12-a96a-45cd202bcc62",
       "effects": [
         "Protection"
-      ],
-      "reviewedAt": "2026-09-11T21:58:30.9209748+00:00"
+      ]
     },
     "78de77ef-c325-4342-869f-042921229577": {
       "name": "Biotech Specialist",
@@ -17957,8 +17949,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "a9319039-db2f-47bf-9ef0-8d3a381d54fb",
-      "effects": [],
-      "reviewedAt": "2026-09-08T06:56:28.0143481+00:00"
+      "effects": []
     },
     "232e16f4-32ae-4f42-a377-6bdebc9a06c7": {
       "name": "Civil Servant",
@@ -18669,8 +18660,7 @@
       "scryfallId": "7387bca7-f496-45da-a0ac-6be049303a8f",
       "effects": [
         "ManaFixing"
-      ],
-      "reviewedAt": "2026-09-10T15:30:57.734209+00:00"
+      ]
     },
     "add18787-2329-4355-a524-66fefda8d06e": {
       "name": "Cloudchaser Eagle",
@@ -19316,8 +19306,7 @@
       "scryfallId": "ec195607-ac30-4931-acfd-f9d8ac8b047f",
       "effects": [
         "CardAdvantage"
-      ],
-      "reviewedAt": "2026-09-11T19:49:19.1634642+00:00"
+      ]
     },
     "a1cee8d7-f619-47b4-ba8c-faf3106d4e41": {
       "name": "Combine Chrysalis",
@@ -23149,8 +23138,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "3382552c-2740-409a-83a1-80b60627beb8",
-      "effects": [],
-      "reviewedAt": "2026-09-10T16:15:11.2975884+00:00"
+      "effects": []
     },
     "ae74efc6-4649-4783-a3a5-7a34d4667f64": {
       "name": "Daring Piracy",
@@ -26129,8 +26117,7 @@
       "scryfallId": "143e5853-9a31-4c8d-b21d-5ef120eb6952",
       "effects": [
         "Removal"
-      ],
-      "reviewedAt": "2026-09-11T15:02:03.7288879+00:00"
+      ]
     },
     "5a043512-fa56-4361-bb92-0a0f229f34d3": {
       "name": "Dire Flail // Dire Blunderbuss",
@@ -29432,8 +29419,7 @@
       "scryfallId": "0848d94a-2704-460f-986b-b192dd6d26b7",
       "effects": [
         "Sacrifice"
-      ],
-      "reviewedAt": "2026-09-04T15:07:35.5412711+00:00"
+      ]
     },
     "08f361c5-bcb5-4a9b-9610-70609cdc047f": {
       "name": "Dwell on the Past",
@@ -35429,8 +35415,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "58c446e6-8ffb-45ed-aca2-95161ac88d5c",
-      "effects": [],
-      "reviewedAt": "2026-09-10T07:26:25.8325994+00:00"
+      "effects": []
     },
     "5a8196ef-24ee-40b6-97d1-8a2257180f86": {
       "name": "Feral Encounter",
@@ -36237,8 +36222,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "5daba108-277d-46c8-ac35-7610f4786813",
-      "effects": [],
-      "reviewedAt": "2026-09-10T14:32:28.2506187+00:00"
+      "effects": []
     },
     "f2000fb8-39c6-4ad6-a020-5245faaa1eba": {
       "name": "Fire Nation Palace",
@@ -36264,8 +36248,7 @@
       "effects": [
         "Reanimate",
         "Steal"
-      ],
-      "reviewedAt": "2026-09-10T16:10:13.9267099+00:00"
+      ]
     },
     "4ba60296-5612-41ed-bf53-a061783ed3b9": {
       "name": "Fire Nation Sentinels",
@@ -44765,8 +44748,7 @@
       "scryfallId": "87154116-e306-4e15-bd5a-dcdb5ddbcd36",
       "effects": [
         "Filter"
-      ],
-      "reviewedAt": "2026-09-10T11:07:30.884221+00:00"
+      ]
     },
     "37445e06-88a1-4e2e-a432-383736c9b977": {
       "name": "Grim Lavamancer",
@@ -45413,8 +45395,7 @@
       "scryfallId": "224a2241-0dce-4008-8d9c-86db40ec5f8b",
       "effects": [
         "Filter"
-      ],
-      "reviewedAt": "2026-09-11T13:26:31.1247606+00:00"
+      ]
     },
     "835733a2-3738-4fc0-97d5-33156b711ba4": {
       "name": "Gurzigost",
@@ -45514,8 +45495,7 @@
       "scryfallId": "65e97c06-55a6-4841-be0f-055c015df90a",
       "effects": [
         "Ramp"
-      ],
-      "reviewedAt": "2026-09-10T07:24:52.8071111+00:00"
+      ]
     },
     "b967fbb8-ddc8-485b-bd18-cbf3ef6b1bf8": {
       "name": "Gwaihir the Windlord",
@@ -45708,8 +45688,7 @@
       "scryfallId": "683d6eba-7f98-4105-b318-7f2290012f32",
       "effects": [
         "CardAdvantage"
-      ],
-      "reviewedAt": "2026-09-11T10:49:49.4166205+00:00"
+      ]
     },
     "9b0af3ad-1b4d-4480-af91-fe9baee5d1c5": {
       "name": "Haliya, Guided by Light",
@@ -48561,8 +48540,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "d0b4e925-1d59-41a1-bc06-9982695d778f",
-      "effects": [],
-      "reviewedAt": "2026-09-11T15:03:08.6319256+00:00"
+      "effects": []
     },
     "4ba82d8e-1857-40a9-8b42-5d8348c68859": {
       "name": "Honor Guard",
@@ -49153,8 +49131,7 @@
       "rating": 2,
       "label": "",
       "scryfallId": "11f0886a-fbc0-4060-b506-a0b0f9de8b0b",
-      "effects": [],
-      "reviewedAt": "2026-09-11T22:09:24.2428777+00:00"
+      "effects": []
     },
     "00284955-0a1b-4939-9567-a7d34cbcee51": {
       "name": "Hua Tuo, Honored Physician",
@@ -49785,8 +49762,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "71f8c040-b6da-42f4-9140-7cd5eceb51c7",
-      "effects": [],
-      "reviewedAt": "2026-09-04T15:10:21.5022861+00:00"
+      "effects": []
     },
     "b1a9f49a-b0e2-481f-806d-0bc321517a4f": {
       "name": "Icatian Scout",
@@ -50992,8 +50968,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "0350470b-feea-4e15-bdf0-850b71dbeea6",
-      "effects": [],
-      "reviewedAt": "2026-09-08T10:50:57.660297+00:00"
+      "effects": []
     },
     "cff8dd65-e531-4496-aa49-e8d4350b9620": {
       "name": "Infected Defector",
@@ -53732,8 +53707,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "060966f9-5e56-4512-9ef3-2b216daf093c",
-      "effects": [],
-      "reviewedAt": "2026-09-11T13:28:48.3484741+00:00"
+      "effects": []
     },
     "2158c73d-421b-4c94-af06-dd89cb8d3126": {
       "name": "Jeong Jeong, the Deserter",
@@ -55419,8 +55393,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "f5e92cdd-75df-499e-94f7-22287f1000b3",
-      "effects": [],
-      "reviewedAt": "2026-09-10T14:28:48.4094195+00:00"
+      "effects": []
     },
     "4fa826ca-d361-4391-ad0d-989ebcfa4a91": {
       "name": "Kavaron, Memorial World",
@@ -56554,8 +56527,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "bdf41f17-8f82-4a8c-adec-0f3804faff3b",
-      "effects": [],
-      "reviewedAt": "2026-09-05T08:16:33.294848+00:00"
+      "effects": []
     },
     "5f7ae611-a78d-4535-9d76-755001bda34c": {
       "name": "Kjeldoran Home Guard",
@@ -56812,8 +56784,7 @@
       "scryfallId": "42d90959-b88c-4321-b2af-78ac7aab9909",
       "effects": [
         "Removal"
-      ],
-      "reviewedAt": "2026-09-11T21:37:14.0610413+00:00"
+      ]
     },
     "8806ee05-10d5-4492-b672-2f6bcab94be0": {
       "name": "Knowledge Is Power",
@@ -57401,8 +57372,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "bbedca18-a074-4441-b0a9-7b14fdb07412",
-      "effects": [],
-      "reviewedAt": "2026-09-05T10:25:23.7251529+00:00"
+      "effects": []
     },
     "20c7630d-a97f-4f09-9ec5-b7a1739107de": {
       "name": "Krovikan Fetish",
@@ -60475,8 +60445,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "a3eb92fe-bc59-4472-9028-f368bd015609",
-      "effects": [],
-      "reviewedAt": "2026-09-11T10:36:12.4116684+00:00"
+      "effects": []
     },
     "01376449-5cd2-4079-8aaa-5128634ef20b": {
       "name": "Long List of the Ents",
@@ -61060,8 +61029,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "a527cdb0-f54a-4b53-83a0-6b3e8cafa45e",
-      "effects": [],
-      "reviewedAt": "2026-09-11T21:38:06.9904749+00:00"
+      "effects": []
     },
     "141a2757-8f20-4e10-9866-bb5d612ed62d": {
       "name": "Loxodon Eavesdropper",
@@ -61622,8 +61590,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "26ea86d7-34f8-4358-8fdf-a18e53397755",
-      "effects": [],
-      "reviewedAt": "2026-09-10T07:27:04.3985592+00:00"
+      "effects": []
     },
     "dc386f6c-bd4a-462a-8d42-0e7a552a4f17": {
       "name": "Lynde, Cheerful Tormentor",
@@ -63864,8 +63831,7 @@
       "scryfallId": "5f6e5bb2-cfe9-48e5-86f9-e21f3d328327",
       "effects": [
         "Protection"
-      ],
-      "reviewedAt": "2026-09-11T21:51:56.4340251+00:00"
+      ]
     },
     "f77a9160-1d37-476d-8908-29ddcc982328": {
       "name": "Mayhem Patrol",
@@ -66599,8 +66565,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "5546c044-5826-48c3-9d28-866f3c3c5f2c",
-      "effects": [],
-      "reviewedAt": "2026-09-10T14:02:12.9846227+00:00"
+      "effects": []
     },
     "de58fa4b-eeeb-4dc8-aab9-6521b15678cc": {
       "name": "Mm'menon, the Right Hand",
@@ -66851,8 +66816,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "6ab0b7fe-cb6c-49e1-b8f4-e81c31a16ae2",
-      "effects": [],
-      "reviewedAt": "2026-09-08T10:46:02.8605346+00:00"
+      "effects": []
     },
     "0923ad85-2ea4-4463-8f71-b7d0a162b486": {
       "name": "Mogg Salvage",
@@ -66981,8 +66945,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "7b80b9c9-a871-4c04-b8be-feb81a900591",
-      "effects": [],
-      "reviewedAt": "2026-09-11T15:04:44.7531051+00:00"
+      "effects": []
     },
     "b87a2d20-4e9f-4256-9d24-80c38515119e": {
       "name": "Molimo, Maro-Sorcerer",
@@ -75245,8 +75208,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "75afdbe6-a3f9-49cf-b4ef-f370e518e960",
-      "effects": [],
-      "reviewedAt": "2026-09-04T23:20:33.5684766+00:00"
+      "effects": []
     },
     "4230c7a3-4591-411e-afab-d2bfb58446de": {
       "name": "Phantasmal Sphere",
@@ -78450,8 +78412,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "169fbdcd-5a08-4410-b7d4-fe04ad7891cc",
-      "effects": [],
-      "reviewedAt": "2026-09-11T21:31:27.861562+00:00"
+      "effects": []
     },
     "ed26f6bf-fcd6-4cf4-9b65-a492cb79f2df": {
       "name": "Prowling Felidar",
@@ -81302,8 +81263,7 @@
       "scryfallId": "c08c7bf9-a2ed-45c6-8b48-15122d9d9e37",
       "effects": [
         "Tokens"
-      ],
-      "reviewedAt": "2026-09-11T22:00:23.7057791+00:00"
+      ]
     },
     "6933a7bf-10ed-46c8-a49c-ce200bce3eea": {
       "name": "Rayne, Academy Chancellor",
@@ -82411,8 +82371,7 @@
       "scryfallId": "a394112a-032b-4047-887a-6522cf7b83d5",
       "effects": [
         "Tokens"
-      ],
-      "reviewedAt": "2026-09-10T16:08:17.3500975+00:00"
+      ]
     },
     "d6bf5e22-8d33-43a9-8824-435068e0a87a": {
       "name": "Reincarnation",
@@ -83016,8 +82975,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "b7d0591e-7fb7-40ea-ba2a-cfe544d40216",
-      "effects": [],
-      "reviewedAt": "2026-09-11T21:39:21.6237761+00:00"
+      "effects": []
     },
     "13a8b19b-23bd-4e45-81ff-23371665e4fc": {
       "name": "Requiem Monolith",
@@ -84066,8 +84024,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "312f7072-3bf8-449f-bfb7-93727ef26c66",
-      "effects": [],
-      "reviewedAt": "2026-09-11T21:39:43.9508535+00:00"
+      "effects": []
     },
     "57f6a8c2-9d84-4640-9b92-8b8611e05773": {
       "name": "Rilsa Rael, Kingpin",
@@ -86703,8 +86660,7 @@
       "scryfallId": "c10d6ea8-f670-41c9-8aa0-66df5fd69f34",
       "effects": [
         "CardAdvantage"
-      ],
-      "reviewedAt": "2026-09-10T15:16:34.2458585+00:00"
+      ]
     },
     "9c3c9a22-e092-4845-b661-047590746498": {
       "name": "Saber Ants",
@@ -90321,8 +90277,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "5b2de056-5c27-44d6-871d-909411bd52dd",
-      "effects": [],
-      "reviewedAt": "2026-09-10T15:20:28.624356+00:00"
+      "effects": []
     },
     "78e875b1-e621-4bf0-ad81-24ed9e2b43f8": {
       "name": "Selfless Exorcist",
@@ -91460,8 +91415,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "4a9304e1-f403-404d-9fe9-169da75e0d62",
-      "effects": [],
-      "reviewedAt": "2026-09-08T09:38:03.8948578+00:00"
+      "effects": []
     },
     "b9ad70d0-7e71-4ec1-a39e-7d9363501322": {
       "name": "Shapeshifter",
@@ -93144,8 +93098,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "a6927378-fee5-49c7-a607-c8084d7d077c",
-      "effects": [],
-      "reviewedAt": "2026-09-11T21:24:40.0523912+00:00"
+      "effects": []
     },
     "2b0b4fc1-9ad6-4259-a0a2-9a14484c246e": {
       "name": "Silver Scrutiny",
@@ -97236,8 +97189,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "65b8af30-559b-43a9-8526-62c28c378339",
-      "effects": [],
-      "reviewedAt": "2026-09-10T14:30:28.0253583+00:00"
+      "effects": []
     },
     "163f1fce-70c8-44e3-a679-f97d52cd1e9a": {
       "name": "Spider-Man No More",
@@ -97274,8 +97226,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "415bf221-215b-4c9f-b995-8d31ca95adc0",
-      "effects": [],
-      "reviewedAt": "2026-09-10T16:11:29.7680888+00:00"
+      "effects": []
     },
     "3c322d99-2bc4-4618-aeb3-5583fce54f1b": {
       "name": "Spider-Mobile",
@@ -97374,8 +97325,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "5d45a3d3-a114-496e-b575-504179a297cc",
-      "effects": [],
-      "reviewedAt": "2026-09-08T10:23:30.6954961+00:00"
+      "effects": []
     },
     "5b147eab-39dd-4c2a-8f59-d778037788aa": {
       "name": "Spike Feeder",
@@ -102493,8 +102443,7 @@
       "scryfallId": "40a500be-0bc9-48de-ab18-102210be72d0",
       "effects": [
         "CardAdvantage"
-      ],
-      "reviewedAt": "2026-09-11T22:13:44.8208344+00:00"
+      ]
     },
     "70ecc25b-2004-4a3c-80c3-6d97bf0711eb": {
       "name": "Symbiotic Beast",
@@ -104579,8 +104528,7 @@
       "scryfallId": "66906ed4-baac-4be0-9359-34f453d1a04a",
       "effects": [
         "Filter"
-      ],
-      "reviewedAt": "2026-09-10T15:34:37.161397+00:00"
+      ]
     },
     "57d411c6-68d8-441d-885f-17412f6503c2": {
       "name": "Tephraderm",
@@ -104720,8 +104668,7 @@
       "scryfallId": "0af974cd-f987-4cb8-85d5-77a4bd894d7b",
       "effects": [
         "Removal"
-      ],
-      "reviewedAt": "2026-09-11T22:13:56.6991188+00:00"
+      ]
     },
     "4f63d306-cc14-405c-8424-d8990c670c74": {
       "name": "Territorial Aetherkite",
@@ -113324,8 +113271,7 @@
       "scryfallId": "2063f688-ab86-4c7c-9237-bdb47f56a618",
       "effects": [
         "CardAdvantage"
-      ],
-      "reviewedAt": "2026-09-10T15:06:40.0036494+00:00"
+      ]
     },
     "7b4c37dc-8cb0-4870-929e-11c2a45952a2": {
       "name": "Uthros Scanship",
@@ -114138,8 +114084,7 @@
       "effects": [
         "RemovePermanent",
         "CardAdvantage"
-      ],
-      "reviewedAt": "2026-09-11T22:06:20.1308053+00:00"
+      ]
     },
     "5c5cfa6d-857f-44a9-80f7-46f016ef71e4": {
       "name": "Venerable Monk",
@@ -114291,8 +114236,7 @@
       "scryfallId": "4e88f2d0-d014-49cf-bb3c-fadbfc12765d",
       "effects": [
         "Removal"
-      ],
-      "reviewedAt": "2026-09-11T21:31:44.4615576+00:00"
+      ]
     },
     "03ebc100-68ac-4d53-adc2-d537212f7d31": {
       "name": "Venom Connoisseur",
@@ -120856,8 +120800,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "15ccebe1-ef08-4805-a65f-a1c57abed9f2",
-      "effects": [],
-      "reviewedAt": "2026-09-04T13:16:53.1385261+00:00"
+      "effects": []
     },
     "fad2d14f-8825-4b08-8804-010d9659f6dc": {
       "name": "Wyrm's Crossing Patrol",
