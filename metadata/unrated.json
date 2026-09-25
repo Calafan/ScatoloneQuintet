@@ -24291,9 +24291,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "5146dd15-f696-42c3-b0e5-6a1b1d7be6b4",
-      "effects": [
-        "Buff"
-      ]
+      "effects": []
     },
     "8150cc84-3f9f-470d-a0f9-ee6d9dab13da": {
       "name": "Dire Fleet Poisoner",
