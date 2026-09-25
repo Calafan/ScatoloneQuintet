@@ -901,7 +901,6 @@
       "label": "",
       "scryfallId": "06df9797-86d5-40ce-9efe-c18162d23118",
       "effects": [
-        "Buff",
         "Protection"
       ]
     },
@@ -1474,8 +1473,7 @@
       "label": "",
       "scryfallId": "26439775-7880-4e12-81eb-92185daca3fd",
       "effects": [
-        "Tokens",
-        "Buff"
+        "Tokens"
       ]
     },
     "d8e1e9ba-708c-4f54-abc3-817004a2f2ac": {
@@ -1841,8 +1839,7 @@
       "label": "",
       "scryfallId": "08c5a528-d16d-4cb9-b532-b85648c8395a",
       "effects": [
-        "Discard",
-        "Buff"
+        "Discard"
       ]
     },
     "3088ee75-3b51-4cbc-8987-76cb93f416b1": {
@@ -3366,9 +3363,7 @@
       "rating": 3,
       "label": "",
       "scryfallId": "1f3013bf-9647-4bdb-a638-d299ae00f88e",
-      "effects": [
-        "Buff"
-      ]
+      "effects": []
     },
     "3d177c04-9aa3-44b8-bbe4-df5de23a4ce6": {
       "name": "Chef's Kiss",
@@ -3609,8 +3604,7 @@
       "label": "",
       "scryfallId": "785e6d07-fe40-4723-b963-02da0a0987c7",
       "effects": [
-        "Removal",
-        "Buff"
+        "Removal"
       ]
     },
     "93df61b5-6abe-4603-9a6e-cba90a834173": {
@@ -8235,8 +8229,7 @@
       "label": "",
       "scryfallId": "06eda212-933c-484e-bbf6-611472a168ea",
       "effects": [
-        "Ramp",
-        "Buff"
+        "Ramp"
       ]
     },
     "bd0c0e85-ff24-46c9-a547-4f633355c131": {
@@ -10079,8 +10072,7 @@
       "label": "",
       "scryfallId": "0548ddb6-5301-4911-93fd-bb988275f44a",
       "effects": [
-        "CardAdvantage",
-        "Buff"
+        "CardAdvantage"
       ]
     },
     "121bd1af-da21-4937-a911-377c5b430796": {
@@ -11384,8 +11376,7 @@
       "label": "",
       "scryfallId": "5607e6b2-ae16-4783-9054-71adcde71e2e",
       "effects": [
-        "Disenchant",
-        "Buff"
+        "Disenchant"
       ]
     },
     "601b7481-19fc-4779-950e-883a9a22aec3": {
@@ -11723,7 +11714,6 @@
         "Tokens",
         "Ramp",
         "Filter",
-        "Buff",
         "ManaFixing"
       ]
     },
@@ -11766,9 +11756,7 @@
       "rating": 4,
       "label": "",
       "scryfallId": "355e8682-2aa8-4294-aa72-5e9587a6444c",
-      "effects": [
-        "Buff"
-      ]
+      "effects": []
     },
     "28c7c816-07e7-42fb-923c-bf149ba28b38": {
       "name": "Luminous Broodmoth",
@@ -12377,8 +12365,7 @@
       "label": "",
       "scryfallId": "28470a4c-4767-47d4-bd18-3c2ebbff5906",
       "effects": [
-        "Disenchant",
-        "Buff"
+        "Disenchant"
       ]
     },
     "db4907f3-4071-47c4-9329-96b4813435be": {
@@ -12787,7 +12774,6 @@
       "scryfallId": "6f257fd6-24a4-4cc1-89e0-99cf5d821e3a",
       "effects": [
         "Removal",
-        "Buff",
         "Protection"
       ]
     },
@@ -13407,9 +13393,7 @@
       "rating": 3,
       "label": "",
       "scryfallId": "2de6edc9-4dd6-402e-a697-58957522fabc",
-      "effects": [
-        "Buff"
-      ]
+      "effects": []
     },
     "8b153452-b4f2-4310-99e2-c729f28be6b9": {
       "name": "Nimble Brigand",
@@ -15180,7 +15164,6 @@
       "label": "",
       "scryfallId": "862fded6-e474-4b20-86d8-fd9af5f25b1a",
       "effects": [
-        "Buff",
         "Protection"
       ]
     },
@@ -15479,8 +15462,7 @@
       "label": "",
       "scryfallId": "2f815bae-820a-49f6-8eed-46f658e7b6ff",
       "effects": [
-        "Removal",
-        "Buff"
+        "Removal"
       ]
     },
     "dfa47d0d-17f0-4a12-89d3-0d3c7f3db8c6": {
@@ -18130,8 +18112,7 @@
       "label": "",
       "scryfallId": "41525fb0-bab6-4ac6-a418-78825464b97b",
       "effects": [
-        "Tokens",
-        "Buff"
+        "Tokens"
       ]
     },
     "ddc7f59a-bbb1-4ba1-82c8-6813fd191940": {
@@ -19836,9 +19817,7 @@
       "rating": 3,
       "label": "",
       "scryfallId": "3d0081b1-40fd-44ad-b154-efe2f27fed6b",
-      "effects": [
-        "Buff"
-      ]
+      "effects": []
     },
     "65779f3b-7fc5-4847-99d7-78f697d34c3d": {
       "name": "Sunset Revelry",
@@ -20243,7 +20222,6 @@
       "label": "",
       "scryfallId": "5199d708-8b11-461d-9e91-3e8cd70906f7",
       "effects": [
-        "Buff",
         "Protection"
       ]
     },
@@ -21343,7 +21321,6 @@
       "label": "",
       "scryfallId": "37feb62d-82cd-4fbc-bbe1-323b4f01c922",
       "effects": [
-        "Buff",
         "Burn"
       ]
     },
@@ -24071,8 +24048,7 @@
       "label": "",
       "scryfallId": "8a247116-45c4-480f-b380-da9d5e24fcc2",
       "effects": [
-        "Bounce",
-        "Buff"
+        "Bounce"
       ]
     },
     "467c526a-02a7-405d-98de-c632ea83519b": {
