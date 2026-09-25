@@ -4560,7 +4560,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "21002134-beba-4137-9b01-84d858b43455",
-      "effects": []
+      "effects": [
+        "Buff"
+      ]
     },
     "0258a606-1625-402e-b0c4-ffca06779b5e": {
       "name": "Armed Response",
@@ -18655,7 +18657,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "003feb09-600a-46ff-90a2-7606636d6c53",
-      "effects": []
+      "effects": [
+        "Buff"
+      ]
     },
     "00915480-ffa8-4930-a158-b1c1f75b7876": {
       "name": "Courageous Outrider",
@@ -24776,7 +24780,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "315f1cf8-7bde-4592-a14e-ef9e2e3e7ac0",
-      "effects": []
+      "effects": [
+        "Buff"
+      ]
     },
     "7bb1b48b-aa6b-4064-9355-c43b0f509388": {
       "name": "Distress",
@@ -32516,7 +32522,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "215115fa-50a6-42c0-b3c6-8d18e7f65174",
-      "effects": []
+      "effects": [
+        "Buff"
+      ]
     },
     "c3b8ea58-d84f-4c60-9f72-e4ec389eb93c": {
       "name": "Feral Deceiver",
@@ -59669,14 +59677,18 @@
       "rating": 0,
       "label": "",
       "scryfallId": "3b5a08a0-b002-4bfe-9cac-d2bf96175f8e",
-      "effects": []
+      "effects": [
+        "Buff"
+      ]
     },
     "96e7e4c8-f66d-4327-aee6-85da648418f5": {
       "name": "Maximize Velocity",
       "rating": 0,
       "label": "",
       "scryfallId": "ebb7a2aa-f002-4f05-b9ec-8adee4c65e46",
-      "effects": []
+      "effects": [
+        "Buff"
+      ]
     },
     "7f546d54-584d-4bec-8fbb-1ea2f8ab277e": {
       "name": "Mayael the Anima",
@@ -79268,9 +79280,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "a52a5f4b-d2e1-405e-82b4-ea35ab851c42",
-      "effects": [
-        "Buff"
-      ]
+      "effects": []
     },
     "9d83a1d3-ef0f-4134-a38b-c992d396592b": {
       "name": "Roar of Challenge",
@@ -80048,9 +80058,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "f0bdbe64-d985-4bc5-bb1d-4cbf12ef60b2",
-      "effects": [
-        "Buff"
-      ]
+      "effects": []
     },
     "8b3cec74-0d32-4762-b3e0-3f4e5eb6f179": {
       "name": "Ruination Rioter",
@@ -80099,9 +80107,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "1316b473-ec52-474e-87b8-07e21fda5482",
-      "effects": [
-        "Buff"
-      ]
+      "effects": []
     },
     "851a2214-5f87-4e5b-b099-1c5c90784a97": {
       "name": "Rumbling Aftershocks",
@@ -97267,7 +97273,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "b8322a64-f1a0-49c6-ad59-2b803598f7d1",
-      "effects": []
+      "effects": [
+        "Buff"
+      ]
     },
     "ca9d1d85-1b29-4779-9036-e4db6d330e71": {
       "name": "Teller of Tales",
@@ -100156,9 +100164,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "4c590579-e0ef-4839-8f67-f52813cd9fe7",
-      "effects": [
-        "Buff"
-      ]
+      "effects": []
     },
     "cb14b713-55e9-40cb-b769-6abe8e359580": {
       "name": "Tide of War",
