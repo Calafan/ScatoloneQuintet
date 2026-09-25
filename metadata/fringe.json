@@ -96448,7 +96448,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "5c3bf717-2b88-4704-a7e9-f62dbb3d3d3d",
-      "effects": [],
+      "effects": [
+        "Buff"
+      ],
       "reviewedAt": "2026-09-08T06:55:35.2072903+00:00"
     },
     "3c0f99b8-0222-4fac-932a-eb5d77826564": {
