@@ -17263,8 +17263,7 @@
       "scryfallId": "6195dc98-fe10-472c-abf1-3f353911118e",
       "effects": [
         "Discard",
-        "Burn",
-        "Sacrifice"
+        "Burn"
       ],
       "reviewedAt": "2026-09-12T09:26:39.2353453+00:00"
     },

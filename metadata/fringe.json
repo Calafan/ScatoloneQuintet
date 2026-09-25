@@ -2655,7 +2655,6 @@
       "label": "",
       "scryfallId": "75d5b014-8675-4d91-a539-ac5c31d44b35",
       "effects": [
-        "Sacrifice",
         "Tutor"
       ],
       "reviewedAt": "2026-09-05T10:27:27.8391993+00:00"
@@ -3480,8 +3479,7 @@
       "label": "",
       "scryfallId": "c79a5bbe-7b70-4b05-a336-9b2bcb2f2b8f",
       "effects": [
-        "Tokens",
-        "Sacrifice"
+        "Tokens"
       ],
       "reviewedAt": "2026-09-23T10:43:33.0347666+00:00"
     },
@@ -11504,8 +11502,7 @@
       "scryfallId": "1a68009c-83cd-455f-81e9-bdd720d23a43",
       "effects": [
         "Removal",
-        "Burn",
-        "Sacrifice"
+        "Burn"
       ],
       "reviewedAt": "2026-09-12T09:55:50.7525569+00:00"
     },
@@ -13967,8 +13964,7 @@
       "label": "",
       "scryfallId": "1dae52a2-3af7-4b97-9d2e-2448b7c413fb",
       "effects": [
-        "Ramp",
-        "Sacrifice"
+        "Ramp"
       ],
       "reviewedAt": "2026-09-05T10:34:31.7685958+00:00"
     },
@@ -14085,9 +14081,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "42d83229-0555-4361-8964-4b525c825843",
-      "effects": [
-        "Sacrifice"
-      ],
+      "effects": [],
       "reviewedAt": "2026-09-11T10:49:24.5885371+00:00"
     },
     "1bd584d5-4e11-428c-b51e-462e4292b07f": {
@@ -15416,8 +15410,7 @@
       "label": "",
       "scryfallId": "9e6c7750-bc3b-4790-bc9d-88e2cf16881e",
       "effects": [
-        "Tokens",
-        "Sacrifice"
+        "Tokens"
       ],
       "reviewedAt": "2026-09-08T09:33:07.9088825+00:00"
     },
@@ -17763,7 +17756,8 @@
       "label": "",
       "scryfallId": "59cbd637-30d1-4c3c-95ce-b6c6f9248d15",
       "effects": [
-        "Reanimate"
+        "Reanimate",
+        "Sacrifice"
       ],
       "reviewedAt": "2026-09-23T14:54:46.8183529+00:00"
     },
@@ -24266,8 +24260,7 @@
       "label": "",
       "scryfallId": "4661daf6-d960-4278-8946-70948efaf99d",
       "effects": [
-        "Removal",
-        "Sacrifice"
+        "Removal"
       ],
       "reviewedAt": "2026-09-11T13:24:38.2181643+00:00"
     },
@@ -26684,8 +26677,7 @@
       "label": "",
       "scryfallId": "a8e9ea5a-5e10-4b77-baef-0352ff035483",
       "effects": [
-        "CardAdvantage",
-        "Sacrifice"
+        "CardAdvantage"
       ],
       "reviewedAt": "2026-09-23T14:27:41.7688391+00:00"
     },
@@ -27080,8 +27072,7 @@
       "scryfallId": "f79b0c5d-6823-439c-a011-8b9bf424bdad",
       "effects": [
         "Tokens",
-        "CardAdvantage",
-        "Sacrifice"
+        "CardAdvantage"
       ],
       "reviewedAt": "2026-09-23T14:48:27.9363705+00:00"
     },
@@ -29845,7 +29836,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "0848d94a-2704-460f-986b-b192dd6d26b7",
-      "effects": [],
+      "effects": [
+        "Sacrifice"
+      ],
       "reviewedAt": "2026-09-25T07:36:54.433648+00:00"
     },
     "08f361c5-bcb5-4a9b-9610-70609cdc047f": {
@@ -30246,7 +30239,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "40451f7a-692a-422d-99d3-d93a4d9315e0",
-      "effects": [],
+      "effects": [
+        "Sacrifice"
+      ],
       "reviewedAt": "2026-09-04T15:00:06.2420481+00:00"
     },
     "4d4b9512-d29d-4b99-9249-d37e1199a1f5": {
@@ -34420,7 +34415,8 @@
       "label": "",
       "scryfallId": "4f05677b-ceec-4774-b22f-ff95cc6c5943",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Sacrifice"
       ],
       "reviewedAt": "2026-09-23T13:35:07.7493856+00:00"
     },
@@ -36583,8 +36579,7 @@
       "label": "",
       "scryfallId": "648da934-71f6-4945-a08f-09698414417b",
       "effects": [
-        "Removal",
-        "Sacrifice"
+        "Removal"
       ],
       "reviewedAt": "2026-09-23T13:10:09.3283138+00:00"
     },
@@ -38565,8 +38560,7 @@
       "scryfallId": "f5327e6d-db4e-4b44-a00e-b764e80b8946",
       "effects": [
         "Discard",
-        "Burn",
-        "Sacrifice"
+        "Burn"
       ],
       "reviewedAt": "2026-09-08T12:42:11.1655135+00:00"
     },
@@ -40855,8 +40849,7 @@
       "label": "",
       "scryfallId": "dca41ec6-8f8f-42ef-abac-cc645c6440b7",
       "effects": [
-        "Disenchant",
-        "Sacrifice"
+        "Disenchant"
       ],
       "reviewedAt": "2026-09-11T12:17:59.2236463+00:00"
     },
@@ -45150,7 +45143,8 @@
       "scryfallId": "12cb3add-c39c-4124-a028-87333aab0929",
       "effects": [
         "Tokens",
-        "CardAdvantage"
+        "CardAdvantage",
+        "Sacrifice"
       ],
       "reviewedAt": "2026-09-22T11:44:41.0140581+00:00"
     },
@@ -55510,8 +55504,7 @@
       "label": "",
       "scryfallId": "d385b9e5-e13d-4098-ba74-ea55bde164d9",
       "effects": [
-        "Burn",
-        "Sacrifice"
+        "Burn"
       ],
       "reviewedAt": "2026-09-08T10:32:58.0669362+00:00"
     },
@@ -57309,9 +57302,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "37dff6e2-4280-494b-9647-9ec85248ac77",
-      "effects": [
-        "Sacrifice"
-      ],
+      "effects": [],
       "reviewedAt": "2026-09-05T10:33:27.3918439+00:00"
     },
     "a1f6df2a-fc97-44d4-a0d1-902d8df94002": {
@@ -64062,7 +64053,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "047ac2cb-3a96-4ff6-8b5a-251399974c47",
-      "effects": [],
+      "effects": [
+        "Sacrifice"
+      ],
       "reviewedAt": "2026-09-05T08:17:27.0249778+00:00"
     },
     "1c350891-8810-4c14-b8ea-84486864637b": {
@@ -65745,7 +65738,6 @@
       "scryfallId": "4d0776db-ebb3-472d-8a90-5bd149b97346",
       "effects": [
         "Ramp",
-        "Sacrifice",
         "ManaFixing"
       ],
       "reviewedAt": "2026-09-02T16:41:53.0634506+00:00"
@@ -65917,8 +65909,7 @@
       "label": "",
       "scryfallId": "8a837256-6bb4-4a60-962d-d2793548d26c",
       "effects": [
-        "CardAdvantage",
-        "Sacrifice"
+        "CardAdvantage"
       ],
       "reviewedAt": "2026-09-11T19:55:01.9871759+00:00"
     },
@@ -72445,7 +72436,8 @@
       "label": "",
       "scryfallId": "f16df768-06de-43a0-b548-44fb0887490b",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Sacrifice"
       ],
       "reviewedAt": "2026-09-05T08:16:12.9033948+00:00"
     },
@@ -73678,7 +73670,8 @@
       "scryfallId": "5e34fc6b-5f00-4a22-9ee2-afc1caf99961",
       "effects": [
         "Removal",
-        "Burn"
+        "Burn",
+        "Sacrifice"
       ],
       "reviewedAt": "2026-09-04T14:52:38.4488169+00:00"
     },
@@ -76603,9 +76596,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "699a6663-cc48-4c1d-aaa2-a423169b7783",
-      "effects": [
-        "Sacrifice"
-      ],
+      "effects": [],
       "reviewedAt": "2026-09-08T06:47:44.1881875+00:00"
     },
     "e8d12d8e-afd2-438b-b121-5911fca479f9": {
@@ -80898,7 +80889,8 @@
       "label": "",
       "scryfallId": "333039ef-b328-4082-85ae-162caed5612e",
       "effects": [
-        "Ramp"
+        "Ramp",
+        "Sacrifice"
       ],
       "reviewedAt": "2026-09-11T10:45:49.5109623+00:00"
     },
@@ -85746,7 +85738,6 @@
       "label": "",
       "scryfallId": "537b4109-ae7c-451a-8576-97f817a70d75",
       "effects": [
-        "Sacrifice",
         "Steal"
       ],
       "reviewedAt": "2026-09-08T07:25:31.0727849+00:00"
@@ -87746,8 +87737,7 @@
       "label": "",
       "scryfallId": "927b5498-23f1-47c0-b441-7daaeb54f9b8",
       "effects": [
-        "RemovePermanent",
-        "Sacrifice"
+        "RemovePermanent"
       ],
       "reviewedAt": "2026-09-23T10:56:52.2717603+00:00"
     },
@@ -87985,8 +87975,7 @@
       "label": "",
       "scryfallId": "12164aee-6a27-4246-8d15-2d6dd20d92e9",
       "effects": [
-        "Ramp",
-        "Sacrifice"
+        "Ramp"
       ],
       "reviewedAt": "2026-09-04T14:17:09.3692562+00:00"
     },
@@ -90461,8 +90450,7 @@
       "scryfallId": "baeff907-017e-4dee-aae1-19dfaab309de",
       "effects": [
         "Ramp",
-        "Reanimate",
-        "Sacrifice"
+        "Reanimate"
       ],
       "reviewedAt": "2026-09-11T15:05:58.2254034+00:00"
     },
@@ -93962,7 +93950,8 @@
       "scryfallId": "bdb5452e-d97f-409b-91d0-2664f39b09b8",
       "effects": [
         "Filter",
-        "Buff"
+        "Buff",
+        "Sacrifice"
       ],
       "reviewedAt": "2026-09-11T19:58:27.5166332+00:00"
     },
@@ -107147,6 +107136,7 @@
       "effects": [
         "Ramp",
         "CardAdvantage",
+        "Sacrifice",
         "ManaFixing"
       ],
       "reviewedAt": "2026-09-11T20:00:52.4704416+00:00"
@@ -110018,8 +110008,7 @@
       "label": "",
       "scryfallId": "00b492ca-9cba-4d51-91b9-41430c6933a1",
       "effects": [
-        "Wipe",
-        "Sacrifice"
+        "Wipe"
       ],
       "reviewedAt": "2026-09-11T21:47:36.9362915+00:00"
     },
@@ -111435,7 +111424,6 @@
       "label": "",
       "scryfallId": "0d23d963-245c-492d-b757-a08309762425",
       "effects": [
-        "Sacrifice",
         "Tutor"
       ],
       "reviewedAt": "2026-09-04T15:06:47.4781286+00:00"
@@ -113506,8 +113494,7 @@
       "label": "",
       "scryfallId": "a67a4c5e-215b-4f03-87f7-c1af4f9f0a63",
       "effects": [
-        "Removal",
-        "Sacrifice"
+        "Removal"
       ],
       "reviewedAt": "2026-09-23T10:56:48.0957163+00:00"
     },
@@ -120368,8 +120355,7 @@
       "label": "",
       "scryfallId": "e02aeae5-4918-42c6-872d-ffe1517de2ad",
       "effects": [
-        "Buff",
-        "Sacrifice"
+        "Buff"
       ],
       "reviewedAt": "2026-09-08T10:30:50.0807961+00:00"
     },
@@ -122087,8 +122073,7 @@
       "label": "",
       "scryfallId": "adc18edc-01d8-4a7e-a87b-a854e50aa75e",
       "effects": [
-        "Removal",
-        "Sacrifice"
+        "Removal"
       ],
       "reviewedAt": "2026-09-11T21:45:27.6158426+00:00"
     },
@@ -122729,7 +122714,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "04bbd231-0d5f-4cbf-92a7-10d2c5c4b82c",
-      "effects": [],
+      "effects": [
+        "Sacrifice"
+      ],
       "reviewedAt": "2026-09-04T14:50:57.7273644+00:00"
     },
     "72177c93-ed1f-47bd-99a6-ad229a292d46": {
@@ -123115,7 +123102,6 @@
       "scryfallId": "5044eedb-f7d9-4b65-aa5b-fb494d00facd",
       "effects": [
         "Ramp",
-        "Sacrifice",
         "Regrowth"
       ],
       "reviewedAt": "2026-09-11T22:11:59.7470283+00:00"
@@ -124018,9 +124004,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "01203ef7-dc4b-4b3e-8991-c2db656a4445",
-      "effects": [
-        "Sacrifice"
-      ],
+      "effects": [],
       "reviewedAt": "2026-09-05T10:27:30.5384083+00:00"
     },
     "bc7b90b1-3517-4e5d-9bd8-68b4d8a259fd": {
