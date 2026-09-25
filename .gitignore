@@ -1,5 +1,5 @@
 # Card images — not tracked in git. Physical assets, managed locally.
-# The repository holds only metadata (CSV) and text docs.
+# The repository holds only the card metadata (JSON, metadata/) and text docs.
 Source/
 
 # Generated view tree - symlinks/hardlinks pointing back into Source/, deleted
