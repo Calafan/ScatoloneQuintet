@@ -3095,8 +3095,7 @@
       "scryfallId": "89a184b5-5a70-470a-86be-d1cba913870b",
       "effects": [
         "CardAdvantage"
-      ],
-      "reviewedAt": "2026-09-12T09:51:10.4157757+00:00"
+      ]
     },
     "64219e17-1302-4a43-85d2-8a6214448890": {
       "name": "Case of the Stashed Skeleton",
@@ -3280,8 +3279,7 @@
       "scryfallId": "4d3b5d73-694c-4f9a-8b4f-d8d8c58c8d65",
       "effects": [
         "CardAdvantage"
-      ],
-      "reviewedAt": "2026-09-10T16:02:05.5557112+00:00"
+      ]
     },
     "8785f42f-87b9-4a0a-89ce-ea423649ba9c": {
       "name": "Chain Lightning",
@@ -3428,8 +3426,7 @@
       "scryfallId": "05a2477e-a9a2-49fb-86e6-53d3e153a965",
       "effects": [
         "Reanimate"
-      ],
-      "reviewedAt": "2026-09-25T10:31:34.3549552+00:00"
+      ]
     },
     "41b2ea88-b3b9-44f0-8886-7b2f37b22ebf": {
       "name": "Check for Traps",
@@ -3830,8 +3827,7 @@
       "scryfallId": "3a9889ab-3527-414e-9c30-539f0608bd2b",
       "effects": [
         "ManaFixing"
-      ],
-      "reviewedAt": "2026-09-23T10:52:00.4294432+00:00"
+      ]
     },
     "4bb1863e-50f3-4e08-884e-1f58ee55817f": {
       "name": "Component Pouch",
@@ -6069,8 +6065,7 @@
       "scryfallId": "1f0cef88-50bd-4baa-8d02-26ec4967a7be",
       "effects": [
         "ManaFixing"
-      ],
-      "reviewedAt": "2026-09-23T12:45:59.0328256+00:00"
+      ]
     },
     "f7d52eac-edc9-464b-a163-07c136aa6e4c": {
       "name": "Elegy Acolyte",
@@ -9387,8 +9382,7 @@
       "scryfallId": "15cbc81d-e464-4583-a9a8-b8a4931b1521",
       "effects": [
         "ManaFixing"
-      ],
-      "reviewedAt": "2026-09-23T21:23:17.0144449+00:00"
+      ]
     },
     "4b216b4d-f9cb-4ce2-af70-c91eef3db083": {
       "name": "Helbrute",
@@ -9600,8 +9594,7 @@
       "rating": 3,
       "label": "",
       "scryfallId": "90de84c9-941b-4056-8501-ce8a948b9643",
-      "effects": [],
-      "reviewedAt": "2026-09-23T12:45:57.5929541+00:00"
+      "effects": []
     },
     "439bf6d1-bd65-474b-a70c-7fdd446de4bb": {
       "name": "Honest Rutstein",
@@ -10792,8 +10785,7 @@
       "effects": [
         "CardAdvantage",
         "Pacify"
-      ],
-      "reviewedAt": "2026-09-23T13:29:43.2795867+00:00"
+      ]
     },
     "f6d3f145-00e0-47cd-91d8-0381c19a000d": {
       "name": "Kaito, Cunning Infiltrator",
@@ -12007,8 +11999,7 @@
       "scryfallId": "6d9d7979-97af-4c85-86f5-1b3704f74e8b",
       "effects": [
         "Bounce"
-      ],
-      "reviewedAt": "2026-09-11T15:04:27.7366564+00:00"
+      ]
     },
     "a92edf30-6c7f-481c-855e-2a7dc4963ea7": {
       "name": "Lost to Legend",
@@ -12070,8 +12061,7 @@
       "scryfallId": "ab42ae1a-0c46-4364-b5f1-7688037e9acc",
       "effects": [
         "ManaFixing"
-      ],
-      "reviewedAt": "2026-09-12T09:48:41.4307206+00:00"
+      ]
     },
     "158a6225-a246-4fd6-aa57-0df8067b4383": {
       "name": "Lutri, the Spellchaser",
@@ -12398,8 +12388,7 @@
       "effects": [
         "Bounce",
         "CardAdvantage"
-      ],
-      "reviewedAt": "2026-09-10T13:39:53.8083334+00:00"
+      ]
     },
     "910488bf-66ab-415e-973b-1262b2ab7454": {
       "name": "Marble Diamond",
@@ -12620,8 +12609,7 @@
       "scryfallId": "170701a7-2c29-401e-a0be-178c9f469076",
       "effects": [
         "ManaFixing"
-      ],
-      "reviewedAt": "2026-09-23T12:45:59.7540565+00:00"
+      ]
     },
     "baec04a1-3bc9-4618-afab-e42013e36648": {
       "name": "Metropolis Reformer",
@@ -13092,8 +13080,7 @@
       "rating": 3,
       "label": "",
       "scryfallId": "9350bf4a-fa12-4867-b31f-1f1394d99571",
-      "effects": [],
-      "reviewedAt": "2026-09-25T07:45:00.4219848+00:00"
+      "effects": []
     },
     "8854222e-590f-4fc0-b5d7-bf3d986b8507": {
       "name": "Momo, Rambunctious Rascal",
@@ -15140,8 +15127,7 @@
       "scryfallId": "0ae415ca-36b2-4710-88a4-a70a5e5bab3a",
       "effects": [
         "CardAdvantage"
-      ],
-      "reviewedAt": "2026-09-11T13:31:10.6116177+00:00"
+      ]
     },
     "9e769a65-7aa5-484d-9493-badb485b5964": {
       "name": "Plargg and Nassari",
@@ -15980,8 +15966,7 @@
       "effects": [
         "Tokens",
         "CardAdvantage"
-      ],
-      "reviewedAt": "2026-09-25T09:21:18.2839533+00:00"
+      ]
     },
     "16d40f56-691b-42a7-a5ab-157568921e03": {
       "name": "Ral, Monsoon Mage // Ral, Leyline Prodigy",
@@ -16130,8 +16115,7 @@
       "scryfallId": "2faf0337-c7a3-45a0-bb14-c431526da2cd",
       "effects": [
         "ManaFixing"
-      ],
-      "reviewedAt": "2026-09-12T10:43:54.9650455+00:00"
+      ]
     },
     "c7fa1dda-9312-4ec8-82cd-a1ba7bc33497": {
       "name": "Raugrin Triome",
@@ -18165,8 +18149,7 @@
       "rating": 3,
       "label": "",
       "scryfallId": "08a587f5-5910-405e-8982-c889dbbc7f98",
-      "effects": [],
-      "reviewedAt": "2026-09-12T09:21:13.8835956+00:00"
+      "effects": []
     },
     "7ecc506e-bed0-4ae2-9d2f-5143ef63f62c": {
       "name": "Shadow Kin",
@@ -18240,8 +18223,7 @@
       "scryfallId": "27eae4ce-e0b3-482b-9136-6fc17333877e",
       "effects": [
         "ManaFixing"
-      ],
-      "reviewedAt": "2026-09-12T09:38:28.2303652+00:00"
+      ]
     },
     "2143f413-7baa-4fd6-a7ca-32f52bfa553f": {
       "name": "Shadrix Silverquill",
@@ -18337,8 +18319,7 @@
       "scryfallId": "bbece737-bd4f-4dc8-bf5c-f77930246ab1",
       "effects": [
         "Disenchant"
-      ],
-      "reviewedAt": "2026-09-11T15:06:08.8503123+00:00"
+      ]
     },
     "77953b7a-813e-45f5-ad7f-ab72a79a0112": {
       "name": "Shattering Pulse",
@@ -19779,8 +19760,7 @@
       "scryfallId": "0a786855-6eb4-42c0-a528-4842db46809d",
       "effects": [
         "CardAdvantage"
-      ],
-      "reviewedAt": "2026-09-11T10:02:03.5749984+00:00"
+      ]
     },
     "d924c13e-f266-47b0-9711-ba9a9b9df1cb": {
       "name": "Stoic Sphinx",
@@ -20585,8 +20565,7 @@
       "scryfallId": "0c06b920-231c-477e-aea2-ea082a209a4a",
       "effects": [
         "CardAdvantage"
-      ],
-      "reviewedAt": "2026-09-04T14:49:52.9047334+00:00"
+      ]
     },
     "bddf8f4a-3149-4dd6-a9e5-7747e7e45a1c": {
       "name": "Sylvan Safekeeper",
@@ -21044,8 +21023,7 @@
       "scryfallId": "9c249aa6-c65c-4572-8e2e-c3899638ecce",
       "effects": [
         "CardAdvantage"
-      ],
-      "reviewedAt": "2026-09-23T10:25:42.2097067+00:00"
+      ]
     },
     "b81f041d-98db-4408-9472-c483e4a502bc": {
       "name": "Terror",
@@ -21084,8 +21062,7 @@
       "effects": [
         "CardAdvantage",
         "Regrowth"
-      ],
-      "reviewedAt": "2026-09-11T21:44:34.4168406+00:00"
+      ]
     },
     "f6cf359a-91cb-4b3c-8837-be53e4ed9c93": {
       "name": "Teval, Arbiter of Virtue",
@@ -21386,8 +21363,7 @@
       "effects": [
         "Tokens",
         "CardAdvantage"
-      ],
-      "reviewedAt": "2026-09-11T13:37:29.1334907+00:00"
+      ]
     },
     "2f26f270-26d9-46d3-957f-19f52d51eb03": {
       "name": "The Legend of Roku // Avatar Roku",
@@ -21812,8 +21788,7 @@
       "scryfallId": "17260fff-b239-4af4-9306-3236ae3fa5a5",
       "effects": [
         "ManaFixing"
-      ],
-      "reviewedAt": "2026-09-23T10:50:23.5742619+00:00"
+      ]
     },
     "3d713c11-36a7-4b19-8c42-a9b61ef5902c": {
       "name": "Thundering Raiju",
@@ -21860,8 +21835,7 @@
       "scryfallId": "54ec3510-c168-4acc-aee8-65529d0f5ad7",
       "effects": [
         "CardAdvantage"
-      ],
-      "reviewedAt": "2026-09-25T11:03:41.8991048+00:00"
+      ]
     },
     "615a149a-2869-4b18-bbbe-9ec1825049d7": {
       "name": "Thwart",
@@ -22661,8 +22635,7 @@
       "scryfallId": "7695437c-1b7e-4163-aade-ca79b9c70e15",
       "effects": [
         "Bounce"
-      ],
-      "reviewedAt": "2026-09-12T10:40:49.9773297+00:00"
+      ]
     },
     "1d6796ce-9316-430a-8126-8b0414cf181c": {
       "name": "Uncharted Voyage",
@@ -22671,8 +22644,7 @@
       "scryfallId": "e0846820-e595-4743-8a28-29c57d728677",
       "effects": [
         "Bounce"
-      ],
-      "reviewedAt": "2026-09-12T10:01:30.4668606+00:00"
+      ]
     },
     "3416ac84-c5ef-44be-894f-ab3b89e592ce": {
       "name": "Undead Sprinter",
@@ -22702,8 +22674,7 @@
       "scryfallId": "19545db3-8be5-41e5-8d13-dec4f96fe624",
       "effects": [
         "ManaFixing"
-      ],
-      "reviewedAt": "2026-09-12T09:53:16.5368677+00:00"
+      ]
     },
     "0bd57503-b544-45f8-bcd2-f5b2170010f6": {
       "name": "Undercover Operative",
@@ -22719,8 +22690,7 @@
       "scryfallId": "0d8938e4-bfa5-47e1-8c71-9c6583346300",
       "effects": [
         "ManaFixing"
-      ],
-      "reviewedAt": "2026-09-23T14:27:43.1720975+00:00"
+      ]
     },
     "857febd9-cdd7-4f8e-a852-d88084b0cfbc": {
       "name": "Underground River",
@@ -23220,8 +23190,7 @@
       "scryfallId": "5254988b-3113-42f7-b751-517ffb3b40f0",
       "effects": [
         "Bounce"
-      ],
-      "reviewedAt": "2026-09-23T12:27:51.1844025+00:00"
+      ]
     },
     "c14e422b-6412-45ce-8e82-d47ba61557a0": {
       "name": "Vanish into Eternity",
@@ -23368,8 +23337,7 @@
       "scryfallId": "21edcd68-dd1e-4705-badb-16ae76945ac9",
       "effects": [
         "CardAdvantage"
-      ],
-      "reviewedAt": "2026-09-12T09:21:11.8739922+00:00"
+      ]
     },
     "727ef984-1643-4a09-8283-a665508e85dd": {
       "name": "Vesuvan Drifter",
@@ -23859,8 +23827,7 @@
       "rating": 3,
       "label": "",
       "scryfallId": "25ed97f2-b47e-49b7-9b1a-694c4bbeca3b",
-      "effects": [],
-      "reviewedAt": "2026-09-23T12:39:41.9784407+00:00"
+      "effects": []
     },
     "54748cb1-d92a-4212-ad76-417ee79b5ef1": {
       "name": "Wash Out",
@@ -24252,8 +24219,7 @@
       "scryfallId": "64d9367c-f50c-4568-aa63-6760c44ecaeb",
       "effects": [
         "CardAdvantage"
-      ],
-      "reviewedAt": "2026-09-11T21:45:24.6792302+00:00"
+      ]
     },
     "0355249a-8e4e-41db-9cea-1b901faffbe6": {
       "name": "Witch Enchanter // Witch-Blessed Meadow",
