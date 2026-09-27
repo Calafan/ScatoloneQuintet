@@ -1737,7 +1737,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "7ad55575-6053-43b1-9496-bcb1ea25e2a1",
-      "effects": []
+      "effects": [
+        "Filter"
+      ]
     },
     "01ed9139-293d-4477-a145-3c6fe59266c7": {
       "name": "Airship Engine Room",
@@ -1796,8 +1798,7 @@
       "label": "",
       "scryfallId": "07f8d140-8ff2-4ba5-9233-23b39a279a18",
       "effects": [
-        "CardAdvantage",
-        "Filter"
+        "CardAdvantage"
       ]
     },
     "0679dcef-e1c3-4739-a769-18a4ffdcfde7": {
@@ -2395,8 +2396,7 @@
       "label": "",
       "scryfallId": "0ac7e199-c32e-4479-a92f-df52f1182c9a",
       "effects": [
-        "CardAdvantage",
-        "Filter"
+        "CardAdvantage"
       ]
     },
     "664d982a-5cd8-4289-afb8-fa2e083042c9": {
@@ -3214,8 +3214,7 @@
       "label": "",
       "scryfallId": "625690d3-7131-45de-adea-9c927241e661",
       "effects": [
-        "CardAdvantage",
-        "Filter"
+        "CardAdvantage"
       ]
     },
     "380ea3b6-8eb4-466a-8680-ce5cfed9b8c4": {
@@ -3231,7 +3230,6 @@
       "label": "",
       "scryfallId": "58141ad0-32ea-4e07-a133-ff7812d58c0e",
       "effects": [
-        "Filter",
         "Tutor"
       ]
     },
@@ -3719,6 +3717,7 @@
       "label": "",
       "scryfallId": "1bfac4ab-97f1-448c-8554-42ed03eb5656",
       "effects": [
+        "Filter",
         "Burn",
         "Sacrifice"
       ]
@@ -3898,8 +3897,7 @@
       "label": "",
       "scryfallId": "db99b872-77c7-4471-9c44-a36d4ff5d33f",
       "effects": [
-        "Counter",
-        "Filter"
+        "Counter"
       ]
     },
     "2cdd85c8-fa60-44ca-bc96-d38f029d2184": {
@@ -4605,9 +4603,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "2979104f-7570-487c-8024-131d7ee3ab91",
-      "effects": [
-        "Filter"
-      ]
+      "effects": []
     },
     "d137586f-83b0-40af-8100-443460b07ac0": {
       "name": "Archivist",
@@ -5501,8 +5497,7 @@
       "label": "",
       "scryfallId": "30e1ec49-ad4f-4623-aeeb-dba07d6e6251",
       "effects": [
-        "CardAdvantage",
-        "Filter"
+        "CardAdvantage"
       ]
     },
     "c0891157-f3dd-4866-866f-fd13e9be9633": {
@@ -6543,9 +6538,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "6c3d7ece-0f57-4213-a0ab-a9d7c1536ebb",
-      "effects": [
-        "Filter"
-      ]
+      "effects": []
     },
     "94357494-4ccc-43d4-b2d4-351581cbf9b6": {
       "name": "Auton Soldier",
@@ -7705,8 +7698,7 @@
       "label": "",
       "scryfallId": "19f81099-f657-4f7d-84ad-f472ae87d9c5",
       "effects": [
-        "Counter",
-        "Filter"
+        "Counter"
       ]
     },
     "daa47749-7a20-4e64-b476-a44eaeb4d844": {
@@ -8618,8 +8610,7 @@
       "scryfallId": "620ed5b7-8874-40d0-9245-98876bdec153",
       "effects": [
         "Wipe",
-        "CardAdvantage",
-        "Filter"
+        "CardAdvantage"
       ]
     },
     "91596da5-5b1a-430c-a878-7757ae366b6b": {
@@ -9090,8 +9081,7 @@
       "label": "",
       "scryfallId": "e4d52701-e0dc-474e-b08f-88147200d210",
       "effects": [
-        "CardAdvantage",
-        "Filter"
+        "CardAdvantage"
       ]
     },
     "1650d85f-4c65-429d-8952-f68b62935a55": {
@@ -9122,8 +9112,7 @@
       "scryfallId": "102746f5-ba25-45f2-943e-55f9a4458fa7",
       "effects": [
         "Tokens",
-        "CardAdvantage",
-        "Filter"
+        "CardAdvantage"
       ]
     },
     "417e798d-9ca6-4cd0-adb4-f61d3becb201": {
@@ -9132,7 +9121,7 @@
       "label": "",
       "scryfallId": "1bb844c4-f41c-4411-a80a-c19e1d97b272",
       "effects": [
-        "CardAdvantage"
+        "Filter"
       ]
     },
     "2be2f6c8-d8df-4e5c-a0c1-7566183bbe81": {
@@ -9656,9 +9645,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "1f69f0bf-6626-4418-9335-b79d75c99df1",
-      "effects": [
-        "Filter"
-      ]
+      "effects": []
     },
     "f21ec455-aaf6-4842-aea2-69a7fd99b80f": {
       "name": "Bifurcate",
@@ -9834,9 +9821,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "009c8a91-8c73-4e3f-9955-45344ae07832",
-      "effects": [
-        "Filter"
-      ]
+      "effects": []
     },
     "70868667-a843-4954-863f-990854188c53": {
       "name": "Biomathematician",
@@ -9981,7 +9966,6 @@
       "label": "",
       "scryfallId": "888e3c71-e21d-4e77-b1b6-09769f9cd3d6",
       "effects": [
-        "Filter",
         "Pacify"
       ]
     },
@@ -10259,7 +10243,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "9c6988b6-ade0-4cd5-b27c-146e5e7ae91f",
-      "effects": []
+      "effects": [
+        "ManaFixing"
+      ]
     },
     "a3090daf-26d9-4ba5-9fa3-42bd128e229d": {
       "name": "Blanchwood Treefolk",
@@ -10930,8 +10916,7 @@
       "label": "",
       "scryfallId": "53782723-0a1e-483f-86e0-9a13650d29b7",
       "effects": [
-        "CardAdvantage",
-        "Filter"
+        "CardAdvantage"
       ]
     },
     "a465ba74-615a-4261-b4a0-fcb0819f10b3": {
@@ -11916,8 +11901,7 @@
       "label": "",
       "scryfallId": "3237d9de-ecbf-444c-b483-20d59e1bdab4",
       "effects": [
-        "CardAdvantage",
-        "Filter"
+        "CardAdvantage"
       ]
     },
     "1ef5003c-f540-4cdc-913f-7d5280ad9f62": {
@@ -11975,8 +11959,7 @@
       "label": "",
       "scryfallId": "3c9b154f-808f-4338-ad95-a0a478460ad8",
       "effects": [
-        "CardAdvantage",
-        "Filter"
+        "CardAdvantage"
       ]
     },
     "d72b57e5-1c6e-4f02-968f-7e2dd24f0d3c": {
@@ -13254,8 +13237,7 @@
       "label": "",
       "scryfallId": "b2cfd2c0-2110-47f1-809e-487b9b0a1043",
       "effects": [
-        "Ramp",
-        "Filter"
+        "Ramp"
       ]
     },
     "0a09f825-0484-40b4-8adf-1028385db480": {
@@ -14543,7 +14525,6 @@
         "Removal",
         "Disenchant",
         "CardAdvantage",
-        "Filter",
         "Reanimate"
       ]
     },
@@ -15486,8 +15467,7 @@
       "label": "",
       "scryfallId": "4c7d9b79-bcf8-4c6e-8b0b-6cd71b615d39",
       "effects": [
-        "CardAdvantage",
-        "Filter"
+        "CardAdvantage"
       ]
     },
     "50d33663-5d83-4e3c-9ed7-074fe29a9fc8": {
@@ -15520,9 +15500,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "13105c88-2926-40ad-bc7a-09d515aa36c6",
-      "effects": [
-        "Filter"
-      ]
+      "effects": []
     },
     "8c612741-2b30-43b3-bd3f-7df19662d298": {
       "name": "Case File Auditor",
@@ -16026,9 +16004,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "decdfd6b-55ab-47fd-9f98-1845261f1caf",
-      "effects": [
-        "Filter"
-      ]
+      "effects": []
     },
     "b42147e1-cf90-4c12-8abe-7f2931d0607c": {
       "name": "Cavern Whisperer",
@@ -16477,6 +16453,7 @@
       "label": "",
       "scryfallId": "779fa44a-444b-47fc-882b-d9da7714bd02",
       "effects": [
+        "Filter",
         "Buff"
       ]
     },
@@ -16513,8 +16490,7 @@
       "label": "",
       "scryfallId": "32cec6f3-295a-45e3-8466-e35fb043a596",
       "effects": [
-        "CardAdvantage",
-        "Filter"
+        "CardAdvantage"
       ]
     },
     "3ae86510-f828-48f8-adab-759df4b5544e": {
@@ -17660,9 +17636,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "85da50ba-2061-40f0-b3af-950b87f812cd",
-      "effects": [
-        "Filter"
-      ]
+      "effects": []
     },
     "1ac6fabb-71db-442f-8c14-ba9e659f906c": {
       "name": "Chrome Companion",
@@ -18732,9 +18706,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "9b4fa6d0-dc2d-4903-bbba-6cf83be2b187",
-      "effects": [
-        "Filter"
-      ]
+      "effects": []
     },
     "eb73db77-4050-4617-a29b-f9a8c885b424": {
       "name": "Clockwork Fox",
@@ -19598,7 +19570,6 @@
       "label": "",
       "scryfallId": "4f6eb966-67af-4b18-8899-4a99a5179aa3",
       "effects": [
-        "Filter",
         "Buff"
       ]
     },
@@ -19998,7 +19969,6 @@
       "label": "",
       "scryfallId": "1b50e018-2536-457b-b1b0-8f8cb27529cc",
       "effects": [
-        "Filter",
         "Regrowth"
       ]
     },
@@ -20069,7 +20039,6 @@
       "scryfallId": "51ddebe2-aad6-4097-ac02-fa6c99f30de7",
       "effects": [
         "CardAdvantage",
-        "Filter",
         "Buff"
       ]
     },
@@ -20251,8 +20220,7 @@
       "label": "",
       "scryfallId": "7b5d9323-ddf4-49b0-9d39-c2249c50f1e3",
       "effects": [
-        "CardAdvantage",
-        "Filter"
+        "CardAdvantage"
       ]
     },
     "433e86ce-df04-4182-bb63-ad2607d67dbd": {
@@ -22248,7 +22216,6 @@
       "label": "",
       "scryfallId": "2a3c8b7d-0b85-4e5c-acc4-253406deef27",
       "effects": [
-        "Filter",
         "ManaFixing"
       ]
     },
@@ -23408,7 +23375,6 @@
       "label": "",
       "scryfallId": "3d09dbcd-188b-4b52-943e-947cbf2c0002",
       "effects": [
-        "Filter",
         "Buff"
       ]
     },
@@ -25372,8 +25338,7 @@
       "label": "",
       "scryfallId": "2e59fb98-c887-42f1-a620-9e6b40b94cb5",
       "effects": [
-        "CardAdvantage",
-        "Filter"
+        "CardAdvantage"
       ]
     },
     "65a9f643-063f-406a-8d5a-5ebbe0f04c3d": {
@@ -25825,7 +25790,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "6a42ac7e-4a27-488c-a2e7-338b18103b02",
-      "effects": []
+      "effects": [
+        "Filter"
+      ]
     },
     "77fa18fa-5dba-4e4c-9b24-9bfa9b68779f": {
       "name": "Despoil",
@@ -25908,8 +25875,7 @@
       "label": "",
       "scryfallId": "46e101e5-2b20-48dd-aac4-15a3c32a7441",
       "effects": [
-        "Bounce",
-        "Filter"
+        "Bounce"
       ]
     },
     "d59488b5-1118-4276-b862-11e860c7c32a": {
@@ -26313,8 +26279,7 @@
       "label": "",
       "scryfallId": "9091e8dc-b546-4b74-9dc9-aef55f60d13a",
       "effects": [
-        "CardAdvantage",
-        "Filter"
+        "CardAdvantage"
       ]
     },
     "d326de4d-6157-4586-91b8-5668e1381ac3": {
@@ -26749,8 +26714,7 @@
       "label": "",
       "scryfallId": "8c201117-9850-4e92-9ecc-e4d71a70a959",
       "effects": [
-        "CardAdvantage",
-        "Filter"
+        "CardAdvantage"
       ]
     },
     "0158634a-08a3-4eb8-8216-bf85161fd168": {
@@ -27191,8 +27155,7 @@
       "label": "",
       "scryfallId": "4dd2ad45-c9ce-4d92-925f-978d42aaba15",
       "effects": [
-        "CardAdvantage",
-        "Filter"
+        "CardAdvantage"
       ]
     },
     "8785f9b4-eea2-4b45-9ae4-194b9a715702": {
@@ -27250,9 +27213,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "67a42698-bf3b-4352-8178-9c98abfc5b09",
-      "effects": [
-        "Filter"
-      ]
+      "effects": []
     },
     "f25af42d-f1bf-4bd3-aded-ecadafdbf6e6": {
       "name": "Do or Die",
@@ -27351,7 +27312,6 @@
       "label": "",
       "scryfallId": "57d1f729-0d7c-4122-9bca-f3b08cf6fe4f",
       "effects": [
-        "Filter",
         "Regrowth"
       ]
     },
@@ -28341,7 +28301,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "31da60a2-d4d3-4954-be59-c7ff61fa2905",
-      "effects": []
+      "effects": [
+        "Filter"
+      ]
     },
     "8762e9ec-e026-45aa-9c7b-d894d17c75a2": {
       "name": "Draugr's Helm",
@@ -31197,8 +31159,7 @@
       "label": "",
       "scryfallId": "249bc870-e945-466c-81cd-8b9e9b7ac4ac",
       "effects": [
-        "CardAdvantage",
-        "Filter"
+        "CardAdvantage"
       ]
     },
     "56773795-bd8b-4ac4-8f2c-a9d6275989bb": {
@@ -31208,8 +31169,7 @@
       "scryfallId": "06700514-b19c-4fc8-beb1-2c801f320b25",
       "effects": [
         "Tokens",
-        "CardAdvantage",
-        "Filter"
+        "CardAdvantage"
       ]
     },
     "3bb32408-81d3-4d0c-8674-1a1c5e3feb3b": {
@@ -31227,8 +31187,7 @@
       "label": "",
       "scryfallId": "4b4d298d-d273-42ca-84a0-d83d37685415",
       "effects": [
-        "CardAdvantage",
-        "Filter"
+        "CardAdvantage"
       ]
     },
     "5ae4a172-b846-4ec2-8178-a8b762134bfe": {
@@ -32694,9 +32653,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "74f43827-2b9b-4fc9-a6e2-c682dfbf14f7",
-      "effects": [
-        "Filter"
-      ]
+      "effects": []
     },
     "782ff740-ff43-4c07-af0b-433cb9770661": {
       "name": "Eradicate",
@@ -34283,9 +34240,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "7cc4246b-ff59-44b2-acff-c0bb6e4cd6ac",
-      "effects": [
-        "Filter"
-      ]
+      "effects": []
     },
     "c288f184-0beb-4cc9-9b0a-5f3c4b9e70d7": {
       "name": "Eye of Nidhogg",
@@ -34575,8 +34530,7 @@
       "label": "",
       "scryfallId": "358c18b7-5321-4793-b54a-e48e39548b9c",
       "effects": [
-        "Removal",
-        "Filter"
+        "Removal"
       ]
     },
     "fe4bbe82-1d6b-4f3d-8cc0-f6df22d9e9fb": {
@@ -34684,9 +34638,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "3eafd571-9364-44d9-8da5-1d93c07f0300",
-      "effects": [
-        "CardAdvantage"
-      ]
+      "effects": []
     },
     "940080ce-c504-48c8-a763-326fef907217": {
       "name": "Falkenrath Forebear",
@@ -34694,6 +34646,7 @@
       "label": "",
       "scryfallId": "451559d0-b62d-4757-8eb5-f6b0e240899c",
       "effects": [
+        "Filter",
         "Reanimate"
       ]
     },
@@ -34724,7 +34677,6 @@
       "effects": [
         "Removal",
         "CardAdvantage",
-        "Filter",
         "Buff"
       ]
     },
@@ -34752,7 +34704,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "b0eab397-25a6-4377-8e12-e8acef9675cf",
-      "effects": []
+      "effects": [
+        "Filter"
+      ]
     },
     "cb690399-0fb8-4bd8-a73d-5e0e594ff2ae": {
       "name": "Fallaji Chaindancer",
@@ -35301,8 +35255,7 @@
       "label": "",
       "scryfallId": "a3f484b9-486f-4aff-8b23-d8e555b476d3",
       "effects": [
-        "CardAdvantage",
-        "Filter"
+        "CardAdvantage"
       ]
     },
     "62411ced-843e-4b63-bdf6-dafb2ac27047": {
@@ -35906,8 +35859,7 @@
       "scryfallId": "0a623b30-c105-44ac-b8fd-4ebc8b6dea2c",
       "effects": [
         "Removal",
-        "CardAdvantage",
-        "Filter"
+        "CardAdvantage"
       ]
     },
     "f8f3fc11-25b4-4a23-9d79-f380a14f0420": {
@@ -37031,8 +36983,7 @@
       "label": "",
       "scryfallId": "32f17c7c-cf1d-4cdf-b3a9-699a679ac215",
       "effects": [
-        "CardAdvantage",
-        "Filter"
+        "CardAdvantage"
       ]
     },
     "81dad7c5-5950-4c45-adb0-cf1a15a74250": {
@@ -37839,7 +37790,7 @@
       "label": "",
       "scryfallId": "8382b7c7-762e-43f6-b285-e0cebe749fab",
       "effects": [
-        "Filter"
+        "ManaFixing"
       ]
     },
     "66e74e8f-036e-4b26-a4a8-2365891765bc": {
@@ -39043,9 +38994,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "1928cc47-4f56-41d6-85b5-5777a930c49f",
-      "effects": [
-        "Filter"
-      ]
+      "effects": []
     },
     "ad37551c-9d20-4902-8190-6a0aa32a7947": {
       "name": "Found Footage",
@@ -39924,7 +39873,6 @@
       "label": "",
       "scryfallId": "63d05659-bfff-4b73-80f7-a9f31a7ef957",
       "effects": [
-        "Filter",
         "Buff"
       ]
     },
@@ -40186,9 +40134,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "af07c47f-8b4e-43cb-b469-2efb82aa5590",
-      "effects": [
-        "Filter"
-      ]
+      "effects": []
     },
     "a4b60080-3f80-4aeb-8bd9-7953e77aaf75": {
       "name": "Gaea's Avenger",
@@ -40351,9 +40297,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "0571a6b2-548a-43ed-9357-a27095d2e894",
-      "effects": [
-        "Filter"
-      ]
+      "effects": []
     },
     "8d3c9646-2b6b-4315-939d-5a920efc0a60": {
       "name": "Galadriel of Lothlórien",
@@ -40470,7 +40414,6 @@
       "label": "",
       "scryfallId": "0e03370a-05a7-4f84-aadd-9eba459e2696",
       "effects": [
-        "Filter",
         "ManaFixing"
       ]
     },
@@ -40518,7 +40461,6 @@
       "scryfallId": "60976109-30ad-4f12-99eb-c5ef560fcf1b",
       "effects": [
         "CardAdvantage",
-        "Filter",
         "Pacify"
       ]
     },
@@ -40916,8 +40858,7 @@
       "label": "",
       "scryfallId": "0b953651-f9aa-4d7b-8c70-4c4417e3997a",
       "effects": [
-        "CardAdvantage",
-        "Filter"
+        "CardAdvantage"
       ]
     },
     "a0ee4faa-1ab0-4b4f-a564-ee2358500daf": {
@@ -41860,7 +41801,6 @@
       "label": "",
       "scryfallId": "5cb2cef4-ad58-47b2-9d15-8fc257f30332",
       "effects": [
-        "Filter",
         "Buff"
       ]
     },
@@ -42303,7 +42243,6 @@
       "scryfallId": "452abab0-cf23-4b9d-831a-7b9fa1fd582a",
       "effects": [
         "Ramp",
-        "Filter",
         "Burn",
         "LandDestruction"
       ]
@@ -42343,7 +42282,7 @@
       "scryfallId": "3dd488b6-40c0-47c4-9bed-c071f7b2f508",
       "effects": [
         "Tokens",
-        "CardAdvantage",
+        "Filter",
         "Burn"
       ]
     },
@@ -43905,8 +43844,7 @@
       "label": "",
       "scryfallId": "5753e654-f02c-46eb-b5f5-cba1a99a0253",
       "effects": [
-        "CardAdvantage",
-        "Filter"
+        "CardAdvantage"
       ]
     },
     "61586052-7d69-489c-84c4-0359228d131b": {
@@ -45252,9 +45190,7 @@
       "rating": 2,
       "label": "",
       "scryfallId": "4dd89994-bdff-47ca-a65d-10afcc7e773e",
-      "effects": [
-        "Filter"
-      ]
+      "effects": []
     },
     "053dff47-25df-424b-8328-3ee00739b4fd": {
       "name": "Grey Host Reinforcements",
@@ -45487,8 +45423,7 @@
       "label": "",
       "scryfallId": "53cdf2ab-3acd-49bd-8273-84c1cfc92883",
       "effects": [
-        "Removal",
-        "CardAdvantage"
+        "Removal"
       ]
     },
     "b9d9d118-a073-4e73-90fe-026462d1d895": {
@@ -45893,8 +45828,7 @@
       "label": "",
       "scryfallId": "0985700e-0ed3-45f2-8111-fd1aa32da223",
       "effects": [
-        "Removal",
-        "Filter"
+        "Removal"
       ]
     },
     "c474b52f-2f50-416e-b6c2-07043c7b339d": {
@@ -46995,7 +46929,6 @@
       "label": "",
       "scryfallId": "37a12935-c927-4d25-a7e5-17a0b6229c60",
       "effects": [
-        "Filter",
         "Reanimate"
       ]
     },
@@ -49340,8 +49273,7 @@
       "label": "",
       "scryfallId": "d382fd32-b1f5-4ec7-9d42-fc2915ed3bc9",
       "effects": [
-        "Tokens",
-        "Filter"
+        "Tokens"
       ]
     },
     "7848e040-e1b4-4f81-922e-b1eca8fe4398": {
@@ -49431,8 +49363,7 @@
       "label": "",
       "scryfallId": "1bdf5870-f047-4c55-a43f-c61257a00239",
       "effects": [
-        "CardAdvantage",
-        "Filter"
+        "CardAdvantage"
       ]
     },
     "ec3031ff-93db-48e9-9e09-335786cb85c2": {
@@ -49549,8 +49480,7 @@
       "label": "",
       "scryfallId": "d24b248c-d34b-4b1c-be30-f28f80d0ebfd",
       "effects": [
-        "Bounce",
-        "Filter"
+        "Bounce"
       ]
     },
     "793f29ac-8a5d-49bf-91e8-a32f771268f3": {
@@ -49784,7 +49714,6 @@
       "scryfallId": "19fb5f20-5bc0-4678-85c2-8e3f8c51fc52",
       "effects": [
         "CardAdvantage",
-        "Filter",
         "Cheat"
       ]
     },
@@ -51210,8 +51139,7 @@
       "label": "",
       "scryfallId": "3d6750dd-2303-493b-885d-1bfb5787b16c",
       "effects": [
-        "Tokens",
-        "Filter"
+        "Tokens"
       ]
     },
     "18ad0dd1-2d0e-46b4-8ab1-ece07180267f": {
@@ -51421,7 +51349,9 @@
       "rating": 2,
       "label": "",
       "scryfallId": "97b1be22-3177-49af-bb06-42497d717c21",
-      "effects": []
+      "effects": [
+        "Filter"
+      ]
     },
     "d031b482-b33d-4eb4-a5bc-ea96e66a1d99": {
       "name": "Incandescent Aria",
@@ -51930,8 +51860,7 @@
       "label": "",
       "scryfallId": "03a3f4d4-7bea-4d6f-b223-177278557342",
       "effects": [
-        "CardAdvantage",
-        "Filter"
+        "CardAdvantage"
       ]
     },
     "3431ee42-c34a-4972-9488-41b83ba5f943": {
@@ -51968,7 +51897,6 @@
       "effects": [
         "Ramp",
         "CardAdvantage",
-        "Filter",
         "ManaFixing"
       ]
     },
@@ -52117,7 +52045,6 @@
       "label": "",
       "scryfallId": "d0f62bdc-50a0-41a0-ac37-9b0eeb21b6aa",
       "effects": [
-        "Filter",
         "Buff"
       ]
     },
@@ -52204,7 +52131,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "699d8655-d250-4ab6-92c5-376979bbabc7",
-      "effects": []
+      "effects": [
+        "ManaFixing"
+      ]
     },
     "12bced67-69bc-4fc7-a585-577060afdd50": {
       "name": "Inside Source",
@@ -52306,7 +52235,6 @@
       "label": "",
       "scryfallId": "b23c8b5a-2e18-4dd8-b236-5b1fd356f867",
       "effects": [
-        "Filter",
         "Pacify"
       ]
     },
@@ -52975,9 +52903,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "50180fda-6d67-41e9-8b2b-2e7c5876b8ab",
-      "effects": [
-        "Filter"
-      ]
+      "effects": []
     },
     "78da7a38-0f08-4371-bda3-38f079f7724d": {
       "name": "Invasion of Ravnica // Guildpact Paragon",
@@ -52986,8 +52912,7 @@
       "scryfallId": "573cc5ec-4892-4f24-ba65-82d51198af89",
       "effects": [
         "RemovePermanent",
-        "CardAdvantage",
-        "Filter"
+        "CardAdvantage"
       ]
     },
     "4f0bcfe5-7e52-4249-a26a-482619716f18": {
@@ -53063,7 +52988,6 @@
       "scryfallId": "c0ef6737-8e85-42ca-8ee6-6a34f9462de3",
       "effects": [
         "CardAdvantage",
-        "Filter",
         "Redirect"
       ]
     },
@@ -53092,7 +53016,6 @@
       "scryfallId": "7f5075a0-c72a-474c-937c-95dc9205d14f",
       "effects": [
         "Ramp",
-        "Filter",
         "Burn"
       ]
     },
@@ -53902,8 +53825,7 @@
       "scryfallId": "54c6a4c3-ae00-4f29-bb4f-383dcec21747",
       "effects": [
         "Tokens",
-        "CardAdvantage",
-        "Filter"
+        "CardAdvantage"
       ]
     },
     "192b5dd7-f420-4d5b-86d6-66e86fa67f41": {
@@ -54319,8 +54241,7 @@
       "label": "",
       "scryfallId": "320fbc63-30c9-4905-a702-8342217b6460",
       "effects": [
-        "Removal",
-        "Filter"
+        "Removal"
       ]
     },
     "2458aa66-5b20-4811-a4a4-8375ad0a6498": {
@@ -54331,8 +54252,7 @@
       "effects": [
         "Tokens",
         "Removal",
-        "CardAdvantage",
-        "Filter"
+        "CardAdvantage"
       ]
     },
     "39ee576a-0803-4063-9c84-f2b537e4d44c": {
@@ -54822,8 +54742,7 @@
       "label": "",
       "scryfallId": "b25ab334-1060-457e-b212-3d7a697c545e",
       "effects": [
-        "Ramp",
-        "Filter"
+        "Ramp"
       ]
     },
     "fb8efd6e-b8f8-4da8-ac65-5b745c02d2bb": {
@@ -55607,7 +55526,7 @@
       "label": "",
       "scryfallId": "c2e932f7-1a72-44e7-89f7-b853eada74f0",
       "effects": [
-        "CardAdvantage"
+        "Filter"
       ]
     },
     "ecfabd06-c059-4f3d-9e5f-587364033cac": {
@@ -55944,8 +55863,7 @@
       "label": "",
       "scryfallId": "259de719-f633-4667-80f3-c7d13b1aca01",
       "effects": [
-        "CardAdvantage",
-        "Filter"
+        "CardAdvantage"
       ]
     },
     "1ac3e4bc-1678-4280-a071-3dbc8ef4a2bf": {
@@ -56544,8 +56462,7 @@
       "label": "",
       "scryfallId": "0db3f399-01d6-415f-8703-ec01a6730b74",
       "effects": [
-        "CardAdvantage",
-        "Filter"
+        "CardAdvantage"
       ]
     },
     "170cc0c4-0fba-4751-8613-e934b0438364": {
@@ -56953,7 +56870,6 @@
       "label": "",
       "scryfallId": "22a6d05e-e566-4a85-bcf8-9d0fbea3dd14",
       "effects": [
-        "Filter",
         "Buff"
       ]
     },
@@ -57093,9 +57009,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "4611fd39-a212-4d04-8c9e-d5d9c2bf3c7d",
-      "effects": [
-        "Filter"
-      ]
+      "effects": []
     },
     "fbbc3acb-c917-44ff-ac6f-9dd6ebe3f4ad": {
       "name": "Kird Ape",
@@ -57646,8 +57560,7 @@
       "label": "",
       "scryfallId": "40366946-d9e7-4770-bca2-f6d1dcb73ff5",
       "effects": [
-        "CardAdvantage",
-        "Filter"
+        "CardAdvantage"
       ]
     },
     "344dc8b0-302a-4721-99b6-5a6626a349c1": {
@@ -57674,8 +57587,7 @@
       "scryfallId": "1f43e124-344e-4e58-8a8e-c710b28d7ebf",
       "effects": [
         "Ramp",
-        "CardAdvantage",
-        "Filter"
+        "CardAdvantage"
       ]
     },
     "1d705d77-4b1a-4a17-b3b7-e502f2f6f6e6": {
@@ -60736,9 +60648,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "209a1c1e-7fe8-42b4-81d7-3ad0d14f0549",
-      "effects": [
-        "Filter"
-      ]
+      "effects": []
     },
     "3b577179-10d0-43f1-ac17-9dd2d12c965d": {
       "name": "Littjara Mirrorlake",
@@ -61460,9 +61370,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "21b31d2b-ef66-4e16-a75e-4e27eb5ebfe9",
-      "effects": [
-        "Filter"
-      ]
+      "effects": []
     },
     "d17bfa94-5046-46ae-80af-be5d1d35af13": {
       "name": "Lord Xander, the Collector",
@@ -62617,8 +62525,7 @@
       "label": "",
       "scryfallId": "db94f2a9-53be-449e-8240-77f013cdd7e3",
       "effects": [
-        "CardAdvantage",
-        "Filter"
+        "CardAdvantage"
       ]
     },
     "2494daad-c81d-4a80-ba5d-e7011af8de46": {
@@ -63272,7 +63179,9 @@
       "rating": 2,
       "label": "",
       "scryfallId": "58ee6723-9b90-4d39-9cbb-9d3765a4fcb0",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "14c1adf8-950b-4f64-9c84-956a623448f4": {
       "name": "Malicious Advice",
@@ -63630,6 +63539,7 @@
       "label": "",
       "scryfallId": "5bb52acb-dedb-4ed6-a6da-8c036f2b2958",
       "effects": [
+        "Filter",
         "Tutor"
       ]
     },
@@ -64038,7 +63948,7 @@
       "scryfallId": "597bc4ae-335d-4d1d-8a57-530291abc540",
       "effects": [
         "Removal",
-        "CardAdvantage"
+        "Filter"
       ]
     },
     "d28eac97-f38a-4d2a-aeae-e758bd3ecf4e": {
@@ -64338,8 +64248,7 @@
       "label": "",
       "scryfallId": "30acbb34-3ff5-4d38-b349-f108351f94f8",
       "effects": [
-        "CardAdvantage",
-        "Filter"
+        "CardAdvantage"
       ]
     },
     "b1870fff-b87e-434e-8d4c-d9e60f7f4284": {
@@ -64884,8 +64793,7 @@
       "label": "",
       "scryfallId": "3d2bd7b4-28de-4d9e-86c5-a46bd608cb02",
       "effects": [
-        "CardAdvantage",
-        "Filter"
+        "CardAdvantage"
       ]
     },
     "3b91dc3e-46ef-4a68-829f-ef7d79598cf7": {
@@ -65103,8 +65011,7 @@
       "label": "",
       "scryfallId": "aadc1809-d6bb-455c-b6ce-dd11521808b6",
       "effects": [
-        "Counter",
-        "Filter"
+        "Counter"
       ]
     },
     "dac33359-0317-4b11-9078-fccfd2321e53": {
@@ -65410,9 +65317,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "a7f6a79c-aa2f-47d2-a929-1606a61f9341",
-      "effects": [
-        "Filter"
-      ]
+      "effects": []
     },
     "77d5d435-d794-46c0-b630-a460973cf75a": {
       "name": "Merfolk Falconer",
@@ -66893,8 +66798,7 @@
       "label": "",
       "scryfallId": "88d958a1-2dab-4a49-b79d-2c9bc4c4a76d",
       "effects": [
-        "CardAdvantage",
-        "Filter"
+        "CardAdvantage"
       ]
     },
     "3ec7ae18-b203-49bd-95f9-ad5482459a23": {
@@ -69365,9 +69269,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "56bfdd21-4d46-4ec2-ba25-f16b6993f1a8",
-      "effects": [
-        "Filter"
-      ]
+      "effects": []
     },
     "2d8e1054-654f-42e8-8c29-12c3cf13a3eb": {
       "name": "Myr Enforcer",
@@ -69819,8 +69721,7 @@
       "scryfallId": "30005416-7913-4fbf-9987-2b988ad5a6d3",
       "effects": [
         "Tokens",
-        "CardAdvantage",
-        "Filter"
+        "CardAdvantage"
       ]
     },
     "d71d42e0-cd56-4f53-95ff-ecab7f8c6552": {
@@ -70754,8 +70655,7 @@
       "label": "",
       "scryfallId": "1a4789a2-f201-4b05-954d-527d169de091",
       "effects": [
-        "CardAdvantage",
-        "Filter"
+        "CardAdvantage"
       ]
     },
     "bfa882ee-de18-4ef8-8957-3e04ed6e3c1e": {
@@ -70830,8 +70730,7 @@
       "label": "",
       "scryfallId": "26bd3a70-3154-44a4-8705-1eac01cde8fd",
       "effects": [
-        "CardAdvantage",
-        "Filter"
+        "CardAdvantage"
       ]
     },
     "66bef5a7-79b7-4a9c-98dc-8670f867f04c": {
@@ -71292,8 +71191,7 @@
       "scryfallId": "6c4e9cfe-e72e-46a1-a8d8-9fda5f2bae73",
       "effects": [
         "Removal",
-        "CardAdvantage",
-        "Filter"
+        "CardAdvantage"
       ]
     },
     "e79bf038-071e-448e-ad95-234c207a9575": {
@@ -71452,7 +71350,7 @@
       "label": "",
       "scryfallId": "33ac9e11-0fa8-4a58-8268-b46ad18c75c2",
       "effects": [
-        "Filter"
+        "CardAdvantage"
       ]
     },
     "5049da27-f38b-4fe6-a387-51510bd1f44e": {
@@ -71791,8 +71689,7 @@
       "label": "",
       "scryfallId": "19cf5e4f-c907-4ab4-877d-90fe7623cb81",
       "effects": [
-        "CardAdvantage",
-        "Filter"
+        "CardAdvantage"
       ]
     },
     "4318c704-888f-4d85-b5f7-6d9abb14e60c": {
@@ -72847,9 +72744,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "13129e63-558d-415d-87eb-616868205341",
-      "effects": [
-        "Filter"
-      ]
+      "effects": []
     },
     "142409ce-1187-4554-bc07-6432c4d22dbc": {
       "name": "Okiba Salvage",
@@ -72915,6 +72810,7 @@
       "effects": [
         "Tokens",
         "Ramp",
+        "Filter",
         "ManaFixing"
       ]
     },
@@ -72934,7 +72830,6 @@
       "scryfallId": "25b68fbf-7fc7-4fd5-9bdf-f3ef846d4c22",
       "effects": [
         "Removal",
-        "CardAdvantage",
         "Burn"
       ]
     },
@@ -72976,7 +72871,6 @@
       "label": "",
       "scryfallId": "57c21561-2213-4524-89a6-30a305843e5a",
       "effects": [
-        "Filter",
         "Regrowth"
       ]
     },
@@ -73874,8 +73768,7 @@
       "label": "",
       "scryfallId": "711412f1-9ab3-48b6-91a4-77232b416a32",
       "effects": [
-        "CardAdvantage",
-        "Filter"
+        "CardAdvantage"
       ]
     },
     "8291bc2e-ef58-4bd4-b261-b587142bbb1c": {
@@ -74062,9 +73955,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "099a1d1c-72ba-468e-9385-8f93e1fce001",
-      "effects": [
-        "Filter"
-      ]
+      "effects": []
     },
     "be668c2d-71ea-4346-8980-1fbf5e4cbed3": {
       "name": "Otherworldly Gaze",
@@ -76856,8 +76747,7 @@
       "label": "",
       "scryfallId": "54cc4e2b-1497-4788-afb4-9e42b7683b5a",
       "effects": [
-        "Removal",
-        "Filter"
+        "Removal"
       ]
     },
     "0c017406-7fc3-4701-93ec-ddb02044c12a": {
@@ -78292,8 +78182,7 @@
       "label": "",
       "scryfallId": "74edd3e3-b2de-4ba0-a508-0418b0151d87",
       "effects": [
-        "CardAdvantage",
-        "Filter"
+        "CardAdvantage"
       ]
     },
     "612c9079-adae-4fe5-9a72-8efc09ddfe5c": {
@@ -78924,7 +78813,6 @@
       "label": "",
       "scryfallId": "76832ca8-95b2-4bc8-a191-9e2f50b77626",
       "effects": [
-        "Filter",
         "Pacify"
       ]
     },
@@ -80224,8 +80112,7 @@
       "label": "",
       "scryfallId": "0291c909-bb87-47cb-9b06-5e409e654f15",
       "effects": [
-        "CardAdvantage",
-        "Filter"
+        "CardAdvantage"
       ]
     },
     "172f86b6-9580-4eb2-b7dc-2a44277d978b": {
@@ -81731,7 +81618,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "97b8db82-4632-40fd-b1e2-7172ddf8d6de",
-      "effects": []
+      "effects": [
+        "Filter"
+      ]
     },
     "49c0aac5-d650-4ada-a194-3bf77f104bc1": {
       "name": "Ransom Note",
@@ -82144,7 +82033,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "2fee3328-75c2-4d13-86e1-bf3a40fbf538",
-      "effects": []
+      "effects": [
+        "Filter"
+      ]
     },
     "022624eb-c9d7-4110-bcc3-465c8d48fcd7": {
       "name": "Ravenous Gigantotherium",
@@ -82290,8 +82181,7 @@
       "label": "",
       "scryfallId": "d440d90e-ac7e-4715-971a-700c977c7fde",
       "effects": [
-        "Removal",
-        "Filter"
+        "Removal"
       ]
     },
     "792da586-a687-428c-a10e-75431249df5b": {
@@ -83008,8 +82898,7 @@
       "label": "",
       "scryfallId": "07c33410-7e7c-4aee-9532-bf7a9558cf52",
       "effects": [
-        "CardAdvantage",
-        "Filter"
+        "CardAdvantage"
       ]
     },
     "07d7f9d2-5414-4aaf-b6f2-1fedf16c3af7": {
@@ -83548,7 +83437,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "39f6140e-4e96-478b-8a77-dc5100a9f95e",
-      "effects": []
+      "effects": [
+        "Filter"
+      ]
     },
     "1212cc74-ff66-479e-8e1b-504446e1c6d9": {
       "name": "Relentless Rohirrim",
@@ -84204,7 +84095,7 @@
       "label": "",
       "scryfallId": "0c6c01a9-67f7-4e96-b44e-b28379b41cc2",
       "effects": [
-        "CardAdvantage",
+        "Filter",
         "Burn"
       ]
     },
@@ -87158,9 +87049,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "4f93f3c9-b317-40c1-87f5-0038c09b646d",
-      "effects": [
-        "Filter"
-      ]
+      "effects": []
     },
     "99002f0c-762b-4714-afe3-5b011350aefd": {
       "name": "Rummaging Wizard",
@@ -87177,8 +87066,7 @@
       "label": "",
       "scryfallId": "9251f658-bf7a-45e7-a71f-8e359b838921",
       "effects": [
-        "CardAdvantage",
-        "Filter"
+        "CardAdvantage"
       ]
     },
     "5462cb38-7cd7-46e8-a273-35d0d1af45b4": {
@@ -88097,8 +87985,7 @@
       "effects": [
         "Tokens",
         "Ramp",
-        "CardAdvantage",
-        "Filter"
+        "CardAdvantage"
       ]
     },
     "5aa76c5d-8046-42ce-b61d-cc9b4806c11a": {
@@ -88747,7 +88634,6 @@
       "scryfallId": "2d52ea1e-5b66-47c7-9a6d-95f5996565d8",
       "effects": [
         "CardAdvantage",
-        "Filter",
         "Sacrifice"
       ]
     },
@@ -89082,8 +88968,7 @@
       "label": "",
       "scryfallId": "2c178c8d-ef57-4a69-a72d-c6c6f1eda617",
       "effects": [
-        "CardAdvantage",
-        "Filter"
+        "CardAdvantage"
       ]
     },
     "7555c429-5f2d-4171-b6b0-8e3c8da7f314": {
@@ -89648,8 +89533,7 @@
       "label": "",
       "scryfallId": "28308e05-5c20-4037-b2ba-30bc45566a0e",
       "effects": [
-        "CardAdvantage",
-        "Filter"
+        "CardAdvantage"
       ]
     },
     "ed3652da-0127-4c9e-9913-f20becdd0ba9": {
@@ -91937,8 +91821,7 @@
       "label": "",
       "scryfallId": "492ed286-e5ac-4224-8892-363885eb1350",
       "effects": [
-        "CardAdvantage",
-        "Filter"
+        "CardAdvantage"
       ]
     },
     "62a3f892-11cf-4064-8186-381ae0f9aa23": {
@@ -91957,8 +91840,7 @@
       "scryfallId": "31147651-9a5e-4329-923b-e464f67135e9",
       "effects": [
         "Removal",
-        "CardAdvantage",
-        "Filter"
+        "CardAdvantage"
       ]
     },
     "4e389b61-7b31-42ba-a19b-2502f63fd34a": {
@@ -93947,8 +93829,7 @@
       "label": "",
       "scryfallId": "46588683-74c7-4041-a43b-95d51ba51a94",
       "effects": [
-        "CardAdvantage",
-        "Filter"
+        "CardAdvantage"
       ]
     },
     "574230c7-b949-4c90-b107-c26458a6e469": {
@@ -93957,6 +93838,7 @@
       "label": "",
       "scryfallId": "118995a6-8471-47ac-9404-700ce7fc46f6",
       "effects": [
+        "Filter",
         "Pacify"
       ]
     },
@@ -93982,8 +93864,7 @@
       "label": "",
       "scryfallId": "5c6cf357-c231-4512-aa9a-ab4a60007136",
       "effects": [
-        "CardAdvantage",
-        "Filter"
+        "CardAdvantage"
       ]
     },
     "472756f7-7fb8-4630-be14-d78bb9c99157": {
@@ -94246,9 +94127,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "a671ec19-32f4-4fde-8ee0-1224471e79db",
-      "effects": [
-        "Filter"
-      ]
+      "effects": []
     },
     "40b82dee-98c7-4b86-88b8-28388cd0331f": {
       "name": "Silver Sable, Mercenary Leader",
@@ -95390,6 +95269,7 @@
       "label": "",
       "scryfallId": "63f5498b-bb12-48ec-811b-b52e45ffddaf",
       "effects": [
+        "Filter",
         "Tutor"
       ]
     },
@@ -96298,8 +96178,7 @@
       "label": "",
       "scryfallId": "0c635ea1-6395-4b28-86e7-6e136c95ca8a",
       "effects": [
-        "CardAdvantage",
-        "Filter"
+        "CardAdvantage"
       ]
     },
     "17b29350-4f37-4552-8192-4856b15345f9": {
@@ -96557,7 +96436,6 @@
       "label": "",
       "scryfallId": "135db79f-6f07-486c-ae3a-d4244aaf6dc8",
       "effects": [
-        "Filter",
         "Pacify"
       ]
     },
@@ -97093,7 +96971,6 @@
       "effects": [
         "Tokens",
         "CardAdvantage",
-        "Filter",
         "ManaFixing"
       ]
     },
@@ -97569,8 +97446,7 @@
       "label": "",
       "scryfallId": "15b326af-3ddd-4e34-9c83-77c11ea69101",
       "effects": [
-        "CardAdvantage",
-        "Filter"
+        "CardAdvantage"
       ]
     },
     "24c3c505-ddaa-4adb-983e-7c78d9933cc7": {
@@ -99377,9 +99253,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "d90175ae-4109-4845-b3ff-1531fb67a0e1",
-      "effects": [
-        "Filter"
-      ]
+      "effects": []
     },
     "a08189f2-1643-496a-8a91-74864528b4db": {
       "name": "Spreading Algae",
@@ -100308,8 +100182,7 @@
       "label": "",
       "scryfallId": "3e6ff99a-9ecc-4f1b-9c85-e0820f3a5729",
       "effects": [
-        "CardAdvantage",
-        "Filter"
+        "CardAdvantage"
       ]
     },
     "face2dc0-37ba-4efe-b900-b5521567c943": {
@@ -100938,9 +100811,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "c1debb8c-d5e0-49e5-ab27-2d50e6f9d8d2",
-      "effects": [
-        "Filter"
-      ]
+      "effects": []
     },
     "068b370f-a358-4244-8050-6c81680c55c7": {
       "name": "Stocking the Pantry",
@@ -100958,8 +100829,7 @@
       "label": "",
       "scryfallId": "0214ebc6-c59f-4170-8dd2-ce07caa6e6ad",
       "effects": [
-        "Bounce",
-        "Filter"
+        "Bounce"
       ]
     },
     "1203a80f-11ac-46ed-aa2a-5a6782b6303d": {
@@ -101498,9 +101368,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "0540ee72-6370-4f70-9526-6f441b3cac1e",
-      "effects": [
-        "Filter"
-      ]
+      "effects": []
     },
     "7071aee8-b5ca-4be5-9ba0-2df7e3af303b": {
       "name": "Story Circle",
@@ -101650,6 +101518,7 @@
       "label": "",
       "scryfallId": "6d37e626-1f2e-4c26-a6a3-93eaddee1233",
       "effects": [
+        "Filter",
         "Cheat"
       ]
     },
@@ -103250,8 +103119,7 @@
       "label": "",
       "scryfallId": "36133cff-4349-42d5-a7a9-9c6967af56c1",
       "effects": [
-        "Ramp",
-        "Filter"
+        "Ramp"
       ]
     },
     "fb7adbee-a3b0-42bf-988f-9d4faf6bd006": {
@@ -103933,7 +103801,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "12a3400d-7a8b-4bae-9a4f-c9a1bc741e68",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "8331d2ff-3729-4014-8dcb-278644d2632a": {
       "name": "Séance Board",
@@ -104013,7 +103883,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "442a4331-99ce-405e-b261-19b7f3375ddf",
-      "effects": []
+      "effects": [
+        "Filter"
+      ]
     },
     "5b0cb089-087d-4b91-9e63-8186dc737a00": {
       "name": "Tahngarth's Rage",
@@ -104210,8 +104082,7 @@
       "label": "",
       "scryfallId": "f858d83d-a13e-4ffa-a91d-d695e5e5d71a",
       "effects": [
-        "Removal",
-        "Filter"
+        "Removal"
       ]
     },
     "ac2dd694-d2f1-4025-8400-12332bdc882a": {
@@ -105240,8 +105111,7 @@
       "label": "",
       "scryfallId": "06362723-b045-4656-a0ff-74e7dbe121e7",
       "effects": [
-        "CardAdvantage",
-        "Filter"
+        "CardAdvantage"
       ]
     },
     "ac46f435-5b25-4b46-b89f-175bca81b9ad": {
@@ -106148,7 +106018,8 @@
       "label": "",
       "scryfallId": "0502deea-95ad-4b6d-a3ac-d3adcd607624",
       "effects": [
-        "Tokens"
+        "Tokens",
+        "CardAdvantage"
       ]
     },
     "71fc2393-f55c-4b06-897c-fb7d4199b5f5": {
@@ -106181,8 +106052,7 @@
       "label": "",
       "scryfallId": "2174d16e-4a78-4d27-b220-1086c40db83e",
       "effects": [
-        "CardAdvantage",
-        "Filter"
+        "CardAdvantage"
       ]
     },
     "0eb11b2d-a397-48da-a0f3-9f0f83f42282": {
@@ -106364,9 +106234,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "6a1858f5-16b8-4a58-8f31-b60f926fdbf8",
-      "effects": [
-        "Filter"
-      ]
+      "effects": []
     },
     "0863c4bc-1e3e-4ff9-8877-88d4021c85e5": {
       "name": "Thawbringer",
@@ -107039,7 +106907,6 @@
       "label": "",
       "scryfallId": "9714aa30-1db2-4670-9a0b-72acfc3f703c",
       "effects": [
-        "Filter",
         "ManaFixing"
       ]
     },
@@ -107049,8 +106916,7 @@
       "label": "",
       "scryfallId": "20feab19-d4b3-45f4-a7b9-fdfbedc83c72",
       "effects": [
-        "CardAdvantage",
-        "Filter"
+        "CardAdvantage"
       ]
     },
     "87a77482-f286-4fb1-b179-85b2095bb768": {
@@ -107791,8 +107657,7 @@
       "label": "",
       "scryfallId": "084123b5-c60a-4ebd-ad47-5f9eb10fa171",
       "effects": [
-        "CardAdvantage",
-        "Filter"
+        "CardAdvantage"
       ]
     },
     "23af0a0a-1d12-47c7-b191-2bd3f84eea93": {
@@ -108023,8 +107888,7 @@
       "label": "",
       "scryfallId": "1979a4a0-5df5-496a-aabb-d4cf35bed965",
       "effects": [
-        "CardAdvantage",
-        "Filter"
+        "CardAdvantage"
       ]
     },
     "3437d504-bf62-4c27-b15f-f6330182ff7e": {
@@ -108701,8 +108565,7 @@
       "label": "",
       "scryfallId": "42c400de-25cb-4865-ad1b-9a8a8da3da55",
       "effects": [
-        "CardAdvantage",
-        "Filter"
+        "CardAdvantage"
       ]
     },
     "78d2a3fd-864c-49f3-b531-c71dc3b35977": {
@@ -108898,9 +108761,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "3296b4ef-1c4a-4048-b7ce-44424fb3ff7d",
-      "effects": [
-        "Filter"
-      ]
+      "effects": []
     },
     "b8020a8b-557b-465d-865d-b59fecd7abc1": {
       "name": "Threefold Thunderhulk",
@@ -110239,7 +110100,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "d462d30c-9060-46d6-b5b3-cac476ee2ce1",
-      "effects": []
+      "effects": [
+        "Filter"
+      ]
     },
     "c857de66-f4e0-4e97-ad01-fac623af8225": {
       "name": "Tomb Blade",
@@ -112755,8 +112618,7 @@
       "label": "",
       "scryfallId": "3cdf691e-96a5-45c7-9b94-6f04af81c8e4",
       "effects": [
-        "CardAdvantage",
-        "Filter"
+        "CardAdvantage"
       ]
     },
     "321fd970-a259-448d-bd98-e85e386174f9": {
@@ -112816,8 +112678,7 @@
       "label": "",
       "scryfallId": "68c0d087-540a-4249-9265-f13cc8e776ea",
       "effects": [
-        "Tokens",
-        "Filter"
+        "Tokens"
       ]
     },
     "64b4e91f-83a4-4b3f-87d4-8c48907e628d": {
@@ -113205,9 +113066,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "a66fbaeb-1624-43b3-83e2-a37ce7588a5a",
-      "effects": [
-        "Filter"
-      ]
+      "effects": []
     },
     "871c4b27-990a-4947-b962-8a6d0bfd85ad": {
       "name": "Unblinking Observer",
@@ -114423,9 +114282,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "10a544d7-ead7-42fd-a35a-c1b672771d5b",
-      "effects": [
-        "Filter"
-      ]
+      "effects": []
     },
     "e5fa232a-c8f2-4532-88bf-60d1223181b0": {
       "name": "Urza's Armor",
@@ -114476,8 +114333,7 @@
       "label": "",
       "scryfallId": "0fd2f066-f386-41b9-8d8d-1dabf28af4aa",
       "effects": [
-        "Tokens",
-        "Filter"
+        "Tokens"
       ]
     },
     "bf6ea878-044b-40a8-a21b-0191a948a69a": {
@@ -114595,8 +114451,7 @@
         "RemovePermanent",
         "Wipe",
         "Ramp",
-        "CardAdvantage",
-        "Filter"
+        "CardAdvantage"
       ]
     },
     "8ad7fdd2-bff5-4434-a3f9-1f5ce0ed573b": {
@@ -114990,7 +114845,6 @@
       "label": "",
       "scryfallId": "02f210ed-b40b-44c8-9424-fbefb31e9c3c",
       "effects": [
-        "CardAdvantage",
         "Burn"
       ]
     },
@@ -116872,8 +116726,7 @@
       "label": "",
       "scryfallId": "36dc7851-795b-4d59-bcd9-16d2c87d3e19",
       "effects": [
-        "CardAdvantage",
-        "Filter"
+        "CardAdvantage"
       ]
     },
     "7b58e277-a969-4c7f-8143-ee4f6bd1e3ed": {
@@ -117056,7 +116909,6 @@
       "scryfallId": "2124e308-091c-4a0d-8631-e3106636b59b",
       "effects": [
         "CardAdvantage",
-        "Filter",
         "Regrowth"
       ]
     },
@@ -117295,6 +117147,7 @@
       "label": "",
       "scryfallId": "1966fb02-c5e8-4f24-a1e9-03d974f38390",
       "effects": [
+        "Filter",
         "ManaFixing"
       ]
     },
@@ -117771,8 +117624,7 @@
       "label": "",
       "scryfallId": "3e2c3304-1bd9-44bb-bd91-00b3a089be00",
       "effects": [
-        "CardAdvantage",
-        "Filter"
+        "CardAdvantage"
       ]
     },
     "c8cdabc4-e147-491b-9c44-96e57f6ec3b4": {
@@ -118312,7 +118164,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "18a2bdc8-b705-4eb5-b3a5-ff2e2ab8f312",
-      "effects": []
+      "effects": [
+        "Filter"
+      ]
     },
     "59015068-6868-4235-981b-96137123c685": {
       "name": "Wandering Eye",
@@ -118882,7 +118736,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "00a0c819-36d1-442b-bec5-e6df58a122c0",
-      "effects": []
+      "effects": [
+        "Filter"
+      ]
     },
     "29439669-c9be-46f3-a62f-16de51fefe88": {
       "name": "Wasteland Raider",
@@ -119381,8 +119237,7 @@
       "label": "",
       "scryfallId": "163f1d8d-c902-48c5-9b39-c6f40ebc4090",
       "effects": [
-        "CardAdvantage",
-        "Filter"
+        "CardAdvantage"
       ]
     },
     "73d0b29a-5b7a-4835-9bd4-5d00e685b851": {
@@ -119933,21 +119788,27 @@
       "rating": 1,
       "label": "",
       "scryfallId": "251074d4-c4d1-426e-b364-0f306cfd07a1",
-      "effects": []
+      "effects": [
+        "Filter"
+      ]
     },
     "13a3f2c1-0454-4661-a462-542254f8360d": {
       "name": "Whirlpool Rider",
       "rating": 1,
       "label": "",
       "scryfallId": "0de47f44-8c5e-4114-9064-145d2d8813c6",
-      "effects": []
+      "effects": [
+        "Filter"
+      ]
     },
     "b7a1c54b-bb2f-4423-865a-ad114cd18c76": {
       "name": "Whirlpool Warrior",
       "rating": 1,
       "label": "",
       "scryfallId": "01f891ca-4e6a-4710-b1cf-5dabb5e1ad93",
-      "effects": []
+      "effects": [
+        "Filter"
+      ]
     },
     "d3946df7-cb24-47c0-a8b0-1bdf95d99926": {
       "name": "Whirlwind",
@@ -120666,9 +120527,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "0adc3bff-0eb1-40e9-b954-5515babd07a3",
-      "effects": [
-        "Filter"
-      ]
+      "effects": []
     },
     "94723d61-3e29-4180-91bc-df37c4086a66": {
       "name": "Willowdusk, Essence Seer",
@@ -121113,8 +120972,7 @@
       "label": "",
       "scryfallId": "0ea1aa2e-13cf-490d-b142-5735bac153a1",
       "effects": [
-        "CardAdvantage",
-        "Filter"
+        "CardAdvantage"
       ]
     },
     "8badfd34-9b63-4ada-8012-b8cddaf5b492": {
@@ -122195,7 +122053,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "f77b8e34-e7e9-4ac6-bc21-0ef52c6696c7",
-      "effects": []
+      "effects": [
+        "Filter"
+      ]
     },
     "f184e860-05c3-43cf-a625-ab53427406c5": {
       "name": "Wu Warship",
@@ -122866,9 +122726,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "56b0f66b-dca9-4a01-9394-20a513c2b225",
-      "effects": [
-        "Filter"
-      ]
+      "effects": []
     },
     "f24fc213-6341-482c-a056-946d0f1dd76b": {
       "name": "Young Deathclaws",
@@ -123890,8 +123748,7 @@
       "label": "",
       "scryfallId": "190f47fb-8bd3-44d1-b7a2-2c55b55e03e7",
       "effects": [
-        "CardAdvantage",
-        "Filter"
+        "CardAdvantage"
       ]
     },
     "d6fdfd94-cef5-482c-83ed-11c5ba40abe9": {
