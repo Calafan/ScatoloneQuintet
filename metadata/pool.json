@@ -20634,8 +20634,7 @@
       "label": "",
       "scryfallId": "0c06b920-231c-477e-aea2-ea082a209a4a",
       "effects": [
-        "CardAdvantage",
-        "Filter"
+        "CardAdvantage"
       ],
       "reviewedAt": "2026-09-04T14:49:52.9047334+00:00"
     },
@@ -21092,8 +21091,7 @@
       "label": "",
       "scryfallId": "9c249aa6-c65c-4572-8e2e-c3899638ecce",
       "effects": [
-        "CardAdvantage",
-        "Filter"
+        "CardAdvantage"
       ],
       "reviewedAt": "2026-09-23T10:25:42.2097067+00:00"
     },
@@ -21909,8 +21907,7 @@
       "label": "",
       "scryfallId": "54ec3510-c168-4acc-aee8-65529d0f5ad7",
       "effects": [
-        "CardAdvantage",
-        "Filter"
+        "CardAdvantage"
       ],
       "reviewedAt": "2026-09-25T11:03:41.8991048+00:00"
     },
