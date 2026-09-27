@@ -36250,8 +36250,7 @@
       "label": "",
       "scryfallId": "3bdc3066-de4a-4cc8-9086-f90f55ba8ff5",
       "effects": [
-        "Removal",
-        "Filter"
+        "Removal"
       ]
     },
     "78497c54-7179-41b7-9454-7b915fd96cd5": {
@@ -56974,7 +56973,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "4611fd39-a212-4d04-8c9e-d5d9c2bf3c7d",
-      "effects": []
+      "effects": [
+        "Cheat"
+      ]
     },
     "fbbc3acb-c917-44ff-ac6f-9dd6ebe3f4ad": {
       "name": "Kird Ape",
@@ -72325,7 +72326,6 @@
       "label": "",
       "scryfallId": "163a5a68-66ed-4508-9c27-32d81ae913b5",
       "effects": [
-        "Filter",
         "Regrowth"
       ]
     },
@@ -103051,7 +103051,8 @@
       "label": "",
       "scryfallId": "36133cff-4349-42d5-a7a9-9c6967af56c1",
       "effects": [
-        "Ramp"
+        "Ramp",
+        "Cheat"
       ]
     },
     "fb7adbee-a3b0-42bf-988f-9d4faf6bd006": {
@@ -111593,8 +111594,7 @@
       "scryfallId": "72acb67d-01cb-4fde-8b0b-199e8d1e396a",
       "effects": [
         "Removal",
-        "Disenchant",
-        "Filter"
+        "Disenchant"
       ]
     },
     "7b2c7758-2b89-49ff-8838-8dc9880c7209": {
@@ -112995,7 +112995,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "a66fbaeb-1624-43b3-83e2-a37ce7588a5a",
-      "effects": []
+      "effects": [
+        "Filter"
+      ]
     },
     "871c4b27-990a-4947-b962-8a6d0bfd85ad": {
       "name": "Unblinking Observer",

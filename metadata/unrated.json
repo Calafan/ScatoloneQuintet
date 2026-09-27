@@ -1275,7 +1275,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "3f92cfc3-7b87-4945-b7d6-b106c9d8bfed",
-      "effects": []
+      "effects": [
+        "Cheat"
+      ]
     },
     "3819daab-fe35-4f99-9282-47bd05c7fcd6": {
       "name": "Affa Guard Hound",
@@ -31427,8 +31429,7 @@
       "label": "",
       "scryfallId": "994e2332-fcd6-49da-9e1f-cdaac9030a9f",
       "effects": [
-        "Counter",
-        "Filter"
+        "Counter"
       ]
     },
     "ed8184f8-f6a7-4f97-9f4e-bf72077af754": {
@@ -92409,8 +92410,7 @@
       "label": "",
       "scryfallId": "af13770d-dddb-4b78-9cd3-4a0dc50472f4",
       "effects": [
-        "Counter",
-        "Filter"
+        "Counter"
       ]
     },
     "c8131fb3-3146-4434-9e4b-ac88ab3cbe37": {
