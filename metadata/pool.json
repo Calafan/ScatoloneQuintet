@@ -2658,8 +2658,7 @@
       "label": "",
       "scryfallId": "d086e4e5-98fa-437e-85aa-d8849c94ce94",
       "effects": [
-        "Removal",
-        "Filter"
+        "Removal"
       ],
       "reviewedAt": "2026-09-10T15:20:48.0883535+00:00"
     },
@@ -21851,7 +21850,8 @@
       "scryfallId": "54ec3510-c168-4acc-aee8-65529d0f5ad7",
       "effects": [
         "CardAdvantage"
-      ]
+      ],
+      "reviewedAt": "2026-09-25T11:03:41.8991048+00:00"
     },
     "615a149a-2869-4b18-bbbe-9ec1825049d7": {
       "name": "Thwart",

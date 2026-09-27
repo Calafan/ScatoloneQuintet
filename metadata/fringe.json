@@ -4309,7 +4309,7 @@
       "label": "",
       "scryfallId": "36356522-15fc-41e2-bf14-a745e5a96a50",
       "effects": [
-        "Filter",
+        "CardAdvantage",
         "Regrowth"
       ],
       "reviewedAt": "2026-09-23T12:25:48.9742251+00:00"
@@ -13556,7 +13556,7 @@
       "label": "",
       "scryfallId": "6c4f6b81-53d0-49fb-b404-c2ad67de7493",
       "effects": [
-        "Filter",
+        "CardAdvantage",
         "ManaFixing"
       ],
       "reviewedAt": "2026-09-23T10:22:37.4209137+00:00"
@@ -15499,7 +15499,7 @@
       "label": "",
       "scryfallId": "1e2278d7-215e-49f9-ae2b-9df099c67b6d",
       "effects": [
-        "Filter"
+        "CardAdvantage"
       ],
       "reviewedAt": "2026-09-23T22:18:12.1008236+00:00"
     },
@@ -25498,8 +25498,7 @@
       "label": "",
       "scryfallId": "9c6a20a8-7869-4b5d-aa22-acf232cc2d41",
       "effects": [
-        "Counter",
-        "Filter"
+        "Counter"
       ],
       "reviewedAt": "2026-09-11T13:47:21.641585+00:00"
     },
@@ -53779,7 +53778,7 @@
       "label": "",
       "scryfallId": "10fe09d9-2c3d-44cf-8d66-193ba9ddc8c6",
       "effects": [
-        "Filter",
+        "CardAdvantage",
         "Redirect"
       ],
       "reviewedAt": "2026-09-23T10:34:44.4710139+00:00"
@@ -57751,7 +57750,8 @@
       "effects": [
         "Tokens",
         "Removal"
-      ]
+      ],
+      "reviewedAt": "2026-09-12T09:44:43.8158139+00:00"
     },
     "bd9d761f-79cc-4082-8375-51af582f1472": {
       "name": "Kozilek's Unsealing",
@@ -84016,7 +84016,7 @@
       "label": "",
       "scryfallId": "1e7c9ff3-9db9-41c0-9c8b-067e694973c5",
       "effects": [
-        "Filter",
+        "CardAdvantage",
         "Redirect"
       ],
       "reviewedAt": "2026-09-23T14:56:57.4051355+00:00"
@@ -93246,7 +93246,8 @@
       "scryfallId": "00cb0b3c-a403-4212-93d3-3340c3f1e9db",
       "effects": [
         "CardAdvantage"
-      ]
+      ],
+      "reviewedAt": "2026-09-23T15:06:51.5745519+00:00"
     },
     "79dcc432-e8f5-4f2b-bff8-5ae964714666": {
       "name": "Shoreline Raider",
@@ -99356,7 +99357,7 @@
       "label": "",
       "scryfallId": "65e1ee86-6f08-4aa0-bf63-ae12028ef080",
       "effects": [
-        "Filter"
+        "CardAdvantage"
       ],
       "reviewedAt": "2026-09-23T21:39:34.0016406+00:00"
     },
@@ -111117,8 +111118,7 @@
       "label": "",
       "scryfallId": "51cb61ab-0508-4668-8680-051d38df7ccb",
       "effects": [
-        "Tokens",
-        "Filter"
+        "Tokens"
       ],
       "reviewedAt": "2026-09-10T07:26:06.2600413+00:00"
     },
@@ -121361,7 +121361,8 @@
       "scryfallId": "64dd6309-110d-44a0-a227-34a20e33ebdc",
       "effects": [
         "CardAdvantage"
-      ]
+      ],
+      "reviewedAt": "2026-09-25T09:27:18.9231557+00:00"
     },
     "d0e80414-abde-4f5e-9539-3efc83aa507f": {
       "name": "Wondrous Crucible",
