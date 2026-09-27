@@ -72326,6 +72326,7 @@
       "label": "",
       "scryfallId": "163a5a68-66ed-4508-9c27-32d81ae913b5",
       "effects": [
+        "Filter",
         "Regrowth"
       ]
     },
@@ -111593,7 +111594,8 @@
       "scryfallId": "72acb67d-01cb-4fde-8b0b-199e8d1e396a",
       "effects": [
         "Removal",
-        "Disenchant"
+        "Disenchant",
+        "Filter"
       ]
     },
     "7b2c7758-2b89-49ff-8838-8dc9880c7209": {
@@ -114261,7 +114263,8 @@
       "label": "",
       "scryfallId": "0fd2f066-f386-41b9-8d8d-1dabf28af4aa",
       "effects": [
-        "Tokens"
+        "Tokens",
+        "Filter"
       ]
     },
     "bf6ea878-044b-40a8-a21b-0191a948a69a": {

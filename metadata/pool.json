@@ -10937,6 +10937,7 @@
       "scryfallId": "0737dbec-1646-41a0-adbf-706c9bd4fc7a",
       "effects": [
         "Tokens",
+        "Filter",
         "ManaFixing"
       ]
     },
