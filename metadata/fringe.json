@@ -22199,6 +22199,7 @@
       "label": "",
       "scryfallId": "2a3c8b7d-0b85-4e5c-acc4-253406deef27",
       "effects": [
+        "Filter",
         "ManaFixing"
       ]
     },
@@ -40381,6 +40382,7 @@
       "label": "",
       "scryfallId": "0e03370a-05a7-4f84-aadd-9eba459e2696",
       "effects": [
+        "Filter",
         "ManaFixing"
       ]
     },
@@ -106834,6 +106836,7 @@
       "label": "",
       "scryfallId": "9714aa30-1db2-4670-9a0b-72acfc3f703c",
       "effects": [
+        "Filter",
         "ManaFixing"
       ]
     },

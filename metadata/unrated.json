@@ -65136,7 +65136,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "18bde721-8fa0-4f69-9909-b4864929e676",
-      "effects": []
+      "effects": [
+        "Filter"
+      ]
     },
     "021d654e-b731-40d0-a18e-eaff43f9fdb9": {
       "name": "New Blood",
@@ -97225,6 +97227,7 @@
       "label": "",
       "scryfallId": "0203d093-a060-47d7-876b-e7ce8e444bc6",
       "effects": [
+        "Filter",
         "ManaFixing"
       ]
     },
@@ -97234,6 +97237,7 @@
       "label": "",
       "scryfallId": "0e3f19c8-ae36-4538-884f-89c75fbd6180",
       "effects": [
+        "Filter",
         "ManaFixing"
       ]
     },
@@ -97243,6 +97247,7 @@
       "label": "",
       "scryfallId": "01f23c1a-a0fe-4520-88ed-045aa4044567",
       "effects": [
+        "Filter",
         "ManaFixing"
       ]
     },
@@ -97252,6 +97257,7 @@
       "label": "",
       "scryfallId": "00f8ec3c-d2cb-477c-a7e8-ff497df646d6",
       "effects": [
+        "Filter",
         "ManaFixing"
       ]
     },
@@ -97261,6 +97267,7 @@
       "label": "",
       "scryfallId": "01c9c7cb-4e2d-4dd1-a3ed-49caab45aacb",
       "effects": [
+        "Filter",
         "ManaFixing"
       ]
     },
@@ -97270,6 +97277,7 @@
       "label": "",
       "scryfallId": "06c0383a-ad82-4a22-8f55-2613048e3275",
       "effects": [
+        "Filter",
         "ManaFixing"
       ]
     },
@@ -97279,6 +97287,7 @@
       "label": "",
       "scryfallId": "084b5170-b80b-46af-9879-f0bd2651e94b",
       "effects": [
+        "Filter",
         "ManaFixing"
       ]
     },
@@ -97288,6 +97297,7 @@
       "label": "",
       "scryfallId": "04dc78e1-50d8-493a-9c1f-9c1d95343fff",
       "effects": [
+        "Filter",
         "ManaFixing"
       ]
     },
@@ -97297,6 +97307,7 @@
       "label": "",
       "scryfallId": "06505026-d3c1-41b9-a665-544351649402",
       "effects": [
+        "Filter",
         "ManaFixing"
       ]
     },
@@ -97306,6 +97317,7 @@
       "label": "",
       "scryfallId": "07e73142-a8c0-4bd5-8ab4-cd10e572a975",
       "effects": [
+        "Filter",
         "ManaFixing"
       ]
     },
@@ -111931,7 +111943,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "5d1851b2-c291-41ac-8985-e72988de1dbe",
-      "effects": []
+      "effects": [
+        "Filter"
+      ]
     },
     "6543b60c-12b0-4e69-9074-6a2b468c5234": {
       "name": "Zhur-Taa Ancient",
