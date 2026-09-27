@@ -3826,8 +3826,10 @@
       "label": "",
       "scryfallId": "3a9889ab-3527-414e-9c30-539f0608bd2b",
       "effects": [
+        "Filter",
         "ManaFixing"
-      ]
+      ],
+      "reviewedAt": "2026-09-23T10:52:00.4294432+00:00"
     },
     "4bb1863e-50f3-4e08-884e-1f58ee55817f": {
       "name": "Component Pouch",
@@ -6064,8 +6066,10 @@
       "label": "",
       "scryfallId": "1f0cef88-50bd-4baa-8d02-26ec4967a7be",
       "effects": [
+        "Filter",
         "ManaFixing"
-      ]
+      ],
+      "reviewedAt": "2026-09-23T12:45:59.0328256+00:00"
     },
     "f7d52eac-edc9-464b-a163-07c136aa6e4c": {
       "name": "Elegy Acolyte",
@@ -9381,8 +9385,10 @@
       "label": "",
       "scryfallId": "15cbc81d-e464-4583-a9a8-b8a4931b1521",
       "effects": [
+        "Filter",
         "ManaFixing"
-      ]
+      ],
+      "reviewedAt": "2026-09-23T21:23:17.0144449+00:00"
     },
     "4b216b4d-f9cb-4ce2-af70-c91eef3db083": {
       "name": "Helbrute",
@@ -12060,8 +12066,10 @@
       "label": "",
       "scryfallId": "ab42ae1a-0c46-4364-b5f1-7688037e9acc",
       "effects": [
+        "Filter",
         "ManaFixing"
-      ]
+      ],
+      "reviewedAt": "2026-09-12T09:48:41.4307206+00:00"
     },
     "158a6225-a246-4fd6-aa57-0df8067b4383": {
       "name": "Lutri, the Spellchaser",
@@ -12608,8 +12616,10 @@
       "label": "",
       "scryfallId": "170701a7-2c29-401e-a0be-178c9f469076",
       "effects": [
+        "Filter",
         "ManaFixing"
-      ]
+      ],
+      "reviewedAt": "2026-09-23T12:45:59.7540565+00:00"
     },
     "baec04a1-3bc9-4618-afab-e42013e36648": {
       "name": "Metropolis Reformer",
@@ -16114,8 +16124,10 @@
       "label": "",
       "scryfallId": "2faf0337-c7a3-45a0-bb14-c431526da2cd",
       "effects": [
+        "Filter",
         "ManaFixing"
-      ]
+      ],
+      "reviewedAt": "2026-09-12T10:43:54.9650455+00:00"
     },
     "c7fa1dda-9312-4ec8-82cd-a1ba7bc33497": {
       "name": "Raugrin Triome",
@@ -18222,8 +18234,10 @@
       "label": "",
       "scryfallId": "27eae4ce-e0b3-482b-9136-6fc17333877e",
       "effects": [
+        "Filter",
         "ManaFixing"
-      ]
+      ],
+      "reviewedAt": "2026-09-12T09:38:28.2303652+00:00"
     },
     "2143f413-7baa-4fd6-a7ca-32f52bfa553f": {
       "name": "Shadrix Silverquill",
@@ -21787,8 +21801,10 @@
       "label": "",
       "scryfallId": "17260fff-b239-4af4-9306-3236ae3fa5a5",
       "effects": [
+        "Filter",
         "ManaFixing"
-      ]
+      ],
+      "reviewedAt": "2026-09-23T10:50:23.5742619+00:00"
     },
     "3d713c11-36a7-4b19-8c42-a9b61ef5902c": {
       "name": "Thundering Raiju",
@@ -22673,8 +22689,10 @@
       "label": "",
       "scryfallId": "19545db3-8be5-41e5-8d13-dec4f96fe624",
       "effects": [
+        "Filter",
         "ManaFixing"
-      ]
+      ],
+      "reviewedAt": "2026-09-12T09:53:16.5368677+00:00"
     },
     "0bd57503-b544-45f8-bcd2-f5b2170010f6": {
       "name": "Undercover Operative",
@@ -22689,8 +22707,10 @@
       "label": "",
       "scryfallId": "0d8938e4-bfa5-47e1-8c71-9c6583346300",
       "effects": [
+        "Filter",
         "ManaFixing"
-      ]
+      ],
+      "reviewedAt": "2026-09-23T14:27:43.1720975+00:00"
     },
     "857febd9-cdd7-4f8e-a852-d88084b0cfbc": {
       "name": "Underground River",

@@ -5044,7 +5044,10 @@
       "rating": 1,
       "label": "",
       "scryfallId": "3f8c8fa2-12ab-4f6a-9f7a-2bc69e9ba024",
-      "effects": []
+      "effects": [
+        "Filter"
+      ],
+      "reviewedAt": "2026-09-23T14:50:01.1850458+00:00"
     },
     "b4505b07-ac99-4706-88b2-6164389e447c": {
       "name": "Ark of Blight",
@@ -19915,8 +19918,10 @@
       "label": "",
       "scryfallId": "5ffa48cc-b991-4d47-b7ec-cf678915c758",
       "effects": [
+        "Filter",
         "ManaFixing"
-      ]
+      ],
+      "reviewedAt": "2026-09-12T10:43:08.5925445+00:00"
     },
     "ed14be15-8f8d-4fe3-a147-f5da8ed873bf": {
       "name": "Conduit of Worlds",
@@ -48325,8 +48330,10 @@
       "label": "",
       "scryfallId": "4ba8f2e7-8357-4862-97dc-1942d066023a",
       "effects": [
+        "Filter",
         "ManaFixing"
-      ]
+      ],
+      "reviewedAt": "2026-09-12T09:33:11.6619687+00:00"
     },
     "4337f35b-baab-4640-9e1c-05f61c49bbdd": {
       "name": "Hidden Guerrillas",
@@ -86957,8 +86964,10 @@
       "label": "",
       "scryfallId": "3f5d2c38-663c-4f64-8cfc-c102462e82ef",
       "effects": [
+        "Filter",
         "ManaFixing"
-      ]
+      ],
+      "reviewedAt": "2026-09-11T13:32:21.8367472+00:00"
     },
     "2e7e19c2-5399-433d-9653-d956f11838f5": {
       "name": "Rumbling Crescendo",
