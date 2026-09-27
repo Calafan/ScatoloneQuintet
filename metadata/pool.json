@@ -372,7 +372,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "106ca190-3109-4d43-b314-0a2cc7c2a3f7",
-      "effects": []
+      "effects": [
+        "Wipe"
+      ]
     },
     "8651da8e-9b2c-4530-a521-aea490ad88d4": {
       "name": "Alchemist's Retrieval",
@@ -2170,7 +2172,8 @@
       "label": "",
       "scryfallId": "0141312f-4b68-4c56-b1dc-5b7e6afbb96c",
       "effects": [
-        "Tokens"
+        "Tokens",
+        "Wipe"
       ]
     },
     "65e1558c-6b09-4ddc-b520-f19f4fb972af": {
@@ -2415,6 +2418,7 @@
       "label": "",
       "scryfallId": "27691efa-052d-4afe-b9ef-159858ca660f",
       "effects": [
+        "Wipe",
         "Disenchant"
       ]
     },
@@ -3121,7 +3125,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "024ae668-a1ae-4020-89c8-acbd8bd0a691",
-      "effects": []
+      "effects": [
+        "Wipe"
+      ]
     },
     "ed68160e-5e3d-44f2-ac7a-3749fda10119": {
       "name": "Catastrophe",
@@ -4638,7 +4644,7 @@
       "label": "",
       "scryfallId": "5151b81b-6d10-40de-9e65-89923e4c03d9",
       "effects": [
-        "Wipe"
+        "Removal"
       ]
     },
     "0a746c49-cc44-467a-85b7-3c498559aea7": {
@@ -4751,7 +4757,7 @@
       "label": "",
       "scryfallId": "3e5493c3-0be2-467c-82f0-3ee1ca909d0c",
       "effects": [
-        "Wipe",
+        "Removal",
         "Regrowth"
       ]
     },
@@ -4866,6 +4872,7 @@
       "label": "",
       "scryfallId": "1fe36d82-e59e-41f1-ab71-90c7336a28ff",
       "effects": [
+        "Wipe",
         "LandDestruction"
       ]
     },
@@ -5060,7 +5067,7 @@
       "label": "",
       "scryfallId": "4c09c4b8-dcb3-4dfe-a892-718e0d1c5a8a",
       "effects": [
-        "Wipe"
+        "Removal"
       ]
     },
     "82004860-e589-4e38-8d61-8c0210e4ea39": {
@@ -5474,7 +5481,7 @@
       "scryfallId": "12e6ec7f-4b98-43c2-bdf8-c662263cda51",
       "effects": [
         "Tokens",
-        "Wipe",
+        "Removal",
         "Discard"
       ]
     },
@@ -6774,7 +6781,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "2c4e7a67-391e-4427-894d-bdda683c086f",
-      "effects": []
+      "effects": [
+        "Wipe"
+      ]
     },
     "8841fdb9-0565-4ef5-814c-293c14242741": {
       "name": "Extortion",
@@ -8492,6 +8501,7 @@
       "scryfallId": "023feb3d-a8ae-4c4e-ac44-ee0bd56c4728",
       "effects": [
         "Removal",
+        "Wipe",
         "Buff",
         "Regrowth"
       ]
@@ -8837,7 +8847,7 @@
       "label": "",
       "scryfallId": "532c5b14-75cf-4e4c-9b80-2d56a86e2844",
       "effects": [
-        "Wipe"
+        "Removal"
       ]
     },
     "0d9df234-520c-40aa-a37d-070181cf695c": {
@@ -9422,7 +9432,7 @@
       "label": "",
       "scryfallId": "4457ff96-a65d-4e9f-bb99-ac5226446263",
       "effects": [
-        "Wipe",
+        "Removal",
         "Buff"
       ]
     },
@@ -10211,7 +10221,7 @@
       "label": "",
       "scryfallId": "1621e396-b7ea-4507-95a3-7206a8fe7903",
       "effects": [
-        "Wipe"
+        "Removal"
       ]
     },
     "db07a3f9-c6d1-4cae-a899-12b3e8d94018": {
@@ -11755,7 +11765,6 @@
       "scryfallId": "20ae3609-a3cc-486c-94f6-b8f647adfb47",
       "status": "Banned",
       "effects": [
-        "Wipe",
         "LandDestruction"
       ]
     },
@@ -12926,6 +12935,7 @@
       "status": "Token",
       "effects": [
         "Removal",
+        "Wipe",
         "Disenchant",
         "Discard",
         "Burn"
@@ -13924,6 +13934,7 @@
       "label": "",
       "scryfallId": "1021bcbd-566c-4f31-b148-0517b96a63db",
       "effects": [
+        "Wipe",
         "LandDestruction"
       ]
     },
@@ -14257,6 +14268,7 @@
       "label": "",
       "scryfallId": "0b8e32bc-33b4-447c-a99d-295d10ef2aeb",
       "effects": [
+        "Wipe",
         "Reanimate"
       ]
     },
@@ -14795,7 +14807,9 @@
       "rating": 4,
       "label": "",
       "scryfallId": "02c175df-2e9b-4064-9271-d85e4dd4c94d",
-      "effects": []
+      "effects": [
+        "Wipe"
+      ]
     },
     "676c4cfa-f929-43aa-95cc-df81a596c2a2": {
       "name": "Persecute",
@@ -15413,7 +15427,8 @@
       "label": "",
       "scryfallId": "d31c8091-a66d-4f01-975b-0242888a5942",
       "effects": [
-        "Removal"
+        "Removal",
+        "Wipe"
       ]
     },
     "495348d7-bc11-4209-8b0f-72db2e6c6993": {
@@ -16936,7 +16951,7 @@
       "label": "",
       "scryfallId": "3f440fa1-5387-41d6-a80f-5b19dbb21514",
       "effects": [
-        "Wipe",
+        "Removal",
         "Reanimate"
       ]
     },
@@ -17378,7 +17393,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "886ef13a-4f9d-425b-a071-6366cdb637c8",
-      "effects": []
+      "effects": [
+        "Wipe"
+      ]
     },
     "3e2034ee-adc5-4a24-9605-c9722bf813c1": {
       "name": "SOLDIER Military Program",
@@ -18991,7 +19008,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "3a22892e-abf9-4353-82b8-1d1fc2bd9b26",
-      "effects": []
+      "effects": [
+        "Wipe"
+      ]
     },
     "7493d78c-26c4-402e-bec5-6449773d0344": {
       "name": "Smoldering Egg // Ashmouth Dragon",
@@ -21298,6 +21317,7 @@
       "scryfallId": "164c1910-df50-459e-b201-5cf29d3caa20",
       "effects": [
         "Removal",
+        "Wipe",
         "Burn"
       ]
     },
@@ -21398,7 +21418,9 @@
       "rating": 4,
       "label": "",
       "scryfallId": "0227e3cc-3d75-4e62-8ee8-deaa1d5db9d1",
-      "effects": []
+      "effects": [
+        "Wipe"
+      ]
     },
     "2e3ec514-fc9e-4964-a493-2a6cc9e63630": {
       "name": "The Mindskinner",
@@ -22078,6 +22100,7 @@
       "label": "",
       "scryfallId": "328b93f0-5078-4334-9c95-60ecdd17a388",
       "effects": [
+        "Wipe",
         "Reanimate"
       ]
     },
@@ -22201,6 +22224,7 @@
       "scryfallId": "26fbf2d5-193a-49cc-ad62-4776c10dc731",
       "effects": [
         "Tokens",
+        "Wipe",
         "CardAdvantage"
       ]
     },
@@ -22962,6 +22986,7 @@
       "scryfallId": "1956d6c4-4dca-4110-8de3-a31a1e4ec98f",
       "effects": [
         "Removal",
+        "Wipe",
         "Ramp",
         "Burn",
         "ManaFixing"
@@ -23150,7 +23175,8 @@
       "label": "",
       "scryfallId": "0445def0-8921-4579-912f-035d9fbce3c0",
       "effects": [
-        "Tokens"
+        "Tokens",
+        "Wipe"
       ]
     },
     "907ae517-22d5-4ac7-bc3a-3f4d5eaeeb57": {
