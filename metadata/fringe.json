@@ -25499,8 +25499,7 @@
       "scryfallId": "9c6a20a8-7869-4b5d-aa22-acf232cc2d41",
       "effects": [
         "Counter"
-      ],
-      "reviewedAt": "2026-09-11T13:47:21.641585+00:00"
+      ]
     },
     "0146de73-29bf-415a-b450-11074553f715": {
       "name": "Deny the Divine",
@@ -111120,8 +111119,7 @@
       "scryfallId": "51cb61ab-0508-4668-8680-051d38df7ccb",
       "effects": [
         "Tokens"
-      ],
-      "reviewedAt": "2026-09-10T07:26:06.2600413+00:00"
+      ]
     },
     "91857f68-4b0e-4fdf-8782-74324b496648": {
       "name": "Trap Digger",
