@@ -57749,7 +57749,8 @@
       "scryfallId": "7a753c5c-9271-4a10-9fdc-4849ce4fb412",
       "effects": [
         "Tokens",
-        "Removal"
+        "Removal",
+        "Filter"
       ],
       "reviewedAt": "2026-09-12T09:44:43.8158139+00:00"
     },
@@ -93244,7 +93245,7 @@
       "label": "",
       "scryfallId": "00cb0b3c-a403-4212-93d3-3340c3f1e9db",
       "effects": [
-        "CardAdvantage"
+        "Filter"
       ],
       "reviewedAt": "2026-09-23T15:06:51.5745519+00:00"
     },
@@ -121360,7 +121361,7 @@
       "label": "",
       "scryfallId": "64dd6309-110d-44a0-a227-34a20e33ebdc",
       "effects": [
-        "CardAdvantage"
+        "Filter"
       ],
       "reviewedAt": "2026-09-25T09:27:18.9231557+00:00"
     },
