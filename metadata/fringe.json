@@ -12772,6 +12772,7 @@
       "label": "",
       "scryfallId": "f87ace53-d77c-4df5-b200-4be2ac2b7fdb",
       "effects": [
+        "Discard",
         "Burn"
       ],
       "reviewedAt": "2026-09-08T10:54:31.9022916+00:00"
@@ -16636,7 +16637,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "2bb0e884-5bb4-41f3-b04b-6f638357c166",
-      "effects": [],
+      "effects": [
+        "Discard"
+      ],
       "reviewedAt": "2026-09-04T23:15:09.0840283+00:00"
     },
     "3db40361-5f55-417e-a7cd-7e360cc91b4d": {
@@ -71077,7 +71080,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "05362cde-3b0b-4a8d-9875-675cfac52e4a",
-      "effects": [],
+      "effects": [
+        "Discard"
+      ],
       "reviewedAt": "2026-09-04T14:49:43.4319155+00:00"
     },
     "cb32ab3e-ef76-4afb-959f-f8cc2d18416e": {
@@ -74659,7 +74664,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "79223c17-ecb1-47f1-8e24-eea464cc9b1e",
-      "effects": [],
+      "effects": [
+        "Discard"
+      ],
       "reviewedAt": "2026-09-08T09:33:56.6367216+00:00"
     },
     "2af01e09-f233-4675-89cd-470816471c62": {
@@ -79027,7 +79034,6 @@
       "label": "",
       "scryfallId": "27baccc0-7e25-4f39-be0d-31cd98ca0dc5",
       "effects": [
-        "Discard",
         "Filter",
         "Regrowth"
       ],
@@ -101368,7 +101374,6 @@
       "scryfallId": "45f03556-cef5-438d-a1d8-66c297502622",
       "effects": [
         "Removal",
-        "Discard",
         "Burn"
       ],
       "reviewedAt": "2026-09-05T12:02:24.483737+00:00"
@@ -102396,7 +102401,6 @@
       "scryfallId": "25c3ce9a-39e5-4273-ba67-224a837b75e7",
       "effects": [
         "Ramp",
-        "Discard",
         "Filter"
       ],
       "reviewedAt": "2026-09-10T15:23:03.9863569+00:00"
@@ -106712,7 +106716,6 @@
       "scryfallId": "690f1f31-f8c5-4336-9ec9-72ff761e3adc",
       "effects": [
         "Removal",
-        "Discard",
         "Burn"
       ],
       "reviewedAt": "2026-09-11T21:29:20.772893+00:00"
@@ -113974,7 +113977,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "37692f9a-3825-43aa-aacb-1bb92cb5bd07",
-      "effects": [],
+      "effects": [
+        "Discard"
+      ],
       "reviewedAt": "2026-09-22T11:50:17.7915156+00:00"
     },
     "00ff5598-2f7f-4e28-8b63-5ae1ce18f0c5": {
