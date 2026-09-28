@@ -213,9 +213,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "fe094903-45a6-4b11-b80e-aabe915c4b7c",
-      "effects": [
-        "Discard"
-      ]
+      "effects": []
     },
     "7282f643-191b-41be-9f6f-82360c915d6d": {
       "name": "Abyssal Persecutor",
@@ -1651,8 +1649,7 @@
       "label": "",
       "scryfallId": "1aebbb57-31b3-4289-815e-4f529e29f3ea",
       "effects": [
-        "Tokens",
-        "Discard"
+        "Tokens"
       ]
     },
     "2f47661e-a107-4d98-8773-0a068a63df49": {
@@ -19061,7 +19058,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "a8cad7a3-777e-4c84-b404-5f504844ab3b",
-      "effects": []
+      "effects": [
+        "Discard"
+      ]
     },
     "75564721-e4e9-463a-b49e-f0c7cd6f53a7": {
       "name": "Cranial Plating",
@@ -20768,7 +20767,6 @@
       "label": "",
       "scryfallId": "0fa3fa12-531b-41a1-a71b-a1a2670cf2db",
       "effects": [
-        "Discard",
         "Filter",
         "Steal"
       ]
@@ -24710,7 +24708,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "0c696712-07c4-4a82-93ab-a134f8d66825",
-      "effects": []
+      "effects": [
+        "Discard"
+      ]
     },
     "9b084cd4-cc21-4f3a-9ac5-1e1160a31aa6": {
       "name": "Disrupt Decorum",
@@ -25280,6 +25280,7 @@
       "effects": [
         "Tokens",
         "Wipe",
+        "Discard",
         "CardAdvantage",
         "Burn"
       ]
@@ -36808,7 +36809,6 @@
       "label": "",
       "scryfallId": "0b9fa570-770d-45a7-9b87-2def6992a22b",
       "effects": [
-        "Discard",
         "Filter"
       ]
     },
@@ -37186,9 +37186,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "0a21d76d-d86c-4348-be45-f65167d2b5a9",
-      "effects": [
-        "Discard"
-      ]
+      "effects": []
     },
     "0f575f18-4606-4b85-9a90-07f8d8d46d06": {
       "name": "Geth's Verdict",
@@ -48168,7 +48166,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "71a6f6a0-3670-4b72-8c8e-668f47252fa0",
-      "effects": []
+      "effects": [
+        "Discard"
+      ]
     },
     "5bbcfb73-cccc-47b0-81ae-17eb7c33ff5e": {
       "name": "Infinite Reflection",
@@ -55934,7 +55934,6 @@
       "label": "",
       "scryfallId": "0d995382-57a6-40a4-9050-31f57cb8dae3",
       "effects": [
-        "Discard",
         "Burn"
       ]
     },
@@ -56717,7 +56716,6 @@
       "label": "",
       "scryfallId": "c7935b2b-aebe-44b3-b91b-52978bb4ded5",
       "effects": [
-        "Discard",
         "Filter"
       ]
     },
@@ -56811,6 +56809,7 @@
       "label": "",
       "scryfallId": "2d2654b1-ce21-4079-b808-5589019534a5",
       "effects": [
+        "Discard",
         "CardAdvantage"
       ]
     },
@@ -57017,9 +57016,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "69247168-2bfb-4cce-a2a6-61459a0fbce4",
-      "effects": [
-        "Discard"
-      ]
+      "effects": []
     },
     "6b2eb774-08f3-46cb-aeca-2ab82fdd5f03": {
       "name": "Loxodon Stalwart",
@@ -60087,7 +60084,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "8d7a04a1-eaae-445f-89fd-2c2a716d46c5",
-      "effects": []
+      "effects": [
+        "Discard"
+      ]
     },
     "f4a96881-586d-44ad-b427-5cdf8988f9a1": {
       "name": "Memory Erosion",
@@ -65496,6 +65495,7 @@
       "scryfallId": "74239d78-1608-4b27-b2fd-8c7453f6b86b",
       "effects": [
         "Removal",
+        "Discard",
         "CardAdvantage",
         "Burn"
       ]
@@ -66404,7 +66404,6 @@
       "label": "",
       "scryfallId": "aa7514c5-27cd-46eb-ac85-4b1468a8064e",
       "effects": [
-        "Discard",
         "Filter"
       ]
     },
@@ -66701,9 +66700,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "24c30bb0-06ba-432b-a20c-6fa79b0dc68a",
-      "effects": [
-        "Discard"
-      ]
+      "effects": []
     },
     "5ea295af-e117-49cc-836b-da16b5d5bbdf": {
       "name": "Nullify",
@@ -67370,9 +67367,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "1d80f207-ad9a-4575-b3dc-86a38904d40e",
-      "effects": [
-        "Discard"
-      ]
+      "effects": []
     },
     "f3be91ce-e99b-4a51-a0f7-a000fd9d0e14": {
       "name": "Obzedat's Aid",
@@ -72134,7 +72129,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "616836e6-caf4-4398-a772-9c67f84c73c5",
-      "effects": []
+      "effects": [
+        "Discard"
+      ]
     },
     "a42b567d-6bfc-49e7-8f91-917e2bb3046c": {
       "name": "Possessed Skaab",
@@ -74365,9 +74362,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "335c3aa3-af89-44ce-955a-69e12d83175f",
-      "effects": [
-        "Discard"
-      ]
+      "effects": []
     },
     "cbb6139f-827f-490b-b9b7-e8c3ef714d44": {
       "name": "Quakefoot Cyclops",
@@ -74547,7 +74542,6 @@
       "label": "",
       "scryfallId": "35557995-82de-4731-a558-585288de275d",
       "effects": [
-        "Discard",
         "Burn"
       ]
     },
@@ -76726,7 +76720,6 @@
       "label": "",
       "scryfallId": "1d55bf66-0ba7-4bd5-a491-5ca98f22606c",
       "effects": [
-        "Discard",
         "Filter"
       ]
     },
@@ -81572,9 +81565,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "3af47f00-2f43-4de9-9a88-966331be83c4",
-      "effects": [
-        "Discard"
-      ]
+      "effects": []
     },
     "5d03e6a7-81ea-47d3-add7-8dfdbbfec6d3": {
       "name": "Sangrophage",
@@ -85755,7 +85746,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "1ca9e99b-e46c-4f7a-9c51-e2cfe8810450",
-      "effects": []
+      "effects": [
+        "Discard"
+      ]
     },
     "de1316f2-1cca-4ac4-aead-0fd8b4036d88": {
       "name": "Shimmer Dragon",
@@ -88598,7 +88591,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "29b2a5af-6352-4fd0-bfcd-7724ce98266a",
-      "effects": []
+      "effects": [
+        "Discard"
+      ]
     },
     "67c4b1d5-757c-46cf-8bb1-9889d9ed1a1f": {
       "name": "Slaughter Pact",
@@ -92382,7 +92377,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "3e702d81-98f6-4d30-95b6-15f7ab12ceb4",
-      "effects": []
+      "effects": [
+        "Discard"
+      ]
     },
     "064c3269-c012-4fc7-84c3-5f147a82a03c": {
       "name": "Stalactite Dagger",
@@ -99392,6 +99389,7 @@
       "label": "",
       "scryfallId": "b2b38a7e-d7c4-40c2-ba54-ae5649589cc9",
       "effects": [
+        "Discard",
         "Burn"
       ]
     },
@@ -101112,6 +101110,7 @@
       "label": "",
       "scryfallId": "141451e7-eb21-48ab-bf9f-632f4ea632bc",
       "effects": [
+        "Discard",
         "Burn"
       ]
     },
@@ -101121,6 +101120,7 @@
       "label": "",
       "scryfallId": "01651f67-cc25-4240-9698-58b7d906a160",
       "effects": [
+        "Discard",
         "Burn"
       ]
     },
@@ -101131,6 +101131,7 @@
       "scryfallId": "2f66410b-67a3-4f6a-b3ae-dcad9858a5da",
       "effects": [
         "Removal",
+        "Discard",
         "Burn"
       ]
     },
@@ -104148,6 +104149,7 @@
       "label": "",
       "scryfallId": "5f2d9899-e141-42cf-8b2a-bec6fba1dbd6",
       "effects": [
+        "Discard",
         "CardAdvantage"
       ]
     },
@@ -108810,7 +108812,6 @@
       "scryfallId": "241d8f7d-3981-47c1-b7b8-748277fa452f",
       "effects": [
         "Tokens",
-        "Discard",
         "CardAdvantage"
       ]
     },
@@ -110214,7 +110215,6 @@
       "label": "",
       "scryfallId": "0a0bcfad-cb7e-4b12-b308-a4a1245bd835",
       "effects": [
-        "Discard",
         "Buff"
       ]
     },

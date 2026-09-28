@@ -16315,7 +16315,6 @@
       "label": "",
       "scryfallId": "a5b435ee-82cc-41df-a09f-cf3602e31c23",
       "effects": [
-        "Discard",
         "Filter"
       ]
     },
@@ -16372,7 +16371,6 @@
       "label": "",
       "scryfallId": "1ae87f9d-d6eb-4178-a99d-76a9dffacf28",
       "effects": [
-        "Discard",
         "Filter"
       ]
     },
@@ -27315,9 +27313,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "156afb5a-df38-4555-b59b-f3fa64ce5bff",
-      "effects": [
-        "Discard"
-      ]
+      "effects": []
     },
     "469d820d-b7a6-414a-af18-71c1b1e42da5": {
       "name": "Dodgy Jalopy",
@@ -27546,7 +27542,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "8182d488-84d5-448b-8827-b6ba9317367e",
-      "effects": []
+      "effects": [
+        "Discard"
+      ]
     },
     "c1d8e97b-f34b-4e52-9795-a4433f26725a": {
       "name": "Doomskar Oracle",
@@ -29368,7 +29366,8 @@
       "label": "",
       "scryfallId": "b86825b2-5b03-4311-b7d9-f8131b17249d",
       "effects": [
-        "Removal"
+        "Removal",
+        "Discard"
       ]
     },
     "dca7102e-c020-4fdc-9b59-f186e3e615a5": {
@@ -57833,6 +57832,7 @@
       "label": "",
       "scryfallId": "1e5d8580-857b-46c6-beba-889479c49d4e",
       "effects": [
+        "Discard",
         "Steal",
         "ManaFixing"
       ]
@@ -64935,7 +64935,6 @@
       "label": "",
       "scryfallId": "02edaa79-2c99-4d37-a54f-0258476cd81c",
       "effects": [
-        "Discard",
         "Burn"
       ]
     },
@@ -65756,8 +65755,7 @@
       "label": "",
       "scryfallId": "d71f153d-2d07-4a8a-b725-747bb96afe00",
       "effects": [
-        "Tokens",
-        "Discard"
+        "Tokens"
       ]
     },
     "c29b592c-7115-4464-beba-e79f62691593": {
@@ -70444,7 +70442,8 @@
       "label": "",
       "scryfallId": "17f70737-3d85-4ab2-87eb-7e04cea9cef1",
       "effects": [
-        "Tokens"
+        "Tokens",
+        "Discard"
       ]
     },
     "20932bca-52be-4288-9c7d-4154650c5ec9": {
@@ -73926,8 +73925,7 @@
       "label": "",
       "scryfallId": "0bfdc564-51cc-4523-9d84-9d07907f41fe",
       "effects": [
-        "Tokens",
-        "Discard"
+        "Tokens"
       ]
     },
     "65b7a7ca-0e39-4612-9bcd-743bf903544a": {
@@ -107224,7 +107222,8 @@
       "label": "",
       "scryfallId": "4ec18bf7-bd80-408d-acc4-ffaaf7ef6b5b",
       "effects": [
-        "Removal"
+        "Removal",
+        "Discard"
       ]
     },
     "22e70ad0-1a9c-4d9e-8cc1-ebea485282ca": {
@@ -107740,6 +107739,7 @@
       "label": "",
       "scryfallId": "3570ebf2-a94c-4621-8808-b06e6e830c06",
       "effects": [
+        "Discard",
         "CardAdvantage"
       ]
     },

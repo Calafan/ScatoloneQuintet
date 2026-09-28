@@ -15493,7 +15493,6 @@
       "effects": [
         "Removal",
         "Disenchant",
-        "Discard",
         "Filter",
         "Burn",
         "ManaFixing"
@@ -21026,6 +21025,7 @@
       "label": "",
       "scryfallId": "14dc88ee-bba9-4625-af0d-89f3762a0ead",
       "effects": [
+        "Discard",
         "Burn"
       ]
     },
