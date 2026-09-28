@@ -842,7 +842,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "4796e5e4-515c-4d89-92da-b2d5b5b39557",
-      "effects": [],
+      "effects": [
+        "Redirect"
+      ],
       "reviewedAt": "2026-09-11T21:45:51.2632562+00:00"
     },
     "bd372a53-48f9-4e9a-ab00-0f9c4606d452": {
@@ -2121,7 +2123,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "34ace81d-823f-43d1-902e-345418cd8fd2",
-      "effects": [],
+      "effects": [
+        "Redirect"
+      ],
       "reviewedAt": "2026-09-12T09:28:49.6834297+00:00"
     },
     "18e96674-6fd8-4046-a3fe-7ba80138d85d": {
@@ -15603,6 +15607,7 @@
       "label": "",
       "scryfallId": "65463a1b-39c1-4fc8-8de2-85224de810ac",
       "effects": [
+        "Tokens",
         "Filter"
       ],
       "reviewedAt": "2026-09-23T22:19:30.9913114+00:00"
@@ -27575,7 +27580,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "52fd2cbd-7e62-46c2-b517-355b20b9b602",
-      "effects": [],
+      "effects": [
+        "Tokens"
+      ],
       "reviewedAt": "2026-09-23T21:44:31.3326507+00:00"
     },
     "ece44a82-dcf0-4439-bdd9-a09c99a6f159": {
@@ -33306,7 +33313,8 @@
       "label": "",
       "scryfallId": "896ee6e9-15a9-4974-b576-50f4759fac38",
       "effects": [
-        "Ramp"
+        "Ramp",
+        "Redirect"
       ],
       "reviewedAt": "2026-09-10T11:06:15.0036834+00:00"
     },
@@ -36596,7 +36604,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "021eaaa1-db97-494d-a698-17dd8e370ed4",
-      "effects": [],
+      "effects": [
+        "Redirect"
+      ],
       "reviewedAt": "2026-09-10T14:28:22.6998866+00:00"
     },
     "5945306d-e792-4eae-999b-dfb44b10f062": {
@@ -38656,7 +38666,7 @@
       "scryfallId": "16c32c5a-e011-4729-a4a0-b2deac7d5056",
       "effects": [
         "Ramp",
-        "Redirect"
+        "CardAdvantage"
       ],
       "reviewedAt": "2026-09-23T14:29:03.6997855+00:00"
     },
@@ -53845,7 +53855,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "185bf150-e032-47af-aafc-3b4b69f0bad4",
-      "effects": [],
+      "effects": [
+        "Tokens"
+      ],
       "reviewedAt": "2026-09-11T21:21:58.6528682+00:00"
     },
     "bcc8ce61-a881-42be-ab2c-64351d17f9f8": {
@@ -54347,7 +54359,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "a9f63d3b-bee5-48bc-8b04-d8b24b0bda6e",
-      "effects": [],
+      "effects": [
+        "Redirect"
+      ],
       "reviewedAt": "2026-09-11T10:52:45.0712078+00:00"
     },
     "fd20576d-4abe-4af8-ac53-ab9356593fe7": {
@@ -77062,7 +77076,8 @@
       "label": "",
       "scryfallId": "c72527ef-ac05-44c8-8c76-10532ce3da6e",
       "effects": [
-        "Ramp"
+        "Ramp",
+        "Redirect"
       ],
       "reviewedAt": "2026-09-11T12:25:11.0420696+00:00"
     },
@@ -103919,7 +103934,8 @@
       "label": "",
       "scryfallId": "0ea8c278-781d-4c9c-9f1c-99d799384a29",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Redirect"
       ],
       "reviewedAt": "2026-09-11T21:43:59.5099756+00:00"
     },
@@ -109207,7 +109223,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "aad65c60-b9e8-4a8f-92e8-3dff63232102",
-      "effects": [],
+      "effects": [
+        "Tokens"
+      ],
       "reviewedAt": "2026-09-23T21:20:46.8538584+00:00"
     },
     "5799baed-3457-4bf2-adf3-239a41dcc1c8": {
