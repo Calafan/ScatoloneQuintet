@@ -412,9 +412,7 @@
       "rating": 3,
       "label": "",
       "scryfallId": "0ee4a931-5d61-49ba-affc-f022263938ca",
-      "effects": [
-        "Protection"
-      ]
+      "effects": []
     },
     "97489ef7-98c3-4700-bbe6-185215d41b25": {
       "name": "Aloe Alchemist",
@@ -2204,7 +2202,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "77a43413-3ab0-4ef6-83de-192a11d48f00",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "8574f57a-768d-42a0-ac8c-cc0a1de181e0": {
       "name": "Bog Down",
@@ -2333,7 +2333,7 @@
       "label": "",
       "scryfallId": "2069310a-9fb6-41b7-bbd5-849e3df05632",
       "effects": [
-        "Filter"
+        "Protection"
       ]
     },
     "8652d88f-edca-4235-b942-6e7467608de8": {
@@ -6209,7 +6209,9 @@
       "rating": 4,
       "label": "",
       "scryfallId": "36848fb0-4070-40cf-b24a-2e8f47c5ebc3",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "da363da1-aecf-4d49-8e77-8dc56981a741": {
       "name": "Emergency Eject",
@@ -6956,6 +6958,7 @@
       "scryfallId": "271ac37f-305c-4918-8761-1779caa19f36",
       "effects": [
         "Buff",
+        "Protection",
         "ManaFixing"
       ]
     },
@@ -7236,7 +7239,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "32af7061-fca6-4a06-be3c-01881e6b96f7",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "8f968470-ce00-43a3-95f5-2e3fe987be19": {
       "name": "Fell",
@@ -12033,7 +12038,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "b4d41ac4-3273-4722-aaa6-ceeba66cf591",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "cc6a83c7-e645-4a53-9550-be79b42cd851": {
       "name": "Loyal Warhound",
@@ -12263,7 +12270,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "609d3ecf-f88d-4268-a8d3-4bf2bcf5df60",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "0f99e921-61e7-4fc8-8115-4162712b4737": {
       "name": "Malanthrope",
@@ -12297,8 +12306,7 @@
       "label": "",
       "scryfallId": "250f05ad-1006-42cf-8003-b3c1d92ce5cb",
       "effects": [
-        "Counter",
-        "Protection"
+        "Counter"
       ]
     },
     "acd209d1-37e9-4713-b320-ee52854790bb": {
@@ -13661,7 +13669,8 @@
       "label": "",
       "scryfallId": "26a11412-d2ff-4f6b-9763-3c1179e7bf14",
       "effects": [
-        "Bounce"
+        "Bounce",
+        "Protection"
       ]
     },
     "379ed4ec-8f2e-448b-9ed2-a3181e2f877e": {
@@ -16657,7 +16666,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "14fd6c9e-2946-4de5-9e71-a188151bb603",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "814e321d-16fd-4f7b-a8d8-2b089be76f2c": {
       "name": "Resculpt",
@@ -17616,9 +17627,7 @@
       "rating": 3,
       "label": "",
       "scryfallId": "03182a2d-d7b4-4449-b93e-580cf9bb8dd2",
-      "effects": [
-        "Protection"
-      ]
+      "effects": []
     },
     "00b9d3a3-fd64-4757-9159-b3af06b5f5b1": {
       "name": "Sauron, the Lidless Eye",
@@ -18393,8 +18402,7 @@
       "label": "",
       "scryfallId": "2fd0db35-4033-476f-8c1f-42380dd7734f",
       "effects": [
-        "Tokens",
-        "Protection"
+        "Tokens"
       ]
     },
     "7eade76f-92e4-4d26-9eb8-d3d954845c04": {
@@ -18691,7 +18699,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "43208437-9341-4bea-a1e0-556d9a5cb25b",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "e1976b6c-7e43-4f4a-b082-f95495a1b260": {
       "name": "Singularity Rupture",
@@ -22173,7 +22183,8 @@
       "scryfallId": "5d02afc8-0192-4e7d-9d10-60a4434ed8db",
       "effects": [
         "Removal",
-        "Disenchant"
+        "Disenchant",
+        "Protection"
       ]
     },
     "738d2be9-c40b-4a9b-95ed-18d659080918": {
@@ -22483,7 +22494,8 @@
       "label": "",
       "scryfallId": "043718ea-59f6-4d1a-94c5-271704c1a38a",
       "effects": [
-        "Removal"
+        "Removal",
+        "Protection"
       ]
     },
     "55b0518e-9c87-4f0e-81c2-9c984f760be1": {
@@ -22788,7 +22800,9 @@
       "rating": 4,
       "label": "",
       "scryfallId": "8eb38041-043a-4b18-9d9a-f1283684e8f1",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "f4497af5-8b81-46b3-bb52-eaed1999809b": {
       "name": "Unexpected Request",
@@ -24499,7 +24513,6 @@
       "effects": [
         "Tokens",
         "Ramp",
-        "Protection",
         "Regrowth"
       ]
     },
@@ -24590,7 +24603,9 @@
       "rating": 4,
       "label": "",
       "scryfallId": "47dd5c4b-5972-43e1-ae2a-ebf275006458",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "9900c771-ab81-415e-90a7-123c1bacfa83": {
       "name": "Yavimaya Iconoclast",
@@ -24744,7 +24759,8 @@
       "label": "",
       "scryfallId": "f935adbb-d2e3-48d0-b38c-41f3b583fecb",
       "effects": [
-        "Bounce"
+        "Bounce",
+        "Protection"
       ]
     },
     "d29551ab-e314-4872-9fc5-fe9a442dc8a9": {
