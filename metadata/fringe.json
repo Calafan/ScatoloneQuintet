@@ -1637,7 +1637,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "0942e5f1-795b-47bc-ae41-36f7091c4c42",
-      "effects": []
+      "effects": [
+        "Discard"
+      ]
     },
     "8134f3fd-197a-4b44-a370-311cc955dea3": {
       "name": "Ainok Wayfarer",
@@ -51249,7 +51251,6 @@
       "label": "",
       "scryfallId": "8d236055-d524-4312-9c6f-eddb34703e3e",
       "effects": [
-        "Discard",
         "CardAdvantage"
       ]
     },
@@ -66288,7 +66289,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "23a3c1f4-571e-40c2-a68c-699256e4fc3f",
-      "effects": []
+      "effects": [
+        "Discard"
+      ]
     },
     "4864cc98-4fde-4010-81e9-ea4944347e7e": {
       "name": "Mindleecher",
@@ -74946,7 +74949,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "862c50c7-0840-46e0-a653-5b660fdfd4bd",
-      "effects": []
+      "effects": [
+        "Discard"
+      ]
     },
     "e36a92be-537d-4a63-858a-afaab064fbf7": {
       "name": "Parallax Tide",
@@ -87060,7 +87065,6 @@
       "label": "",
       "scryfallId": "56dd8c18-052b-4684-8ffa-f7d49af25759",
       "effects": [
-        "Discard",
         "CardAdvantage",
         "ManaFixing"
       ]
@@ -88135,7 +88139,6 @@
       "label": "",
       "scryfallId": "773ebab8-09de-499c-a8e9-902f0e91bc96",
       "effects": [
-        "Discard",
         "CardAdvantage",
         "Regrowth"
       ]
@@ -95104,7 +95107,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "0d96d019-5d80-468a-b891-e3e99346372a",
-      "effects": []
+      "effects": [
+        "Discard"
+      ]
     },
     "64ed5c35-8185-4e68-8028-b7b632ef5828": {
       "name": "Skullport Merchant",
@@ -102915,7 +102920,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "61c606ea-651e-40f0-b032-02867aa24f72",
-      "effects": []
+      "effects": [
+        "Discard"
+      ]
     },
     "b592568b-11b0-4081-90a7-30cfb9c1ba80": {
       "name": "Suppression Ray // Orderly Plaza",

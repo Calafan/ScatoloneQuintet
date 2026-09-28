@@ -10989,9 +10989,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "50dc9da3-9384-4e98-b00c-b3841ecd564d",
-      "effects": [
-        "Discard"
-      ]
+      "effects": []
     },
     "11fd2650-2150-4e62-8b64-e820d734a231": {
       "name": "Borderland Marauder",
@@ -47937,7 +47935,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "a4ee56f1-9f08-459f-8517-0fe7bc645fa3",
-      "effects": []
+      "effects": [
+        "Discard"
+      ]
     },
     "c7054a2d-2e7b-4487-8fc3-f6a47a716fd3": {
       "name": "Indulgent Aristocrat",
@@ -51287,6 +51287,7 @@
       "scryfallId": "247689bc-b97c-4a2a-8854-1cde24a185b0",
       "effects": [
         "RemovePermanent",
+        "Discard",
         "Steal"
       ]
     },
@@ -52133,6 +52134,7 @@
       "label": "",
       "scryfallId": "a7fafa31-d366-4001-9180-deff7e2b7128",
       "effects": [
+        "Discard",
         "Steal"
       ]
     },
@@ -54136,7 +54138,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "dc0969e6-f667-4e29-a038-8569022cce32",
-      "effects": []
+      "effects": [
+        "Discard"
+      ]
     },
     "ccfddb1a-1b7f-44f9-89c4-1907e27e1c4a": {
       "name": "Kytheon's Irregulars",
@@ -61306,7 +61310,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "4a5bf575-6d09-4cb0-8fe0-8e49d2c39fd5",
-      "effects": []
+      "effects": [
+        "Discard"
+      ]
     },
     "41e4ba67-d038-4d0a-b740-709cb2350192": {
       "name": "Mindmoil",
@@ -63531,6 +63537,7 @@
       "label": "",
       "scryfallId": "10482209-19b1-4941-9133-f2764eeba092",
       "effects": [
+        "Discard",
         "Steal"
       ]
     },
@@ -65464,6 +65471,7 @@
       "scryfallId": "2c23b39b-a4d6-4f10-8ced-fa4b1ed2cf74",
       "effects": [
         "Removal",
+        "Discard",
         "CardAdvantage"
       ]
     },
@@ -65474,6 +65482,7 @@
       "scryfallId": "1dc97cab-4bdc-462f-af7f-47f7d9c6dc4d",
       "effects": [
         "Wipe",
+        "Discard",
         "Burn",
         "Steal"
       ]
@@ -70457,7 +70466,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "ff05b7f4-e0d0-4304-99b3-66ac804129fe",
-      "effects": []
+      "effects": [
+        "Discard"
+      ]
     },
     "d552f5cb-19b6-4def-90d5-6d2d9570f93d": {
       "name": "Perilous Forays",
@@ -75803,7 +75814,6 @@
       "label": "",
       "scryfallId": "27619fa6-f9bf-4e9c-9d5e-bc0d050aacd6",
       "effects": [
-        "Discard",
         "CardAdvantage"
       ]
     },
@@ -105840,7 +105850,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "81b44857-1edb-4de4-b646-917101faf881",
-      "effects": []
+      "effects": [
+        "Discard"
+      ]
     },
     "e33dec01-c114-436a-befc-dab4e806c10b": {
       "name": "Vessel of Nascency",
@@ -110783,6 +110795,7 @@
       "label": "",
       "scryfallId": "0c06d8ec-55ab-4be9-a470-77c79d643d1f",
       "effects": [
+        "Discard",
         "Burn"
       ]
     },
@@ -111707,7 +111720,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "16b122f8-fcd9-4b2a-92f6-f0ed7307ff58",
-      "effects": []
+      "effects": [
+        "Discard"
+      ]
     },
     "30868d69-2ba3-4373-9d47-4bc8978f35d1": {
       "name": "Yarok's Wavecrasher",

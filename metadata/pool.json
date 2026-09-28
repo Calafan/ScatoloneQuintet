@@ -1016,6 +1016,7 @@
       "effects": [
         "Tokens",
         "Bounce",
+        "Discard",
         "Steal"
       ]
     },
@@ -10328,6 +10329,7 @@
       "label": "",
       "scryfallId": "73342536-fd44-4958-b77e-56eec222252e",
       "effects": [
+        "Discard",
         "CardAdvantage",
         "Steal",
         "ManaFixing"
