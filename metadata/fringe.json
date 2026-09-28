@@ -7170,8 +7170,7 @@
       "effects": [
         "Tokens",
         "Protection"
-      ],
-      "reviewedAt": "2026-09-11T10:49:01.9260723+00:00"
+      ]
     },
     "670df8be-21cd-49d8-92e3-d7cc38b256d6": {
       "name": "Back for More",
@@ -15237,8 +15236,7 @@
       "effects": [
         "Buff",
         "Protection"
-      ],
-      "reviewedAt": "2026-09-05T10:31:07.1576479+00:00"
+      ]
     },
     "c3775748-ff62-469f-916b-8e551ccce23c": {
       "name": "Careening Mine Cart",
@@ -18739,8 +18737,7 @@
       "scryfallId": "3e0ca2ea-e059-4742-8ce4-22876762048c",
       "effects": [
         "Protection"
-      ],
-      "reviewedAt": "2026-09-04T23:17:44.0068423+00:00"
+      ]
     },
     "1d6a1dab-8724-4b07-b109-c6ba2a7ea1ad": {
       "name": "Clockwork Steed",
@@ -19333,8 +19330,7 @@
       "scryfallId": "914670a1-a7de-49e0-90ae-453acad17682",
       "effects": [
         "Protection"
-      ],
-      "reviewedAt": "2026-09-08T12:43:46.582707+00:00"
+      ]
     },
     "076cf4f1-b3d4-4175-b976-938ad851cc0e": {
       "name": "Coliseum Behemoth",
@@ -23530,8 +23526,7 @@
         "Buff",
         "Protection",
         "Sacrifice"
-      ],
-      "reviewedAt": "2026-09-08T11:59:09.276351+00:00"
+      ]
     },
     "397f53f7-f801-4442-a778-2f26ac246b62": {
       "name": "Dark Sphere",
@@ -24601,8 +24596,7 @@
       "effects": [
         "Protection",
         "Steal"
-      ],
-      "reviewedAt": "2026-09-08T12:43:03.8290312+00:00"
+      ]
     },
     "8ae98ef8-8f52-4877-a08c-1fae5514184e": {
       "name": "Decanter of Endless Water",
@@ -27652,8 +27646,7 @@
         "Bounce",
         "CardAdvantage",
         "Protection"
-      ],
-      "reviewedAt": "2026-09-12T16:33:22.7190124+00:00"
+      ]
     },
     "3bdc96d9-7272-4e38-b81a-ec928dd49eaa": {
       "name": "Douse",
@@ -27748,8 +27741,7 @@
       "scryfallId": "a419c9e3-5615-44f9-9256-94a3022bb69f",
       "effects": [
         "Protection"
-      ],
-      "reviewedAt": "2026-09-04T14:39:29.6808583+00:00"
+      ]
     },
     "f034137e-c19f-48af-a2f2-f767bf87a275": {
       "name": "Draconic Destiny",
@@ -42861,8 +42853,7 @@
       "scryfallId": "8e9c153c-9224-491b-bc84-8a9f0a83ee5a",
       "effects": [
         "Protection"
-      ],
-      "reviewedAt": "2026-09-04T15:14:21.7675298+00:00"
+      ]
     },
     "a3b3e02f-c75d-4cd6-8c57-d85ce00975fb": {
       "name": "Glyph of Doom",
@@ -43166,8 +43157,7 @@
       "scryfallId": "2b710c21-e9f5-4660-80f6-2104ec65f63f",
       "effects": [
         "Protection"
-      ],
-      "reviewedAt": "2026-09-04T15:07:24.1883509+00:00"
+      ]
     },
     "08a01139-1b1e-4a32-bb00-3a9660cce1ef": {
       "name": "Goblin Clearcutter",
@@ -49526,8 +49516,7 @@
       "scryfallId": "07c7a302-937d-42db-aafd-dd03c20cc73a",
       "effects": [
         "Protection"
-      ],
-      "reviewedAt": "2026-09-04T15:12:07.3894536+00:00"
+      ]
     },
     "100d1c9e-15aa-4bab-9fb3-76c2cd6abc2f": {
       "name": "Horses of the Bruinen",
@@ -57170,8 +57159,7 @@
       "scryfallId": "395e7882-0429-46aa-8e38-be707067c588",
       "effects": [
         "Protection"
-      ],
-      "reviewedAt": "2026-09-08T12:30:41.0112769+00:00"
+      ]
     },
     "142d2063-d692-42a6-b828-42d998914589": {
       "name": "Kithkin Billyrider",
@@ -60514,8 +60502,7 @@
       "scryfallId": "64de7b1f-a03e-4407-91f1-e108a2f26735",
       "effects": [
         "Protection"
-      ],
-      "reviewedAt": "2026-09-12T16:35:54.7335992+00:00"
+      ]
     },
     "1e3b97d2-8fda-4510-9697-f36ca9ca2ab0": {
       "name": "Lim-Dûl's Cohort",
@@ -64213,8 +64200,7 @@
       "scryfallId": "07f91817-8e79-4885-a57b-d26241c4791f",
       "effects": [
         "Protection"
-      ],
-      "reviewedAt": "2026-09-08T09:15:40.753182+00:00"
+      ]
     },
     "7ca54a23-f8eb-4982-b4ee-7392e2f2a1b3": {
       "name": "Martyrs of Korlis",
@@ -71055,8 +71041,7 @@
       "scryfallId": "9d5911b5-a54e-4ebb-9c36-d4dc8e97bb4b",
       "effects": [
         "Protection"
-      ],
-      "reviewedAt": "2026-09-04T15:08:56.0127257+00:00"
+      ]
     },
     "eab5eef8-d180-4b08-a770-6b3a1df03745": {
       "name": "Nibelheim Aflame",
@@ -72105,8 +72090,7 @@
       "scryfallId": "0bf53069-44ac-49c5-83bf-9c3c1274e407",
       "effects": [
         "Protection"
-      ],
-      "reviewedAt": "2026-09-08T12:44:29.9276173+00:00"
+      ]
     },
     "8ecd3743-7c32-41ce-9ac1-c8c855a47302": {
       "name": "Nurturing Pixie",
@@ -73559,8 +73543,7 @@
       "scryfallId": "064945e1-f061-44a3-9477-d88ef907646c",
       "effects": [
         "Protection"
-      ],
-      "reviewedAt": "2026-09-04T23:21:17.5036092+00:00"
+      ]
     },
     "3a05904d-5439-446d-a2a1-1475c9c7371d": {
       "name": "Orcish Librarian",
@@ -81061,8 +81044,7 @@
       "scryfallId": "0a96bd0c-7b04-45ea-9b6f-e827a64a1bad",
       "effects": [
         "Protection"
-      ],
-      "reviewedAt": "2026-09-04T15:03:51.716325+00:00"
+      ]
     },
     "14b839ef-80b1-4e7d-b2fd-38e973899cde": {
       "name": "Ragnarok, Divine Deliverance",
@@ -81330,8 +81312,7 @@
       "scryfallId": "6aaa8c6b-7ef7-45db-99c9-4a6e7f177b94",
       "effects": [
         "Protection"
-      ],
-      "reviewedAt": "2026-09-23T21:38:07.0909725+00:00"
+      ]
     },
     "d87be8c6-7a1f-4db8-ada1-b1a030f03877": {
       "name": "Rakshasa's Bargain",
@@ -83393,8 +83374,7 @@
       "scryfallId": "109c1078-99b3-4c3e-b0de-26e3f55571d6",
       "effects": [
         "Protection"
-      ],
-      "reviewedAt": "2026-09-04T14:15:16.0411852+00:00"
+      ]
     },
     "54402930-84ea-4c3e-9880-ca631e47485f": {
       "name": "Regent's Authority",
@@ -106614,8 +106594,7 @@
       "effects": [
         "Buff",
         "Protection"
-      ],
-      "reviewedAt": "2026-09-04T14:55:28.1075032+00:00"
+      ]
     },
     "e31808bb-fb6e-487b-a973-db44961c84ee": {
       "name": "The Cabbage Merchant",
@@ -109040,8 +109019,7 @@
       "effects": [
         "Buff",
         "Protection"
-      ],
-      "reviewedAt": "2026-09-04T14:23:23.9940443+00:00"
+      ]
     },
     "ead5a2bf-f48a-43a2-89bb-df3cc587c843": {
       "name": "Thrull Surgeon",
@@ -116361,8 +116339,7 @@
       "effects": [
         "Counter",
         "Protection"
-      ],
-      "reviewedAt": "2026-09-08T07:23:36.4844174+00:00"
+      ]
     },
     "9bb66d53-a83c-4313-91c3-4df09c248558": {
       "name": "Vigilant Sentry",
