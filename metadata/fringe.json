@@ -9763,7 +9763,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "74185710-3877-4080-b1d2-014fabbc7186",
-      "effects": []
+      "effects": [
+        "Redirect"
+      ]
     },
     "e461ef8d-59ca-440a-8773-da1de3b6b195": {
       "name": "Bill the Pony",
@@ -16765,7 +16767,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "f67bd5ef-305b-4bf7-990b-3014778b14a0",
-      "effects": []
+      "effects": [
+        "Redirect"
+      ]
     },
     "520abf49-7631-4e7f-889e-547ccc8c3b95": {
       "name": "Chandler",
@@ -19779,7 +19783,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "8fa0545a-6450-4620-a56c-3569aa5375d1",
-      "effects": []
+      "effects": [
+        "Redirect"
+      ]
     },
     "e4951b4e-ba68-495c-8062-e89250d02cf3": {
       "name": "Complex Automaton",
@@ -27609,7 +27615,9 @@
       "rating": 2,
       "label": "",
       "scryfallId": "1b597992-8e11-41a0-ac87-33fffd82b993",
-      "effects": []
+      "effects": [
+        "Redirect"
+      ]
     },
     "23425b11-e40d-4f68-8903-3084ad45319f": {
       "name": "Doubtless One",
@@ -29096,7 +29104,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "6ef580f8-efec-4d31-8dc3-2018dd48b6f4",
-      "effects": []
+      "effects": [
+        "Redirect"
+      ]
     },
     "89ec0f03-47d0-4657-8987-95e680404f24": {
       "name": "Dual-Sun Technique",
@@ -40135,7 +40145,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "af07c47f-8b4e-43cb-b469-2efb82aa5590",
-      "effects": []
+      "effects": [
+        "Redirect"
+      ]
     },
     "a4b60080-3f80-4aeb-8bd9-7953e77aaf75": {
       "name": "Gaea's Avenger",
@@ -40471,7 +40483,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "4e148c83-09d1-4055-b1a6-5c624c67810d",
-      "effects": []
+      "effects": [
+        "Redirect"
+      ]
     },
     "d8a552ca-2c7b-410e-bd7e-1bb81465277a": {
       "name": "Galvanic Key",
@@ -40587,7 +40601,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "56910251-6339-4f8b-b863-29caab4965d8",
-      "effects": []
+      "effects": [
+        "Redirect"
+      ]
     },
     "7a80212a-aae3-483b-abb6-7271a62dff8a": {
       "name": "Gandalf, White Rider",
@@ -44299,7 +44315,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "001c648a-db66-47f3-8fee-3658b9e76ac2",
-      "effects": []
+      "effects": [
+        "Redirect"
+      ]
     },
     "adfd6c2d-a7f8-4f5c-bc31-d65c8150ed49": {
       "name": "Gornog, the Red Reaper",
@@ -52696,7 +52714,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "1c3f661d-b9f7-48e7-afe3-3eaea1022bc1",
-      "effects": []
+      "effects": [
+        "Redirect"
+      ]
     },
     "1abcdddd-0022-4dfe-8c15-eb1fa86de614": {
       "name": "Invasion of Azgol // Ashen Reaper",
@@ -54258,7 +54278,8 @@
       "effects": [
         "Tokens",
         "Removal",
-        "CardAdvantage"
+        "CardAdvantage",
+        "Redirect"
       ]
     },
     "39ee576a-0803-4063-9c84-f2b537e4d44c": {
@@ -55463,7 +55484,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "291a3312-4b50-4c30-9850-b1d3330000a2",
-      "effects": []
+      "effects": [
+        "Redirect"
+      ]
     },
     "b02bd695-ec7f-47be-b797-e2b4b309cc2a": {
       "name": "Kaleidoscorch",
@@ -62915,7 +62938,8 @@
       "label": "",
       "scryfallId": "419ac203-d8b9-46df-99a8-65dfcea07ff5",
       "effects": [
-        "Ramp"
+        "Ramp",
+        "Redirect"
       ]
     },
     "e48951ed-1c32-449a-898e-e5b1c0d0ee73": {
@@ -66579,7 +66603,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "3356d686-c2f7-474d-bbdb-01148d086006",
-      "effects": []
+      "effects": [
+        "Redirect"
+      ]
     },
     "852657c0-18a4-4b28-b9ae-7728acdb5044": {
       "name": "Mirari's Wake",
@@ -67348,7 +67374,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "8faf1d83-3b6b-4e07-a024-3dfd37c29814",
-      "effects": []
+      "effects": [
+        "Redirect"
+      ]
     },
     "f497e9a5-0ad3-4aec-8422-14be8e0dba4c": {
       "name": "Mjölnir, Storm Hammer",
@@ -69767,7 +69795,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "686ec9c3-9549-42e6-8cb5-d00f8cae0f16",
-      "effects": []
+      "effects": [
+        "Redirect"
+      ]
     },
     "ce969713-fdaa-4c31-b164-76a9b0b9ff81": {
       "name": "Nakaya Shade",
@@ -69798,7 +69828,8 @@
       "label": "",
       "scryfallId": "58e3b25f-beb1-4688-8b14-be597b9aee81",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Redirect"
       ]
     },
     "1bf6248c-658c-4540-8bee-81af79d349be": {
@@ -81756,7 +81787,8 @@
       "label": "",
       "scryfallId": "2b23c9f1-1474-4df1-b1a2-b98eae2248ad",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Redirect"
       ]
     },
     "37043e1e-4556-45f7-9484-15dd8ed5272b": {
@@ -83223,14 +83255,18 @@
       "rating": 1,
       "label": "",
       "scryfallId": "4ebaa07d-68f6-4cdb-a5cd-cd715e50abf5",
-      "effects": []
+      "effects": [
+        "Redirect"
+      ]
     },
     "3c067dbb-934b-4ebb-a656-8541349a4b2a": {
       "name": "Reflective Golem",
       "rating": 1,
       "label": "",
       "scryfallId": "c01770c4-8848-495d-8af4-26152d45e9d3",
-      "effects": []
+      "effects": [
+        "Redirect"
+      ]
     },
     "dc87b0a5-3d9d-44eb-b415-b022acd63cf1": {
       "name": "Reflexes",
@@ -90415,7 +90451,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "17b79895-30ac-4bb4-bbe3-033a0dfcf1d6",
-      "effects": []
+      "effects": [
+        "Redirect"
+      ]
     },
     "d2497a5e-ff2b-4024-9b14-634304d583fe": {
       "name": "Sea God's Scorn",
@@ -101138,7 +101176,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "318f753c-71b9-42f9-b0a4-39ab02922e4d",
-      "effects": []
+      "effects": [
+        "Redirect"
+      ]
     },
     "e694bf97-9deb-44f1-9d26-264b57596346": {
       "name": "Storm Seeker",
@@ -101210,7 +101250,8 @@
       "label": "",
       "scryfallId": "1a02fac3-8990-4bd1-8e34-beec6332088c",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Redirect"
       ]
     },
     "7022ae9a-2589-493b-a050-a230fd02f80b": {
@@ -104854,7 +104895,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "516baae5-f7bf-4a90-a80d-192ff19dbae5",
-      "effects": []
+      "effects": [
+        "Redirect"
+      ]
     },
     "6ac3abba-cf55-4d97-a253-bce45972b050": {
       "name": "Teachings of the Archaics",
@@ -106708,7 +106751,8 @@
       "label": "",
       "scryfallId": "2e98970d-06a8-4c91-ba47-4a02c5b949f2",
       "effects": [
-        "Ramp"
+        "Ramp",
+        "Redirect"
       ]
     },
     "11323af4-b8b8-4ca9-932f-377c7fd77dea": {
@@ -107566,7 +107610,8 @@
       "label": "",
       "scryfallId": "129ea0f5-67f6-4364-b8db-ee582b3e23fd",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Redirect"
       ]
     },
     "0afcc646-cb34-4c0e-b3f5-4115ad4faa8e": {
@@ -108790,7 +108835,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "3296b4ef-1c4a-4048-b7ce-44424fb3ff7d",
-      "effects": []
+      "effects": [
+        "Redirect"
+      ]
     },
     "b8020a8b-557b-465d-865d-b59fecd7abc1": {
       "name": "Threefold Thunderhulk",
@@ -110178,7 +110225,8 @@
       "label": "",
       "scryfallId": "30b5bf0c-e617-4a41-bfaa-2b299728a93f",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Redirect"
       ]
     },
     "37feb05b-1f69-4d0d-837c-592461a431e0": {
@@ -112537,7 +112585,8 @@
       "label": "",
       "scryfallId": "19dc2124-dfa7-4116-8063-c5773408c67c",
       "effects": [
-        "Buff"
+        "Buff",
+        "Redirect"
       ]
     },
     "ff812a78-3fe7-47bc-9984-1c2380cff5b1": {
@@ -115662,7 +115711,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "0584fc6c-88c6-46b5-8cc5-42d4a6f7e2f4",
-      "effects": []
+      "effects": [
+        "Redirect"
+      ]
     },
     "4d59fd2b-7fc6-49a7-8938-d3f08902a5a8": {
       "name": "Verdant Field",
@@ -118194,7 +118245,8 @@
       "label": "",
       "scryfallId": "18a2bdc8-b705-4eb5-b3a5-ff2e2ab8f312",
       "effects": [
-        "Filter"
+        "Filter",
+        "Redirect"
       ]
     },
     "59015068-6868-4235-981b-96137123c685": {

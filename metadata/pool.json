@@ -3360,7 +3360,8 @@
       "label": "",
       "scryfallId": "19ce55bf-007d-4c13-90ac-29f0b21b66b1",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Redirect"
       ]
     },
     "d1b815d1-2848-40d4-a555-66822d1becbc": {
@@ -3454,7 +3455,7 @@
       "label": "",
       "scryfallId": "7d7da31e-2b44-41c3-9042-6dec5a5ea049",
       "effects": [
-        "Steal"
+        "Redirect"
       ]
     },
     "50863075-a30b-4238-8e31-5af32a39d886": {
@@ -4979,7 +4980,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "45e70109-0352-45fc-a2fd-892ca65cac2f",
-      "effects": []
+      "effects": [
+        "Redirect"
+      ]
     },
     "ec7ae9ed-dc5b-47ed-a4ad-086f3c7c377c": {
       "name": "Deflection",
@@ -10691,7 +10694,9 @@
       "rating": 4,
       "label": "",
       "scryfallId": "01985566-275b-4bf0-8667-c81eb95ad70c",
-      "effects": []
+      "effects": [
+        "Redirect"
+      ]
     },
     "7bdfe368-353c-4f8d-851f-05b7ea9f905d": {
       "name": "Jokulhaups",
@@ -12581,7 +12586,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "3b820e40-178d-4dac-b5f9-e4192e6d9161",
-      "effects": []
+      "effects": [
+        "Redirect"
+      ]
     },
     "be8b9bef-a98d-40a8-bedd-d78f1f08f93b": {
       "name": "Merfolk Windrobber",
@@ -17250,7 +17257,8 @@
         "Ramp",
         "CardAdvantage",
         "Burn",
-        "Pacify"
+        "Pacify",
+        "Redirect"
       ]
     },
     "11765eaf-87a1-48bd-90c1-7a5f21be5918": {
@@ -24518,7 +24526,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "3d8df219-1da0-4311-b9bb-c74b5fa55293",
-      "effects": []
+      "effects": [
+        "Redirect"
+      ]
     },
     "8291543f-d086-48aa-b2b7-5481ca8c9198": {
       "name": "Xander's Lounge",

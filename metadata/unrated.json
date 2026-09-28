@@ -1185,7 +1185,7 @@
       "label": "",
       "scryfallId": "0ce562a9-ca35-4f31-8618-bc26d3d40169",
       "effects": [
-        "Steal"
+        "Redirect"
       ]
     },
     "3e0be003-4f42-4917-b85d-46baf2afd734": {
@@ -15240,7 +15240,8 @@
       "scryfallId": "beb039db-7367-4af1-8d85-4951f58e2732",
       "effects": [
         "Removal",
-        "Burn"
+        "Burn",
+        "Redirect"
       ]
     },
     "6a3dee57-9912-4c51-872e-2ec47acdaf52": {
@@ -16789,7 +16790,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "c62ee3ea-8b85-4b14-87ae-7fca1d98b98b",
-      "effects": []
+      "effects": [
+        "Redirect"
+      ]
     },
     "2c6658c3-8c0e-46c9-8127-bc5b77eb0dab": {
       "name": "Clutch of Currents",
@@ -25007,7 +25010,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "3e39a2b4-fa70-4572-8480-533bdbf6293a",
-      "effects": []
+      "effects": [
+        "Redirect"
+      ]
     },
     "f9de4cea-27c4-4343-8a7a-09b8f346c3b5": {
       "name": "Djinn of Infinite Deceits",
@@ -25427,14 +25432,18 @@
       "rating": 0,
       "label": "",
       "scryfallId": "b0ec6d79-8a22-49d5-ac00-7fd60b278a4d",
-      "effects": []
+      "effects": [
+        "Redirect"
+      ]
     },
     "946675f5-8998-4f1b-934b-85ffe6e2f002": {
       "name": "Doublecast",
       "rating": 0,
       "label": "",
       "scryfallId": "34bef63a-cb84-4013-856c-8211b76d5efa",
-      "effects": []
+      "effects": [
+        "Redirect"
+      ]
     },
     "be48877f-97b1-4a10-a618-cbc57515e617": {
       "name": "Doubling Chant",
@@ -28899,7 +28908,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "a1ec9200-3006-41d7-9bb8-aba1d880ce57",
-      "effects": []
+      "effects": [
+        "Redirect"
+      ]
     },
     "62a6dbdb-70fc-43ab-8e63-367a609ecdeb": {
       "name": "Emissary of Hope",
@@ -46061,7 +46072,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "5db4baf3-f0dc-4b27-8323-a76764332590",
-      "effects": []
+      "effects": [
+        "Redirect"
+      ]
     },
     "868b758c-e21c-4079-a1fc-4c89af106f4b": {
       "name": "Howl of the Night Pack",
@@ -53592,7 +53605,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "06a981cd-1951-438e-95c9-68294795638e",
-      "effects": []
+      "effects": [
+        "Redirect"
+      ]
     },
     "0964288c-0397-428a-9a84-784aaea4e040": {
       "name": "Krark-Clan Engineers",
@@ -57054,7 +57069,8 @@
       "label": "",
       "scryfallId": "4b5d23a6-3a23-4169-aea1-f10bf5153180",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Redirect"
       ]
     },
     "53175678-1f5c-4889-9086-66381b3ddc3a": {
@@ -59907,7 +59923,8 @@
       "label": "",
       "scryfallId": "19b4dc6c-940e-478c-b87f-b3939a30efbd",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Redirect"
       ]
     },
     "6593a7c1-fb48-4e53-8e6a-339ad2cc4489": {
@@ -67374,7 +67391,8 @@
       "scryfallId": "4bb07091-86d6-4735-82b6-6e71e26710f4",
       "effects": [
         "Removal",
-        "Counter"
+        "Counter",
+        "Redirect"
       ]
     },
     "0e9864e2-1bb4-4527-b2af-62433a90b669": {
@@ -72631,7 +72649,8 @@
       "scryfallId": "57c0e869-9324-4352-899c-61c0cc5484b9",
       "effects": [
         "Ramp",
-        "ManaFixing"
+        "ManaFixing",
+        "Redirect"
       ]
     },
     "5cd064b9-1277-4edc-bf2c-82eb5e62f9d7": {
@@ -74106,7 +74125,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "0f9cea68-4390-4d73-a374-d6299cbc9271",
-      "effects": []
+      "effects": [
+        "Redirect"
+      ]
     },
     "87038d1b-0fa9-4604-b119-1de56db30144": {
       "name": "Pyromancer's Assault",
@@ -74131,7 +74152,8 @@
       "label": "",
       "scryfallId": "0f92d8df-e913-4a95-9f65-4fe98c332a6e",
       "effects": [
-        "Ramp"
+        "Ramp",
+        "Redirect"
       ]
     },
     "9931a999-ee1b-465b-a912-9f4697a01014": {
@@ -74974,7 +74996,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "0bab5da5-72a7-4340-9b53-492ab14a9f71",
-      "effects": []
+      "effects": [
+        "Redirect"
+      ]
     },
     "041e2a01-3652-46c1-a9d1-d38ae7ee0551": {
       "name": "Rain of Embers",
@@ -75401,7 +75425,8 @@
       "scryfallId": "3aaf86e6-c171-4c9a-a64b-d01a42883928",
       "effects": [
         "Filter",
-        "Burn"
+        "Burn",
+        "Redirect"
       ]
     },
     "0a557383-596b-4b8f-b81f-21706fef7b63": {
@@ -76778,7 +76803,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "0eef8431-f63c-44e0-940c-e1a38c338214",
-      "effects": []
+      "effects": [
+        "Redirect"
+      ]
     },
     "cac993d5-28a1-48b6-9c2f-f216cb5f521d": {
       "name": "Reduce // Rubble",
@@ -77425,7 +77452,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "1cb03593-9369-4c26-bfcc-8819648dc018",
-      "effects": []
+      "effects": [
+        "Redirect"
+      ]
     },
     "a08c599e-ee75-4d2b-ae9b-0987c233dd17": {
       "name": "Repeating Barrage",
@@ -78579,7 +78608,8 @@
       "label": "",
       "scryfallId": "70dd138f-391a-4956-bc2a-fe186429c71a",
       "effects": [
-        "Tokens"
+        "Tokens",
+        "Redirect"
       ]
     },
     "0c4e0e46-77f1-4ff6-afbc-1a67feceedfb": {
@@ -78635,7 +78665,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "23d41fc1-5b74-4ab5-9b14-43aaf3a7d125",
-      "effects": []
+      "effects": [
+        "Redirect"
+      ]
     },
     "b760b1db-764b-4b40-8a84-691b5c9c1dbc": {
       "name": "Rimehorn Aurochs",
@@ -79857,7 +79889,8 @@
       "label": "",
       "scryfallId": "2120a046-9c8c-47e9-93d5-46841794ba5c",
       "effects": [
-        "Wipe"
+        "Wipe",
+        "Redirect"
       ]
     },
     "ce07104c-8573-4dc0-a492-f9548d4317d2": {
@@ -84786,7 +84819,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "2c209efe-b4dc-44a3-bd45-d647f5680cbe",
-      "effects": []
+      "effects": [
+        "Redirect"
+      ]
     },
     "c7f1a49a-cc22-432f-bf3e-50ba61982b87": {
       "name": "Sewer Nemesis",
@@ -95445,7 +95480,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "2c573d12-4c69-4a54-b1b9-236c003ba98a",
-      "effects": []
+      "effects": [
+        "Redirect"
+      ]
     },
     "77b98632-e103-44fa-a940-2c3b2897b60f": {
       "name": "Swarm Surge",
@@ -98679,7 +98716,8 @@
       "scryfallId": "18ee3a98-0254-4fe9-ba6b-94eb9266ac70",
       "effects": [
         "CardAdvantage",
-        "Regrowth"
+        "Regrowth",
+        "Redirect"
       ]
     },
     "82a6fa6f-13c2-4ea3-bec2-c51b56b2783b": {
@@ -98766,7 +98804,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "a7475e46-2dd9-487e-8cbb-5a259fb5ec99",
-      "effects": []
+      "effects": [
+        "Redirect"
+      ]
     },
     "6206e6b7-20b4-4299-8c99-0dbc407badda": {
       "name": "The Underworld Fantasy Queen",
@@ -99457,7 +99497,8 @@
       "label": "",
       "scryfallId": "14da9c9a-1778-4eea-ad40-2475fe6fabc2",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Redirect"
       ]
     },
     "2f3bd1fc-387e-41b7-b19b-62dd9fbe2d10": {
@@ -103427,7 +103468,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "19907ce2-345d-44a9-a8f5-5c74efc86915",
-      "effects": []
+      "effects": [
+        "Redirect"
+      ]
     },
     "97435e03-2fff-4fe0-8fa9-69ab0a046a33": {
       "name": "Unbreakable Formation",
@@ -109835,7 +109878,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "5ba048ce-77ca-4b15-9344-1f3d4967ac47",
-      "effects": []
+      "effects": [
+        "Redirect"
+      ]
     },
     "f76a0e5b-74c1-4ee8-b502-e8b988086de4": {
       "name": "Wild Slash",
@@ -110043,7 +110088,8 @@
       "effects": [
         "Ramp",
         "CardAdvantage",
-        "Pacify"
+        "Pacify",
+        "Redirect"
       ]
     },
     "520b6637-0a9f-4dc4-846e-f1cd2b868263": {
@@ -111189,7 +111235,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "535189ec-572f-44ed-9741-09b9f575fc40",
-      "effects": []
+      "effects": [
+        "Redirect"
+      ]
     },
     "37733e29-3ade-4bfd-89c9-efd13b548a53": {
       "name": "Worthy Knight",
@@ -111853,7 +111901,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "15309fb1-3691-432e-a7e1-c48e260dc5a7",
-      "effects": []
+      "effects": [
+        "Redirect"
+      ]
     },
     "89b07037-64df-4e66-acd8-87d97df61e3a": {
       "name": "Zahid, Djinn of the Lamp",
