@@ -20245,9 +20245,7 @@
       "rating": 4,
       "label": "",
       "scryfallId": "30053742-35e4-4ae0-a90e-d687a5f298d9",
-      "effects": [
-        "Bounce"
-      ]
+      "effects": []
     },
     "88d49309-e7d7-486d-8696-cd66bec2fe33": {
       "name": "Sunder the Gateway",
