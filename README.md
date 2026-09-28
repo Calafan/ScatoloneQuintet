@@ -105,7 +105,7 @@ General rules:
 
 | Effect | What it is, and what it is not |
 |---|---|
-| **Tokens** | Puts CREATURE bodies on your side, however worded — earthbend, cloak, manifest dread, living weapon, a token copy of a creature. A noncreature card counts for a single body; a CREATURE only when it makes three at once or the effect repeats. A Treasure, Clue or Food is a resource, not a body. |
+| **Tokens** | Puts CREATURE bodies on your side, however worded — earthbend, cloak, manifest dread, living weapon, a token copy of a creature or of a creature SPELL. A noncreature card counts for a single body; a CREATURE only when it makes three at once or the effect repeats. A Treasure, Clue or Food is a resource, not a body. |
 | **Removal** | Answers ONE creature: destroy, exile, damage however counted, fight, an edict (one each counts), the BOTTOM of a library, or ANY toughness malus — "+2/-1" counts, an Aura counts. Not YOUR OWN, not a card in a GRAVEYARD, not "-2/-0" (Pacify), not "each creature" (Wipe), not what can only touch what it is already blocking. |
 | **Counter** | Answers a spell on the stack by countering it. |
 | **RemovePermanent** | Answers ANY permanent — "destroy/exile target (nonland) permanent", the O-ring family, and a kill narrowed only by COLOUR ("destroy target red permanent"). The breadth is the point, so it stays this tag even when you would usually aim it at a creature. |
@@ -128,7 +128,7 @@ General rules:
 | **LandDestruction** | Takes a land off the battlefield, however worded: in a type list, behind a count, beside a second target, in a sweeper, or named by basic type ("destroy all Islands"). A land edict counts. Not a land in a GRAVEYARD, not an Aura ATTACHED to one (that protects it), not your own, and not the wider mana-denial family. |
 | **Mill** | Puts cards from ANOTHER player's library into their graveyard. Filling your own graveyard is fuel for what the card does next, not an attack — dredge is a graveyard card, not a mill card. |
 | **Regrowth** | Buys a card back out of a graveyard: to HAND, to the TOP of a library, or by CASTING it there — that last is reanimation for spells. A card that gives ITSELF a second cast (flashback, escape, unearth) is not. Nor is the BOTTOM of a library, or an opponent's graveyard. Straight to the battlefield is Reanimate. |
-| **Redirect** | Acts on SOMEBODY ELSE'S spell, already on the stack, without countering it: changes its target ("the target of", or "that spell's target"), or copies it by aiming at it ("copy TARGET instant or sorcery spell"). Doubling your own next spell is not this, and neither is Storm spelling out its own reminder text. |
+| **Redirect** | Acts on a spell without countering it: changes its targets, takes control of it, or copies it — anybody's ("copy TARGET spell") or YOUR OWN ("when you next cast… copy that spell", or storm or replicate given to your spells). Not a card copying only itself, and not a copied CREATURE spell, which is Tokens. |
 | **Cheat** | Puts a NONLAND permanent onto the battlefield without casting it — from hand (Sneak Attack, Elvish Piper) or library (Natural Order) — or lets you cast free STANDING (Omniscience). Out of a graveyard is Reanimate; a land is Ramp; one free exiled card is CardAdvantage. |
 
 These are the tagger's tooltips, word for word. The full rulings — each
