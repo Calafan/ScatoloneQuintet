@@ -22104,7 +22104,6 @@
       "status": "Token",
       "effects": [
         "Tokens",
-        "Discard",
         "Burn"
       ]
     },

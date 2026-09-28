@@ -25278,7 +25278,6 @@
       "effects": [
         "Tokens",
         "Wipe",
-        "Discard",
         "CardAdvantage",
         "Burn"
       ]
@@ -72140,9 +72139,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "616836e6-caf4-4398-a772-9c67f84c73c5",
-      "effects": [
-        "Discard"
-      ]
+      "effects": []
     },
     "a42b567d-6bfc-49e7-8f91-917e2bb3046c": {
       "name": "Possessed Skaab",
