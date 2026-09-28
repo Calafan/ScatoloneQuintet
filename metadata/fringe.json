@@ -844,8 +844,7 @@
       "scryfallId": "4796e5e4-515c-4d89-92da-b2d5b5b39557",
       "effects": [
         "Redirect"
-      ],
-      "reviewedAt": "2026-09-11T21:45:51.2632562+00:00"
+      ]
     },
     "bd372a53-48f9-4e9a-ab00-0f9c4606d452": {
       "name": "Adarkar Sentinel",
@@ -2125,8 +2124,7 @@
       "scryfallId": "34ace81d-823f-43d1-902e-345418cd8fd2",
       "effects": [
         "Redirect"
-      ],
-      "reviewedAt": "2026-09-12T09:28:49.6834297+00:00"
+      ]
     },
     "18e96674-6fd8-4046-a3fe-7ba80138d85d": {
       "name": "Alarum",
@@ -33325,8 +33323,7 @@
       "effects": [
         "Ramp",
         "Redirect"
-      ],
-      "reviewedAt": "2026-09-10T11:06:15.0036834+00:00"
+      ]
     },
     "f203671b-76f7-4be0-80a9-826fbb450fe7": {
       "name": "Ethereal Champion",
@@ -36616,8 +36613,7 @@
       "scryfallId": "021eaaa1-db97-494d-a698-17dd8e370ed4",
       "effects": [
         "Redirect"
-      ],
-      "reviewedAt": "2026-09-10T14:28:22.6998866+00:00"
+      ]
     },
     "5945306d-e792-4eae-999b-dfb44b10f062": {
       "name": "Fire Lord Ozai",
@@ -54382,8 +54378,7 @@
       "scryfallId": "a9f63d3b-bee5-48bc-8b04-d8b24b0bda6e",
       "effects": [
         "Redirect"
-      ],
-      "reviewedAt": "2026-09-11T10:52:45.0712078+00:00"
+      ]
     },
     "fd20576d-4abe-4af8-ac53-ab9356593fe7": {
       "name": "Jerrard of the Closed Fist",
@@ -77109,8 +77104,7 @@
       "effects": [
         "Ramp",
         "Redirect"
-      ],
-      "reviewedAt": "2026-09-11T12:25:11.0420696+00:00"
+      ]
     },
     "3decbc45-3e79-455f-9d62-878ee31b458d": {
       "name": "Pit Imp",
@@ -103977,8 +103971,7 @@
       "effects": [
         "CardAdvantage",
         "Redirect"
-      ],
-      "reviewedAt": "2026-09-11T21:43:59.5099756+00:00"
+      ]
     },
     "17327d50-be12-423d-9d37-d6bae519f50c": {
       "name": "Taii Wakeen, Perfect Shot",
