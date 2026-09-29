@@ -64991,7 +64991,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "abc382f3-fdb9-4987-acf4-bf1ac4fd2ef7",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "3407fe41-fdd3-4119-8f70-4bc4590a379f": {
       "name": "Negate",
@@ -99932,7 +99934,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "04638352-cb8c-477e-979a-46b4fc69ac98",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "9d86735c-12e5-457a-beb4-057ab220d18b": {
       "name": "Threads of Disloyalty",

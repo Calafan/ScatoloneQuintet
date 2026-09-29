@@ -42161,6 +42161,7 @@
       "label": "",
       "scryfallId": "8139bb44-47e8-4076-99ed-ad3623198ad9",
       "effects": [
+        "Removal",
         "Buff"
       ]
     },
