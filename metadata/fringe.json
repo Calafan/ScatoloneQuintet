@@ -2680,7 +2680,8 @@
       "label": "",
       "scryfallId": "ebc3824c-11ee-4fec-9397-823783b682d9",
       "effects": [
-        "Removal"
+        "Removal",
+        "Ramp"
       ]
     },
     "51d7bd70-0874-41d4-94bc-c3e14c968668": {
@@ -9932,6 +9933,7 @@
       "label": "",
       "scryfallId": "252c0f8a-54d5-461d-84f7-496c42703ff0",
       "effects": [
+        "Ramp",
         "CardAdvantage"
       ]
     },
@@ -10080,7 +10082,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "03486228-86e3-472f-8a0c-7574daa434e5",
-      "effects": []
+      "effects": [
+        "Ramp"
+      ]
     },
     "d2664f28-49e1-46f8-a863-b217e961a57c": {
       "name": "Black Market Connections",
@@ -10648,7 +10652,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "0ff34d0b-a278-4990-beaf-5a64885460db",
-      "effects": []
+      "effects": [
+        "Ramp"
+      ]
     },
     "dd3fd7cd-d8a1-48e2-861d-c7c40086dc75": {
       "name": "Blinkmoth Well",
@@ -15355,7 +15361,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "847340fb-9251-4439-b33b-f86bff507dcd",
-      "effects": []
+      "effects": [
+        "Ramp"
+      ]
     },
     "b3360259-19df-43c6-95a9-e76770f2fb77": {
       "name": "Carnivorous Canopy",
@@ -57094,6 +57102,7 @@
       "label": "",
       "scryfallId": "532746e2-f822-4920-ab31-94e0c8baaa84",
       "effects": [
+        "Ramp",
         "Filter"
       ]
     },
@@ -63418,7 +63427,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "1b15d04c-62cb-4704-8cc7-9842cef27a1b",
-      "effects": []
+      "effects": [
+        "Ramp"
+      ]
     },
     "cad05528-917b-4296-9d23-ba9433612709": {
       "name": "Mana Leech",
@@ -66685,6 +66696,7 @@
       "label": "",
       "scryfallId": "02747420-c635-4f0f-9888-81cf4f7dfc91",
       "effects": [
+        "Ramp",
         "Buff"
       ]
     },
@@ -67154,6 +67166,7 @@
       "label": "",
       "scryfallId": "f5d02416-8578-40a5-bf31-d1ef9b8764f1",
       "effects": [
+        "Ramp",
         "Filter"
       ]
     },
@@ -88558,6 +88571,7 @@
       "label": "",
       "scryfallId": "5ca28cfd-1a1b-4176-8b07-993d3d7b7ae4",
       "effects": [
+        "Ramp",
         "ManaFixing"
       ]
     },
@@ -104577,7 +104591,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "87ff2c28-770b-49cb-be10-35429233e048",
-      "effects": []
+      "effects": [
+        "Ramp"
+      ]
     },
     "d6a767c2-8bc8-4686-899a-0ba3a525977a": {
       "name": "Tanglespan Lookout",
@@ -108791,7 +108807,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "791c310f-b50d-4993-9add-9f585f6172af",
-      "effects": []
+      "effects": [
+        "Ramp"
+      ]
     },
     "01c179aa-533e-47e1-b6e5-c35587a39680": {
       "name": "Thran Vigil",

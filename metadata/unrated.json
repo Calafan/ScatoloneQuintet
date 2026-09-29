@@ -5106,6 +5106,7 @@
       "label": "",
       "scryfallId": "7110cae6-b0ed-4495-9f36-751ce25c9538",
       "effects": [
+        "Ramp",
         "Filter"
       ]
     },
@@ -7938,7 +7939,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "096ca586-1bfb-448b-98e9-c06d5390eb81",
-      "effects": []
+      "effects": [
+        "Ramp"
+      ]
     },
     "c171065f-7947-4161-a481-1ea2d3ce8422": {
       "name": "Belfry Spirit",
@@ -10763,6 +10766,7 @@
       "scryfallId": "21f348f7-f14a-4752-a4d1-d8becffa1ba8",
       "effects": [
         "Tokens",
+        "Ramp",
         "CardAdvantage"
       ]
     },
@@ -15008,7 +15012,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "6d129aa8-b637-451e-8123-5221e08cc2cc",
-      "effects": []
+      "effects": [
+        "Ramp"
+      ]
     },
     "3fae28e6-2ffc-460e-9dd3-e321e8a53ba9": {
       "name": "Chandra Ablaze",
@@ -28340,7 +28346,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "9757631a-c505-4a16-94c1-8bb609ce7bc5",
-      "effects": []
+      "effects": [
+        "Ramp"
+      ]
     },
     "dd963396-3f81-49ad-a68e-87b9764d7ac5": {
       "name": "Elemental Spectacle",
@@ -35707,7 +35715,8 @@
       "label": "",
       "scryfallId": "25b37249-bf5c-48ad-a5ea-c7538cc46929",
       "effects": [
-        "Removal"
+        "Removal",
+        "Ramp"
       ]
     },
     "5ace15b8-f853-4c44-b9c7-d307367b612c": {
@@ -41845,7 +41854,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "1563592e-0f21-4488-a3ec-ca766386e423",
-      "effects": []
+      "effects": [
+        "Ramp"
+      ]
     },
     "cca3557c-c911-494e-95e7-cebec3442d63": {
       "name": "Grounded",
@@ -56998,6 +57009,7 @@
       "label": "",
       "scryfallId": "151bdf3a-4445-43b1-8cea-2737c13d9dee",
       "effects": [
+        "Ramp",
         "ManaFixing"
       ]
     },
@@ -58153,7 +58165,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "03a9453c-09b2-4dbb-969a-369f5e78a90f",
-      "effects": []
+      "effects": [
+        "Ramp"
+      ]
     },
     "df13dafb-f82e-42ac-b6dc-efe82af5db58": {
       "name": "Magus of the Wheel",
@@ -65026,6 +65040,7 @@
       "label": "",
       "scryfallId": "22bf045f-9872-4af2-a067-ee59898545da",
       "effects": [
+        "Ramp",
         "Burn"
       ]
     },
@@ -65957,7 +65972,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "0dcdad71-323e-41e0-a1b3-9fd5b753e71c",
-      "effects": []
+      "effects": [
+        "Ramp"
+      ]
     },
     "b0713b1e-544d-4549-9371-61ac7f6c2a6a": {
       "name": "Nim Abomination",
@@ -75971,7 +75988,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "183c6c8d-3e5c-4a7b-bd5a-cbaa0a781a58",
-      "effects": []
+      "effects": [
+        "Ramp"
+      ]
     },
     "5a7f09d3-e4a8-4987-a731-a68fc748277d": {
       "name": "Raphael, Tag Team Tough",
@@ -81291,7 +81310,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "b2ca7687-ba90-4479-8c6e-ece3f29fff12",
-      "effects": []
+      "effects": [
+        "Ramp"
+      ]
     },
     "4766f232-8275-4256-b756-8dd5c5e825a3": {
       "name": "Salivating Gremlins",
@@ -86187,7 +86208,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "dab9407d-9389-4ec9-963c-80de095a6812",
-      "effects": []
+      "effects": [
+        "Ramp"
+      ]
     },
     "8a1d14c2-ca31-4711-b385-f4af0c1c0b04": {
       "name": "Shoal Serpent",
@@ -107795,7 +107818,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "02831922-f225-4cc6-8797-aef31265b1cd",
-      "effects": []
+      "effects": [
+        "Ramp"
+      ]
     },
     "fda3c312-1a76-425c-8b23-0196452c4a5e": {
       "name": "Vorosh, the Hunter",
@@ -109038,6 +109063,7 @@
       "scryfallId": "241d8f7d-3981-47c1-b7b8-748277fa452f",
       "effects": [
         "Tokens",
+        "Ramp",
         "CardAdvantage"
       ]
     },
@@ -112359,6 +112385,7 @@
       "label": "",
       "scryfallId": "32ea1726-34c5-4f75-828c-1c67e8cd4789",
       "effects": [
+        "Ramp",
         "CardAdvantage"
       ]
     },

@@ -3077,6 +3077,7 @@
       "label": "",
       "scryfallId": "86e6f8f9-c17c-4f96-9283-a8a4d27b4746",
       "effects": [
+        "Ramp",
         "ManaFixing"
       ]
     },
@@ -9786,7 +9787,9 @@
       "rating": 4,
       "label": "",
       "scryfallId": "0b7061dd-8c20-43ce-b09f-86c81384de34",
-      "effects": []
+      "effects": [
+        "Ramp"
+      ]
     },
     "2da232d8-580f-4116-b977-2c59cd21b5a4": {
       "name": "Hull Breach",
@@ -13781,6 +13784,7 @@
       "label": "",
       "scryfallId": "0ad606af-3ab5-4755-9690-540026c2edaa",
       "effects": [
+        "Ramp",
         "ManaFixing"
       ]
     },
