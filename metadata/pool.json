@@ -3526,7 +3526,9 @@
       "rating": 5,
       "label": "",
       "scryfallId": "04e02176-16ee-4676-8b33-cedebdb18cbc",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "ec3d4466-547c-4e02-b1b5-a156ec4637e9": {
       "name": "Chrome Mox",
@@ -8594,14 +8596,18 @@
       "rating": 3,
       "label": "",
       "scryfallId": "6c299066-dfdd-47a3-85e6-225508ba95fe",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "13ee85c3-a16a-41ac-bbaa-c7549c700a03": {
       "name": "Glistening Dawn",
       "rating": 3,
       "label": "",
       "scryfallId": "5443f4f6-a549-4912-a919-69e3570a9933",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "23732d20-aba6-46cc-89d0-0542629bc6b5": {
       "name": "Glittering Massif",
@@ -20307,6 +20313,7 @@
       "label": "",
       "scryfallId": "194ad785-21bb-4ce6-8776-31c67259fb99",
       "effects": [
+        "Tokens",
         "Disenchant"
       ]
     },
@@ -20333,6 +20340,7 @@
       "label": "",
       "scryfallId": "32e29c7d-ed4b-4eff-b3c2-d99e5b63ef8d",
       "effects": [
+        "Tokens",
         "Wipe"
       ]
     },

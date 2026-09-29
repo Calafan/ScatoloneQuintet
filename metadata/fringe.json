@@ -5961,6 +5961,7 @@
       "label": "",
       "scryfallId": "f6ee12ba-0e6c-485a-a1ff-61726ed72fea",
       "effects": [
+        "Tokens",
         "Counter"
       ]
     },
@@ -10534,7 +10535,9 @@
       "rating": 2,
       "label": "",
       "scryfallId": "ae304cbe-aa42-4f02-a6d8-86fd5ded43ea",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "4098ab29-bf90-4ec9-b547-05d304fc7798": {
       "name": "Blight-Breath Catoblepas",
@@ -10558,6 +10561,7 @@
       "label": "",
       "scryfallId": "007324b3-b8a9-4a32-a5a1-ad78f3a07bc3",
       "effects": [
+        "Tokens",
         "Ramp",
         "ManaFixing"
       ]
@@ -13017,7 +13021,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "2f92733b-6d7e-4037-a2dd-e85726721863",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "b20302d9-eb45-4895-9597-cf3af1abce56": {
       "name": "Brimstone Dragon",
@@ -19810,6 +19816,7 @@
       "label": "",
       "scryfallId": "4fc23af5-18dd-45f9-8d82-76b48aaf6d4d",
       "effects": [
+        "Tokens",
         "Sacrifice"
       ]
     },
@@ -20838,6 +20845,7 @@
       "label": "",
       "scryfallId": "0e896a87-2a93-488c-a0c9-0bed8404da44",
       "effects": [
+        "Tokens",
         "CardAdvantage"
       ]
     },
@@ -33310,7 +33318,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "604233dc-0520-47d0-8d3d-816f45c9f087",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "29cf1dc2-3a6a-4a8b-8d61-4b6f0e74f271": {
       "name": "Estinien Varlineau",
@@ -41887,6 +41897,7 @@
       "label": "",
       "scryfallId": "97e08244-bbdb-402a-8dde-93e17d989467",
       "effects": [
+        "Tokens",
         "Filter"
       ]
     },
@@ -63781,7 +63792,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "15625d6a-3844-4d23-ab35-ee3c3508db8d",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "8745b061-d5c6-46c1-a3fc-4d71d717f19e": {
       "name": "Marauding Knight",
@@ -65437,6 +65450,7 @@
       "label": "",
       "scryfallId": "70edec35-1770-47f0-9ad2-32e597ee0327",
       "effects": [
+        "Tokens",
         "Removal"
       ]
     },
@@ -76505,7 +76519,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "6b9ed068-b6bb-4c9e-a8c9-56aa9b62037a",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "58ed1294-ba7d-43a1-b988-8d78d9fa0e3e": {
       "name": "Phyrexian Battleflies",
@@ -90498,7 +90514,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "594aefa2-7a5b-4ec1-841b-a6ef4f5aa2b1",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "aee0388f-544e-4c28-a34f-29cc0a97d424": {
       "name": "Sculpted Sunburst",
@@ -90836,6 +90854,7 @@
       "label": "",
       "scryfallId": "69f156b6-68c2-4787-b3f0-6d1079bb576f",
       "effects": [
+        "Tokens",
         "Removal",
         "Burn"
       ]
@@ -104644,7 +104663,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "e08e0ef1-a8e0-4c0a-a996-3eee89e37fee",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "b94efd70-705d-4cdf-9990-3a065a541f28": {
       "name": "Tangleroot",
@@ -109793,7 +109814,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "49e206f2-1647-4456-8f2f-b67d053413e2",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "0be44c76-9e3f-45c2-9b2c-6a5f00678780": {
       "name": "Timber Paladin",
@@ -111534,6 +111557,7 @@
       "label": "",
       "scryfallId": "59d40511-c9ff-466c-8eb9-cc7afc5c2eab",
       "effects": [
+        "Tokens",
         "Discard"
       ]
     },
