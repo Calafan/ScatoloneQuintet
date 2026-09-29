@@ -1754,8 +1754,7 @@
       "label": "",
       "scryfallId": "c8c2a5b2-9c29-4f00-9d29-f18dce3b3c0b",
       "effects": [
-        "Ramp",
-        "ManaFixing"
+        "Ramp"
       ]
     },
     "d3a0b660-358c-41bd-9cd2-41fbf3491b1a": {
