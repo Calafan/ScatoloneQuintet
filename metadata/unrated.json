@@ -764,7 +764,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "e5f9fa2d-4bf4-4fcb-9b76-fd4a9ff5a58c",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "c5bfc1b9-a55d-4608-a6f7-bb62cb8dc3c6": {
       "name": "Aegis of the Gods",
@@ -2220,7 +2222,8 @@
       "label": "",
       "scryfallId": "20f6cdcc-85d8-419a-9dd0-7f878912ffc1",
       "effects": [
-        "Buff"
+        "Buff",
+        "Protection"
       ]
     },
     "fb9af562-7384-4575-93bb-34f1ada23735": {
@@ -16044,7 +16047,8 @@
       "scryfallId": "83f43730-1c1f-4150-8771-d901c54bedc4",
       "effects": [
         "Ramp",
-        "CardAdvantage"
+        "CardAdvantage",
+        "Protection"
       ]
     },
     "f155a05f-9f5e-4875-a407-103b85ce30ee": {
@@ -22585,7 +22589,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "0e63512b-32a4-495a-8f8d-273e74505995",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "d001321d-b272-4f94-a333-7cfe8482da20": {
       "name": "Decommission",
@@ -23307,7 +23313,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "4b555888-21b1-4c45-966d-d98f32460d4e",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "0e4150db-ac43-48b4-9791-0d874906acf5": {
       "name": "Deputy of Detention",
@@ -34356,7 +34364,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "77b822d7-6653-4ecb-b35d-a8d4a70ea695",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "02393093-e970-40a0-848b-9cd758450cbb": {
       "name": "Flood of Recollection",
@@ -50101,7 +50111,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "3aa2d511-6eec-42dd-9ebe-1260c8527856",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "2a9a05b4-1910-4f97-a0fe-0f57017f6df0": {
       "name": "Jeskai Charm",
@@ -51116,7 +51128,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "8aaf1b2f-933f-4ad3-a816-2797d96ff37f",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "38cfe4a0-6ead-435b-9f86-928205c0a52c": {
       "name": "Kami of the Crescent Moon",
@@ -64281,7 +64295,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "2c9942a2-11d2-403b-89c6-35c23ac9e9da",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "e1de0c94-0ecc-425a-9b92-27c2745d07e7": {
       "name": "Narset Transcendent",
@@ -72456,7 +72472,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "148e6acd-a96a-4bea-8cfe-a129cd8d1003",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "78d47e49-42bf-404d-b47b-3fbea765ca9a": {
       "name": "Premature Burial",
@@ -74587,7 +74605,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "278fbdb9-51e3-4ed6-bcc5-c5b86f06c216",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "799f31fc-3b6f-419a-8e70-b41c8e97f000": {
       "name": "Quicksilver Behemoth",
@@ -85608,7 +85628,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "36dd3490-1f18-4698-95f5-4abbf257ca0d",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "d8c70f2f-985c-4982-97eb-99da3810e048": {
       "name": "Shepherd of the Lost",
@@ -93393,7 +93415,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "134e37be-b3ca-40fc-8c4a-1584f2d60884",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "78124cd1-2658-43f3-a339-0755d84154d2": {
       "name": "Stonecoil Serpent",
@@ -97722,7 +97746,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "2bf59e8d-0746-440d-878f-d6f6f74610d8",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "fb683e18-50b8-4821-9a1a-86c6dea63ac9": {
       "name": "Temur War Shaman",
@@ -100856,7 +100882,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "2e97ec8b-6163-41ff-9e6f-af091a7c529e",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "3a7c2e32-8585-4f7f-8635-199e3c6cd8a9": {
       "name": "Toll of the Invasion",
@@ -105361,7 +105389,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "4313998b-4927-4f57-9cb1-5892446d012a",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "f507f9ba-a7e9-4e45-86dc-8c60a72a6234": {
       "name": "Vedalken Mesmerist",
@@ -109764,7 +109794,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "0fbe919e-13c8-44de-a778-8e6ce0b16a58",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "df702285-3577-47cc-aa1e-868921cdf6f2": {
       "name": "Whitesun's Passage",

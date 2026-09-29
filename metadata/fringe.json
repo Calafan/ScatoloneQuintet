@@ -60263,7 +60263,7 @@
       "label": "",
       "scryfallId": "0851f97c-ac95-4a6d-bf09-8637eb8a7060",
       "effects": [
-        "Buff"
+        "Protection"
       ]
     },
     "1718a442-b878-4690-b608-a013de3d79fc": {
@@ -65813,7 +65813,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "e811461a-6a90-416f-940c-c9579659ae0c",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "57fe5c94-ee93-45c6-bf7e-89d177d0fe70": {
       "name": "Metrognome",
@@ -67011,7 +67013,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "7214d984-6400-44d7-bde6-57d96b606e78",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "30e3e48c-98dc-4d27-b7ea-e81d39f7d24e": {
       "name": "Mischievous Quanar",
@@ -84139,7 +84143,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "08050607-b558-4f99-b716-bbbab54e9b68",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "86f9897f-84aa-4c8d-8335-cfdb2f565311": {
       "name": "Rescue Retriever",
@@ -122944,7 +122950,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "726da84a-fdd4-46df-8ba4-f94d582bcce4",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "7d10ad59-e90d-4726-bd55-5680d7c21638": {
       "name": "You're Confronted by Robbers",
