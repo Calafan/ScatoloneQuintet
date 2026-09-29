@@ -16213,7 +16213,8 @@
       "label": "",
       "scryfallId": "0f7c16c7-8b74-45fa-a094-104eb0572cd8",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Burn"
       ],
       "reviewedAt": "2026-09-11T13:32:01.933555+00:00"
     },
@@ -17627,7 +17628,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "b1daf5bb-c8e9-4e79-a532-ca92a9a885cd",
-      "effects": [],
+      "effects": [
+        "Burn"
+      ],
       "reviewedAt": "2026-09-12T09:29:52.2926487+00:00"
     },
     "f32caf11-abc1-4cae-a311-10210176ea3a": {
@@ -17836,7 +17839,8 @@
       "label": "",
       "scryfallId": "14d8c9b5-6863-45d1-89f0-6a4f8189758b",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Burn"
       ],
       "reviewedAt": "2026-09-12T09:58:50.8965806+00:00"
     },

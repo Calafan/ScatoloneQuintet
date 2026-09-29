@@ -137,7 +137,8 @@
       "label": "",
       "scryfallId": "096fc185-39d1-4976-b6f6-fc5a118dd611",
       "effects": [
-        "Tokens"
+        "Tokens",
+        "Burn"
       ],
       "reviewedAt": "2026-09-11T12:14:15.1430295+00:00"
     },
@@ -1425,7 +1426,9 @@
       "rating": 2,
       "label": "",
       "scryfallId": "39ebb84a-1c52-4b07-9bd0-b360523b3a5b",
-      "effects": [],
+      "effects": [
+        "Burn"
+      ],
       "reviewedAt": "2026-09-12T16:35:35.7328491+00:00"
     },
     "f398d222-f8e7-4983-9a77-267adef7f551": {
@@ -1951,7 +1954,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "58ccdcfc-a669-480f-bded-4273cfaf2045",
-      "effects": [],
+      "effects": [
+        "Burn"
+      ],
       "reviewedAt": "2026-09-11T22:01:55.2807552+00:00"
     },
     "0f5b0c77-1e3d-46a1-ae0e-03ed79196cd9": {
@@ -10858,7 +10863,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "1016a750-2a18-4443-a600-957eb4026d3a",
-      "effects": [],
+      "effects": [
+        "Burn"
+      ],
       "reviewedAt": "2026-09-12T09:57:34.9221376+00:00"
     },
     "32845ed6-2328-462e-be3a-579589748588": {
@@ -25281,7 +25288,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "119bb72d-aed9-47dc-9285-7bc836cc3776",
-      "effects": [],
+      "effects": [
+        "Burn"
+      ],
       "reviewedAt": "2026-09-10T15:21:29.0076271+00:00"
     },
     "cd271e61-0135-484f-ae02-5aaca57c1124": {
@@ -28952,7 +28961,8 @@
       "scryfallId": "70e68656-3204-4bb5-9f31-8036083fcba6",
       "effects": [
         "Tokens",
-        "Buff"
+        "Buff",
+        "Burn"
       ],
       "reviewedAt": "2026-09-25T08:53:26.8555434+00:00"
     },
@@ -31735,7 +31745,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "5cf181ae-daa7-42f9-b667-5e679d80cf34",
-      "effects": [],
+      "effects": [
+        "Burn"
+      ],
       "reviewedAt": "2026-09-25T07:40:34.3651883+00:00"
     },
     "42e95ad5-c10a-46fe-ab97-c7a734138586": {
@@ -55634,7 +55646,8 @@
       "label": "",
       "scryfallId": "163366ce-d20f-4b2f-b0c5-e9e621075eb9",
       "effects": [
-        "Tokens"
+        "Tokens",
+        "Burn"
       ],
       "reviewedAt": "2026-09-25T09:30:49.6538558+00:00"
     },
@@ -69813,7 +69826,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "0db4a4ef-20a8-415f-8d7d-a6740b482f73",
-      "effects": [],
+      "effects": [
+        "Burn"
+      ],
       "reviewedAt": "2026-09-02T20:13:43.6410998+00:00"
     },
     "8f674382-78b5-462c-9a7f-c5f613c317d4": {
@@ -74701,7 +74716,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "70226354-47b7-4f9d-a5a8-559d17f07720",
-      "effects": [],
+      "effects": [
+        "Burn"
+      ],
       "reviewedAt": "2026-09-10T13:23:49.3731714+00:00"
     },
     "433fcba3-06b8-4f1a-a709-300838251439": {
@@ -78011,6 +78028,7 @@
       "label": "",
       "scryfallId": "35e64605-8edb-4def-9522-765e90d1f0f3",
       "effects": [
+        "Burn",
         "Sacrifice"
       ],
       "reviewedAt": "2026-09-23T14:50:46.1293641+00:00"
@@ -81380,7 +81398,8 @@
       "label": "",
       "scryfallId": "70f64358-58db-40ab-90e8-6137c3bd0a29",
       "effects": [
-        "Tokens"
+        "Tokens",
+        "Burn"
       ],
       "reviewedAt": "2026-09-12T09:31:47.5073249+00:00"
     },
@@ -91655,6 +91674,7 @@
       "scryfallId": "7cb5acb6-14af-4e17-8e6c-b44122bd81e4",
       "effects": [
         "CardAdvantage",
+        "Burn",
         "Sacrifice"
       ],
       "reviewedAt": "2026-09-11T22:04:50.8060338+00:00"
@@ -103323,7 +103343,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "beb97e7b-0ae7-4b08-9ceb-6a7f825bcd49",
-      "effects": [],
+      "effects": [
+        "Burn"
+      ],
       "reviewedAt": "2026-09-11T10:36:25.2969836+00:00"
     },
     "8b4715b0-63d9-4ff8-a667-21a762518687": {
@@ -109240,7 +109262,8 @@
       "label": "",
       "scryfallId": "534d699a-6a78-4025-a22c-2135c1a50ccc",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Burn"
       ],
       "reviewedAt": "2026-09-11T10:37:35.3321989+00:00"
     },
@@ -109977,6 +110000,7 @@
       "scryfallId": "5724a15f-0ba0-421a-9cd4-a2b701e6141f",
       "effects": [
         "Discard",
+        "Burn",
         "Mill"
       ],
       "reviewedAt": "2026-09-25T10:36:10.6043335+00:00"
@@ -115626,7 +115650,8 @@
       "label": "",
       "scryfallId": "a4a4e985-facd-47e6-b680-3023c82c2957",
       "effects": [
-        "Tokens"
+        "Tokens",
+        "Burn"
       ],
       "reviewedAt": "2026-09-11T21:45:03.2946032+00:00"
     },
