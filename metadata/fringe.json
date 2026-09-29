@@ -102463,7 +102463,6 @@
       "label": "",
       "scryfallId": "25c3ce9a-39e5-4273-ba67-224a837b75e7",
       "effects": [
-        "Ramp",
         "Filter"
       ],
       "reviewedAt": "2026-09-10T15:23:03.9863569+00:00"
