@@ -6778,9 +6778,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "c0ee9e09-c4b1-4133-90a3-350677f0b72a",
-      "effects": [
-        "Bounce"
-      ]
+      "effects": []
     },
     "8c601628-b1ed-467b-ba92-8572343147f8": {
       "name": "Aven Gagglemaster",
@@ -25508,8 +25506,7 @@
       "label": "",
       "scryfallId": "29940d8c-da96-4b74-a503-80f6e6883d20",
       "effects": [
-        "Wipe",
-        "Bounce"
+        "Wipe"
       ]
     },
     "45802eb2-6848-416c-95e0-c1c1ea0620d0": {
@@ -27820,7 +27817,6 @@
       "label": "",
       "scryfallId": "18f4ad7a-9d37-4c26-9d77-3483d5e67bea",
       "effects": [
-        "Bounce",
         "Redirect"
       ]
     },
@@ -33024,9 +33020,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "dbc9062e-ddd9-41ac-a88a-33f5a7b22103",
-      "effects": [
-        "Bounce"
-      ]
+      "effects": []
     },
     "0056fc91-4398-471c-b561-7ff99750ac8a": {
       "name": "Escape Tunnel",
@@ -38551,7 +38545,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "0feac25c-23f0-415e-95d2-bae87cc68f4c",
-      "effects": []
+      "effects": [
+        "Bounce"
+      ]
     },
     "bd6823fb-a696-4e6d-9c5e-3b55dfe03730": {
       "name": "Forcefield",
@@ -42804,9 +42800,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "708593e6-787b-4f76-a86c-1d52857493ea",
-      "effects": [
-        "Bounce"
-      ]
+      "effects": []
     },
     "aaf825b0-af0f-47a0-8b00-85f0614cef5d": {
       "name": "Glowrider",
@@ -50052,7 +50046,9 @@
       "rating": 2,
       "label": "",
       "scryfallId": "5b0293a9-48fe-4018-bd25-3e02c227a3dd",
-      "effects": []
+      "effects": [
+        "Bounce"
+      ]
     },
     "2f3fec87-3dd2-4e5d-835c-eae535da4ecb": {
       "name": "Hunting Grounds",
@@ -53640,7 +53636,9 @@
       "rating": 2,
       "label": "",
       "scryfallId": "54b9c323-ac9b-4864-bd57-81b557f44114",
-      "effects": []
+      "effects": [
+        "Bounce"
+      ]
     },
     "65114758-9a75-43a7-96e8-0aa68faa6b24": {
       "name": "Isshin, Two Heavens as One",
@@ -56988,7 +56986,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "aedea953-b5f1-4ec7-bd9f-b7827f9d40fe",
-      "effects": []
+      "effects": [
+        "Bounce"
+      ]
     },
     "e923d956-b036-4789-9311-4763a71fcbf8": {
       "name": "King Darien XLVIII",
@@ -57601,7 +57601,6 @@
       "scryfallId": "2215abf3-d868-4d72-95fb-e7b611c1fa32",
       "effects": [
         "Removal",
-        "Bounce",
         "Disenchant"
       ]
     },
@@ -60211,7 +60210,6 @@
       "label": "",
       "scryfallId": "0851f97c-ac95-4a6d-bf09-8637eb8a7060",
       "effects": [
-        "Bounce",
         "Protection"
       ]
     },
@@ -65758,7 +65756,6 @@
       "label": "",
       "scryfallId": "e811461a-6a90-416f-940c-c9579659ae0c",
       "effects": [
-        "Bounce",
         "Protection"
       ]
     },
@@ -66959,7 +66956,6 @@
       "label": "",
       "scryfallId": "7214d984-6400-44d7-bde6-57d96b606e78",
       "effects": [
-        "Bounce",
         "Protection"
       ]
     },
@@ -68332,6 +68328,7 @@
       "label": "",
       "scryfallId": "9d8bc0e9-a536-4bca-92a6-8dca85e1e984",
       "effects": [
+        "Bounce",
         "Ramp"
       ]
     },
@@ -69093,7 +69090,6 @@
       "label": "",
       "scryfallId": "e70b3b78-9bdc-449b-82a9-c2fc3dd7f120",
       "effects": [
-        "Bounce",
         "Ramp"
       ]
     },
@@ -84071,7 +84067,6 @@
       "label": "",
       "scryfallId": "08050607-b558-4f99-b716-bbbab54e9b68",
       "effects": [
-        "Bounce",
         "Protection"
       ]
     },
@@ -85331,9 +85326,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "18caf94d-d382-43c4-9a32-d824b4bee8d7",
-      "effects": [
-        "Bounce"
-      ]
+      "effects": []
     },
     "d5a4edda-fb04-43fa-8e0e-cc9f19b0776b": {
       "name": "Riptide Mangler",
@@ -89114,7 +89107,6 @@
       "label": "",
       "scryfallId": "0152575b-31b0-4142-9cc2-b87a81bd51a8",
       "effects": [
-        "Bounce",
         "Regrowth"
       ]
     },
@@ -89546,9 +89538,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "20454d36-d98d-4421-b3aa-d2dd4b368d84",
-      "effects": [
-        "Bounce"
-      ]
+      "effects": []
     },
     "5f085af7-ce66-4019-9516-d1650ee7b6e0": {
       "name": "Scarab of the Unseen",
@@ -90478,9 +90468,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "2edc53bd-d34b-4a42-95ee-d7f63c0315bc",
-      "effects": [
-        "Bounce"
-      ]
+      "effects": []
     },
     "acb57162-7093-4a3c-9818-d3b61ce757c6": {
       "name": "Sea Eagle",
@@ -93173,9 +93161,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "f3b54bea-f2c5-4000-9cbd-04c03a1d2ea2",
-      "effects": [
-        "Bounce"
-      ]
+      "effects": []
     },
     "6cfe63ac-3581-461b-8ed3-3e231851e3f8": {
       "name": "Shinra Reinforcements",
@@ -100969,9 +100955,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "0214ebc6-c59f-4170-8dd2-ce07caa6e6ad",
-      "effects": [
-        "Bounce"
-      ]
+      "effects": []
     },
     "1203a80f-11ac-46ed-aa2a-5a6782b6303d": {
       "name": "Stoic Champion",
@@ -103802,7 +103786,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "68f10249-8cd0-4366-bd9a-755f8e1c3592",
-      "effects": []
+      "effects": [
+        "Bounce"
+      ]
     },
     "bfdb13b9-7050-43a3-ac5f-d427942b1616": {
       "name": "Synchronized Spellcraft",
@@ -105251,6 +105237,7 @@
       "label": "",
       "scryfallId": "62d05287-ad7f-4de8-9f68-8f36c62fae72",
       "effects": [
+        "Bounce",
         "CardAdvantage"
       ]
     },
@@ -105589,7 +105576,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "50ee7315-ec53-43d2-841e-8ec192b850f1",
-      "effects": []
+      "effects": [
+        "Bounce"
+      ]
     },
     "b0a16783-31c2-4b2a-835d-774dc385f99a": {
       "name": "Temporal Distortion",
@@ -111050,9 +111039,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "047b93ed-c6d4-4ecc-8a25-e7b371f599c6",
-      "effects": [
-        "Bounce"
-      ]
+      "effects": []
     },
     "50885640-cdf1-4c62-b3bc-f37db6ab38b5": {
       "name": "Trade Secrets",
@@ -121482,9 +121469,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "49805401-9bd9-48a3-9b99-0120a8bb1fb5",
-      "effects": [
-        "Bounce"
-      ]
+      "effects": []
     },
     "0ba3b1e0-1790-4247-93ab-72a43e8fb580": {
       "name": "Wizard Replica",
@@ -122853,7 +122838,6 @@
       "label": "",
       "scryfallId": "726da84a-fdd4-46df-8ba4-f94d582bcce4",
       "effects": [
-        "Bounce",
         "Protection"
       ]
     },

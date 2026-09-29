@@ -765,7 +765,6 @@
       "label": "",
       "scryfallId": "e5f9fa2d-4bf4-4fcb-9b76-fd4a9ff5a58c",
       "effects": [
-        "Bounce",
         "Protection"
       ]
     },
@@ -1263,7 +1262,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "72a656e7-9c1c-40b6-91fe-0098f72d8384",
-      "effects": []
+      "effects": [
+        "Bounce"
+      ]
     },
     "d9ec9a4f-0644-47c5-bc09-1201d5251bde": {
       "name": "Aetherwind Basker",
@@ -2221,7 +2222,6 @@
       "label": "",
       "scryfallId": "20f6cdcc-85d8-419a-9dd0-7f878912ffc1",
       "effects": [
-        "Bounce",
         "Buff",
         "Protection"
       ]
@@ -2278,7 +2278,6 @@
       "label": "",
       "scryfallId": "b0970bd7-fdc4-4f81-81e8-20060446870d",
       "effects": [
-        "Bounce",
         "ManaFixing"
       ]
     },
@@ -2697,7 +2696,7 @@
       "label": "",
       "scryfallId": "15058f91-d266-4804-96af-fc050b6c8436",
       "effects": [
-        "Filter"
+        "Bounce"
       ]
     },
     "7211221d-d4d8-4bbe-9d2a-b82e005bfe8a": {
@@ -6338,7 +6337,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "26adc211-d089-4102-91e5-225bbeb5f382",
-      "effects": []
+      "effects": [
+        "Bounce"
+      ]
     },
     "27e04c41-f42c-4d60-8a71-ec2d7c326f64": {
       "name": "Azorius Cluestone",
@@ -16025,7 +16026,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "6e865bf1-0c46-4505-bbe9-bdeef7ff1100",
-      "effects": []
+      "effects": [
+        "Bounce"
+      ]
     },
     "29ccf76e-dfa3-4144-8ec2-6d56ae0bfa9e": {
       "name": "Chronozoa",
@@ -16040,7 +16043,6 @@
       "label": "",
       "scryfallId": "83f43730-1c1f-4150-8771-d901c54bedc4",
       "effects": [
-        "Bounce",
         "Ramp",
         "CardAdvantage",
         "Protection"
@@ -17439,6 +17441,7 @@
       "label": "",
       "scryfallId": "06c9e2e8-2b4c-4087-9141-6aa25a506626",
       "effects": [
+        "Bounce",
         "CardAdvantage"
       ]
     },
@@ -22584,7 +22587,6 @@
       "label": "",
       "scryfallId": "0e63512b-32a4-495a-8f8d-273e74505995",
       "effects": [
-        "Bounce",
         "Protection"
       ]
     },
@@ -23309,7 +23311,6 @@
       "label": "",
       "scryfallId": "4b555888-21b1-4c45-966d-d98f32460d4e",
       "effects": [
-        "Bounce",
         "Protection"
       ]
     },
@@ -30736,7 +30737,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "12aad375-653e-47ed-b8e3-34dd90d43420",
-      "effects": []
+      "effects": [
+        "Bounce"
+      ]
     },
     "a9aedd96-1aee-480d-87fe-3ed94bd64599": {
       "name": "Excoriate",
@@ -34359,7 +34362,6 @@
       "label": "",
       "scryfallId": "77b822d7-6653-4ecb-b35d-a8d4a70ea695",
       "effects": [
-        "Bounce",
         "Protection"
       ]
     },
@@ -38660,9 +38662,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "2a71800f-3e67-4cfb-a3b1-8c073a91b909",
-      "effects": [
-        "Bounce"
-      ]
+      "effects": []
     },
     "11ed8209-2184-4416-a8f0-72de00599574": {
       "name": "Glen Elendra's Answer",
@@ -40585,7 +40585,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "02655d3d-82d0-4be6-bb64-25e1478edfc3",
-      "effects": []
+      "effects": [
+        "Bounce"
+      ]
     },
     "51310af7-796d-4cf0-871e-5055765ffcdd": {
       "name": "Grasp of the Hieromancer",
@@ -41532,7 +41534,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "27f92b74-86bb-4bb3-8f78-640984698f28",
-      "effects": []
+      "effects": [
+        "Bounce"
+      ]
     },
     "f759d112-76db-4091-a22b-b9f19ab6fa5f": {
       "name": "Griselbrand",
@@ -42327,9 +42331,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "bbbc615a-708a-444b-acab-871cce22694d",
-      "effects": [
-        "Bounce"
-      ]
+      "effects": []
     },
     "7604aac7-82ae-4f5b-888d-a008754f716a": {
       "name": "Guardians of Meletis",
@@ -48235,7 +48237,6 @@
       "label": "",
       "scryfallId": "ac255db4-9c46-4971-bf89-f9014602999c",
       "effects": [
-        "Bounce",
         "CardAdvantage",
         "Sacrifice"
       ]
@@ -50106,7 +50107,6 @@
       "label": "",
       "scryfallId": "3aa2d511-6eec-42dd-9ebe-1260c8527856",
       "effects": [
-        "Bounce",
         "Protection"
       ]
     },
@@ -50116,6 +50116,7 @@
       "label": "",
       "scryfallId": "ca268705-ef04-4bf1-8a5d-866bb3e5bb61",
       "effects": [
+        "Bounce",
         "Buff",
         "Burn"
       ]
@@ -51123,7 +51124,6 @@
       "label": "",
       "scryfallId": "8aaf1b2f-933f-4ad3-a816-2797d96ff37f",
       "effects": [
-        "Bounce",
         "Protection"
       ]
     },
@@ -64289,7 +64289,6 @@
       "label": "",
       "scryfallId": "2c9942a2-11d2-403b-89c6-35c23ac9e9da",
       "effects": [
-        "Bounce",
         "Protection"
       ]
     },
@@ -68917,7 +68916,6 @@
       "scryfallId": "049847cb-ab85-48bd-8a8a-795a713fd5e6",
       "effects": [
         "Removal",
-        "Bounce",
         "Reanimate"
       ]
     },
@@ -69094,7 +69092,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "07313dd3-d0dc-40ca-98a3-fa4d39e5bcae",
-      "effects": []
+      "effects": [
+        "Bounce"
+      ]
     },
     "431b2e52-1290-47b1-920d-2c1817553d96": {
       "name": "Out of Bounds",
@@ -69851,7 +69851,6 @@
       "label": "",
       "scryfallId": "17e50157-bf49-4c5f-9b8a-bf73484e63a5",
       "effects": [
-        "Bounce",
         "CardAdvantage"
       ]
     },
@@ -70022,9 +70021,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "d870e607-1607-46f3-bc9f-925d0164bcf9",
-      "effects": [
-        "Bounce"
-      ]
+      "effects": []
     },
     "54dd35ee-6f89-460d-9370-72bc3fa6840a": {
       "name": "Part the Waterveil",
@@ -72134,9 +72131,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "37c66692-2880-4ea2-abaf-8926c6950826",
-      "effects": [
-        "Bounce"
-      ]
+      "effects": []
     },
     "a217f386-11b5-48f0-b173-3b0700ba295f": {
       "name": "Portcullis Vine",
@@ -72471,7 +72466,6 @@
       "label": "",
       "scryfallId": "148e6acd-a96a-4bea-8cfe-a129cd8d1003",
       "effects": [
-        "Bounce",
         "Protection"
       ]
     },
@@ -77961,9 +77955,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "4e09a443-0a00-458a-b351-8cb188e9218c",
-      "effects": [
-        "Bounce"
-      ]
+      "effects": []
     },
     "2707f9f4-2b80-47ac-af0a-99fc53af94bf": {
       "name": "Retraction Helix",
@@ -79543,7 +79535,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "ee9fdecc-ba16-4aa2-9c20-7c2942ec143e",
-      "effects": []
+      "effects": [
+        "Bounce"
+      ]
     },
     "38e43d06-33f1-4672-b0be-b0ea8bf36291": {
       "name": "Roil's Retribution",
@@ -80276,7 +80270,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "9ed573c6-2b95-4052-8b43-106cbaacb721",
-      "effects": []
+      "effects": [
+        "Bounce"
+      ]
     },
     "d463de75-8d3c-4077-a2cc-c304a63acc69": {
       "name": "Run Amok",
@@ -80292,7 +80288,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "000e88ab-f673-4822-bccb-a744f61060ef",
-      "effects": []
+      "effects": [
+        "Bounce"
+      ]
     },
     "67c16435-54ef-4786-85cd-cacca4f06670": {
       "name": "Runaway Carriage",
@@ -85624,7 +85622,6 @@
       "label": "",
       "scryfallId": "36dd3490-1f18-4698-95f5-4abbf257ca0d",
       "effects": [
-        "Bounce",
         "Protection"
       ]
     },
@@ -90814,9 +90811,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "6eb29718-0bdf-4a8e-9d5c-9e3f486762cc",
-      "effects": [
-        "Bounce"
-      ]
+      "effects": []
     },
     "99eb4f63-841f-4b6b-9794-82bc2ed7b758": {
       "name": "Spectral Shift",
@@ -91381,7 +91376,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "0808b800-9f5f-42ef-8cd0-c04e64945adf",
-      "effects": []
+      "effects": [
+        "Bounce"
+      ]
     },
     "43d44a7f-829a-4f4d-9f71-2f4384ddd803": {
       "name": "Spinal Centipede",
@@ -95639,7 +95636,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "2fb0ea3f-2f6d-4b64-a9d7-e822c8854a03",
-      "effects": []
+      "effects": [
+        "Bounce"
+      ]
     },
     "fc16a2ce-a570-454f-8498-f9c604c0d68b": {
       "name": "Swathcutter Giant",
@@ -96591,9 +96590,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "0dadba2e-1d9a-4f04-b9d5-a3edff017662",
-      "effects": [
-        "Bounce"
-      ]
+      "effects": []
     },
     "ee397a87-6933-4d2d-aac6-8dc4e96d524b": {
       "name": "Takenuma Bleeder",
@@ -97281,6 +97278,7 @@
       "scryfallId": "069f45a2-aef4-4b10-8107-3695370b276a",
       "effects": [
         "RemovePermanent",
+        "Bounce",
         "CardAdvantage"
       ]
     },
@@ -100878,7 +100876,6 @@
       "label": "",
       "scryfallId": "2e97ec8b-6163-41ff-9e6f-af091a7c529e",
       "effects": [
-        "Bounce",
         "Protection"
       ]
     },
@@ -105325,7 +105322,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "0656f4eb-40c5-4a21-b994-4ab07bc63981",
-      "effects": []
+      "effects": [
+        "Bounce"
+      ]
     },
     "b36accb4-cde6-4b1d-b549-8c975cfa999d": {
       "name": "Vedalken Engineer",
@@ -105383,7 +105382,6 @@
       "label": "",
       "scryfallId": "4313998b-4927-4f57-9cb1-5892446d012a",
       "effects": [
-        "Bounce",
         "Protection"
       ]
     },
@@ -108021,9 +108019,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "31fdb2ca-086a-4509-8b3c-cfb4c37f69aa",
-      "effects": [
-        "Bounce"
-      ]
+      "effects": []
     },
     "02d69413-e040-46b1-8f58-69bde666329d": {
       "name": "Walker of the Grove",
@@ -108732,7 +108728,8 @@
       "label": "",
       "scryfallId": "0070651d-79aa-4ea6-b703-6ecd3528b548",
       "effects": [
-        "Tokens"
+        "Tokens",
+        "Bounce"
       ]
     },
     "47f75e25-8a52-4452-a3a8-bf1bd00942d1": {
@@ -109680,7 +109677,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "5b5d96a9-11dd-44cc-baf1-bab298ae03f0",
-      "effects": []
+      "effects": [
+        "Bounce"
+      ]
     },
     "2ed76a99-fe5c-4d68-b572-a30848055c8a": {
       "name": "Whisper Agent",
