@@ -21843,9 +21843,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "aeaea4bc-dcea-4340-a039-ebc97b944673",
-      "effects": [
-        "Protection"
-      ]
+      "effects": []
     },
     "f14fb965-5ebc-427a-a5b8-149f54c64171": {
       "name": "Crown of Flames",
@@ -31224,7 +31222,8 @@
       "label": "",
       "scryfallId": "4b4d298d-d273-42ca-84a0-d83d37685415",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Filter"
       ]
     },
     "5ae4a172-b846-4ec2-8178-a8b762134bfe": {
@@ -38930,9 +38929,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "d54d5240-8afc-4c61-aaf6-a78d2b92e5c9",
-      "effects": [
-        "Protection"
-      ]
+      "effects": []
     },
     "fa3ed0f6-e44e-433d-80d3-824de5e6135a": {
       "name": "Fortress Kin-Guard",
@@ -40224,8 +40221,7 @@
       "label": "",
       "scryfallId": "59c43454-d416-407f-b02c-5d1da706a730",
       "effects": [
-        "Buff",
-        "Protection"
+        "Buff"
       ]
     },
     "2cb95721-56c8-4008-8055-579a5a97fc8b": {
@@ -53885,7 +53881,8 @@
       "scryfallId": "54c6a4c3-ae00-4f29-bb4f-383dcec21747",
       "effects": [
         "Tokens",
-        "CardAdvantage"
+        "CardAdvantage",
+        "Filter"
       ]
     },
     "192b5dd7-f420-4d5b-86d6-66e86fa67f41": {
@@ -54314,6 +54311,7 @@
         "Tokens",
         "Removal",
         "CardAdvantage",
+        "Filter",
         "Redirect"
       ]
     },
@@ -56540,8 +56538,7 @@
       "label": "",
       "scryfallId": "2e143ea2-c6f7-4842-bbc6-579f9b67fe04",
       "effects": [
-        "Buff",
-        "Protection"
+        "Buff"
       ]
     },
     "ea4d6fcd-21e0-4e9f-b406-a89042998d98": {
@@ -59821,8 +59818,7 @@
       "label": "",
       "scryfallId": "197f5adc-e14b-4c84-896f-ef5f01f7ff57",
       "effects": [
-        "Ramp",
-        "Protection"
+        "Ramp"
       ]
     },
     "9f2e713f-c7d5-4c91-9934-9e36888244fd": {
@@ -60216,7 +60212,7 @@
       "label": "",
       "scryfallId": "0851f97c-ac95-4a6d-bf09-8637eb8a7060",
       "effects": [
-        "Protection"
+        "Buff"
       ]
     },
     "1718a442-b878-4690-b608-a013de3d79fc": {
@@ -65763,9 +65759,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "e811461a-6a90-416f-940c-c9579659ae0c",
-      "effects": [
-        "Protection"
-      ]
+      "effects": []
     },
     "57fe5c94-ee93-45c6-bf7e-89d177d0fe70": {
       "name": "Metrognome",
@@ -66963,9 +66957,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "7214d984-6400-44d7-bde6-57d96b606e78",
-      "effects": [
-        "Protection"
-      ]
+      "effects": []
     },
     "30e3e48c-98dc-4d27-b7ea-e81d39f7d24e": {
       "name": "Mischievous Quanar",
@@ -70830,7 +70822,8 @@
       "label": "",
       "scryfallId": "26bd3a70-3154-44a4-8705-1eac01cde8fd",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Filter"
       ]
     },
     "66bef5a7-79b7-4a9c-98dc-8670f867f04c": {
@@ -71790,7 +71783,8 @@
       "label": "",
       "scryfallId": "19cf5e4f-c907-4ab4-877d-90fe7623cb81",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Filter"
       ]
     },
     "4318c704-888f-4d85-b5f7-6d9abb14e60c": {
@@ -75722,8 +75716,7 @@
       "label": "",
       "scryfallId": "6431d71c-f76c-4b36-9e11-b492ec67a266",
       "effects": [
-        "Removal",
-        "Protection"
+        "Removal"
       ]
     },
     "7818d6e0-74d8-46ae-94f6-d2a349c9507b": {
@@ -84074,9 +84067,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "08050607-b558-4f99-b716-bbbab54e9b68",
-      "effects": [
-        "Protection"
-      ]
+      "effects": []
     },
     "86f9897f-84aa-4c8d-8335-cfdb2f565311": {
       "name": "Rescue Retriever",
@@ -88761,6 +88752,7 @@
       "scryfallId": "2d52ea1e-5b66-47c7-9a6d-95f5996565d8",
       "effects": [
         "CardAdvantage",
+        "Filter",
         "Sacrifice"
       ]
     },
@@ -97343,9 +97335,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "55cd09ef-1655-4a62-b6c5-6eda33d2607a",
-      "effects": [
-        "Protection"
-      ]
+      "effects": []
     },
     "de56a8d9-faeb-4e73-bdc1-cc81a6b6d05c": {
       "name": "Soul Charmer",
@@ -97576,7 +97566,8 @@
       "label": "",
       "scryfallId": "15b326af-3ddd-4e34-9c83-77c11ea69101",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Filter"
       ]
     },
     "24c3c505-ddaa-4adb-983e-7c78d9933cc7": {
@@ -99927,9 +99918,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "ed8abca3-6e31-49cd-b9bf-86ad68e1cc83",
-      "effects": [
-        "Protection"
-      ]
+      "effects": []
     },
     "49c997d5-7b41-4faf-b898-58db19055671": {
       "name": "Stampede",
@@ -106197,7 +106186,8 @@
       "label": "",
       "scryfallId": "2174d16e-4a78-4d27-b220-1086c40db83e",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Filter"
       ]
     },
     "0eb11b2d-a397-48da-a0f3-9f0f83f42282": {
@@ -107063,7 +107053,8 @@
       "label": "",
       "scryfallId": "20feab19-d4b3-45f4-a7b9-fdfbedc83c72",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Filter"
       ]
     },
     "87a77482-f286-4fb1-b179-85b2095bb768": {
@@ -107808,7 +107799,8 @@
       "label": "",
       "scryfallId": "084123b5-c60a-4ebd-ad47-5f9eb10fa171",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Filter"
       ]
     },
     "23af0a0a-1d12-47c7-b191-2bd3f84eea93": {
@@ -117070,6 +117062,7 @@
       "scryfallId": "2124e308-091c-4a0d-8631-e3106636b59b",
       "effects": [
         "CardAdvantage",
+        "Filter",
         "Regrowth"
       ]
     },
@@ -122843,9 +122836,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "726da84a-fdd4-46df-8ba4-f94d582bcce4",
-      "effects": [
-        "Protection"
-      ]
+      "effects": []
     },
     "7d10ad59-e90d-4726-bd55-5680d7c21638": {
       "name": "You're Confronted by Robbers",

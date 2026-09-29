@@ -9518,6 +9518,7 @@
       "effects": [
         "Removal",
         "CardAdvantage",
+        "Filter",
         "Burn",
         "Sacrifice"
       ]
@@ -12045,9 +12046,7 @@
       "rating": 3,
       "label": "",
       "scryfallId": "b4d41ac4-3273-4722-aaa6-ceeba66cf591",
-      "effects": [
-        "Protection"
-      ]
+      "effects": []
     },
     "cc6a83c7-e645-4a53-9550-be79b42cd851": {
       "name": "Loyal Warhound",
@@ -12528,7 +12527,8 @@
       "label": "",
       "scryfallId": "0da1880f-7ac9-45a8-b4cd-a89956078a45",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Filter"
       ]
     },
     "68957dca-df5c-4051-af22-407cb7e47200": {
@@ -13675,9 +13675,7 @@
       "rating": 3,
       "label": "",
       "scryfallId": "26a11412-d2ff-4f6b-9763-3c1179e7bf14",
-      "effects": [
-        "Protection"
-      ]
+      "effects": []
     },
     "379ed4ec-8f2e-448b-9ed2-a3181e2f877e": {
       "name": "Nighthawk Scavenger",
@@ -16675,9 +16673,7 @@
       "rating": 3,
       "label": "",
       "scryfallId": "14fd6c9e-2946-4de5-9e71-a188151bb603",
-      "effects": [
-        "Protection"
-      ]
+      "effects": []
     },
     "814e321d-16fd-4f7b-a8d8-2b089be76f2c": {
       "name": "Resculpt",
@@ -24773,9 +24769,7 @@
       "rating": 3,
       "label": "",
       "scryfallId": "f935adbb-d2e3-48d0-b38c-41f3b583fecb",
-      "effects": [
-        "Protection"
-      ]
+      "effects": []
     },
     "d29551ab-e314-4872-9fc5-fe9a442dc8a9": {
       "name": "Zephyrim",
