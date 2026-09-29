@@ -5371,7 +5371,8 @@
       "label": "",
       "scryfallId": "25fe7b73-7e7c-436f-aae1-21bab34efefe",
       "effects": [
-        "RemovePermanent"
+        "RemovePermanent",
+        "Protection"
       ]
     },
     "99140891-face-4015-aacd-1309e87d8f9f": {
@@ -18030,9 +18031,7 @@
       "rating": 4,
       "label": "",
       "scryfallId": "89e70bca-6f90-4930-adf6-cac9a88b071d",
-      "effects": [
-        "Protection"
-      ]
+      "effects": []
     },
     "25dce517-ac0a-4577-89ed-04296c7c4069": {
       "name": "Sedgemoor Witch",

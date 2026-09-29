@@ -12194,9 +12194,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "095ac316-dd28-4e2d-83f9-6e2d05a499a6",
-      "effects": [
-        "Protection"
-      ]
+      "effects": []
     },
     "34909cf0-780d-4bc7-9926-9f7625b8f200": {
       "name": "Brittle Effigy",
@@ -26896,9 +26894,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "13cacdf2-d325-444a-900b-2d0f90c89ca2",
-      "effects": [
-        "Protection"
-      ]
+      "effects": []
     },
     "06c12fcc-1c08-40a0-a0da-e139c42f083f": {
       "name": "Druid of Horns",
@@ -56596,7 +56592,8 @@
       "label": "",
       "scryfallId": "504698a9-1512-4288-b5ef-392d41ebcd05",
       "effects": [
-        "Removal"
+        "Removal",
+        "Protection"
       ]
     },
     "a8287efd-23ca-498b-90f1-c76099919fa4": {
@@ -64026,7 +64023,8 @@
       "label": "",
       "scryfallId": "16e92409-d301-49f5-a8a9-acd531a928d4",
       "effects": [
-        "Removal"
+        "Removal",
+        "Protection"
       ]
     },
     "3a726e40-829c-47ec-81a7-58a04164fc3f": {
@@ -69050,7 +69048,8 @@
       "label": "",
       "scryfallId": "1c3974cd-7054-4381-b327-4aba1c693382",
       "effects": [
-        "Removal"
+        "Removal",
+        "Protection"
       ]
     },
     "43feb61f-5de0-41b6-b678-9785c476dc08": {
@@ -96180,7 +96179,6 @@
       "label": "",
       "scryfallId": "899fc19d-bd0c-4c3c-a7f0-90337c7fa186",
       "effects": [
-        "Protection",
         "Sacrifice"
       ]
     },
@@ -109794,8 +109792,7 @@
       "label": "",
       "scryfallId": "09476eac-55d2-4955-8951-ae4ce117c98b",
       "effects": [
-        "Removal",
-        "Protection"
+        "Removal"
       ]
     },
     "0acadb47-17b2-47d8-9aad-5436931bc38c": {
