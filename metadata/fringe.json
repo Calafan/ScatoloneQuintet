@@ -13808,7 +13808,6 @@
       "scryfallId": "4c9c45b6-dedd-4481-a06a-c83ace2f18fa",
       "effects": [
         "Ramp",
-        "CardAdvantage",
         "ManaFixing"
       ]
     },
@@ -20351,8 +20350,7 @@
       "label": "",
       "scryfallId": "c6679e01-acd1-460a-a4c6-096059510288",
       "effects": [
-        "Removal",
-        "CardAdvantage"
+        "Removal"
       ]
     },
     "b891a683-2ebc-4e9c-b402-5dd9c1b42b69": {
@@ -23426,9 +23424,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "8976c2bd-ac7a-4e25-be17-1099a104626b",
-      "effects": [
-        "CardAdvantage"
-      ]
+      "effects": []
     },
     "c777002d-dcd4-4d75-8175-5440a8bb118e": {
       "name": "Daring Escape",
@@ -26323,9 +26319,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "dfa3cd5e-b727-479d-9a77-9f320b92f3f2",
-      "effects": [
-        "CardAdvantage"
-      ]
+      "effects": []
     },
     "e57025ed-3de6-4b2f-92bd-5481fd33b7f1": {
       "name": "Digsite Engineer",
@@ -33344,7 +33338,6 @@
       "label": "",
       "scryfallId": "6d4075a8-c15d-4078-bf4b-0f85c03fecec",
       "effects": [
-        "CardAdvantage",
         "Buff"
       ]
     },
@@ -48460,18 +48453,14 @@
       "rating": 1,
       "label": "",
       "scryfallId": "69f317fc-f603-45b5-9208-545be4dcbf36",
-      "effects": [
-        "CardAdvantage"
-      ]
+      "effects": []
     },
     "e19d5071-4ea1-4883-b067-a21e553f96e0": {
       "name": "Hidden Courtyard",
       "rating": 1,
       "label": "",
       "scryfallId": "b8685d46-99fc-44b3-be95-707a4b7b8327",
-      "effects": [
-        "CardAdvantage"
-      ]
+      "effects": []
     },
     "2315b044-bfd2-40dd-a73e-4cf064b36999": {
       "name": "Hidden Gibbons",
@@ -48518,18 +48507,14 @@
       "rating": 1,
       "label": "",
       "scryfallId": "f67fd04f-05da-4418-97de-abeb7346cc69",
-      "effects": [
-        "CardAdvantage"
-      ]
+      "effects": []
     },
     "1a26e2d6-6bfc-4cdc-9bd6-8b37a9be2961": {
       "name": "Hidden Nursery",
       "rating": 1,
       "label": "",
       "scryfallId": "a942939a-c06e-4b90-a404-ae5acfffcff9",
-      "effects": [
-        "CardAdvantage"
-      ]
+      "effects": []
     },
     "f1c9f5df-d36a-4e15-bae4-81190e4be477": {
       "name": "Hidden Path",
@@ -48862,7 +48847,6 @@
       "label": "",
       "scryfallId": "255ebdd8-2bbe-4a0f-8aaf-c0aa815db0c7",
       "effects": [
-        "CardAdvantage",
         "ManaFixing"
       ]
     },
@@ -50203,8 +50187,7 @@
       "label": "",
       "scryfallId": "5946463a-2240-4376-b6f5-fd6e3a9cc51c",
       "effects": [
-        "Counter",
-        "CardAdvantage"
+        "Counter"
       ]
     },
     "fac57730-8fd8-4702-8b35-4ef0ed5fa41a": {
@@ -78901,9 +78884,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "a18f5ad0-e9c1-4e45-b245-2946e29baecb",
-      "effects": [
-        "CardAdvantage"
-      ]
+      "effects": []
     },
     "133109c3-a2ca-4231-b3b1-baa700800b07": {
       "name": "Primordial Ooze",
@@ -117983,7 +117964,6 @@
       "label": "",
       "scryfallId": "71a6f85b-5ef8-4526-9c86-7cb71508b4c0",
       "effects": [
-        "CardAdvantage",
         "Regrowth"
       ]
     },
@@ -123827,9 +123807,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "a2f498ac-179e-4055-9b83-97bcc5ab1bb9",
-      "effects": [
-        "CardAdvantage"
-      ]
+      "effects": []
     },
     "7d8af783-e73f-49ce-bcdb-ba55e1650481": {
       "name": "Zombie Assassin",
