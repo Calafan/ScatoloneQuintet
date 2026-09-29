@@ -90,7 +90,8 @@
       "label": "",
       "scryfallId": "aff2d73b-cba9-4f76-97d7-8b6dd085e656",
       "effects": [
-        "Tokens"
+        "Tokens",
+        "Bounce"
       ],
       "reviewedAt": "2026-09-10T14:03:32.1290486+00:00"
     },
@@ -110,7 +111,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "245e008c-e073-443f-9592-6f628c0026ec",
-      "effects": [],
+      "effects": [
+        "Bounce"
+      ],
       "reviewedAt": "2026-09-11T10:20:22.8546362+00:00"
     },
     "c1882cb4-f69e-441e-8871-743ed636cad0": {
@@ -1711,7 +1714,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "1f9fd623-d45d-4c8a-b7e7-4c4ad1e80816",
-      "effects": [],
+      "effects": [
+        "Bounce"
+      ],
       "reviewedAt": "2026-09-11T13:22:24.7067462+00:00"
     },
     "7f715f72-5444-4ab3-a6ca-3d5bfd0d4851": {
@@ -18483,7 +18488,6 @@
       "label": "",
       "scryfallId": "16dfe689-83d4-4dcb-810c-d618a39c5ab9",
       "effects": [
-        "Bounce",
         "Ramp"
       ],
       "reviewedAt": "2026-09-23T13:17:00.9459125+00:00"
@@ -37511,7 +37515,7 @@
       "label": "",
       "scryfallId": "1971fd6c-0a1c-41b2-93a6-886a176fbb73",
       "effects": [
-        "Bounce"
+        "Burn"
       ],
       "reviewedAt": "2026-09-10T14:03:40.0748202+00:00"
     },
@@ -46340,9 +46344,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "3f4eb320-3080-4343-9112-6e16cc8245b3",
-      "effects": [
-        "Bounce"
-      ],
+      "effects": [],
       "reviewedAt": "2026-09-05T11:59:31.5706163+00:00"
     },
     "e310ab58-180e-4840-bc8d-9f9b06f1b478": {
@@ -57969,7 +57971,7 @@
       "label": "",
       "scryfallId": "125dd19b-98a0-49d9-a870-63214255e12a",
       "effects": [
-        "Bounce"
+        "Regrowth"
       ],
       "reviewedAt": "2026-09-11T20:05:35.4626668+00:00"
     },
@@ -96506,9 +96508,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "084437ba-26d4-4af6-ab00-dcb145dd2cd0",
-      "effects": [
-        "Bounce"
-      ],
+      "effects": [],
       "reviewedAt": "2026-09-05T10:33:23.8503758+00:00"
     },
     "01cdaf69-f53a-4735-92f2-ef149de4d5c9": {
@@ -102508,6 +102508,7 @@
       "label": "",
       "scryfallId": "47cadda6-12be-4490-997b-3752e752be18",
       "effects": [
+        "Bounce",
         "Buff"
       ],
       "reviewedAt": "2026-09-08T10:46:24.5227531+00:00"
@@ -107215,7 +107216,8 @@
       "label": "",
       "scryfallId": "944ddbe5-45bf-44c3-aad5-b051ec79ae8b",
       "effects": [
-        "RemovePermanent"
+        "RemovePermanent",
+        "Bounce"
       ],
       "reviewedAt": "2026-09-11T13:38:08.0205711+00:00"
     },
@@ -107733,6 +107735,7 @@
       "label": "",
       "scryfallId": "09081740-1180-48ea-b50b-e016d9c3828a",
       "effects": [
+        "Bounce",
         "Regrowth"
       ],
       "reviewedAt": "2026-09-11T22:14:00.7304046+00:00"

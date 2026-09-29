@@ -18,6 +18,7 @@
       "scryfallId": "077a1ad2-6317-4271-b86c-cc999776251d",
       "effects": [
         "Counter",
+        "Bounce",
         "Buff"
       ],
       "reviewedAt": "2026-09-10T15:47:45.9075861+00:00"
@@ -330,7 +331,7 @@
       "scryfallId": "6b7078e4-2892-4b5f-83ab-90369e0d6dba",
       "effects": [
         "Removal",
-        "Bounce"
+        "Protection"
       ],
       "reviewedAt": "2026-09-11T13:22:31.3686108+00:00"
     },
@@ -753,7 +754,7 @@
       "scryfallId": "4d822fa1-70f9-4a63-841d-31c94e1e3dd4",
       "effects": [
         "Tokens",
-        "Bounce"
+        "Protection"
       ],
       "reviewedAt": "2026-09-11T10:46:38.9182376+00:00"
     },
@@ -1125,7 +1126,8 @@
       "label": "",
       "scryfallId": "1fd20526-024a-4a08-8f86-f5d7c2d7e8e7",
       "effects": [
-        "Bounce"
+        "Bounce",
+        "Regrowth"
       ],
       "reviewedAt": "2026-09-12T09:23:29.9161458+00:00"
     },
