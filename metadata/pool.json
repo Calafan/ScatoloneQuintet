@@ -8805,8 +8805,7 @@
       "effects": [
         "Steal",
         "ManaFixing"
-      ],
-      "reviewedAt": "2026-09-11T12:22:34.9756117+00:00"
+      ]
     },
     "3ceda405-8175-416a-beda-9a95f5acc60c": {
       "name": "Grab the Reins",
@@ -11055,8 +11054,7 @@
       "effects": [
         "Steal",
         "ManaFixing"
-      ],
-      "reviewedAt": "2026-09-12T10:28:57.1587698+00:00"
+      ]
     },
     "eadd9559-6dcb-4b96-8c95-58abddd0e120": {
       "name": "Kessig Flamebreather",
@@ -11935,8 +11933,7 @@
         "Steal",
         "ManaFixing",
         "Mill"
-      ],
-      "reviewedAt": "2026-09-11T20:05:52.4174732+00:00"
+      ]
     },
     "7a8edf45-206e-4d0e-bd69-06f1ca70d17c": {
       "name": "Lolth, Spider Queen",
@@ -12205,8 +12202,7 @@
       "effects": [
         "Tokens",
         "ManaFixing"
-      ],
-      "reviewedAt": "2026-09-23T12:35:46.2570858+00:00"
+      ]
     },
     "94b1e7ed-87f3-44e6-bf34-186dd9a1a0d1": {
       "name": "Mage's Attendant",
@@ -13881,8 +13877,7 @@
       "scryfallId": "405df7c7-0e37-499e-9826-6bf9f5db7a40",
       "effects": [
         "ManaFixing"
-      ],
-      "reviewedAt": "2026-09-23T12:41:06.7154503+00:00"
+      ]
     },
     "ef8d9c3a-5860-45bf-8205-14e2df9a6fc8": {
       "name": "Nulldrifter",
@@ -15581,8 +15576,7 @@
       "scryfallId": "4c617bcd-05f8-40c2-bb38-489bc863ce6b",
       "effects": [
         "ManaFixing"
-      ],
-      "reviewedAt": "2026-09-10T11:02:38.3269855+00:00"
+      ]
     },
     "d5e4bf5e-1a66-4315-8c82-640c27977b88": {
       "name": "Prophetic Bolt",
@@ -16868,8 +16862,7 @@
       "effects": [
         "Steal",
         "ManaFixing"
-      ],
-      "reviewedAt": "2026-09-12T09:28:12.4273923+00:00"
+      ]
     },
     "4499d8cd-d090-4acc-a1d9-3d9d9b6ef768": {
       "name": "Reverse the Polarity",
@@ -18026,8 +18019,7 @@
       "effects": [
         "CardAdvantage",
         "ManaFixing"
-      ],
-      "reviewedAt": "2026-09-12T16:31:53.8585475+00:00"
+      ]
     },
     "8e013e51-1684-4f58-8fe1-3588b6fbb5b5": {
       "name": "Season of the Burrow",
@@ -24842,8 +24834,7 @@
       "effects": [
         "Steal",
         "ManaFixing"
-      ],
-      "reviewedAt": "2026-09-11T20:03:41.174895+00:00"
+      ]
     },
     "e7d79fbe-b02c-41c7-8b0a-6477feb1da7a": {
       "name": "Zoanthrope",
