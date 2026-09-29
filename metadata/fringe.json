@@ -21585,8 +21585,7 @@
       "scryfallId": "14a5cd7c-b0b1-4ffa-a806-bb0e73baffad",
       "effects": [
         "Ramp"
-      ],
-      "reviewedAt": "2026-09-25T10:43:59.7187353+00:00"
+      ]
     },
     "5e238e67-00f2-4656-bf69-0115e47321a5": {
       "name": "Crimestopper Sprite",
@@ -80015,8 +80014,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "2e3f6220-6ead-46b4-8663-57609ef5a12e",
-      "effects": [],
-      "reviewedAt": "2026-09-08T10:56:59.3608633+00:00"
+      "effects": []
     },
     "17407b73-0dbe-4a71-84ec-3aaca9651f5b": {
       "name": "Pygmy Kavu",
@@ -86767,8 +86765,7 @@
       "effects": [
         "Ramp",
         "CardAdvantage"
-      ],
-      "reviewedAt": "2026-09-23T21:39:02.5384482+00:00"
+      ]
     },
     "b81a9cf5-4059-45fb-a4e1-f2fe6aa3c841": {
       "name": "Rosecot Knight",
@@ -96337,8 +96334,7 @@
       "effects": [
         "Tokens",
         "Ramp"
-      ],
-      "reviewedAt": "2026-09-25T08:53:47.4398327+00:00"
+      ]
     },
     "be09e83f-6486-4f42-8d2e-416cb95173f9": {
       "name": "Smoldering Crater",
