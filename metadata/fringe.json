@@ -46028,7 +46028,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "9ce0d139-2bea-48df-a007-cee7c8ce07bd",
-      "effects": []
+      "effects": [
+        "Reanimate"
+      ]
     },
     "fde50a0d-9bc6-45f4-873e-3de81a513fac": {
       "name": "Gurmag Nightwatch",
@@ -105152,7 +105154,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "c160c1f7-714e-444a-ab74-c64c3a099a48",
-      "effects": []
+      "effects": [
+        "Reanimate"
+      ]
     },
     "4a3c6d0e-6d77-4434-95f4-737879de026f": {
       "name": "Tectonic Break",

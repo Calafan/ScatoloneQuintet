@@ -20973,7 +20973,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "085863ba-06f0-480d-b7be-8f8c4b97d573",
-      "effects": []
+      "effects": [
+        "Reanimate"
+      ]
     },
     "5ab0ab9b-c143-4315-8983-f645fb21f8b3": {
       "name": "Dance of the Skywise",
@@ -58825,7 +58827,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "044dd138-fc8e-4a24-ad6d-2df71f94c0c0",
-      "effects": []
+      "effects": [
+        "Reanimate"
+      ]
     },
     "e9e55768-ed62-4998-9922-dbcdeab12aee": {
       "name": "March of the Drowned",
@@ -76041,7 +76045,8 @@
       "label": "",
       "scryfallId": "be464d88-8933-46e8-97b0-3be05f1976a3",
       "effects": [
-        "Tokens"
+        "Tokens",
+        "Reanimate"
       ]
     },
     "05bebb63-0e3a-42c2-a5c1-6a3f7d60dd5e": {
