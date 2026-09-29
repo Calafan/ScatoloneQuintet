@@ -8809,7 +8809,6 @@
       "label": "",
       "scryfallId": "21ed5dd3-e67b-4425-bb98-6b07db1e9d1f",
       "effects": [
-        "Ramp",
         "Steal",
         "ManaFixing"
       ],
@@ -11060,7 +11059,6 @@
       "label": "",
       "scryfallId": "8912d8ca-bd08-47e0-aa21-bc9e16c954bb",
       "effects": [
-        "Ramp",
         "Steal",
         "ManaFixing"
       ],
@@ -11940,7 +11938,6 @@
       "label": "",
       "scryfallId": "42cd66f2-0704-4c8e-b5de-6df93f4a8bed",
       "effects": [
-        "Ramp",
         "Steal",
         "ManaFixing",
         "Mill"
@@ -12215,7 +12212,6 @@
       "scryfallId": "2834e84e-e932-4052-9dad-2e1c8e76fbbc",
       "effects": [
         "Tokens",
-        "Ramp",
         "ManaFixing"
       ],
       "reviewedAt": "2026-09-23T12:35:46.2570858+00:00"
@@ -13893,7 +13889,6 @@
       "label": "",
       "scryfallId": "405df7c7-0e37-499e-9826-6bf9f5db7a40",
       "effects": [
-        "Ramp",
         "ManaFixing"
       ],
       "reviewedAt": "2026-09-23T12:41:06.7154503+00:00"
@@ -15595,7 +15590,6 @@
       "label": "",
       "scryfallId": "4c617bcd-05f8-40c2-bb38-489bc863ce6b",
       "effects": [
-        "Ramp",
         "ManaFixing"
       ],
       "reviewedAt": "2026-09-10T11:02:38.3269855+00:00"
@@ -16883,7 +16877,6 @@
       "label": "",
       "scryfallId": "34d75399-02e1-4ab8-9493-70c1d9d28b42",
       "effects": [
-        "Ramp",
         "Steal",
         "ManaFixing"
       ],
@@ -18043,7 +18036,6 @@
       "label": "",
       "scryfallId": "1203854a-a451-4bd8-9efc-1ca81836dede",
       "effects": [
-        "Ramp",
         "CardAdvantage",
         "ManaFixing"
       ],
@@ -24861,7 +24853,6 @@
       "label": "",
       "scryfallId": "2eaffe7a-0e04-4c19-942b-695a0c350ef0",
       "effects": [
-        "Ramp",
         "Steal",
         "ManaFixing"
       ],
