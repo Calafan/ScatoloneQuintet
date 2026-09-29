@@ -4484,7 +4484,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "0a3c8532-92f5-41db-92b4-a871aa05e0c7",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "4fd061f2-7269-4eea-bc7c-95a123893efa": {
       "name": "Curse of Surveillance",
@@ -8880,7 +8882,9 @@
       "rating": 4,
       "label": "",
       "scryfallId": "41932ef6-0f64-40c1-946c-679976326e2d",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "9c009b3f-6580-4ab8-84e8-d4cf7a456a02": {
       "name": "Gravpack Monoist",
@@ -9657,7 +9661,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "3becd8e2-677a-4e54-8839-2b9f80573aa1",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "e8a9350a-07c1-47ed-8c4f-88e4b3b17545": {
       "name": "Hop to It",
@@ -11337,6 +11343,7 @@
       "scryfallId": "75f4d622-2d50-4e6e-87a5-5a1cc65d6919",
       "effects": [
         "Filter",
+        "Burn",
         "Mill"
       ]
     },
@@ -21477,7 +21484,8 @@
       "label": "",
       "scryfallId": "0227e3cc-3d75-4e62-8ee8-deaa1d5db9d1",
       "effects": [
-        "Wipe"
+        "Wipe",
+        "Burn"
       ]
     },
     "2e3ec514-fc9e-4964-a493-2a6cc9e63630": {
@@ -22115,7 +22123,8 @@
       "label": "",
       "scryfallId": "dbaa9a2d-e9fd-4746-a26c-f99ae731f024",
       "effects": [
-        "Removal"
+        "Removal",
+        "Burn"
       ]
     },
     "79b69b38-c01d-499a-a865-8c1cecf9fae0": {

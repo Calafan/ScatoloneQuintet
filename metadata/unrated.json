@@ -420,7 +420,8 @@
       "label": "",
       "scryfallId": "2170504f-3bbb-48dd-9f51-9d8891858dbb",
       "effects": [
-        "Ramp"
+        "Ramp",
+        "Burn"
       ]
     },
     "23d4f436-a417-4a26-b5b8-c698f11a186b": {
@@ -452,7 +453,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "4b0b14d4-41de-42ac-9894-77bbcebaabfc",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "35bf67e0-8141-4664-b762-2c613353e1eb": {
       "name": "Acolyte of the Inferno",
@@ -1368,7 +1371,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "7d6ace1f-c056-494d-a41f-75efa54312a5",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "4cd82c7a-86df-4d29-b578-c009208c0d4b": {
       "name": "Agent of Treachery",
@@ -4119,7 +4124,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "64ac0667-8ecc-4034-89bb-dce0af531014",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "263408e6-b315-4af5-8cb8-3fd1aa88e48c": {
       "name": "Archetype of Aggression",
@@ -6234,6 +6241,7 @@
       "scryfallId": "06921700-6094-41e6-9f50-4d0e208d0ab2",
       "effects": [
         "CardAdvantage",
+        "Burn",
         "Sacrifice"
       ]
     },
@@ -7284,14 +7292,18 @@
       "rating": 0,
       "label": "",
       "scryfallId": "2be39fed-4b39-4027-9c80-f2186f7dd941",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "752ebcba-97fb-43a3-8811-d244164b3e16": {
       "name": "Basilica Screecher",
       "rating": 0,
       "label": "",
       "scryfallId": "251e27b2-f57b-4cfe-9a04-8f201be24492",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "f5f4dd28-f4ae-4d39-b9b8-6ebfd63c93fe": {
       "name": "Basilisk Collar",
@@ -8267,7 +8279,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "801c2b46-c7a7-44d6-ae38-5d34bf00c404",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "5a651557-ce08-46ba-aecd-0e4fbfdef3c0": {
       "name": "Bile-Vial Boggart",
@@ -9141,6 +9155,7 @@
       "label": "",
       "scryfallId": "17ab3455-f464-41b0-ac63-d40d27abbfb1",
       "effects": [
+        "Burn",
         "Tutor"
       ]
     },
@@ -9189,7 +9204,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "07c3e78d-d917-4552-842f-feff99c059e0",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "30c7e304-ecfe-44c1-88d1-f507df63c080": {
       "name": "Blind Zealot",
@@ -9398,7 +9415,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "036f387a-8dee-482e-b3e3-cf79b54c61e1",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "33bea2f0-c5aa-44b5-8714-5f50f7f2bb05": {
       "name": "Blood Bairn",
@@ -9549,7 +9568,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "8033de8d-a396-4097-aedd-f9facb800b33",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "2659c0ea-9ae0-4be3-b9f7-5a38230815ad": {
       "name": "Blood Speaker",
@@ -9589,7 +9610,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "719abc71-dda9-49bf-b050-4fc28ad8b9b7",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "fc7439ec-32e3-47db-9ff4-6eb84cb33d89": {
       "name": "Blood for Bones",
@@ -9783,7 +9806,8 @@
       "label": "",
       "scryfallId": "04151a78-eb5a-4cb2-aa1f-e4835f3124c1",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Burn"
       ]
     },
     "79591c18-0065-49bb-a77a-734d4af87a3c": {
@@ -10408,7 +10432,8 @@
       "label": "",
       "scryfallId": "aaeb9c9c-0f15-49dc-ae6d-2a958680f327",
       "effects": [
-        "Tokens"
+        "Tokens",
+        "Burn"
       ]
     },
     "f5e2da6c-35fa-4f46-bfae-8ac8907c8300": {
@@ -10870,6 +10895,7 @@
       "scryfallId": "15cc3ca5-af8a-4d5c-9422-efb8aabc6317",
       "effects": [
         "Filter",
+        "Burn",
         "Sacrifice",
         "Pacify"
       ]
@@ -10890,7 +10916,8 @@
       "label": "",
       "scryfallId": "171a9a3f-6278-4921-9848-2b8459869d6c",
       "effects": [
-        "Ramp"
+        "Ramp",
+        "Burn"
       ]
     },
     "40ab2b22-9cf6-4a73-a05f-6ce496d10bf7": {
@@ -12440,7 +12467,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "97eea42a-6ad3-45a6-a9f9-c6814f15e0ba",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "bdec14d1-1b38-4223-869e-a0ffc76b2b0c": {
       "name": "Brutalizer Exarch",
@@ -13028,7 +13057,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "351e65ac-25d4-4916-aa33-5bfd9df19b25",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "8bd6dea2-2fdd-482f-9fe8-6f3eeed13872": {
       "name": "Cacophodon",
@@ -13106,7 +13137,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "17b2ed72-d0f0-4d8d-bb5e-dce08d157466",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "86a7dba7-aff9-4086-b149-03eee812249f": {
       "name": "Caldera Hellion",
@@ -13343,7 +13376,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "c284997a-cfc3-4ffc-bc25-00c130fb1eb0",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "efaa1262-b7ac-49ab-831a-d10b59680691": {
       "name": "Canal Courier",
@@ -16127,7 +16162,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "1f059cd0-7924-495e-bac4-021f0e46bb87",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "f720f80a-74bc-4681-ad4f-d33152ff988b": {
       "name": "Circle of Elders",
@@ -16491,7 +16528,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "5544247d-1f8f-443f-a4c4-d8461db28a79",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "ea0dde32-1638-47f1-bef6-0813794ba35b": {
       "name": "Cliffrunner Behemoth",
@@ -18398,7 +18437,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "42e1033b-383e-49b4-875f-ccdc94e08c9d",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "1392cfbc-ea8a-4eb3-8680-ddd12a3bbb6d": {
       "name": "Corpse Lunge",
@@ -19580,7 +19621,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "87ead6ac-b1c5-4852-8413-7fa43c6cfc57",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "e0256da6-21f3-4019-9da0-75962b7f295c": {
       "name": "Cruel Deceiver",
@@ -19837,7 +19880,8 @@
       "label": "",
       "scryfallId": "060c12ee-65b0-48d3-82d0-fdb5e27097a8",
       "effects": [
-        "Ramp"
+        "Ramp",
+        "Burn"
       ]
     },
     "ce00e0d0-c6f4-4fe8-97c3-7279b06d8fdb": {
@@ -20421,7 +20465,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "162535ea-87be-4ea7-a006-b63ae981f453",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "5480f855-80b7-45c7-94a9-071c7b5d5ccf": {
       "name": "Curse of the Bloody Tome",
@@ -20801,7 +20847,8 @@
       "label": "",
       "scryfallId": "abe9d9d7-bc4e-4367-b27c-e8d6e430467e",
       "effects": [
-        "Buff"
+        "Buff",
+        "Burn"
       ]
     },
     "ea4d30c7-7c39-46d5-9b71-a7ebc3e219a1": {
@@ -22123,7 +22170,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "bd0a2fe3-45ab-4bac-aca7-a6418e28d0be",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "94f23a93-cd98-4ee7-9e62-9b7b49ace6fd": {
       "name": "Death Denied",
@@ -24379,7 +24428,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "0e5f41eb-609b-4882-af9e-904daa717484",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "fd62ad01-601f-4250-bc2a-8ef3982e45c4": {
       "name": "Diregraf Colossus",
@@ -25300,6 +25351,7 @@
       "scryfallId": "9b99894b-c774-45c2-9ee9-4d6a8e7522f5",
       "effects": [
         "CardAdvantage",
+        "Burn",
         "Steal"
       ]
     },
@@ -26093,7 +26145,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "4e99cd26-3987-4421-a7a4-fe4621af7f12",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "67391f99-739a-490a-ba16-7fa1d758ec34": {
       "name": "Drana, Kalastria Bloodchief",
@@ -27334,6 +27388,7 @@
       "label": "",
       "scryfallId": "9a1509ff-387e-4ccd-bda0-86e8738a98fb",
       "effects": [
+        "Burn",
         "Mill"
       ]
     },
@@ -29723,6 +29778,7 @@
       "label": "",
       "scryfallId": "5998cab0-77cd-4a22-8049-37d39928df6d",
       "effects": [
+        "Burn",
         "Regrowth"
       ]
     },
@@ -29824,7 +29880,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "0f71ff90-13ff-4ac6-8bdd-2cf53cc24ec1",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "833fe5f4-cfab-46ce-a4fe-250673896350": {
       "name": "Epiphany Storm",
@@ -30078,7 +30136,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "996da623-1c34-4545-a800-648238ea91ae",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "4bf5402f-7bba-4c0c-aebd-1b231768f2b2": {
       "name": "Essence Drain",
@@ -31508,7 +31568,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "33727782-dafd-4a7c-96dd-6ffaf667cc6b",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "bbe370ba-412b-4052-89d9-2d0ae4928118": {
       "name": "Faerie Trickery",
@@ -31664,7 +31726,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "0fad9e17-c45c-4f94-af5b-63dc1dda1e5b",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "6cfd9d88-f450-4408-bbe2-94a2d295b24a": {
       "name": "Falkenrath Reaver",
@@ -34074,7 +34138,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "3931db42-3773-4aae-b6eb-2209e7312f8c",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "5cfdfcac-57fb-4507-a97a-cccbac2d1327": {
       "name": "Flayer Husk",
@@ -34876,6 +34942,7 @@
       "label": "",
       "scryfallId": "b499fc26-26b0-4b0f-9c62-5ed599baf41d",
       "effects": [
+        "Burn",
         "Tutor"
       ]
     },
@@ -36497,7 +36564,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "1e6baaf3-d885-4778-b71a-4197d0e40b8f",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "5b48e926-fc0e-403c-a47b-1f1d96e2eaf7": {
       "name": "Garza Zol, Plague Queen",
@@ -37793,7 +37862,8 @@
       "label": "",
       "scryfallId": "d4839a0b-47db-4464-9e9a-0e976d468106",
       "effects": [
-        "Discard"
+        "Discard",
+        "Burn"
       ]
     },
     "2aa03852-6c38-4e91-afed-0c4cd5964598": {
@@ -39140,6 +39210,7 @@
       "label": "",
       "scryfallId": "56653d9e-0c29-440b-8724-cae746abb1a9",
       "effects": [
+        "Burn",
         "Sacrifice"
       ]
     },
@@ -39767,7 +39838,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "7dce06ba-c1e1-45ec-82a7-fc10b0fa8870",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "1ed5751a-4b45-4cd2-b19c-ac84508de4f8": {
       "name": "Godhead of Awe",
@@ -40160,6 +40233,7 @@
       "label": "",
       "scryfallId": "2cc97674-f60a-4854-a807-60dbcf90637e",
       "effects": [
+        "Burn",
         "Sacrifice"
       ]
     },
@@ -40733,6 +40807,7 @@
       "scryfallId": "bd6c6906-7328-4b03-b8d3-11b80d3291ae",
       "effects": [
         "CardAdvantage",
+        "Burn",
         "Regrowth"
       ]
     },
@@ -41363,7 +41438,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "732b5444-0410-430b-87ca-cf2d9f165bd7",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "72aef1d8-11df-4bc2-af83-907b05df73a8": {
       "name": "Grim Haruspex",
@@ -45246,7 +45323,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "f394fd39-842f-4c98-b857-bdad3fd09758",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "7fff5224-c002-4a32-86fe-9a4b18d78b50": {
       "name": "Hissing Quagmire",
@@ -50595,7 +50674,8 @@
       "label": "",
       "scryfallId": "ee8c962f-11b0-48f7-bbba-a2212e41990f",
       "effects": [
-        "Tokens"
+        "Tokens",
+        "Burn"
       ]
     },
     "7bd2ac13-d598-4cf1-a483-2a6878aed93b": {
@@ -50935,7 +51015,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "42c21cb3-21f4-4a8d-8068-52649f2a1846",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "77e319da-d782-4258-bf0e-626755e5adc9": {
       "name": "Kalastria Highborn",
@@ -52096,7 +52178,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "1892e24d-57c1-4a56-968a-77f8a8b508fc",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "6ab8958b-10a2-4601-a609-7a372a47f36c": {
       "name": "Khenra Scrapper",
@@ -52399,7 +52483,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "3465cf63-4f10-4b53-9703-69746364dbc7",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "bba6075b-8bbb-4496-80a9-bfa7f003d1e8": {
       "name": "Kinjalli's Caller",
@@ -52954,7 +53040,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "0c2a1100-a2e6-4ef5-a8e3-2aca552d6b66",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "673ddb72-d800-49c3-9ea9-ff74a0e20a97": {
       "name": "Knight of Old Benalia",
@@ -53100,7 +53188,8 @@
       "label": "",
       "scryfallId": "53d74710-7396-4984-afd8-fe47059e3d12",
       "effects": [
-        "Reanimate"
+        "Reanimate",
+        "Burn"
       ]
     },
     "9d834f1b-a4b5-4676-bb6d-2ffc6b3bccd2": {
@@ -55011,14 +55100,18 @@
       "rating": 0,
       "label": "",
       "scryfallId": "77e17aab-4af0-447b-b204-d31faf309763",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "d83c86c1-126d-49e9-9b13-9e55784c49c5": {
       "name": "Leechridden Swamp",
       "rating": 0,
       "label": "",
       "scryfallId": "3bc4c0e9-3869-45c7-8335-7276606edef0",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "a5cfd1e4-cd14-454a-9734-b5f6952d6a50": {
       "name": "Leering Emblem",
@@ -58893,7 +58986,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "0eb57b38-3465-45bb-af82-16f4885f1204",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "2a87e3a9-10e3-4b00-aeb9-d3336b2fa3b3": {
       "name": "Mardu Skullhunter",
@@ -64122,7 +64217,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "11fbba08-0d93-4750-9dd6-d6a2779c6cf3",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "42b12ba0-7d1d-48f9-9473-881f7a19514a": {
       "name": "Nadier, Agent of the Duskenel",
@@ -64953,6 +65050,7 @@
       "label": "",
       "scryfallId": "13884a26-1e30-40d7-ae38-494154a5cf85",
       "effects": [
+        "Burn",
         "Pacify"
       ]
     },
@@ -65582,7 +65680,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "087a8e22-f1de-4210-b93b-fc83487cfde7",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "56697773-8a04-49b6-8327-895e972da7e7": {
       "name": "Night Revelers",
@@ -65741,7 +65841,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "8297ab13-d6f3-487b-86ec-6eb299eb0614",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "afd6089a-38cc-4a0f-853b-94d6be2d4470": {
       "name": "Nightshade Peddler",
@@ -65836,7 +65938,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "f603486d-c8d7-4a02-bdb3-c25d2bc62ba6",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "c235fda2-1a8d-4ac7-9a23-784529a520f0": {
       "name": "Nihilith",
@@ -66003,6 +66107,7 @@
       "effects": [
         "CardAdvantage",
         "Buff",
+        "Burn",
         "Regrowth"
       ]
     },
@@ -66789,6 +66894,7 @@
       "label": "",
       "scryfallId": "8f28a0f4-43e1-46df-8b6a-d588c5cceb88",
       "effects": [
+        "Burn",
         "Pacify"
       ]
     },
@@ -67178,6 +67284,7 @@
       "effects": [
         "Tokens",
         "CardAdvantage",
+        "Burn",
         "Sacrifice"
       ]
     },
@@ -67230,7 +67337,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "ae054604-0d77-45d0-b17b-55a83fb18e39",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "75fcb9ce-ac01-4048-82b7-9100143e3b07": {
       "name": "Obelisk of Alara",
@@ -67905,7 +68014,8 @@
       "label": "",
       "scryfallId": "081abf82-f674-4c65-a273-957d133295fa",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Burn"
       ]
     },
     "dbf05c40-7274-4aaa-94d7-1f28cbe15e09": {
@@ -68092,6 +68202,7 @@
       "label": "",
       "scryfallId": "b3e8af50-5e4a-447b-9015-602b8ec61384",
       "effects": [
+        "Burn",
         "Pacify"
       ]
     },
@@ -68174,7 +68285,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "3686eb57-e9c8-480f-8ab4-2894e1b5fe20",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "8a398777-2fa5-4cac-adee-4582e59d410d": {
       "name": "Onyx Mage",
@@ -68965,7 +69078,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "10f60c15-923f-4d97-b20b-ad5c05df92b4",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "9808c424-0d74-45b8-a092-fd296c6833d2": {
       "name": "Orzhov Keyrune",
@@ -69030,7 +69145,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "9015cc09-56c9-4d8f-b241-a0cfaec7e1f1",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "1c99c9d9-3ea8-43bc-96d7-4dea12770b5c": {
       "name": "Ostiary Thrull",
@@ -70243,7 +70360,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "61740668-9f85-43ed-aaa0-33ce7101da6e",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "e245f2f6-2b5b-41bc-88b3-5b41ca813c5e": {
       "name": "Patron of the Orochi",
@@ -71350,6 +71469,7 @@
       "label": "",
       "scryfallId": "7ac2a5aa-71c3-482b-9431-5f0b228cf64d",
       "effects": [
+        "Burn",
         "Sacrifice"
       ]
     },
@@ -71577,7 +71697,8 @@
       "label": "",
       "scryfallId": "26c3846a-b5a6-42ad-bcc0-96f2077b1b47",
       "effects": [
-        "Removal"
+        "Removal",
+        "Burn"
       ]
     },
     "fef502af-6e79-4c55-a86a-b45adb3fc64a": {
@@ -71926,14 +72047,18 @@
       "rating": 0,
       "label": "",
       "scryfallId": "1677d49e-3d63-45bd-9849-01b1bdd95ad8",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "38872730-0fd1-414e-8015-29d1bc649913": {
       "name": "Poisonbelly Ogre",
       "rating": 0,
       "label": "",
       "scryfallId": "a168b953-eac4-472e-ac74-598febb05f83",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "ffd6f55f-2592-46a5-94da-cb9424783004": {
       "name": "Polis Crusher",
@@ -72051,7 +72176,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "03b34286-9e5e-42fc-ae1d-3eb71fcd8297",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "8cfb5181-8ab7-484b-8821-a62c561f762f": {
       "name": "Ponyback Brigade",
@@ -73659,7 +73786,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "26719c8b-2783-4f97-a961-725b52091bb7",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "0ac7bacd-944d-44f4-927b-28e8c0a4371d": {
       "name": "Psychotic Episode",
@@ -73799,7 +73928,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "4604a63c-ebe0-420f-968e-3ffc7641ce22",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "d5b446a4-a761-42f0-acf0-ea0a1a9538d6": {
       "name": "Pulse of Murasa",
@@ -74714,7 +74845,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "c3a15a9d-46d7-4181-8131-50ba46a11c7b",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "5114f3e0-339d-46d6-9d44-97fa0afbd7c5": {
       "name": "Quilled Slagwurm",
@@ -79359,7 +79492,8 @@
       "label": "",
       "scryfallId": "eb737465-5de8-4015-befe-2bf386da2a89",
       "effects": [
-        "Removal"
+        "Removal",
+        "Burn"
       ]
     },
     "bad5b8d4-9089-4ebd-8eaa-07552737c527": {
@@ -79557,7 +79691,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "f83006a5-c42b-4083-a246-f46b25412150",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "5e90f187-42fe-4f32-ad75-302e6709192d": {
       "name": "Roiling Terrain",
@@ -81432,7 +81568,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "28da9211-13f4-4500-98f9-58c260c01e18",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "1e640846-8f50-4a94-b7aa-f228124290d3": {
       "name": "Sanctum Spirit",
@@ -82555,7 +82693,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "95a36e06-39f3-47d0-b6a9-43728afceb4a",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "0753aee4-33db-48c5-9854-16a9d91535b2": {
       "name": "Scholar of Stars",
@@ -84761,7 +84901,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "dfb16d4f-ed42-4b19-9e45-330db88eea9b",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "df1a8846-b4da-4e9b-8cf3-ee687e4c606b": {
       "name": "Servant of the Conduit",
@@ -88800,7 +88942,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "01e68d4a-fd13-4172-8d71-9f25149b39e8",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "66ce0ae5-7000-4e4a-891f-f571f0e58cd7": {
       "name": "Slingbow Trap",
@@ -88948,7 +89092,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "7b8339ca-2971-4c5a-83ed-2682e5b3838d",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "bb5ea7c7-741a-4edd-9696-b9881b70afe0": {
       "name": "Sluiceway Scorpion",
@@ -89134,7 +89280,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "16ecbed3-3a41-4823-8cd2-498daaaa0d4f",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "b0f56eef-1abc-437e-8e2e-c079731fe783": {
       "name": "Smoldering Butcher",
@@ -89596,7 +89744,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "7df777c3-281b-4a2d-b852-4e2663672c06",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "16a96727-c53a-4563-8151-f8b7abb7e534": {
       "name": "Sootstoke Kindler",
@@ -89858,7 +90008,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "54800a5a-33fe-4291-a7b4-a1eb256dfa8f",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "b48befc5-a9f2-4a64-a16d-c883b034ea9c": {
       "name": "Soul Conduit",
@@ -90346,7 +90498,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "ac182338-ab26-4f9e-87f9-be83c5cc7cd7",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "13718d93-fe46-4a18-a511-88649ef1c9de": {
       "name": "Sovereign's Bite",
@@ -91728,7 +91882,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "41d1a332-f950-4f56-9b1e-37c0954e72f6",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "25a20f94-1703-4bcd-862d-f2db7014ba90": {
       "name": "Spiteful Blow",
@@ -93771,7 +93927,8 @@
       "label": "",
       "scryfallId": "0b420ce8-3dd1-430b-a090-4b4e8dcb6aa9",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Burn"
       ]
     },
     "b35c1b30-c1dc-489f-bd79-ad6566fb9389": {
@@ -95524,7 +95681,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "31432e98-86cd-42ea-ad37-eb4383dc6a81",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "4b2eba61-3937-4dc2-ad0a-e51fff8ecb80": {
       "name": "Suture Spirit",
@@ -96184,14 +96343,18 @@
       "rating": 0,
       "label": "",
       "scryfallId": "2bafaa3b-eeaa-427f-9a73-6a1c98d257ca",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "3a067b98-e775-4b44-addf-9d31716c2191": {
       "name": "Syndicate Enforcer",
       "rating": 0,
       "label": "",
       "scryfallId": "9b3f10eb-d601-4de2-a8da-009312e5c854",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "ec484fd1-aa9a-4056-becf-1d8c710272fd": {
       "name": "Syndicate Guildmage",
@@ -98570,7 +98733,8 @@
       "label": "",
       "scryfallId": "0b8a0cad-92df-45a1-a3cc-561be2f06778",
       "effects": [
-        "Discard"
+        "Discard",
+        "Burn"
       ]
     },
     "eff0a1ad-ecc6-416f-a4ae-96b26cd8a905": {
@@ -98931,6 +99095,7 @@
       "scryfallId": "89abcf79-8113-49ea-a8c8-ee2e0ebb1acd",
       "effects": [
         "CardAdvantage",
+        "Burn",
         "Sacrifice",
         "Pacify"
       ]
@@ -99080,6 +99245,7 @@
       "label": "",
       "scryfallId": "0a3029b8-01e2-4419-817e-318f23d6ce04",
       "effects": [
+        "Burn",
         "Regrowth"
       ]
     },
@@ -99294,7 +99460,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "3290c60a-f9a0-464d-a15e-8473a6d50d96",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "70623348-7eda-4c68-89cd-2356b0896b79": {
       "name": "Thorncaster Sliver",
@@ -99502,7 +99670,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "8c9af048-43c2-44ff-9ca0-2a81609a4e91",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "faad0f02-da5b-47f4-9634-0ea6ee2ff4f6": {
       "name": "Thoughtflare",
@@ -99735,7 +99905,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "7c2a6f9c-49c4-433c-9269-fb075f2e0902",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "60bc63dc-ac9f-4a2f-aef5-c90d0aa31553": {
       "name": "Thrashing Brontodon",
@@ -99980,7 +100152,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "10f005b8-2558-4928-971d-a040c4270312",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "b2bd40a1-1857-4f4c-aed6-d4e224ac0ef7": {
       "name": "Thrumming Stone",
@@ -100760,7 +100934,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "35e22f03-55f1-449a-b8c1-6ad9f92c55ed",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "c916b81f-700e-4a1a-8c8e-c4685ceaecd2": {
       "name": "Tithe Taker",
@@ -101182,7 +101358,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "3b804e46-c1a2-4934-9117-d0b0c4b01e1a",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "bbcc2d2d-b29c-410f-bee7-5ef1609a5b32": {
       "name": "Tormented Pariah // Rampaging Werewolf",
@@ -101973,6 +102151,7 @@
       "label": "",
       "scryfallId": "289a46d3-f206-4d2a-b435-e3cf274781e6",
       "effects": [
+        "Burn",
         "Regrowth"
       ]
     },
@@ -102054,7 +102233,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "0e467a14-00b5-4dfb-9c3a-4e064de1b5fc",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "4d19b4d1-49d1-44e9-a453-dcb08b5fa6e4": {
       "name": "Trespassing Souleater",
@@ -103887,7 +104068,8 @@
       "label": "",
       "scryfallId": "28855038-f96e-4fdb-9bfb-34c0fedd344f",
       "effects": [
-        "Removal"
+        "Removal",
+        "Burn"
       ]
     },
     "e1bce9c3-300c-4a9d-abe0-a1f02d3a1105": {
@@ -103913,7 +104095,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "3f0f1e80-405a-413a-bed1-ea276040eea4",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "39c10798-9dfc-47a2-9da3-b4038509aebe": {
       "name": "Underworld Connections",
@@ -104883,7 +105067,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "167822a5-2ab5-42f5-afa4-562fe2d7501b",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "feb244f8-bcb1-44cf-9940-2719221a7309": {
       "name": "Vampire Nighthawk",
@@ -105503,7 +105689,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "45edd64f-1ecc-417b-a9c5-a476461c8b87",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "1c4e174e-19fb-4c0a-b762-ef6d927392c9": {
       "name": "Velis Vel",
@@ -106194,7 +106382,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "29ea5874-becd-4c6b-9638-5c075b52079e",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "c6adfaa7-d9cf-4501-8e7d-e035369390d2": {
       "name": "Vicious Offering",
@@ -107150,7 +107340,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "cac639b9-6c20-45ac-a61f-082bdcebdb83",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "f19e7c5c-67fa-4ae4-89b8-afa0e08a6c48": {
       "name": "Vizkopa Guildmage",
@@ -109142,7 +109334,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "3f78276a-d2a7-4b7f-aff8-dcbb982aa909",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "3875aef0-3102-4fbf-be90-e4139f7a2348": {
       "name": "Wayward Swordtooth",
@@ -109817,7 +110011,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "c3172965-6057-472f-9712-1dd23d25d1a7",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "dda70e25-b3c5-444d-9dff-1366771bf881": {
       "name": "Wicked Guardian",
@@ -112375,7 +112571,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "08fca446-fee8-4617-91bc-5f1b18daf2ec",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "0ab5fde8-e7db-4265-81c6-2a6488ba56c4": {
       "name": "Zulaport Enforcer",
