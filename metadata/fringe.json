@@ -3992,7 +3992,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "59e05b04-172b-4556-8984-a903cd7ac613",
-      "effects": []
+      "effects": [
+        "Regrowth"
+      ]
     },
     "a3bf5d18-77d5-4881-916c-cc125e621b6e": {
       "name": "Aphetto Exterminator",
@@ -30329,7 +30331,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "39eb0e67-f989-4430-b2d6-b8b647f0b7ca",
-      "effects": []
+      "effects": [
+        "Regrowth"
+      ]
     },
     "0635ab65-fc1a-4e43-9e11-3a1ad3093830": {
       "name": "Ecological Appreciation",
@@ -41541,6 +41545,7 @@
       "label": "",
       "scryfallId": "58fb2705-82e7-49d9-b8cc-f98f652dd6c1",
       "effects": [
+        "Bounce",
         "Buff"
       ]
     },
@@ -62897,7 +62902,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "2e6af42f-35ec-432f-9879-2a0fb938a9f6",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "ecd3ddd7-2fa8-466b-9319-ae51c744a05f": {
       "name": "Magnanimous Magistrate",

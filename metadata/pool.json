@@ -16503,7 +16503,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "89a18961-8f0b-4e98-9de4-aba97e91ad9a",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "96381388-1e82-411c-8290-1f3e909d3b5f": {
       "name": "Reins of Power",
@@ -16821,7 +16823,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "9e997f78-22a2-4b66-ac10-1adc9a72ce3b",
-      "effects": []
+      "effects": [
+        "Regrowth"
+      ]
     },
     "541adb13-1277-4c9e-ae1e-976f7aac1c72": {
       "name": "Return from the Wilds",

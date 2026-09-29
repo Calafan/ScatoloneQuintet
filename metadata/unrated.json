@@ -2897,7 +2897,10 @@
       "rating": 0,
       "label": "",
       "scryfallId": "0b54f9ca-bef3-46f3-8eeb-5b110e3b4ad2",
-      "effects": []
+      "effects": [
+        "Bounce",
+        "Regrowth"
+      ]
     },
     "635fe908-6f58-4c9e-ac55-0775a7c6f278": {
       "name": "Angel of Vitality",
@@ -54532,7 +54535,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "14050179-84af-46f6-89be-338f8e7131cc",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "9c30147a-1131-402e-bdaf-9006b1022b83": {
       "name": "Lathnu Sailback",
