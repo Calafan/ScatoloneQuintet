@@ -16448,9 +16448,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "33d989b2-0198-4e5b-8aad-ee939191dd28",
-      "effects": [
-        "Protection"
-      ]
+      "effects": []
     },
     "f48dae33-ebf9-41ee-a61e-7573a2733db2": {
       "name": "Cephalid Vandal",
@@ -96341,8 +96339,7 @@
       "label": "",
       "scryfallId": "8b716fcc-c4cc-4987-be82-2897a9888d23",
       "effects": [
-        "Removal",
-        "Protection"
+        "Removal"
       ]
     },
     "8aa97d25-cd51-4ceb-b7eb-af64f0914a8c": {
