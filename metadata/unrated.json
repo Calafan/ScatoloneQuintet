@@ -24024,8 +24024,7 @@
       "label": "",
       "scryfallId": "8007e300-d16c-4257-9a93-4c82750414fe",
       "effects": [
-        "Tokens",
-        "ManaFixing"
+        "Tokens"
       ]
     },
     "7a25ccf3-0fe1-447c-bdf4-57ec31b19a0f": {

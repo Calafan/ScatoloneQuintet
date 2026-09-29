@@ -6889,9 +6889,7 @@
       "scryfallId": "0b696cd1-0d72-4df5-bacc-dc77e62f9a13",
       "effects": [
         "Tokens",
-        "Ramp",
-        "CardAdvantage",
-        "ManaFixing"
+        "CardAdvantage"
       ]
     },
     "437b2dab-15e0-4b9a-a204-58622d37a3b3": {
