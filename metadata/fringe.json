@@ -139,8 +139,7 @@
       "effects": [
         "Tokens",
         "Burn"
-      ],
-      "reviewedAt": "2026-09-11T12:14:15.1430295+00:00"
+      ]
     },
     "8dedb9a7-0afa-4dff-b124-2344c170f11a": {
       "name": "Abaddon the Despoiler",
@@ -1429,8 +1428,7 @@
       "scryfallId": "39ebb84a-1c52-4b07-9bd0-b360523b3a5b",
       "effects": [
         "Burn"
-      ],
-      "reviewedAt": "2026-09-12T16:35:35.7328491+00:00"
+      ]
     },
     "f398d222-f8e7-4983-9a77-267adef7f551": {
       "name": "Agatha of the Vile Cauldron",
@@ -1959,8 +1957,7 @@
       "scryfallId": "58ccdcfc-a669-480f-bded-4273cfaf2045",
       "effects": [
         "Burn"
-      ],
-      "reviewedAt": "2026-09-11T22:01:55.2807552+00:00"
+      ]
     },
     "0f5b0c77-1e3d-46a1-ae0e-03ed79196cd9": {
       "name": "Al-abara's Carpet",
@@ -10869,8 +10866,7 @@
       "scryfallId": "1016a750-2a18-4443-a600-957eb4026d3a",
       "effects": [
         "Burn"
-      ],
-      "reviewedAt": "2026-09-12T09:57:34.9221376+00:00"
+      ]
     },
     "32845ed6-2328-462e-be3a-579589748588": {
       "name": "Blood Hypnotist",
@@ -25294,8 +25290,7 @@
       "scryfallId": "119bb72d-aed9-47dc-9285-7bc836cc3776",
       "effects": [
         "Burn"
-      ],
-      "reviewedAt": "2026-09-10T15:21:29.0076271+00:00"
+      ]
     },
     "cd271e61-0135-484f-ae02-5aaca57c1124": {
       "name": "Deluge",
@@ -28976,8 +28971,7 @@
         "Tokens",
         "Buff",
         "Burn"
-      ],
-      "reviewedAt": "2026-09-25T08:53:26.8555434+00:00"
+      ]
     },
     "ecba74bd-850e-4cbe-9b1c-b0d4d6f27d1c": {
       "name": "Drought",
@@ -31766,8 +31760,7 @@
       "scryfallId": "5cf181ae-daa7-42f9-b667-5e679d80cf34",
       "effects": [
         "Burn"
-      ],
-      "reviewedAt": "2026-09-25T07:40:34.3651883+00:00"
+      ]
     },
     "42e95ad5-c10a-46fe-ab97-c7a734138586": {
       "name": "Embalmed Brawler",
@@ -55668,8 +55661,7 @@
       "effects": [
         "Tokens",
         "Burn"
-      ],
-      "reviewedAt": "2026-09-25T09:30:49.6538558+00:00"
+      ]
     },
     "0b620775-70a5-4423-8453-e403a5b79554": {
       "name": "Kamber, the Plunderer",
@@ -69860,8 +69852,7 @@
       "scryfallId": "0db4a4ef-20a8-415f-8d7d-a6740b482f73",
       "effects": [
         "Burn"
-      ],
-      "reviewedAt": "2026-09-02T20:13:43.6410998+00:00"
+      ]
     },
     "8f674382-78b5-462c-9a7f-c5f613c317d4": {
       "name": "Nahiri's Binding",
@@ -74752,8 +74743,7 @@
       "scryfallId": "70226354-47b7-4f9d-a5a8-559d17f07720",
       "effects": [
         "Burn"
-      ],
-      "reviewedAt": "2026-09-10T13:23:49.3731714+00:00"
+      ]
     },
     "433fcba3-06b8-4f1a-a709-300838251439": {
       "name": "Pain // Suffering",
@@ -78064,8 +78054,7 @@
       "effects": [
         "Burn",
         "Sacrifice"
-      ],
-      "reviewedAt": "2026-09-23T14:50:46.1293641+00:00"
+      ]
     },
     "702d7b7b-7935-4cb2-9cd7-06f638f5405f": {
       "name": "Popular Entertainer",
@@ -81440,8 +81429,7 @@
       "effects": [
         "Tokens",
         "Burn"
-      ],
-      "reviewedAt": "2026-09-12T09:31:47.5073249+00:00"
+      ]
     },
     "7db1402e-a434-45d2-9d21-9e0faeeaff10": {
       "name": "Rakish Revelers",
@@ -91719,8 +91707,7 @@
         "CardAdvantage",
         "Burn",
         "Sacrifice"
-      ],
-      "reviewedAt": "2026-09-11T22:04:50.8060338+00:00"
+      ]
     },
     "6af71c5a-2c1b-4120-b3c9-c3c70d94a5c9": {
       "name": "Sephiroth, Planet's Heir",
@@ -103396,8 +103383,7 @@
       "scryfallId": "beb97e7b-0ae7-4b08-9ceb-6a7f825bcd49",
       "effects": [
         "Burn"
-      ],
-      "reviewedAt": "2026-09-11T10:36:25.2969836+00:00"
+      ]
     },
     "8b4715b0-63d9-4ff8-a667-21a762518687": {
       "name": "Sutured Ghoul",
@@ -109317,8 +109303,7 @@
       "effects": [
         "CardAdvantage",
         "Burn"
-      ],
-      "reviewedAt": "2026-09-11T10:37:35.3321989+00:00"
+      ]
     },
     "6ffae2fa-511a-45bf-93c4-5d53c85324f5": {
       "name": "Thunderbolt",
@@ -110057,8 +110042,7 @@
         "Discard",
         "Burn",
         "Mill"
-      ],
-      "reviewedAt": "2026-09-25T10:36:10.6043335+00:00"
+      ]
     },
     "008eda1f-b913-4f04-8c29-5e87c270149e": {
       "name": "Tinybones, Trinket Thief",
@@ -115707,8 +115691,7 @@
       "effects": [
         "Tokens",
         "Burn"
-      ],
-      "reviewedAt": "2026-09-11T21:45:03.2946032+00:00"
+      ]
     },
     "1d001145-5d14-43a9-bf3b-3ce5c20b2a46": {
       "name": "Vengeance",
