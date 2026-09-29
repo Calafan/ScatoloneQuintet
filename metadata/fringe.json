@@ -87518,7 +87518,8 @@
       "label": "",
       "scryfallId": "1ef89770-2dbb-4a57-99f7-191591bb8e38",
       "effects": [
-        "Buff"
+        "Buff",
+        "Tutor"
       ]
     },
     "2705a288-3b9d-4452-a320-28b86331aa09": {
