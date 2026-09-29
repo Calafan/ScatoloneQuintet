@@ -21199,7 +21199,6 @@
       "label": "",
       "scryfallId": "9dc2521f-d9a5-4ae7-b5dc-bf0504e66345",
       "effects": [
-        "Ramp",
         "Filter"
       ]
     },
