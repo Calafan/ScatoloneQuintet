@@ -9909,7 +9909,7 @@
       "label": "",
       "scryfallId": "3f37c7ea-e8fe-4d1d-8ff7-93307cd7681e",
       "effects": [
-        "ManaFixing"
+        "Ramp"
       ]
     },
     "58bd02ae-2676-4c9c-b24e-2bd51be8bde7": {
@@ -13804,8 +13804,7 @@
       "label": "",
       "scryfallId": "4c9c45b6-dedd-4481-a06a-c83ace2f18fa",
       "effects": [
-        "Ramp",
-        "ManaFixing"
+        "Ramp"
       ]
     },
     "f1f0eab3-681b-4c2d-b590-555951920880": {
@@ -18087,7 +18086,7 @@
       "label": "",
       "scryfallId": "a842a945-21d9-432c-b970-6da65b16f309",
       "effects": [
-        "ManaFixing"
+        "Ramp"
       ]
     },
     "6f554418-9ee6-4a03-b81e-f93d5c70873e": {
@@ -21033,8 +21032,7 @@
       "effects": [
         "Tokens",
         "Ramp",
-        "CardAdvantage",
-        "ManaFixing"
+        "CardAdvantage"
       ]
     },
     "d78654fc-7d90-40ce-9c36-a211424d1a88": {
@@ -26233,8 +26231,7 @@
       "label": "",
       "scryfallId": "2116f1a3-f621-4bef-b5bd-fa4a644f76b1",
       "effects": [
-        "Ramp",
-        "ManaFixing"
+        "Ramp"
       ]
     },
     "542e7d60-3fc8-46e2-8786-f7c8b3d4c979": {
@@ -26494,8 +26491,7 @@
       "label": "",
       "scryfallId": "6e29bae1-0643-4781-9edc-50a8e6d1a3a1",
       "effects": [
-        "Ramp",
-        "ManaFixing"
+        "Ramp"
       ]
     },
     "d558b465-75c6-450e-b1f2-5843ad67de71": {
@@ -38422,6 +38418,7 @@
       "label": "",
       "scryfallId": "18a1bb9e-006c-495e-8f99-d451183d2669",
       "effects": [
+        "Ramp",
         "Sacrifice"
       ]
     },
@@ -42705,8 +42702,7 @@
       "label": "",
       "scryfallId": "74713a58-e343-4504-9900-cf9d76951242",
       "effects": [
-        "Ramp",
-        "ManaFixing"
+        "Ramp"
       ]
     },
     "184c763c-b52a-471c-bd87-d01729ebe5e4": {
@@ -44109,8 +44105,7 @@
       "label": "",
       "scryfallId": "c059e4b4-1542-4b5c-810a-9f0abac5792b",
       "effects": [
-        "Ramp",
-        "ManaFixing"
+        "Ramp"
       ]
     },
     "86d76078-9af3-45a7-90d6-72946afdc78b": {
@@ -46922,7 +46917,7 @@
       "label": "",
       "scryfallId": "7127218e-420a-4db5-b812-340f2558aab3",
       "effects": [
-        "ManaFixing"
+        "Ramp"
       ]
     },
     "6f82b01d-8975-42a1-87e2-99782272bbea": {
@@ -54294,7 +54289,7 @@
       "label": "",
       "scryfallId": "1a68615d-9808-479d-aa80-50651246954e",
       "effects": [
-        "ManaFixing"
+        "Ramp"
       ]
     },
     "3f244320-3e74-4eff-ba4e-a345700c40c9": {
@@ -56869,8 +56864,7 @@
       "scryfallId": "8b71345a-c3e8-4b35-beb7-6347e41d7626",
       "effects": [
         "Disenchant",
-        "Buff",
-        "ManaFixing"
+        "Buff"
       ]
     },
     "d3278ddb-c198-450d-946e-8547e5c96dd1": {
@@ -61749,8 +61743,7 @@
       "label": "",
       "scryfallId": "46d17e0a-5407-4fde-8eb0-8f580eab5565",
       "effects": [
-        "Ramp",
-        "ManaFixing"
+        "Ramp"
       ]
     },
     "143d7a32-c15d-4a1f-ad81-cf1e6aa92bf3": {
@@ -66119,8 +66112,7 @@
       "label": "",
       "scryfallId": "84b1be9b-ef70-4c29-9c1c-72a35c17031d",
       "effects": [
-        "Ramp",
-        "ManaFixing"
+        "Ramp"
       ]
     },
     "7b0d7e62-0287-454a-8702-b0bfa7b41245": {
@@ -66523,9 +66515,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "0556f0d9-50d2-4c67-8522-de366d96500a",
-      "effects": [
-        "ManaFixing"
-      ]
+      "effects": []
     },
     "8af3b981-6eda-46b0-a7b8-226bc719d137": {
       "name": "Minion of Leshrac",
@@ -69388,7 +69378,7 @@
       "label": "",
       "scryfallId": "19c7d89a-2b02-4faa-83cf-7dcf7faf6c4a",
       "effects": [
-        "ManaFixing"
+        "Ramp"
       ]
     },
     "43923f24-7e95-4934-9a5c-8d9a5e06ddea": {
@@ -76437,8 +76427,7 @@
       "scryfallId": "043de2ce-9ee9-414f-9385-6e5260173988",
       "effects": [
         "Ramp",
-        "Sacrifice",
-        "ManaFixing"
+        "Sacrifice"
       ]
     },
     "cdef800d-033e-4095-964d-9b6066f9fd36": {
@@ -76654,7 +76643,7 @@
       "label": "",
       "scryfallId": "6ec9a91d-7af0-44a8-839f-fb9960be0ddd",
       "effects": [
-        "ManaFixing"
+        "Ramp"
       ]
     },
     "405674c5-607a-43d3-8b46-8741d2339f80": {
@@ -83701,8 +83690,7 @@
       "label": "",
       "scryfallId": "4b0c2788-5ab4-482f-be70-ede073215d3c",
       "effects": [
-        "Ramp",
-        "ManaFixing"
+        "Ramp"
       ]
     },
     "7887f060-3024-4dc4-aeb5-fb5546db6b48": {
@@ -99808,9 +99796,9 @@
       "scryfallId": "0c475639-1368-4e29-adeb-8973e343bca5",
       "effects": [
         "RemovePermanent",
+        "Ramp",
         "CardAdvantage",
-        "Sacrifice",
-        "ManaFixing"
+        "Sacrifice"
       ]
     },
     "c4fe63e7-bb4c-4aff-b74f-d385d0128def": {
@@ -117679,8 +117667,7 @@
       "label": "",
       "scryfallId": "0af5aaae-c343-4a9e-94a3-6225100e2e25",
       "effects": [
-        "CardAdvantage",
-        "ManaFixing"
+        "CardAdvantage"
       ]
     },
     "e7c5a568-3855-4a20-9edf-01a8a6a4ba97": {

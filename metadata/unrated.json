@@ -196,7 +196,8 @@
       "label": "",
       "scryfallId": "120b71f5-3c4d-4e00-9a3d-6872416a4373",
       "effects": [
-        "Ramp"
+        "Ramp",
+        "ManaFixing"
       ]
     },
     "3676b745-001d-46e6-880f-2fe26476a38d": {
@@ -15360,7 +15361,7 @@
       "scryfallId": "9011936a-ec69-4c1b-ae8e-c2d212047ca4",
       "effects": [
         "Removal",
-        "ManaFixing"
+        "Ramp"
       ]
     },
     "e245a736-5f65-4159-8e39-e279e1f8794f": {
@@ -15952,7 +15953,8 @@
       "label": "",
       "scryfallId": "07a2d789-02ca-4d04-917d-b00a93126718",
       "effects": [
-        "Ramp"
+        "Ramp",
+        "ManaFixing"
       ]
     },
     "fedbd40b-e3a5-449c-a8a3-b42e9da191a9": {
@@ -20037,7 +20039,7 @@
       "label": "",
       "scryfallId": "02b90a7c-288d-420a-91b2-bd9ced5767e4",
       "effects": [
-        "ManaFixing"
+        "Ramp"
       ]
     },
     "77661282-1c98-4f70-b617-c75633ab04c8": {
@@ -20395,9 +20397,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "32cc103e-949d-42d4-aadd-490a261c9ad9",
-      "effects": [
-        "ManaFixing"
-      ]
+      "effects": []
     },
     "69ea4ce2-f749-4d5b-a392-efcfdce14a30": {
       "name": "Curse of Predation",
@@ -25242,8 +25242,7 @@
       "effects": [
         "Removal",
         "Ramp",
-        "Buff",
-        "ManaFixing"
+        "Buff"
       ]
     },
     "2a5408ed-8b47-4896-97e4-aa102a4b85c9": {
@@ -25254,8 +25253,7 @@
       "effects": [
         "Tokens",
         "Ramp",
-        "Filter",
-        "ManaFixing"
+        "Filter"
       ]
     },
     "d8fe9672-0ead-4f47-abd8-e1ee133c5c60": {
@@ -27022,7 +27020,7 @@
       "label": "",
       "scryfallId": "57e6fb62-7ee3-444d-8fd4-c1f44014a05c",
       "effects": [
-        "ManaFixing"
+        "Ramp"
       ]
     },
     "3aab84f2-731c-4079-9623-0b0c433442c3": {
@@ -37037,7 +37035,7 @@
       "label": "",
       "scryfallId": "19ef37a3-4538-47b2-8f88-3fa0a4e32329",
       "effects": [
-        "ManaFixing"
+        "Ramp"
       ]
     },
     "c0adbddc-b070-4c5f-afe0-0474c72a9251": {
@@ -38204,8 +38202,7 @@
       "label": "",
       "scryfallId": "8ce5e6c4-02c8-4602-96d6-19dad34f7804",
       "effects": [
-        "Removal",
-        "ManaFixing"
+        "Removal"
       ]
     },
     "93dd5f2e-aa13-4616-bfe6-466524b274ff": {
@@ -38221,8 +38218,7 @@
       "label": "",
       "scryfallId": "0d6977e9-dd8d-4796-9fee-443a25757e09",
       "effects": [
-        "Ramp",
-        "ManaFixing"
+        "Ramp"
       ]
     },
     "a382165d-d715-4836-b1ce-9e5d8dc56fb4": {
@@ -50425,7 +50421,8 @@
       "label": "",
       "scryfallId": "61751365-3acf-4eb8-b1f9-358ebccccf94",
       "effects": [
-        "Ramp"
+        "Ramp",
+        "ManaFixing"
       ]
     },
     "0f719e56-5203-4138-bbe9-6a37b8ac2512": {
@@ -52465,8 +52462,7 @@
       "label": "",
       "scryfallId": "ff5987ab-570a-426c-ae4a-a270fac6b346",
       "effects": [
-        "Removal",
-        "ManaFixing"
+        "Removal"
       ]
     },
     "96d0e4dd-6cc2-4349-ac44-785b50f8dd90": {
@@ -56513,7 +56509,7 @@
       "label": "",
       "scryfallId": "61c9441d-18d9-4ec6-859e-e9a7893b54e3",
       "effects": [
-        "ManaFixing"
+        "Ramp"
       ]
     },
     "a61f7653-4c55-472f-b37c-617b94d0fecd": {
@@ -56993,8 +56989,7 @@
       "label": "",
       "scryfallId": "030b7ddc-dcf0-433a-b09e-27f117430e7b",
       "effects": [
-        "Ramp",
-        "ManaFixing"
+        "Ramp"
       ]
     },
     "8ad91f64-ccab-4edc-bd54-b2ee9267d614": {
@@ -58437,7 +58432,7 @@
       "label": "",
       "scryfallId": "03a40bf7-5eb9-4b36-9388-48b482a6fcf2",
       "effects": [
-        "ManaFixing"
+        "Ramp"
       ]
     },
     "d0ee5bdc-2b69-4b73-9a20-ffcc18783b29": {
@@ -63060,7 +63055,7 @@
       "label": "",
       "scryfallId": "589f477e-fd69-4410-b9ba-1d45b25fec31",
       "effects": [
-        "ManaFixing"
+        "Ramp"
       ]
     },
     "ea29c489-bd04-4f36-8b59-bccaac153152": {
@@ -67143,8 +67138,7 @@
       "label": "",
       "scryfallId": "6f493481-0b83-4ed1-ae07-d780e75c6005",
       "effects": [
-        "Ramp",
-        "ManaFixing"
+        "Ramp"
       ]
     },
     "1ec39c8f-eb1e-4881-a749-0c188788b612": {
@@ -70547,7 +70541,7 @@
       "label": "",
       "scryfallId": "177dd028-e612-49bd-9ff3-1ad2a5bba8e5",
       "effects": [
-        "ManaFixing"
+        "Ramp"
       ]
     },
     "f27f91fb-009a-4cbd-858e-15db88b65b9f": {
@@ -70817,6 +70811,7 @@
       "label": "",
       "scryfallId": "7c7ba032-66d6-41bd-af4f-9853b031a474",
       "effects": [
+        "Ramp",
         "ManaFixing"
       ]
     },
@@ -81990,6 +81985,7 @@
       "scryfallId": "1f9e9879-80bd-4e5b-9bc7-132093838b5f",
       "effects": [
         "Tokens",
+        "Ramp",
         "Filter"
       ]
     },
@@ -82018,7 +82014,7 @@
       "label": "",
       "scryfallId": "ef3358cb-714c-49bf-b7e9-a69d02d7799e",
       "effects": [
-        "ManaFixing"
+        "Ramp"
       ]
     },
     "509ea58a-da0a-4e9a-aafc-15f4f65a7467": {
@@ -84905,7 +84901,7 @@
       "label": "",
       "scryfallId": "94d33649-9532-4820-b057-c7c5fec832dc",
       "effects": [
-        "ManaFixing"
+        "Ramp"
       ]
     },
     "7d404420-e3de-47a8-a159-2f634a73f2c9": {
@@ -90512,7 +90508,8 @@
       "label": "",
       "scryfallId": "abefb30c-780d-4496-8fc6-6e1b80686c15",
       "effects": [
-        "Ramp"
+        "Ramp",
+        "ManaFixing"
       ]
     },
     "86e13e19-45df-4d73-8600-51b7caa3e6ab": {
@@ -90547,7 +90544,6 @@
       "scryfallId": "4d71bb44-1011-471c-9341-39efb2a5aaad",
       "effects": [
         "Ramp",
-        "ManaFixing",
         "Regrowth"
       ]
     },
@@ -91233,7 +91229,7 @@
       "label": "",
       "scryfallId": "7a2c0735-1816-489b-9793-89d1060d78f7",
       "effects": [
-        "ManaFixing"
+        "Ramp"
       ]
     },
     "69e1a166-02f7-43f8-b099-dbb01034370c": {
@@ -92251,7 +92247,7 @@
       "label": "",
       "scryfallId": "193ece2d-f7fa-4e9c-a991-6f8116f63673",
       "effects": [
-        "ManaFixing"
+        "Ramp"
       ]
     },
     "b1305916-53cc-4021-897e-bbefc65dce78": {
@@ -98292,8 +98288,7 @@
       "label": "",
       "scryfallId": "58265203-bc16-41d2-875c-2ff3b4870824",
       "effects": [
-        "Removal",
-        "ManaFixing"
+        "Removal"
       ]
     },
     "4aeafdf3-7828-4114-8c74-3bd46357caec": {
@@ -98894,8 +98889,7 @@
       "scryfallId": "7667b334-6184-4ec5-b46c-90a38a36ade7",
       "effects": [
         "CardAdvantage",
-        "Burn",
-        "ManaFixing"
+        "Burn"
       ]
     },
     "52232aad-e4ca-4551-8c8d-c69a3b6b49c7": {
@@ -103793,7 +103787,8 @@
       "label": "",
       "scryfallId": "393fc419-a6ce-447d-9994-744cf41f9a27",
       "effects": [
-        "Ramp"
+        "Ramp",
+        "ManaFixing"
       ]
     },
     "d48e1545-7997-45ed-83a1-aee45b3d3d20": {
@@ -104660,7 +104655,8 @@
       "label": "",
       "scryfallId": "45d7ab0e-db37-4051-86dd-3ab09c047a2b",
       "effects": [
-        "Ramp"
+        "Ramp",
+        "ManaFixing"
       ]
     },
     "564dd5e7-6c1e-4959-a594-60e08552aec9": {
@@ -104783,8 +104779,7 @@
       "scryfallId": "5664e121-d3f1-4ff5-9576-ef515e22bde7",
       "effects": [
         "Tokens",
-        "Ramp",
-        "ManaFixing"
+        "Ramp"
       ]
     },
     "00d8efa6-a2d9-4249-8da7-b45173675329": {
@@ -106032,7 +106027,7 @@
       "label": "",
       "scryfallId": "669efa40-be9a-4475-9bcb-3325518403b5",
       "effects": [
-        "ManaFixing"
+        "Ramp"
       ]
     },
     "b801a701-15ce-4792-a3d7-d632e7bd9f72": {
@@ -110097,8 +110092,7 @@
       "label": "",
       "scryfallId": "242dc29e-d8f5-4207-abbf-cf5425f08551",
       "effects": [
-        "Ramp",
-        "ManaFixing"
+        "Ramp"
       ]
     },
     "695661ac-6f50-4a0e-9831-a0e285bab4bf": {
@@ -111488,7 +111482,8 @@
       "label": "",
       "scryfallId": "7f1fe849-b407-4252-b175-3f4afbbcea1b",
       "effects": [
-        "Ramp"
+        "Ramp",
+        "ManaFixing"
       ]
     },
     "285ecbd5-ff7c-4919-ab0b-7fc05e5a0a0a": {

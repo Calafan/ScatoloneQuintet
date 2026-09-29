@@ -3362,6 +3362,7 @@
       "label": "",
       "scryfallId": "19ce55bf-007d-4c13-90ac-29f0b21b66b1",
       "effects": [
+        "Ramp",
         "CardAdvantage",
         "Redirect"
       ]
@@ -3848,7 +3849,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "8aa4eacb-48d8-49a1-90dd-042f3f1f75bb",
-      "effects": []
+      "effects": [
+        "Ramp"
+      ]
     },
     "a3a56b02-7290-4352-a862-f2de608f2a86": {
       "name": "Concealing Curtains // Revealing Eye",
@@ -9765,8 +9768,7 @@
       "scryfallId": "3cdeebd8-28d4-42a5-9a99-3c72771359ea",
       "effects": [
         "Ramp",
-        "Tutor",
-        "ManaFixing"
+        "Tutor"
       ]
     },
     "3c5c227a-335b-4995-9821-d4269a0a233a": {
@@ -11175,9 +11177,7 @@
       "rating": 4,
       "label": "",
       "scryfallId": "03207457-70d8-4462-8c8b-ed39791d56a1",
-      "effects": [
-        "ManaFixing"
-      ]
+      "effects": []
     },
     "e8473969-195f-41ee-a84d-463cc8c0ef02": {
       "name": "Klothys, God of Destiny",
@@ -21367,8 +21367,7 @@
         "Tokens",
         "Ramp",
         "CardAdvantage",
-        "Buff",
-        "ManaFixing"
+        "Buff"
       ]
     },
     "8beaaf55-e05d-49c3-9320-c222c4d8ad12": {
@@ -24544,6 +24543,7 @@
       "effects": [
         "Tokens",
         "Ramp",
+        "ManaFixing",
         "Regrowth"
       ]
     },
