@@ -22025,7 +22025,7 @@
       "label": "",
       "scryfallId": "40329bad-b3a1-4177-a03a-302dfaeba352",
       "effects": [
-        "CardAdvantage"
+        "Filter"
       ]
     },
     "726c911d-6543-4400-a8fa-b8a5c9f0c15d": {
@@ -29047,7 +29047,7 @@
       "label": "",
       "scryfallId": "c730874b-e275-4325-9fd8-eaf4494571f4",
       "effects": [
-        "CardAdvantage"
+        "Filter"
       ]
     },
     "6832f9e2-294a-44a2-8af9-eb16ccfdfc36": {
@@ -70242,7 +70242,7 @@
       "label": "",
       "scryfallId": "4141559d-6f6d-4d1d-8052-90ccc4eee4ae",
       "effects": [
-        "CardAdvantage"
+        "Filter"
       ]
     },
     "db9ea3f9-c723-422f-98cc-a3ef7ca2c290": {
@@ -101110,7 +101110,7 @@
       "label": "",
       "scryfallId": "6645cfbc-a384-4f48-b4de-7ec0e889d387",
       "effects": [
-        "CardAdvantage"
+        "Filter"
       ]
     },
     "f002be6a-e459-49c4-b765-062e30107439": {

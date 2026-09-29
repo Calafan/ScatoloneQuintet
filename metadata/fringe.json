@@ -6051,7 +6051,7 @@
       "label": "",
       "scryfallId": "4cda3aa2-5fac-4188-bdad-dc369a089d00",
       "effects": [
-        "CardAdvantage"
+        "Filter"
       ]
     },
     "d19567ac-1f52-40eb-b2cf-4c791823ec92": {
@@ -39252,7 +39252,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "5182b527-739e-4523-8611-01244ced26ac",
-      "effects": []
+      "effects": [
+        "Filter"
+      ]
     },
     "100218ce-1572-4bce-bb00-d2df5f68705c": {
       "name": "Frankenstein's Monster",
@@ -46289,7 +46291,8 @@
       "scryfallId": "2ac81f0e-b5d0-4baa-9c5a-749bf1c5e6a3",
       "effects": [
         "Ramp",
-        "CardAdvantage"
+        "CardAdvantage",
+        "Filter"
       ]
     },
     "43e99cba-a6e3-4abc-a92b-aaf5839c72d2": {
@@ -54445,7 +54448,7 @@
       "label": "",
       "scryfallId": "18c430ce-b6c4-4b05-9439-07b4fbfdfe62",
       "effects": [
-        "CardAdvantage"
+        "Filter"
       ]
     },
     "9370f6bf-d6a0-4c5b-828f-7229f563cc07": {
@@ -59583,7 +59586,7 @@
       "label": "",
       "scryfallId": "11ea9ea5-acf1-4980-b7e5-083da455adb0",
       "effects": [
-        "CardAdvantage",
+        "Filter",
         "Sacrifice"
       ]
     },
@@ -61252,7 +61255,7 @@
       "label": "",
       "scryfallId": "dedd7a22-92e2-41fd-aa80-944c69653a5e",
       "effects": [
-        "CardAdvantage",
+        "Filter",
         "Pacify"
       ]
     },
@@ -74323,7 +74326,8 @@
       "label": "",
       "scryfallId": "23dddddb-5409-4c28-bf32-e6473f2cc620",
       "effects": [
-        "Disenchant"
+        "Disenchant",
+        "Filter"
       ]
     },
     "b82d8bdf-e292-490a-aee7-d830cc2c29df": {
@@ -90965,7 +90969,7 @@
       "label": "",
       "scryfallId": "2af98a7e-6335-4040-a831-d0911ab89dc5",
       "effects": [
-        "CardAdvantage"
+        "Filter"
       ]
     },
     "0c7239bf-dc8a-4d79-867e-7a4225568c49": {
@@ -91297,7 +91301,7 @@
       "label": "",
       "scryfallId": "ffcdb10f-4bad-4f89-8e7c-daa5c0c69230",
       "effects": [
-        "CardAdvantage"
+        "Filter"
       ]
     },
     "b2bdccf1-857b-48f8-a9aa-8ef999ef0632": {
