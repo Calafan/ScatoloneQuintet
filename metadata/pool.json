@@ -1536,7 +1536,6 @@
       "label": "",
       "scryfallId": "1bd40caa-0cbb-426d-a988-1d826988e707",
       "effects": [
-        "Ramp",
         "CardAdvantage",
         "ManaFixing"
       ]
@@ -2292,7 +2291,6 @@
       "scryfallId": "07054edd-0dff-4342-8ab9-d600417a329c",
       "effects": [
         "Tokens",
-        "Ramp",
         "CardAdvantage",
         "ManaFixing"
       ]
@@ -2576,7 +2574,6 @@
       "label": "",
       "scryfallId": "480d639d-871d-4da3-9ae1-41bd5cef81db",
       "effects": [
-        "Ramp",
         "CardAdvantage",
         "ManaFixing"
       ]
@@ -4840,7 +4837,6 @@
       "label": "",
       "scryfallId": "315cbbf7-a2ad-4565-9877-1e903d7fd797",
       "effects": [
-        "Ramp",
         "CardAdvantage",
         "Steal",
         "ManaFixing"
@@ -5323,7 +5319,6 @@
       "label": "",
       "scryfallId": "584774b5-640f-45e0-810b-f5faf119645b",
       "effects": [
-        "Ramp",
         "ManaFixing"
       ]
     },
@@ -5795,7 +5790,6 @@
       "status": "Token",
       "effects": [
         "Tokens",
-        "Ramp",
         "CardAdvantage",
         "ManaFixing"
       ]
@@ -7951,6 +7945,7 @@
       "label": "",
       "scryfallId": "0d85d8c7-07b2-4577-8c62-7a34dca73ad8",
       "effects": [
+        "Ramp",
         "ManaFixing"
       ]
     },
@@ -8057,7 +8052,6 @@
       "label": "",
       "scryfallId": "e91bfea6-0e80-4239-bede-7cb971e64c1a",
       "effects": [
-        "Ramp",
         "Steal",
         "ManaFixing"
       ]
@@ -12034,7 +12028,6 @@
       "status": "Token",
       "effects": [
         "Tokens",
-        "Ramp",
         "ManaFixing"
       ]
     },
@@ -12200,7 +12193,6 @@
       "label": "",
       "scryfallId": "079e6263-e54c-4899-a336-5315909b9322",
       "effects": [
-        "Ramp",
         "Tutor",
         "ManaFixing"
       ]
@@ -12940,7 +12932,6 @@
       "scryfallId": "4c25261b-6806-4d88-9000-4695d8f482fb",
       "effects": [
         "Tokens",
-        "Ramp",
         "ManaFixing"
       ]
     },
@@ -15544,7 +15535,6 @@
       "label": "",
       "scryfallId": "05bf07aa-1dda-4628-8a4b-c40d13145a49",
       "effects": [
-        "Ramp",
         "CardAdvantage",
         "ManaFixing"
       ]
@@ -15959,7 +15949,6 @@
       "label": "",
       "scryfallId": "10cde602-f47c-4dac-bf1b-e300c82e5fd5",
       "effects": [
-        "Ramp",
         "CardAdvantage",
         "Steal",
         "ManaFixing"
@@ -17105,7 +17094,6 @@
       "label": "",
       "scryfallId": "8ab5152d-767a-47d5-acfc-f439810aaeea",
       "effects": [
-        "Ramp",
         "ManaFixing"
       ]
     },
@@ -22080,7 +22068,6 @@
       "label": "",
       "scryfallId": "1163fe84-c5d5-42c8-b7cd-d206a9b0bd3f",
       "effects": [
-        "Ramp",
         "ManaFixing"
       ]
     },

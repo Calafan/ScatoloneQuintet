@@ -13527,7 +13527,6 @@
       "label": "",
       "scryfallId": "0f67a2a1-2700-408e-b58c-34f3d2d75a98",
       "effects": [
-        "Ramp",
         "ManaFixing"
       ]
     },
@@ -47649,7 +47648,6 @@
       "label": "",
       "scryfallId": "0f020359-5ad1-43c4-8588-172be635cccc",
       "effects": [
-        "Ramp",
         "ManaFixing"
       ]
     },
@@ -58354,7 +58352,6 @@
       "label": "",
       "scryfallId": "51187cdb-85ee-4f68-9e29-d84d296f0825",
       "effects": [
-        "Ramp",
         "ManaFixing"
       ]
     },
@@ -71673,7 +71670,6 @@
       "label": "",
       "scryfallId": "1ac61e84-94d6-4ff7-a00f-29de93f09a38",
       "effects": [
-        "Ramp",
         "ManaFixing"
       ]
     },
@@ -73624,7 +73620,6 @@
       "label": "",
       "scryfallId": "ad45720e-2870-414d-8119-8e48c5600d3b",
       "effects": [
-        "Ramp",
         "Buff",
         "ManaFixing"
       ]
@@ -78288,7 +78283,6 @@
       "label": "",
       "scryfallId": "22ddde38-79e0-48f2-9920-b66f6399b077",
       "effects": [
-        "Ramp",
         "ManaFixing"
       ]
     },
@@ -83369,7 +83363,6 @@
       "label": "",
       "scryfallId": "0ea4a895-19c0-47af-ad9c-5db88ea9ae05",
       "effects": [
-        "Ramp",
         "ManaFixing"
       ]
     },
@@ -93841,7 +93834,6 @@
       "label": "",
       "scryfallId": "853c8df2-75b2-403e-87a4-5e5aa43a31b8",
       "effects": [
-        "Ramp",
         "ManaFixing"
       ]
     },
@@ -102683,7 +102675,6 @@
       "label": "",
       "scryfallId": "faf67f7a-00da-422b-b517-fb55990a1999",
       "effects": [
-        "Ramp",
         "ManaFixing"
       ]
     },
@@ -106622,7 +106613,6 @@
       "scryfallId": "616b606a-e7c2-461c-989c-b5e74b424849",
       "effects": [
         "Wipe",
-        "Ramp",
         "ManaFixing"
       ]
     },
