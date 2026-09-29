@@ -1716,8 +1716,7 @@
       "scryfallId": "1f9fd623-d45d-4c8a-b7e7-4c4ad1e80816",
       "effects": [
         "Bounce"
-      ],
-      "reviewedAt": "2026-09-11T13:22:24.7067462+00:00"
+      ]
     },
     "7f715f72-5444-4ab3-a6ca-3d5bfd0d4851": {
       "name": "Airborne Aid",
@@ -107225,8 +107224,7 @@
       "effects": [
         "RemovePermanent",
         "Bounce"
-      ],
-      "reviewedAt": "2026-09-11T13:38:08.0205711+00:00"
+      ]
     },
     "fff728a1-56f5-4e97-91e2-19aba5772909": {
       "name": "The Lion-Turtle",
