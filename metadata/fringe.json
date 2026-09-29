@@ -8769,8 +8769,7 @@
       "effects": [
         "Ramp",
         "CardAdvantage"
-      ],
-      "reviewedAt": "2026-09-25T09:16:36.6266953+00:00"
+      ]
     },
     "eeb58cb4-b3da-400b-8bfb-ee985cd60f4b": {
       "name": "Bayou Dragonfly",
@@ -28092,8 +28091,7 @@
         "Tokens",
         "Removal",
         "Ramp"
-      ],
-      "reviewedAt": "2026-09-10T07:22:10.3589283+00:00"
+      ]
     },
     "69e0d9f1-f9dd-4614-ad9f-13e7153710ce": {
       "name": "Dragonclaw Strike",
@@ -41084,8 +41082,7 @@
       "scryfallId": "ce7a8eec-a029-4ee1-b2d6-405d903d4640",
       "effects": [
         "Ramp"
-      ],
-      "reviewedAt": "2026-09-10T15:29:12.1348662+00:00"
+      ]
     },
     "bf3a0585-3976-4078-8beb-6afa79f97027": {
       "name": "Genemorph Imago",
@@ -60672,8 +60669,7 @@
       "scryfallId": "433f5a5e-5977-453e-ba72-ffa0462ba17d",
       "effects": [
         "Ramp"
-      ],
-      "reviewedAt": "2026-09-08T09:50:21.639269+00:00"
+      ]
     },
     "bd63bfda-e20a-4476-8a61-cdb51355a227": {
       "name": "Lionheart Glimmer",
@@ -62009,8 +62005,7 @@
       "effects": [
         "Ramp",
         "ManaFixing"
-      ],
-      "reviewedAt": "2026-09-25T10:09:09.5391503+00:00"
+      ]
     },
     "cbb39e5c-e31a-44e9-be0c-2003c8bce599": {
       "name": "Lucky Offering",
