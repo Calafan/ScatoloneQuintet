@@ -8767,8 +8767,8 @@
       "label": "",
       "scryfallId": "00e93be2-e06b-4774-8ba5-ccf82a6da1d8",
       "effects": [
-        "CardAdvantage",
-        "ManaFixing"
+        "Ramp",
+        "CardAdvantage"
       ],
       "reviewedAt": "2026-09-25T09:16:36.6266953+00:00"
     },
@@ -28095,7 +28095,7 @@
       "effects": [
         "Tokens",
         "Removal",
-        "ManaFixing"
+        "Ramp"
       ],
       "reviewedAt": "2026-09-10T07:22:10.3589283+00:00"
     },
@@ -41086,7 +41086,7 @@
       "label": "",
       "scryfallId": "ce7a8eec-a029-4ee1-b2d6-405d903d4640",
       "effects": [
-        "ManaFixing"
+        "Ramp"
       ],
       "reviewedAt": "2026-09-10T15:29:12.1348662+00:00"
     },
@@ -60677,8 +60677,7 @@
       "label": "",
       "scryfallId": "433f5a5e-5977-453e-ba72-ffa0462ba17d",
       "effects": [
-        "Ramp",
-        "ManaFixing"
+        "Ramp"
       ],
       "reviewedAt": "2026-09-08T09:50:21.639269+00:00"
     },
@@ -62015,7 +62014,8 @@
       "label": "",
       "scryfallId": "13281945-47ff-464d-96ef-9b26ef6783fa",
       "effects": [
-        "Ramp"
+        "Ramp",
+        "ManaFixing"
       ],
       "reviewedAt": "2026-09-25T10:09:09.5391503+00:00"
     },
