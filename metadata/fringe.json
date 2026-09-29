@@ -11215,9 +11215,7 @@
       "rating": 2,
       "label": "",
       "scryfallId": "792610fd-736d-43b0-8899-dbb5accddca0",
-      "effects": [
-        "Protection"
-      ]
+      "effects": []
     },
     "5e1bf23b-7fb0-45ff-8544-fce9fa3eba00": {
       "name": "Blossoming Tortoise",
@@ -41955,9 +41953,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "01b92597-cb1e-4b8f-9ee9-07b48cf1a5c6",
-      "effects": [
-        "Protection"
-      ]
+      "effects": []
     },
     "9a02a9a7-39d9-4763-85d3-747a0540b60b": {
       "name": "Gilded Lotus",
@@ -107757,9 +107753,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "250a9460-a916-4c80-8d75-33bdeed8d7d0",
-      "effects": [
-        "Protection"
-      ]
+      "effects": []
     },
     "b28dcb41-5e47-4719-892f-da009a5d50b4": {
       "name": "The Stone Brain",
