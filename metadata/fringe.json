@@ -27682,7 +27682,8 @@
       "label": "",
       "scryfallId": "18f810b8-081b-44a7-8528-abbce7b44384",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Protection"
       ],
       "reviewedAt": "2026-09-29T09:34:56.2077111+00:00"
     },
