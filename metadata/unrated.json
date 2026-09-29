@@ -32801,7 +32801,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "11d56da0-6f37-4bd5-8982-940e80bd4282",
-      "effects": []
+      "effects": [
+        "Ramp"
+      ]
     },
     "94bcae2f-86a6-4d38-b8e1-5ebf69dc7cbc": {
       "name": "Fervent Cathar",
