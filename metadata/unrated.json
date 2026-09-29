@@ -2016,7 +2016,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "240b3b04-6ad4-42cb-bb4d-e1d486667675",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "fd949f82-fc10-4e37-8aa9-6c7569fe3c55": {
       "name": "Akroma's Will",
@@ -4136,7 +4138,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "3145ca68-7a9d-4161-9456-518591251b56",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "eb4e9ce9-1917-46b1-b01c-645f5920ef9c": {
       "name": "Archetype of Finality",
@@ -5818,7 +5822,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "317f1133-7cf8-4b7a-919e-88c45f8c2c3a",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "6da0b6d2-3c5e-49ef-9264-076269c04744": {
       "name": "Avacyn, Guardian Angel",
@@ -21352,7 +21358,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "2c95a0a1-9c2c-44df-b0fe-c22efb6d87ee",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "73010421-374f-458e-aa88-248ef8ae4f8b": {
       "name": "Darksteel Gargoyle",
@@ -25152,7 +25160,8 @@
       "scryfallId": "21b48170-99dd-440f-9954-fc229d6094d3",
       "effects": [
         "Removal",
-        "CardAdvantage"
+        "CardAdvantage",
+        "Protection"
       ]
     },
     "a481f910-59a8-48b0-a8e4-c24675e1a67d": {
@@ -40255,7 +40264,8 @@
       "label": "",
       "scryfallId": "22ff4985-981c-4748-b6f4-5d0dab6c787b",
       "effects": [
-        "Tokens"
+        "Tokens",
+        "Protection"
       ]
     },
     "af4b5853-ae60-48c9-9be1-bf121fa2e03d": {
@@ -41003,7 +41013,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "1177787f-bf1e-438b-9615-97d03b04128c",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "6e42e7dc-acd9-4125-a90d-75fd8da204b3": {
       "name": "Greater Basilisk",
@@ -44833,7 +44845,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "145f10ab-b41b-4213-b75f-522aafe940fb",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "bacb9d63-5950-4bcd-a056-40c02ecf4ce8": {
       "name": "Hexplate Golem",
@@ -53632,7 +53646,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "51409265-aa99-423e-be34-f62e122dbac3",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "c66342bb-bbc1-4aaf-8d99-0af68292081e": {
       "name": "Kranioceros",
@@ -55653,7 +55669,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "daff382a-980e-4f0c-b26c-70c8a43c66f1",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "79fc0d30-9b9b-400c-a614-c3a1f90a5380": {
       "name": "Light of the Legion",
@@ -58955,7 +58973,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "d9801e68-9a03-491f-be23-f0b830c4a0c5",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "d9193641-a7f4-40d3-ac62-15015acece4e": {
       "name": "Mark of Eviction",
@@ -66200,7 +66220,8 @@
       "scryfallId": "1dadea9c-1f50-4e5e-9fb0-ab20c707150f",
       "effects": [
         "Ramp",
-        "Buff"
+        "Buff",
+        "Protection"
       ]
     },
     "468f9b8e-4423-4131-8611-d34b0aa3d96f": {
@@ -69476,7 +69497,8 @@
       "label": "",
       "scryfallId": "00a4aef8-64fc-4e9d-adac-ef4c85d40b4a",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Protection"
       ]
     },
     "7d972a9b-86c4-4538-868b-4c64f0c80b1a": {
@@ -69699,7 +69721,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "fdfd37ca-e4c9-4674-a75f-15d8ebcce72b",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "4c2b10ba-1930-4da8-9570-c89b2e239e3e": {
       "name": "Palladia-Mors, the Ruiner",
@@ -73048,7 +73072,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "05961dad-9fe6-409f-8bfd-c6176072e9b1",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "8499b3ec-9a61-47a4-a880-e8230b41c81b": {
       "name": "Prized Amalgam",
@@ -76573,7 +76599,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "057a3b6b-3520-4390-8abc-88438423fe67",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "0e2a283b-c06a-4b54-a627-5b4959318b1a": {
       "name": "Rebellion of the Flamekin",
@@ -80312,7 +80340,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "1f1c4bf1-2a9a-4802-af28-4e7c3dae97ee",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "22000392-99e9-4927-a488-1bcb576f6275": {
       "name": "Runeboggle",
@@ -85066,7 +85096,8 @@
       "label": "",
       "scryfallId": "14a74ac1-d827-48d5-9d7d-5eb0122b0069",
       "effects": [
-        "Buff"
+        "Buff",
+        "Protection"
       ]
     },
     "ca405696-8c30-4c01-bf90-11cdf8837942": {
@@ -96744,7 +96775,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "02c335b6-95d7-4d8f-8abd-15a03461efec",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "14440669-ddf0-46ac-b140-13948a8113b8": {
       "name": "Tamanoa",

@@ -1166,7 +1166,8 @@
       "label": "",
       "scryfallId": "12007399-9ed8-4dbb-abc7-2fd13bdcdf9e",
       "effects": [
-        "Buff"
+        "Buff",
+        "Protection"
       ]
     },
     "c66dc0d3-b98c-40a2-be35-e455b4658828": {
@@ -18607,7 +18608,8 @@
       "label": "",
       "scryfallId": "24d3d06c-8bbd-49e5-94ff-f0a9830d063e",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Protection"
       ]
     },
     "84d37104-2681-42c1-9d19-91a2ebe6a435": {
@@ -19901,7 +19903,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "8a5a45a7-d159-4821-8916-697b92fb80bf",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "6ac7990b-b86e-4725-974c-d6affa2af2f9": {
       "name": "Strafe",

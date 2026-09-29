@@ -6586,7 +6586,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "2fe66771-5640-48f7-bf1f-14188ac97d56",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "a349e526-882c-454f-ba79-ad17340f8153": {
       "name": "Avalanche",
@@ -13214,7 +13216,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "032dc879-bf2f-4626-8aac-4d5446421923",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "a7887b24-977d-4a40-bb30-4bf467e5dba6": {
       "name": "Bronze Horse",
@@ -17015,7 +17019,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "20e94e17-2e4c-41cd-8cc5-39ab41037287",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "0bf1f2c1-2148-4302-a6e7-d509a005a85f": {
       "name": "Chardalyn Dragon",
@@ -22164,7 +22170,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "086d94a0-763e-495e-b952-5c13383657c9",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "baddf7ee-f6b9-41e3-b930-57129952cc1d": {
       "name": "Crystacean",
@@ -39075,7 +39083,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "690daa19-1842-4605-9bda-bf67e4ede3c4",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "0799df10-b489-4f79-bf98-7a0c500b46a1": {
       "name": "Fountain of Cho",
@@ -41588,7 +41598,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "68f8bcdf-a129-4823-a019-67986906e1db",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "a4109138-5d69-4510-a228-7c1f88c0c8c0": {
       "name": "Giant Badger",
@@ -52953,7 +52965,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "50180fda-6d67-41e9-8b2b-2e7c5876b8ab",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "78da7a38-0f08-4371-bda3-38f079f7724d": {
       "name": "Invasion of Ravnica // Guildpact Paragon",
@@ -59574,7 +59588,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "14397b59-ff0d-4838-92c3-9728bf6b0af5",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "ca21d597-40a5-4724-9d53-1ab6e6c6e767": {
       "name": "Leonin Bladetrap",
@@ -67131,7 +67147,8 @@
       "label": "",
       "scryfallId": "585a753d-a692-474a-bc28-48dd93b73ace",
       "effects": [
-        "Reanimate"
+        "Reanimate",
+        "Protection"
       ]
     },
     "03dc8820-ec10-42c1-8200-d323cfcbf2b0": {
@@ -91892,7 +91909,9 @@
       "rating": 2,
       "label": "",
       "scryfallId": "09283c34-b063-4290-a444-6730334324f0",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "66a3ffde-4c81-4798-b99b-a6cc3a93c3e3": {
       "name": "Serra's Hymn",
@@ -98977,7 +98996,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "e5eea354-2d92-4b57-aec7-25260ab7a70f",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "da350f46-6d6e-4257-8f4f-77769c442d0c": {
       "name": "Spiritual Focus",
@@ -100052,7 +100073,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "82dca4c3-efd6-4b6b-ac49-5a916135a592",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "076865e9-ee10-4a87-9180-4274202d37c1": {
       "name": "Starbreach Whale",
@@ -100693,6 +100716,7 @@
       "label": "",
       "scryfallId": "1a8a3e70-fd01-4aa3-8e95-2fe3f436bf71",
       "effects": [
+        "Protection",
         "Tutor"
       ]
     },
@@ -121606,7 +121630,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "17ede5ee-4081-4ab9-b43f-c332f29d3d7e",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "2b6da458-e075-4696-a74f-c8846e0cc370": {
       "name": "Wood Elemental",
@@ -123863,7 +123889,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "10bf4693-668e-4498-a652-a9d5eb77f9b7",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "ee0f883f-d7c9-4acf-a78f-f733b6f268d3": {
       "name": "Zuran Enchanter",
