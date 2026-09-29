@@ -1312,7 +1312,8 @@
       "label": "",
       "scryfallId": "340c5799-4964-44dd-8c48-8f3f3aba5211",
       "effects": [
-        "Tokens"
+        "Tokens",
+        "Ramp"
       ],
       "reviewedAt": "2026-09-25T07:39:45.1637592+00:00"
     },
@@ -24549,7 +24550,7 @@
       "label": "",
       "scryfallId": "5095db22-3eb2-4c1c-bf22-72096b648cf3",
       "effects": [
-        "Ramp"
+        "Tokens"
       ],
       "reviewedAt": "2026-09-25T09:29:02.6609471+00:00"
     },

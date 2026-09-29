@@ -74511,7 +74511,6 @@
       "label": "",
       "scryfallId": "28b40c43-65c0-4ab8-8522-1e3728d4692e",
       "effects": [
-        "Ramp",
         "Cheat"
       ],
       "reviewedAt": "2026-09-11T21:52:18.7361458+00:00"
@@ -102515,7 +102514,6 @@
       "scryfallId": "d9fda3fc-569d-49f8-a2ed-e0b1d6668426",
       "effects": [
         "Tokens",
-        "Ramp",
         "Cheat"
       ],
       "reviewedAt": "2026-09-11T20:00:04.2550505+00:00"
@@ -111613,7 +111611,8 @@
       "label": "",
       "scryfallId": "c88df498-147c-4609-8a94-d8d10a87e37c",
       "effects": [
-        "Ramp"
+        "Ramp",
+        "ManaFixing"
       ],
       "reviewedAt": "2026-09-25T10:46:22.3823633+00:00"
     },
