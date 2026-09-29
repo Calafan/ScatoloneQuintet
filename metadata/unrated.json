@@ -2323,8 +2323,7 @@
       "scryfallId": "e2ec168a-3e4f-4527-901a-bc28cc28d125",
       "effects": [
         "Removal",
-        "Wipe",
-        "Burn"
+        "Wipe"
       ]
     },
     "8bed1349-4d0a-4544-ba66-c38e72cd2863": {
@@ -63707,8 +63706,7 @@
       "label": "",
       "scryfallId": "010711a0-5e95-4a8c-816f-e314f2a909ef",
       "effects": [
-        "Removal",
-        "Burn"
+        "Removal"
       ]
     },
     "c871974e-54e6-411f-8408-3708823fa2df": {
@@ -83667,9 +83665,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "e177c12e-551a-4688-aa34-740f873dd37d",
-      "effects": [
-        "Burn"
-      ]
+      "effects": []
     },
     "02238355-9c84-4ae0-b850-269f460144a8": {
       "name": "Seasoned Pyromancer",
