@@ -2092,7 +2092,9 @@
       "rating": 5,
       "label": "",
       "scryfallId": "115400ae-a43b-4b3d-9ea0-be1e7224dea5",
-      "effects": []
+      "effects": [
+        "ManaFixing"
+      ]
     },
     "3b943c3e-1f18-4997-b6d0-28ef75aed88e": {
       "name": "Bloodthirsty Adversary",
@@ -7728,7 +7730,9 @@
       "rating": 5,
       "label": "",
       "scryfallId": "0df37cc8-3703-406a-adaf-ee0bb9d7aa61",
-      "effects": []
+      "effects": [
+        "ManaFixing"
+      ]
     },
     "f1e9abfb-c3c8-483e-b446-5c2afc9f6394": {
       "name": "Floodfarm Verge",
@@ -15298,7 +15302,9 @@
       "rating": 5,
       "label": "",
       "scryfallId": "0f7585c8-9e21-4eef-afc1-2852de23db2f",
-      "effects": []
+      "effects": [
+        "ManaFixing"
+      ]
     },
     "7a9fa906-b43e-4d98-b134-5936d3085851": {
       "name": "Polukranos Reborn // Polukranos, Engine of Ruin",
@@ -24268,7 +24274,9 @@
       "rating": 5,
       "label": "",
       "scryfallId": "16f6ba7d-76fd-4f98-a41e-fde9a6f3ab64",
-      "effects": []
+      "effects": [
+        "ManaFixing"
+      ]
     },
     "b302bce5-d7ad-46d8-9dbf-8159e8709b4f": {
       "name": "Wing Shards",
@@ -24456,7 +24464,9 @@
       "rating": 5,
       "label": "",
       "scryfallId": "1066a94a-8e4f-4d77-820b-7a77a18116f0",
-      "effects": []
+      "effects": [
+        "ManaFixing"
+      ]
     },
     "c2ca3e20-23ca-4d2a-88a1-5e98ff884abb": {
       "name": "Wooded Ridgeline",

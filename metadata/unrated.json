@@ -4477,7 +4477,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "152ddaab-83dd-4f74-bd7f-8a14c1a9d0f2",
-      "effects": []
+      "effects": [
+        "ManaFixing"
+      ]
     },
     "69858691-1190-4454-af0a-87c2ac4ab6ec": {
       "name": "Arisen Gorgon",
@@ -6990,7 +6992,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "47af250f-7aa1-4edb-8a89-37b7a5673048",
-      "effects": []
+      "effects": [
+        "ManaFixing"
+      ]
     },
     "67ceffa4-2fdb-499c-88cd-49fb5eb9be59": {
       "name": "Bant Sojourners",
@@ -30088,7 +30092,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "03324b45-dd69-45d2-a1c0-e3cc4cf1eaf5",
-      "effects": []
+      "effects": [
+        "ManaFixing"
+      ]
     },
     "0c59db70-9cb4-4edf-ba6e-12ffa7c06b7b": {
       "name": "Esper Sojourners",
@@ -30741,7 +30747,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "107cd283-de27-494f-90b8-0dec55745255",
-      "effects": []
+      "effects": [
+        "ManaFixing"
+      ]
     },
     "cf4b538d-7115-406d-94bf-bfa25197b6ef": {
       "name": "Evra, Halcyon Witness",
@@ -31410,7 +31418,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "023ee3d9-055d-4223-96f9-506ecf4ce0f5",
-      "effects": []
+      "effects": [
+        "ManaFixing"
+      ]
     },
     "b057c8ff-f169-41cd-a594-026f1a6cb0f9": {
       "name": "Fabrication Module",
@@ -41742,7 +41752,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "1f95488c-83ae-430c-97ef-1335ba09b12d",
-      "effects": []
+      "effects": [
+        "ManaFixing"
+      ]
     },
     "9087928a-4732-4661-b3ed-d0b1ea06edf6": {
       "name": "Grixis Slavedriver",
@@ -50708,7 +50720,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "50d8346a-e0b5-41eb-be89-7d1eb0e84f28",
-      "effects": []
+      "effects": [
+        "ManaFixing"
+      ]
     },
     "84a3ebc2-5c38-40ef-b5f4-62a92cbca493": {
       "name": "Jund Sojourners",
@@ -59227,7 +59241,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "2b076441-b770-4a06-97ac-34a52822f4c0",
-      "effects": []
+      "effects": [
+        "ManaFixing"
+      ]
     },
     "02f8ec49-f490-408b-a76e-58e160a5a5a7": {
       "name": "Marsh Flitter",
@@ -59969,7 +59985,8 @@
       "label": "",
       "scryfallId": "3e56f8d9-64af-400e-b84a-c32ee429ba58",
       "effects": [
-        "Tutor"
+        "Tutor",
+        "ManaFixing"
       ]
     },
     "e0420f2c-d578-421e-ae75-e7dc5f70661a": {
@@ -62112,7 +62129,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "1f47bd65-b37c-4b7e-a271-8d67e0c90deb",
-      "effects": []
+      "effects": [
+        "ManaFixing"
+      ]
     },
     "69cc006d-172f-4e4c-bb75-10d772b061b1": {
       "name": "Mitotic Manipulation",
@@ -64661,7 +64680,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "4ba615a5-ad3a-4ad1-ab5f-69d7a3e4cf34",
-      "effects": []
+      "effects": [
+        "ManaFixing"
+      ]
     },
     "703215df-dee2-4b82-9f32-256e1410543c": {
       "name": "Naya Sojourners",
@@ -73146,7 +73167,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "1ac01fff-4de6-4783-9489-4127e25bc641",
-      "effects": []
+      "effects": [
+        "ManaFixing"
+      ]
     },
     "feb4fcec-6f3a-4643-9ffb-69d3f5953322": {
       "name": "Prismite",
@@ -82404,7 +82427,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "17c6ba55-2470-4dde-a7fa-137a60716c96",
-      "effects": []
+      "effects": [
+        "ManaFixing"
+      ]
     },
     "3fb2dbb3-e064-44bf-a8b6-10d58b1174d5": {
       "name": "Scaldkin",
@@ -98124,7 +98149,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "08ac4e43-4e16-46a2-96f5-58d5550984c4",
-      "effects": []
+      "effects": [
+        "ManaFixing"
+      ]
     },
     "9e7ade56-ab68-42ab-8a6f-bc38957f1563": {
       "name": "Terrarion",
@@ -105935,7 +105962,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "15faa763-b897-4e86-b094-73f3236291a9",
-      "effects": []
+      "effects": [
+        "ManaFixing"
+      ]
     },
     "0f786c99-d245-4b11-bcce-6e13fb1255cc": {
       "name": "Verdant Confluence",
@@ -108914,7 +108943,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "16793435-8eb3-4d57-8683-de1120eb46b6",
-      "effects": []
+      "effects": [
+        "ManaFixing"
+      ]
     },
     "f45fdef0-15b1-472b-9485-465c49a48a85": {
       "name": "Warped Physique",

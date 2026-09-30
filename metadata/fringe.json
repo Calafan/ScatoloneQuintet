@@ -79183,7 +79183,9 @@
       "rating": 2,
       "label": "",
       "scryfallId": "e9681a54-6413-4ff4-b6b1-ee4decb25bfa",
-      "effects": []
+      "effects": [
+        "ManaFixing"
+      ]
     },
     "ea9709b6-4c37-4d5a-b04d-cd4c42e4f9dd": {
       "name": "Propaganda",
@@ -105934,7 +105936,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "353a8ea8-3f1f-4f77-95bc-b09b96996285",
-      "effects": []
+      "effects": [
+        "ManaFixing"
+      ]
     },
     "56edd306-8676-49c4-b3c3-5ff840536c3a": {
       "name": "Termination Facilitator",
