@@ -22358,7 +22358,6 @@
       "scryfallId": "1422a569-d94e-41e7-b9e1-78b2e9fe505f",
       "effects": [
         "Wipe",
-        "Ramp",
         "ManaFixing"
       ]
     },
@@ -34140,7 +34139,6 @@
       "scryfallId": "122c01e6-38a6-456e-971e-9004df85ac1c",
       "effects": [
         "Removal",
-        "Ramp",
         "Burn"
       ]
     },
@@ -73373,6 +73371,7 @@
       "label": "",
       "scryfallId": "4e4023c8-8e7f-42b9-99e5-87e80fc3d6c8",
       "effects": [
+        "Ramp",
         "Buff"
       ]
     },
@@ -111234,6 +111233,7 @@
       "label": "",
       "scryfallId": "ab7052f1-9736-47b6-9da3-8c5ca925ab54",
       "effects": [
+        "Ramp",
         "Steal",
         "ManaFixing"
       ]
@@ -112437,8 +112437,7 @@
       "label": "",
       "scryfallId": "4578bd59-40e2-41fc-bb7e-d5fd3839d81c",
       "effects": [
-        "Removal",
-        "Ramp"
+        "Removal"
       ]
     },
     "b0b7d88b-694b-4bbe-888d-05245e7d1c3e": {

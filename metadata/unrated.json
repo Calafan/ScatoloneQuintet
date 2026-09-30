@@ -3436,6 +3436,7 @@
       "label": "",
       "scryfallId": "458cb0db-6311-42eb-8e2b-b12895536a8a",
       "effects": [
+        "Ramp",
         "CardAdvantage",
         "ManaFixing"
       ]
@@ -21248,6 +21249,7 @@
       "label": "",
       "scryfallId": "06ab6f59-7dcb-409f-b036-cfd87d44cd83",
       "effects": [
+        "Ramp",
         "Tutor"
       ]
     },
@@ -56354,8 +56356,7 @@
       "label": "",
       "scryfallId": "3532105d-c550-4c20-8465-a6a19169efbd",
       "effects": [
-        "Removal",
-        "Ramp"
+        "Removal"
       ]
     },
     "04d02394-e17f-43cd-932f-f58e8cc56629": {
@@ -58561,7 +58562,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "12ed4051-31c4-4f63-b576-e3761b9d35ae",
-      "effects": []
+      "effects": [
+        "Ramp"
+      ]
     },
     "9061e2ae-7385-494a-a511-0b6531d1fe0e": {
       "name": "Manaplasm",
@@ -84303,7 +84306,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "24d5a773-96d0-4cbf-882c-23daf4c992e7",
-      "effects": []
+      "effects": [
+        "Ramp"
+      ]
     },
     "027484b8-0df5-48b6-b69b-bb4e39c5ba81": {
       "name": "Selesnya Sagittars",
