@@ -17657,8 +17657,7 @@
       "scryfallId": "062fcd2b-7f63-47bf-83ba-88e33d397a6e",
       "effects": [
         "Ramp",
-        "CardAdvantage",
-        "ManaFixing"
+        "CardAdvantage"
       ]
     },
     "2e03e44a-9fff-4490-859f-b42e89e8563a": {
@@ -22503,8 +22502,7 @@
       "scryfallId": "1873ad15-e633-4858-8f6b-4cc3e561725f",
       "effects": [
         "CardAdvantage",
-        "Steal",
-        "ManaFixing"
+        "Steal"
       ]
     },
     "bdf80a55-b524-4d17-9be8-a0005403a0e7": {
@@ -22659,9 +22657,7 @@
       "rating": 2,
       "label": "",
       "scryfallId": "3dc108e6-da31-4bc3-9ea3-f33715fc8c80",
-      "effects": [
-        "ManaFixing"
-      ]
+      "effects": []
     },
     "6fde4790-4186-4786-aa1a-b6a53bfadc1c": {
       "name": "Curse of Marit Lage",
@@ -28307,9 +28303,7 @@
       "rating": 2,
       "label": "",
       "scryfallId": "29a5fe67-beaa-4ee3-b22c-0b8aed6f6f4d",
-      "effects": [
-        "ManaFixing"
-      ]
+      "effects": []
     },
     "8e993c7a-606d-47f0-bdea-6ad197a59426": {
       "name": "Drana's Silencer",
@@ -30755,8 +30749,7 @@
       "scryfallId": "14e49d20-170a-4b6a-ac82-d3ceaab226ea",
       "effects": [
         "CardAdvantage",
-        "Steal",
-        "ManaFixing"
+        "Steal"
       ]
     },
     "a440a4f7-843f-4186-8ca9-df99f6aa321e": {
@@ -34918,9 +34911,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "1695e0ba-005a-4652-aea7-e1d1f9ff5d66",
-      "effects": [
-        "ManaFixing"
-      ]
+      "effects": []
     },
     "8b119579-38e1-4509-9dcb-019d5a160ac2": {
       "name": "False Defeat",
@@ -46298,8 +46289,7 @@
       "label": "",
       "scryfallId": "16a86a35-f7e5-434d-bf44-61ae7cb0f98b",
       "effects": [
-        "Steal",
-        "ManaFixing"
+        "Steal"
       ]
     },
     "653217b1-1e92-49a7-81d9-fc4d70d4f27f": {
@@ -57052,7 +57042,6 @@
       "effects": [
         "CardAdvantage",
         "Steal",
-        "ManaFixing",
         "Mill"
       ]
     },
@@ -57877,8 +57866,7 @@
       "scryfallId": "1e5d8580-857b-46c6-beba-889479c49d4e",
       "effects": [
         "Discard",
-        "Steal",
-        "ManaFixing"
+        "Steal"
       ]
     },
     "2f2c549d-0293-4b9d-b9a8-ff392800f3a5": {
@@ -65819,8 +65807,7 @@
       "scryfallId": "181992b6-c0b9-47f3-868f-5a6fa54e13e1",
       "effects": [
         "CardAdvantage",
-        "Steal",
-        "ManaFixing"
+        "Steal"
       ]
     },
     "b1df6475-e1e8-4ef3-a7b2-919d5f121c57": {
@@ -78427,8 +78414,7 @@
       "scryfallId": "55ddf977-de2c-4850-8ad1-b8adab1d24ee",
       "effects": [
         "CardAdvantage",
-        "Steal",
-        "ManaFixing"
+        "Steal"
       ]
     },
     "eed2606b-9a27-4af3-8120-c45a1d6b5c00": {
@@ -86266,8 +86252,7 @@
       "scryfallId": "0727f65b-cfbe-47d5-87c6-239cf8d93ca6",
       "effects": [
         "CardAdvantage",
-        "Steal",
-        "ManaFixing"
+        "Steal"
       ]
     },
     "bed7ac55-fe40-46d0-bc22-1c8d11f41459": {
@@ -89877,9 +89862,7 @@
       "rating": 2,
       "label": "",
       "scryfallId": "0b08ce85-f030-485f-81d8-bdf47ed04a8e",
-      "effects": [
-        "ManaFixing"
-      ]
+      "effects": []
     },
     "ebae61bf-6e8c-4cc9-8071-b63e781f6530": {
       "name": "Scholar of Combustion",
@@ -92685,8 +92668,7 @@
       "label": "",
       "scryfallId": "0d21e0de-317d-4378-aec2-30f832af3b0a",
       "effects": [
-        "CardAdvantage",
-        "ManaFixing"
+        "CardAdvantage"
       ]
     },
     "e23bf5fe-e494-473e-8502-606106ee1820": {
@@ -120175,7 +120157,6 @@
       "effects": [
         "Buff",
         "Steal",
-        "ManaFixing",
         "Regrowth"
       ]
     },
@@ -122395,8 +122376,7 @@
       "label": "",
       "scryfallId": "3e3f1cd3-e93b-4b59-bcf2-e1c850ef7572",
       "effects": [
-        "Steal",
-        "ManaFixing"
+        "Steal"
       ]
     },
     "3df11e5c-19aa-441c-a889-6b40eb3fdabf": {

@@ -252,8 +252,7 @@
       "label": "",
       "scryfallId": "019b51b0-e5c6-4208-922b-7736686dddcd",
       "effects": [
-        "Buff",
-        "ManaFixing"
+        "Buff"
       ]
     },
     "14c356aa-178d-4c14-a88e-fbe92ee6d89f": {
@@ -1155,8 +1154,7 @@
       "label": "",
       "scryfallId": "87373340-e0d0-4cef-9400-639041010b94",
       "effects": [
-        "Steal",
-        "ManaFixing"
+        "Steal"
       ]
     },
     "730be0d6-2612-44d6-9d36-e1fc6510c6bd": {
@@ -2441,8 +2439,7 @@
       "effects": [
         "CardAdvantage",
         "Burn",
-        "Steal",
-        "ManaFixing"
+        "Steal"
       ]
     },
     "36cd2364-d113-47d1-b2c4-b088d9eb88dd": {
@@ -6551,8 +6548,7 @@
       "scryfallId": "1cef767a-6fbb-4ca7-8cff-e9121ac131ac",
       "effects": [
         "CardAdvantage",
-        "Steal",
-        "ManaFixing"
+        "Steal"
       ]
     },
     "65c32889-3d70-449f-af76-05385c78c5a9": {
@@ -8133,8 +8129,7 @@
       "label": "",
       "scryfallId": "1ab06021-8896-4c6c-9c56-9714270f8e4e",
       "effects": [
-        "CardAdvantage",
-        "ManaFixing"
+        "CardAdvantage"
       ]
     },
     "b0747a4f-d041-4750-aef5-a5d101696f65": {
@@ -9846,8 +9841,7 @@
       "label": "",
       "scryfallId": "47a3321c-28ed-4cd7-84d8-c8cecc09348b",
       "effects": [
-        "Removal",
-        "ManaFixing"
+        "Removal"
       ]
     },
     "9c021685-4017-49c7-9f58-2ae0243361a0": {
@@ -10350,8 +10344,7 @@
       "effects": [
         "Discard",
         "CardAdvantage",
-        "Steal",
-        "ManaFixing"
+        "Steal"
       ]
     },
     "380b386f-90c8-45c5-a611-1ed6803b52d2": {
@@ -12403,9 +12396,7 @@
       "rating": 4,
       "label": "",
       "scryfallId": "7f164226-99e4-474e-a67d-b3fbff015a64",
-      "effects": [
-        "ManaFixing"
-      ]
+      "effects": []
     },
     "dd6e67c0-66a1-49b7-8a86-3cf4b209fd07": {
       "name": "Manor Gate",
@@ -18796,8 +18787,7 @@
       "label": "",
       "scryfallId": "03f0808c-4d30-4ec8-98b4-b0f1533861f1",
       "effects": [
-        "Steal",
-        "ManaFixing"
+        "Steal"
       ]
     },
     "a15547d0-bbcb-41ee-a9ae-8325a9e7fe1f": {
@@ -21554,8 +21544,7 @@
       "scryfallId": "b30dde6c-9bc6-45bf-97e4-9c08be79d506",
       "effects": [
         "CardAdvantage",
-        "Steal",
-        "ManaFixing"
+        "Steal"
       ]
     },
     "ba26ff0a-e714-44f2-95cf-1a5a6088edf9": {
@@ -23165,8 +23154,7 @@
       "effects": [
         "Ramp",
         "CardAdvantage",
-        "Steal",
-        "ManaFixing"
+        "Steal"
       ]
     },
     "d077d54c-6f1b-4795-a241-6073b0dc1dc8": {
@@ -23237,8 +23225,7 @@
         "Ramp",
         "Disenchant",
         "CardAdvantage",
-        "Steal",
-        "ManaFixing"
+        "Steal"
       ]
     },
     "27400927-9aba-4fb3-90c4-490d01969e60": {
@@ -24690,8 +24677,7 @@
       "effects": [
         "Disenchant",
         "CardAdvantage",
-        "Steal",
-        "ManaFixing"
+        "Steal"
       ]
     },
     "aa7b41ba-08eb-40b8-a8d5-e67dc09c88ba": {

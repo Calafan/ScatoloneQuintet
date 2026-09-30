@@ -11847,9 +11847,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "66a4a740-9a82-4f8b-8237-d49b2e36d007",
-      "effects": [
-        "ManaFixing"
-      ]
+      "effects": []
     },
     "20283c4a-f1f0-42f0-bc08-6da87474426b": {
       "name": "Breeding Pool",
@@ -18947,8 +18945,7 @@
       "label": "",
       "scryfallId": "f3b4871d-4d74-411b-88e0-9a9d386cafe1",
       "effects": [
-        "Steal",
-        "ManaFixing"
+        "Steal"
       ]
     },
     "10495c22-2456-4b93-afa9-0c3c53075efe": {
@@ -21776,8 +21773,7 @@
       "label": "",
       "scryfallId": "6bb68644-e99d-4ecb-a804-8d4ad1c3325d",
       "effects": [
-        "Steal",
-        "ManaFixing"
+        "Steal"
       ]
     },
     "8a9e8f60-eb13-4ae8-82df-d4c46da74451": {
@@ -29030,9 +29026,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "ce5f3b5c-feb8-4304-852f-01c467d6517c",
-      "effects": [
-        "ManaFixing"
-      ]
+      "effects": []
     },
     "38a71429-e673-4de4-80a8-f59e5cf98acc": {
       "name": "Emmara Tandris",
@@ -41304,8 +41298,7 @@
       "scryfallId": "075cd558-2557-409a-8244-2de65664be53",
       "effects": [
         "CardAdvantage",
-        "Steal",
-        "ManaFixing"
+        "Steal"
       ]
     },
     "b22f4797-c74f-4d95-9528-c16c2bc4c05b": {
@@ -63827,9 +63820,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "188dfd03-010b-48ca-b0a3-dd9d77947215",
-      "effects": [
-        "ManaFixing"
-      ]
+      "effects": []
     },
     "9ec43ec6-b625-4be8-8f79-3679e6657dbc": {
       "name": "Mycosynth Wellspring",
@@ -67243,8 +67234,7 @@
       "label": "",
       "scryfallId": "35b8ec5d-bb33-4733-883e-9002951ae2fb",
       "effects": [
-        "Filter",
-        "ManaFixing"
+        "Filter"
       ]
     },
     "ee00a42d-6ee4-4e46-92d6-62e8e5910880": {
@@ -68528,8 +68518,7 @@
       "label": "",
       "scryfallId": "086f97e9-8b62-44f3-b467-149c2ac5ca78",
       "effects": [
-        "Steal",
-        "ManaFixing"
+        "Steal"
       ]
     },
     "4a17fb46-70db-4c9a-ac0e-dfc774345673": {
@@ -73720,8 +73709,7 @@
       "label": "",
       "scryfallId": "2b6e1d03-ad24-4bde-ab3c-28f94e776a4e",
       "effects": [
-        "Steal",
-        "ManaFixing"
+        "Steal"
       ]
     },
     "43d69e13-27df-43a9-b610-6628dc02e3b4": {
@@ -79628,8 +79616,7 @@
       "label": "",
       "scryfallId": "0ecbe097-ba51-42e5-957c-382eb66c08f0",
       "effects": [
-        "Steal",
-        "ManaFixing"
+        "Steal"
       ]
     },
     "67789c0c-3f05-4b0b-a56d-0757ac801d22": {
@@ -93496,8 +93483,7 @@
       "scryfallId": "40f0adad-207a-4504-9636-75f7ccb5b60c",
       "effects": [
         "CardAdvantage",
-        "Steal",
-        "ManaFixing"
+        "Steal"
       ]
     },
     "5bafd0e0-8bf8-4e06-a54a-81cc6cc4bdb7": {
@@ -104205,9 +104191,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "8789ef9e-f68c-4ff0-8621-47678038131b",
-      "effects": [
-        "ManaFixing"
-      ]
+      "effects": []
     },
     "048bdc4a-4d26-420c-88ed-23a073c30fff": {
       "name": "Unexpected Results",
