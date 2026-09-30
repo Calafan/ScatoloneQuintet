@@ -66954,7 +66954,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "1ac9577f-dd41-4e1a-a96b-6b615297425a",
-      "effects": []
+      "effects": [
+        "Ramp"
+      ]
     },
     "3d73dfd6-fd74-453f-b323-6505825caf4c": {
       "name": "Nylea's Colossus",
