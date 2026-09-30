@@ -30495,6 +30495,7 @@
       "label": "",
       "scryfallId": "ec435e54-628a-43bd-8804-cbc37e375bce",
       "effects": [
+        "ManaFixing",
         "Regrowth"
       ]
     },
@@ -93181,7 +93182,9 @@
       "rating": 2,
       "label": "",
       "scryfallId": "a673adea-8454-4382-8413-fc1fa823f747",
-      "effects": []
+      "effects": [
+        "ManaFixing"
+      ]
     },
     "94674840-c73c-4659-80b9-11140d1deaa3": {
       "name": "Shimmering Barrier",
@@ -102739,7 +102742,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "16d147fe-1411-4c46-9afd-6e2b7612c0a5",
-      "effects": []
+      "effects": [
+        "ManaFixing"
+      ]
     },
     "17841133-c526-42a3-a1d2-a874e9bb7138": {
       "name": "Sunken City",
@@ -105597,7 +105602,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "01054cee-3105-4e80-9ded-0ae57db5c159",
-      "effects": []
+      "effects": [
+        "ManaFixing"
+      ]
     },
     "cfdd5dc6-593e-495a-8cfe-3a56b3c4c7df": {
       "name": "Temple of the False God",
@@ -108753,7 +108760,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "726c8110-9294-4a77-b1cd-6488e098dc5b",
-      "effects": []
+      "effects": [
+        "ManaFixing"
+      ]
     },
     "3952c288-5633-4e40-abe6-18940d079644": {
       "name": "Thran Power Suit",
@@ -113343,7 +113352,9 @@
       "rating": 2,
       "label": "",
       "scryfallId": "172cd5b7-98fc-4add-b858-a0b3dfb75c19",
-      "effects": []
+      "effects": [
+        "ManaFixing"
+      ]
     },
     "bd655e8b-f192-4635-9e23-357b6f89ef8f": {
       "name": "Uncivil Unrest",
