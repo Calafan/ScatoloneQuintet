@@ -115882,7 +115882,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "197455e5-7929-47b8-ad00-8d3918949eb7",
-      "effects": []
+      "effects": [
+        "Ramp"
+      ]
     },
     "8fc049e7-a16d-4b48-b930-5c346f6718b9": {
       "name": "Verdant Outrider",
