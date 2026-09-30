@@ -1896,9 +1896,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "d8ed0335-daa6-4dbe-a94d-4d56c8cfd093",
-      "effects": [
-        "Ramp"
-      ]
+      "effects": []
     },
     "a3fc6888-0a4b-4e1d-b709-042b8b6b1a04": {
       "name": "Akroma's Blessing",
@@ -10129,9 +10127,7 @@
       "rating": 2,
       "label": "",
       "scryfallId": "32779721-b021-4bd4-95d1-4a19b78d9faa",
-      "effects": [
-        "Ramp"
-      ]
+      "effects": []
     },
     "2dc6da5d-c4d1-4f2c-8f46-11a935bc0044": {
       "name": "Blackmail",
@@ -42397,9 +42393,7 @@
       "rating": 2,
       "label": "",
       "scryfallId": "0a88ad2c-a1a6-4946-b34d-b93c8ac7769e",
-      "effects": [
-        "Ramp"
-      ]
+      "effects": []
     },
     "3a3e8c9b-e458-4661-980d-0a84a4c2452b": {
       "name": "Glasswing Grace // Age-Graced Chapel",
@@ -56320,9 +56314,7 @@
       "rating": 2,
       "label": "",
       "scryfallId": "09c8c150-a0d8-4254-9169-7697e9c540da",
-      "effects": [
-        "Ramp"
-      ]
+      "effects": []
     },
     "263b526c-8b81-44ee-a7c4-5c24bf9b42a4": {
       "name": "Kazandu Nectarpot",
@@ -95310,9 +95302,7 @@
       "rating": 2,
       "label": "",
       "scryfallId": "014027c4-7f9d-4096-b308-ea4be574c0d4",
-      "effects": [
-        "Ramp"
-      ]
+      "effects": []
     },
     "e00d601f-ac73-47a6-8920-779d71b482c9": {
       "name": "Skyclave Geopede",
@@ -113252,9 +113242,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "890eee8d-a339-4143-adfa-1b17ec10c099",
-      "effects": [
-        "Ramp"
-      ]
+      "effects": []
     },
     "0f4350ad-dc44-4942-b097-e4033e29d659": {
       "name": "Umaro, Raging Yeti",
