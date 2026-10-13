@@ -692,9 +692,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "044b2bfc-a5cc-4505-831d-5e1e3a6fdb3c",
-      "effects": [
-        "Reanimate"
-      ]
+      "effects": []
     },
     "86373537-7424-416a-8d89-cc38f6538458": {
       "name": "Advantageous Proclamation",
@@ -1896,9 +1894,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "304a2e4c-da2c-43fb-b44d-9db55ff94f04",
-      "effects": [
-        "Reanimate"
-      ]
+      "effects": []
     },
     "efae637f-3232-46f2-9839-f3386e2f447d": {
       "name": "Akoum Flameseeker",
@@ -2646,7 +2642,6 @@
       "label": "",
       "scryfallId": "96fe34d6-278e-4c02-aba0-93201e97e11a",
       "effects": [
-        "Reanimate",
         "Burn"
       ]
     },
@@ -4331,9 +4326,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "2793c505-6736-4259-b9c6-6f9369fd476f",
-      "effects": [
-        "Reanimate"
-      ]
+      "effects": []
     },
     "616cb1be-074a-46c2-b8f1-6b9f15b7bc23": {
       "name": "Arctic Aven",
@@ -8319,9 +8312,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "a1bbc3dc-45c2-47d7-ab3e-e4c27b953cf3",
-      "effects": [
-        "Reanimate"
-      ]
+      "effects": []
     },
     "5adc9d0d-3393-4d91-be85-1f9dd344698b": {
       "name": "Binding Mummy",
@@ -9818,9 +9809,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "08e01310-d192-41e9-a6f0-0edbd6fb3cfb",
-      "effects": [
-        "Reanimate"
-      ]
+      "effects": []
     },
     "e64b184d-9746-4723-a928-d459b5c3ee6c": {
       "name": "Bloodgift Demon",
@@ -10031,9 +10020,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "107081ae-dfda-4e54-9963-ac01161cc437",
-      "effects": [
-        "Reanimate"
-      ]
+      "effects": []
     },
     "1f4743ed-4e91-4344-9409-c8ede5c4804d": {
       "name": "Bloodspore Thrinax",
@@ -10774,9 +10761,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "004b44af-9b27-4689-a6b6-bcd3ad0aca7e",
-      "effects": [
-        "Reanimate"
-      ]
+      "effects": []
     },
     "3984e5f6-8643-4104-aa9c-18d474e07801": {
       "name": "Bone Miser",
@@ -10890,9 +10875,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "31acbf9f-f33c-4f3a-b5e7-bff41f4b5b26",
-      "effects": [
-        "Reanimate"
-      ]
+      "effects": []
     },
     "6e5f908a-f4f1-4718-ac39-34176e401756": {
       "name": "Boneyard Wurm",
@@ -11475,9 +11458,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "a96f2106-3524-4fc0-85df-8cf9d0901ea8",
-      "effects": [
-        "Reanimate"
-      ]
+      "effects": []
     },
     "395b312b-8fe6-4c28-b91d-620b5fcb9e6d": {
       "name": "Brago's Favor",
@@ -14242,9 +14223,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "32cf273e-b8f7-434b-9d5d-883dfd6f7423",
-      "effects": [
-        "Reanimate"
-      ]
+      "effects": []
     },
     "56309bbe-86aa-4003-a531-0ef1e318ba15": {
       "name": "Cauldron Haze",
@@ -16085,9 +16064,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "d6264d4f-adf1-4d7b-b17a-fd7122e9b2cd",
-      "effects": [
-        "Reanimate"
-      ]
+      "effects": []
     },
     "a7c46e5f-6e3a-405b-86fa-404d3b6971db": {
       "name": "Chronostutter",
@@ -18439,7 +18416,6 @@
       "label": "",
       "scryfallId": "34320bc2-12af-42a6-8139-d7479e6a3074",
       "effects": [
-        "Reanimate",
         "Tutor"
       ]
     },
@@ -22475,9 +22451,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "0b0502ab-b9df-4e70-b11c-5b178fa5f587",
-      "effects": [
-        "Reanimate"
-      ]
+      "effects": []
     },
     "ad0f50d5-7b40-4fd8-8d13-4a0493398f53": {
       "name": "Deathpact Angel",
@@ -23711,9 +23685,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "04a09fe4-d7a0-4065-968d-0837c3eafda0",
-      "effects": [
-        "Reanimate"
-      ]
+      "effects": []
     },
     "7ebde396-6672-491a-a6ce-1de49b12379b": {
       "name": "Destined // Lead",
@@ -26324,9 +26296,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "343fc82d-7d10-4489-8f7e-9995322114e2",
-      "effects": [
-        "Reanimate"
-      ]
+      "effects": []
     },
     "5791710d-c718-4f64-9c14-3668154716f1": {
       "name": "Dread Warlock",
@@ -26587,18 +26557,14 @@
       "rating": 0,
       "label": "",
       "scryfallId": "4a835b7e-cd63-486d-8b58-2f443f686e32",
-      "effects": [
-        "Reanimate"
-      ]
+      "effects": []
     },
     "be9d1346-4416-4ade-ae84-7a4121e0bd12": {
       "name": "Dregscape Zombie",
       "rating": 0,
       "label": "",
       "scryfallId": "3b8dc03e-76ec-4544-9c3b-e14e28641611",
-      "effects": [
-        "Reanimate"
-      ]
+      "effects": []
     },
     "f7971f22-2689-4c6f-9fea-1afc4f5afed3": {
       "name": "Drekavac",
@@ -26971,9 +26937,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "06c61b1b-d8fa-4c8b-9ddb-ca2682a3f5ef",
-      "effects": [
-        "Reanimate"
-      ]
+      "effects": []
     },
     "f5126c01-f765-44f4-9ced-0fc157f8b897": {
       "name": "Drudge Beetle",
@@ -30471,9 +30435,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "312bbd63-d6ff-4da5-868f-ed68cbc12d43",
-      "effects": [
-        "Reanimate"
-      ]
+      "effects": []
     },
     "8d7194f7-1525-4f6e-b974-b947a254f437": {
       "name": "Etherium Astrolabe",
@@ -30676,7 +30638,6 @@
       "label": "",
       "scryfallId": "499d1789-f7b0-47a1-962e-4c75b23befd5",
       "effects": [
-        "Reanimate",
         "Cheat"
       ]
     },
@@ -31202,7 +31163,6 @@
       "label": "",
       "scryfallId": "202d81ad-1211-4213-91ec-3021cbd878d1",
       "effects": [
-        "Reanimate",
         "Mill"
       ]
     },
@@ -32178,9 +32138,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "13226541-a4dd-4b6e-a1b2-bf2a3b7e5d2c",
-      "effects": [
-        "Reanimate"
-      ]
+      "effects": []
     },
     "0767fb65-a621-494b-97a4-f23a4c8b4bec": {
       "name": "Fathom Feeder",
@@ -32422,9 +32380,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "2f907f50-c02e-4348-a2d0-6697705e4047",
-      "effects": [
-        "Reanimate"
-      ]
+      "effects": []
     },
     "2038f505-7b03-4c63-bc44-c5139729dd05": {
       "name": "Feat of Resistance",
@@ -33472,9 +33428,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "0d023dd3-e92f-4b8a-a178-b60db018bf2a",
-      "effects": [
-        "Reanimate"
-      ]
+      "effects": []
     },
     "d99a1d9a-7721-4331-bf22-1c6ee0bd825a": {
       "name": "Fire-Lit Thicket",
@@ -33586,9 +33540,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "16384575-d0bc-4826-966e-a4bf6ae6ab97",
-      "effects": [
-        "Reanimate"
-      ]
+      "effects": []
     },
     "7ea71a36-8fa8-4ba3-9cb1-7fc6917c3ddd": {
       "name": "Firemane Avenger",
@@ -33735,9 +33687,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "06279e37-b746-4ec8-9922-a49c66e4c0f3",
-      "effects": [
-        "Reanimate"
-      ]
+      "effects": []
     },
     "f5bac25d-72e9-4655-8a04-3646fc10be27": {
       "name": "Fissure Vent",
@@ -34099,9 +34049,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "384c5118-a021-44a8-829d-a6b437e2ae96",
-      "effects": [
-        "Reanimate"
-      ]
+      "effects": []
     },
     "0c73f566-3b8a-4d57-b7a9-7437b6f1f66d": {
       "name": "Flamewright",
@@ -37263,9 +37211,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "3ea89b7a-caf1-418c-b8ba-aacb8e55f366",
-      "effects": [
-        "Reanimate"
-      ]
+      "effects": []
     },
     "740f9740-aaa7-4061-86f5-85be79742541": {
       "name": "Geralf's Messenger",
@@ -37780,9 +37726,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "6b8f7cfd-88db-4cc1-b65f-3462332a2873",
-      "effects": [
-        "Reanimate"
-      ]
+      "effects": []
     },
     "5f2628e3-e29a-4d77-bc27-6e1ce240d192": {
       "name": "Ghoultree",
@@ -41796,9 +41740,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "7b1fef26-7a5d-4e8d-95df-aac67dd25fd5",
-      "effects": [
-        "Reanimate"
-      ]
+      "effects": []
     },
     "21f507fd-6a26-455c-879a-f838e0aa2a43": {
       "name": "Grixis Sojourners",
@@ -42306,7 +42248,6 @@
       "label": "",
       "scryfallId": "35398a2d-398b-4100-aac0-d411e8f0f714",
       "effects": [
-        "Reanimate",
         "Buff"
       ]
     },
@@ -43686,9 +43627,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "14a7c8b7-ca77-47a0-8965-949723ec902d",
-      "effects": [
-        "Reanimate"
-      ]
+      "effects": []
     },
     "7c6143f3-ad2c-4d7f-9041-aa59f01d8fb7": {
       "name": "Haunted Fengraf",
@@ -44430,7 +44369,6 @@
       "label": "",
       "scryfallId": "2b5fab78-9391-4247-ab26-467fc78e9b97",
       "effects": [
-        "Reanimate",
         "Burn"
       ]
     },
@@ -44574,7 +44512,6 @@
       "label": "",
       "scryfallId": "205bd3b3-969a-4cbf-b4c7-4973c0a0a10b",
       "effects": [
-        "Reanimate",
         "Burn"
       ]
     },
@@ -51603,9 +51540,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "3dafece7-c3a0-465b-84c2-e095890a7a8b",
-      "effects": [
-        "Reanimate"
-      ]
+      "effects": []
     },
     "bbf07946-33d0-48fe-85af-022e9b0b834c": {
       "name": "Kathari Remnant",
@@ -51621,9 +51556,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "150cf865-79e2-4f74-a872-44e1e5bc73c4",
-      "effects": [
-        "Reanimate"
-      ]
+      "effects": []
     },
     "728464a2-9cb6-409a-a6c4-94e796a27995": {
       "name": "Kavu Predator",
@@ -51766,8 +51699,7 @@
       "scryfallId": "73cdb22d-90e6-49c4-9ad7-3249d9196ca9",
       "effects": [
         "Wipe",
-        "Bounce",
-        "Reanimate"
+        "Bounce"
       ]
     },
     "fc7b46af-6c07-455a-99c7-f1bccaa2a5f4": {
@@ -54129,9 +54061,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "0610102f-bfc0-45f9-9b9c-cdade744e470",
-      "effects": [
-        "Reanimate"
-      ]
+      "effects": []
     },
     "f3e28778-0149-4dbd-badb-ba5aeacacd76": {
       "name": "Kuldotha Rebirth",
@@ -65369,9 +65299,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "8f3482ec-8466-4680-bfdc-e1029c0fbe89",
-      "effects": [
-        "Reanimate"
-      ]
+      "effects": []
     },
     "1a6ed882-ea6c-4dc2-8614-541e4a56b43c": {
       "name": "Netherborn Phalanx",
@@ -73325,9 +73253,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "331a62ff-54b1-4bad-b88f-e1bb81cfe6e4",
-      "effects": [
-        "Reanimate"
-      ]
+      "effects": []
     },
     "4b1674b1-2176-493f-a463-936e715d51a2": {
       "name": "Prized Elephant",
@@ -76820,9 +76746,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "00566375-e976-4e96-b751-cf0430452c9c",
-      "effects": [
-        "Reanimate"
-      ]
+      "effects": []
     },
     "8eb328e6-332e-435c-9733-4c5336f17824": {
       "name": "Reave Soul",
@@ -77375,7 +77299,6 @@
       "label": "",
       "scryfallId": "407a0ef5-a63e-4013-b3d9-b42f2c42c7a4",
       "effects": [
-        "Reanimate",
         "Buff"
       ]
     },
@@ -80073,9 +79996,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "ef5af2dd-75c7-402c-be9a-3d0d4290520c",
-      "effects": [
-        "Reanimate"
-      ]
+      "effects": []
     },
     "36117e99-a2bc-46f9-8e17-bd2e2a9c31f4": {
       "name": "Rot Hulk",
@@ -80168,8 +80089,7 @@
       "label": "",
       "scryfallId": "34dea310-8738-4fd9-b790-0361afe1e150",
       "effects": [
-        "Discard",
-        "Reanimate"
+        "Discard"
       ]
     },
     "acdbaa99-18c9-4aa1-8797-69837ca7d8f5": {
@@ -83010,7 +82930,6 @@
       "label": "",
       "scryfallId": "4b7d2a08-f567-4635-9e67-d05142390339",
       "effects": [
-        "Reanimate",
         "Buff"
       ]
     },
@@ -83187,9 +83106,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "216a8e4e-ea7b-41c7-a982-b5751025ff25",
-      "effects": [
-        "Reanimate"
-      ]
+      "effects": []
     },
     "4fa99dc1-c2d2-4b21-8511-e3d86626609d": {
       "name": "Scrapper Champion",
@@ -83263,8 +83180,7 @@
       "label": "",
       "scryfallId": "27e2a759-971d-455b-845c-2e9b471950bb",
       "effects": [
-        "Removal",
-        "Reanimate"
+        "Removal"
       ]
     },
     "209de43d-0cdd-4075-9f41-88e3d2ff90df": {
@@ -83965,8 +83881,7 @@
       "label": "",
       "scryfallId": "73c16dd5-0940-4a9b-8685-a594ca7cbbe7",
       "effects": [
-        "Discard",
-        "Reanimate"
+        "Discard"
       ]
     },
     "48054407-b5e1-431c-ad03-c12a31d0d9a8": {
@@ -84287,8 +84202,7 @@
       "label": "",
       "scryfallId": "9883e973-54c3-4bec-91d8-22f2829cdfa2",
       "effects": [
-        "Tokens",
-        "Reanimate"
+        "Tokens"
       ]
     },
     "cfee4ba9-3cf2-4e8b-a4a7-21974828cd54": {
@@ -85463,9 +85377,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "0171e38f-b663-477b-970e-fce8f00321c7",
-      "effects": [
-        "Reanimate"
-      ]
+      "effects": []
     },
     "9c50f6b1-8850-4b08-a994-3ccc17f25b83": {
       "name": "Shambling Shell",
@@ -88563,7 +88475,6 @@
       "label": "",
       "scryfallId": "605b0d7d-4ece-4ad8-bf59-86ac121ccafe",
       "effects": [
-        "Reanimate",
         "Regrowth"
       ]
     },
@@ -89394,7 +89305,6 @@
       "label": "",
       "scryfallId": "d78c2f9f-46f8-4743-b760-d2c797abf3cc",
       "effects": [
-        "Reanimate",
         "Buff"
       ]
     },
@@ -93516,9 +93426,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "7499f4f7-639f-45dd-b370-98ef161c7837",
-      "effects": [
-        "Reanimate"
-      ]
+      "effects": []
     },
     "4dc780cc-9961-445f-93bc-54ec80789bce": {
       "name": "Stocking Tiger",
@@ -96261,7 +96169,6 @@
       "label": "",
       "scryfallId": "5a0c2773-3205-4ac4-b31c-c54fb06fdd7c",
       "effects": [
-        "Reanimate",
         "Buff"
       ]
     },
@@ -104101,9 +104008,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "7ab9a62a-5503-430d-8b67-061a46b5c22c",
-      "effects": [
-        "Reanimate"
-      ]
+      "effects": []
     },
     "19b25d09-563f-4159-9ce0-c0343564bd3b": {
       "name": "Undead Minotaur",
@@ -106002,7 +105907,6 @@
       "label": "",
       "scryfallId": "4b205bc3-379a-4790-90a0-c589bbbb1803",
       "effects": [
-        "Reanimate",
         "Regrowth"
       ]
     },
@@ -107137,9 +107041,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "6d6d2d84-7141-4485-8379-b3c71af47cd1",
-      "effects": [
-        "Reanimate"
-      ]
+      "effects": []
     },
     "f82a4e85-526d-4456-b700-7760043a31be": {
       "name": "Viscera Seer",
@@ -107246,7 +107148,6 @@
       "scryfallId": "21626e4b-9361-4657-bac0-85fb475de225",
       "effects": [
         "Removal",
-        "Reanimate",
         "Burn"
       ]
     },
@@ -108885,9 +108786,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "3824c432-38c2-40cc-a371-ba797dd963e4",
-      "effects": [
-        "Reanimate"
-      ]
+      "effects": []
     },
     "c3ea1497-63ac-46bb-95e9-d98b93a880b3": {
       "name": "Ward of Bones",

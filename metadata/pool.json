@@ -1049,9 +1049,7 @@
       "rating": 3,
       "label": "",
       "scryfallId": "58baa977-16c1-4983-8343-dbd65e98ddb7",
-      "effects": [
-        "Reanimate"
-      ]
+      "effects": []
     },
     "a6d95d26-48d8-4a97-9a42-f492a61300c9": {
       "name": "Assassin's Ink",
@@ -4528,9 +4526,7 @@
       "rating": 3,
       "label": "",
       "scryfallId": "fed77513-94ab-44e2-b9a1-30ba927cd6ee",
-      "effects": [
-        "Reanimate"
-      ]
+      "effects": []
     },
     "1cf40a30-5b42-4dce-ae4f-699bc879e180": {
       "name": "Cult of Skaro",
@@ -12004,9 +12000,7 @@
       "rating": 4,
       "label": "",
       "scryfallId": "b52a3f11-6d55-4492-9a2c-c128c09b3d77",
-      "effects": [
-        "Reanimate"
-      ]
+      "effects": []
     },
     "585eb5bc-5a3d-44d8-b593-1ff0d67f96a7": {
       "name": "Lightning, Army of One",
@@ -12147,9 +12141,7 @@
       "rating": 4,
       "label": "",
       "scryfallId": "59809880-f12a-44e1-823c-740061efb7c5",
-      "effects": [
-        "Reanimate"
-      ]
+      "effects": []
     },
     "08377424-619e-48ae-bc3c-fb199cd77cf9": {
       "name": "Llanowar Loamspeaker",
@@ -17730,9 +17722,7 @@
       "rating": 3,
       "label": "",
       "scryfallId": "0a968eac-2840-41ba-b7de-3182964d4913",
-      "effects": [
-        "Reanimate"
-      ]
+      "effects": []
     },
     "8afc00d4-a1c6-4329-af2c-a7f58a0c33e7": {
       "name": "Ruin Crab",
@@ -19144,9 +19134,7 @@
       "rating": 3,
       "label": "",
       "scryfallId": "036eee90-b002-4d9a-a72e-56cef7cc8648",
-      "effects": [
-        "Reanimate"
-      ]
+      "effects": []
     },
     "3bcc378c-4470-4757-a0d5-025a32c918ea": {
       "name": "Sin, Spira's Punishment",
@@ -20872,9 +20860,7 @@
       "rating": 4,
       "label": "",
       "scryfallId": "0d375b7f-e4c3-48f0-b967-3ce50c2728c4",
-      "effects": [
-        "Reanimate"
-      ]
+      "effects": []
     },
     "636cc915-9d1b-4ffe-9e74-795b78663911": {
       "name": "Superior Spider-Man",
@@ -22899,8 +22885,7 @@
       "label": "",
       "scryfallId": "5ad67a79-cb13-44b8-adac-36cfd211f2d3",
       "effects": [
-        "CardAdvantage",
-        "Reanimate"
+        "CardAdvantage"
       ]
     },
     "72deedab-7c17-4505-aeca-4bc8596d80a5": {

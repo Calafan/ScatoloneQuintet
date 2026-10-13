@@ -4629,8 +4629,7 @@
       "label": "",
       "scryfallId": "22eb0d3c-41e6-4e3f-8f5b-52850ab2301c",
       "effects": [
-        "Wipe",
-        "Reanimate"
+        "Wipe"
       ]
     },
     "9188031e-1c24-4981-a3d2-461a2bf917b6": {
@@ -5525,9 +5524,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "55e71c3b-4c97-4eac-9ac9-c97cd6253849",
-      "effects": [
-        "Reanimate"
-      ]
+      "effects": []
     },
     "c5ab6dc9-34af-434f-ae8e-b2389ee6c5ae": {
       "name": "Artificial Evolution",
@@ -5833,6 +5830,7 @@
       "scryfallId": "2bbdfd1a-b16b-46b3-8a3e-642b5e5ae68f",
       "effects": [
         "Tokens",
+        "Ramp",
         "Sacrifice"
       ]
     },
@@ -10393,9 +10391,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "9d63d3d8-5699-4577-a908-4415bc96b404",
-      "effects": [
-        "Reanimate"
-      ]
+      "effects": []
     },
     "80ea56ad-e741-4a85-b4e8-ce62e7d593d5": {
       "name": "Blanchwood Armor",
@@ -15096,8 +15092,7 @@
       "label": "",
       "scryfallId": "02ed7f46-f58f-412a-8aa4-71f453ee3618",
       "effects": [
-        "RemovePermanent",
-        "Reanimate"
+        "RemovePermanent"
       ]
     },
     "4493828f-144f-49cf-9fd2-61de86e632ec": {
@@ -19486,9 +19481,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "afcda8e4-d3dc-44f8-b277-b61fa261666b",
-      "effects": [
-        "Reanimate"
-      ]
+      "effects": []
     },
     "9db5aa54-3deb-45ee-82a2-e88a4367c6d9": {
       "name": "Coffin Purge",
@@ -24709,8 +24702,7 @@
       "label": "",
       "scryfallId": "b9e508e9-c190-4db2-a278-9dbb09515ae2",
       "effects": [
-        "Tokens",
-        "Reanimate"
+        "Tokens"
       ]
     },
     "0544b707-ec67-43e3-a25d-fd7005ab673d": {
@@ -28221,7 +28213,6 @@
       "label": "",
       "scryfallId": "0900c3b6-cf56-4089-a1e3-c1f53edcf23a",
       "effects": [
-        "Reanimate",
         "Buff"
       ]
     },
@@ -28248,7 +28239,6 @@
       "label": "",
       "scryfallId": "9754f52f-8937-4402-8956-2c18b520898a",
       "effects": [
-        "Reanimate",
         "Buff"
       ]
     },
@@ -28295,7 +28285,6 @@
       "label": "",
       "scryfallId": "8e78b364-015d-4074-ad9e-55c973ce2f4b",
       "effects": [
-        "Reanimate",
         "Buff"
       ]
     },
@@ -28305,7 +28294,6 @@
       "label": "",
       "scryfallId": "0ec35e03-022b-417c-9987-7379cf3956f9",
       "effects": [
-        "Reanimate",
         "Buff"
       ]
     },
@@ -28337,9 +28325,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "7674ab4d-9bc0-45c3-88e1-3fd2c947cfaa",
-      "effects": [
-        "Reanimate"
-      ]
+      "effects": []
     },
     "47e191f7-6314-4875-b5ee-57e5daf089c4": {
       "name": "Dragon's Approach",
@@ -35118,8 +35104,7 @@
       "label": "",
       "scryfallId": "451559d0-b62d-4757-8eb5-f6b0e240899c",
       "effects": [
-        "Filter",
-        "Reanimate"
+        "Filter"
       ]
     },
     "6e991808-fea4-46a8-9e87-7b5917f33ce8": {
@@ -48168,9 +48153,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "f72de800-b28e-42c4-a3ca-5ec3a765d807",
-      "effects": [
-        "Reanimate"
-      ]
+      "effects": []
     },
     "0ec153ee-2a91-4196-9105-212dd1864aea": {
       "name": "Hecatomb",
@@ -48942,9 +48925,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "0c9d6f62-3946-48c8-9c51-21c577bff160",
-      "effects": [
-        "Reanimate"
-      ]
+      "effects": []
     },
     "f7f78825-10d6-441a-ae26-51b77cc271cd": {
       "name": "Hexplate Wallbreaker",
@@ -70958,7 +70939,6 @@
       "label": "",
       "scryfallId": "067a9015-0c40-4c06-b358-645bd80a4923",
       "effects": [
-        "Reanimate",
         "Buff"
       ]
     },
@@ -71606,9 +71586,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "1743840f-fe99-4cb4-a558-1763b605b35f",
-      "effects": [
-        "Reanimate"
-      ]
+      "effects": []
     },
     "721aeedc-1de5-40d0-a04c-a2ebc056d06a": {
       "name": "Neonate's Rush",
@@ -72244,7 +72222,6 @@
       "label": "",
       "scryfallId": "a037ef49-8849-41aa-aa6e-3ac6ee34cdad",
       "effects": [
-        "Reanimate",
         "Sacrifice"
       ]
     },
@@ -76910,9 +76887,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "acf75284-5568-45c5-b2a5-3fece06171e4",
-      "effects": [
-        "Reanimate"
-      ]
+      "effects": []
     },
     "3d18cd9b-6013-48d7-9269-4787e7585a51": {
       "name": "Person of Interest",
@@ -77314,9 +77289,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "76bdc912-61da-428d-b0d7-3a38676a402a",
-      "effects": [
-        "Reanimate"
-      ]
+      "effects": []
     },
     "8cc7e418-cc5e-4aef-9757-874223fccd74": {
       "name": "Phoenix Down",
@@ -84001,9 +83974,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "bcc8a8d8-6d8e-44b3-a29b-5fa4a851a25b",
-      "effects": [
-        "Reanimate"
-      ]
+      "effects": []
     },
     "ad8fb78b-5ca5-4ef1-8c68-ee57d1e32fec": {
       "name": "Reconstruction",
@@ -95545,9 +95516,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "c50a8053-7e79-4e0f-8e72-8df089377cd1",
-      "effects": [
-        "Reanimate"
-      ]
+      "effects": []
     },
     "eefa9a94-9915-4dcd-b5dc-7f8e9aa621a7": {
       "name": "Sima Yi, Wei Field Marshal",
@@ -107345,7 +107314,6 @@
       "scryfallId": "31215674-0bcd-46f1-b8a1-5415f8b674d1",
       "effects": [
         "Removal",
-        "Reanimate",
         "Sacrifice"
       ]
     },
@@ -110098,6 +110066,7 @@
       "label": "",
       "scryfallId": "42c400de-25cb-4865-ad1b-9a8a8da3da55",
       "effects": [
+        "Ramp",
         "CardAdvantage"
       ]
     },
@@ -115956,6 +115925,7 @@
       "scryfallId": "0fd2f066-f386-41b9-8d8d-1dabf28af4aa",
       "effects": [
         "Tokens",
+        "Ramp",
         "Filter"
       ]
     },
@@ -124289,9 +124259,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "bfa05d1e-6728-4e77-bfb2-da0b9598e44b",
-      "effects": [
-        "Reanimate"
-      ]
+      "effects": []
     },
     "d218b9ad-3a6f-4bda-90c6-3f869c6c4e6d": {
       "name": "Yotian Medic",
