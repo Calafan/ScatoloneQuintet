@@ -20168,6 +20168,7 @@
       "scryfallId": "c3e38dec-178b-497a-bfbd-371905690a39",
       "effects": [
         "Tokens",
+        "CardAdvantage",
         "Buff"
       ]
     },

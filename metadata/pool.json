@@ -6203,7 +6203,8 @@
       "label": "",
       "scryfallId": "00694044-99c9-49f1-9e93-274d702a59f8",
       "effects": [
-        "Tokens"
+        "Tokens",
+        "CardAdvantage"
       ]
     },
     "8db63f1a-0d63-4b11-966d-818d83a082f9": {
@@ -8867,6 +8868,7 @@
       "scryfallId": "3b1f7506-fe59-4901-98a2-131e0d3a54cd",
       "effects": [
         "Ramp",
+        "CardAdvantage",
         "Buff"
       ]
     },

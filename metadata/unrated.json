@@ -26253,6 +26253,7 @@
       "scryfallId": "0430db1a-5cad-4444-ba93-57fb32e65606",
       "effects": [
         "Removal",
+        "CardAdvantage",
         "Burn"
       ]
     },
