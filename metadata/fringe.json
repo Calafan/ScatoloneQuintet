@@ -31129,9 +31129,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "7d5bbb02-a04e-4add-ae9a-67819cffdb3a",
-      "effects": [
-        "Burn"
-      ]
+      "effects": []
     },
     "3795fc31-2369-47d0-b9c9-120f44b8f114": {
       "name": "Elderleaf Mentor",

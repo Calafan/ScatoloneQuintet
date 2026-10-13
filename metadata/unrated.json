@@ -24458,9 +24458,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "0e5f41eb-609b-4882-af9e-904daa717484",
-      "effects": [
-        "Burn"
-      ]
+      "effects": []
     },
     "fd62ad01-601f-4250-bc2a-8ef3982e45c4": {
       "name": "Diregraf Colossus",
@@ -25378,7 +25376,6 @@
       "scryfallId": "9b99894b-c774-45c2-9ee9-4d6a8e7522f5",
       "effects": [
         "CardAdvantage",
-        "Burn",
         "Steal"
       ]
     },
@@ -34979,7 +34976,6 @@
       "label": "",
       "scryfallId": "b499fc26-26b0-4b0f-9c62-5ed599baf41d",
       "effects": [
-        "Burn",
         "Tutor"
       ]
     },
@@ -53246,8 +53242,7 @@
       "label": "",
       "scryfallId": "53d74710-7396-4984-afd8-fe47059e3d12",
       "effects": [
-        "Reanimate",
-        "Burn"
+        "Reanimate"
       ]
     },
     "9d834f1b-a4b5-4676-bb6d-2ffc6b3bccd2": {
@@ -71781,8 +71776,7 @@
       "label": "",
       "scryfallId": "26c3846a-b5a6-42ad-bcc0-96f2077b1b47",
       "effects": [
-        "Removal",
-        "Burn"
+        "Removal"
       ]
     },
     "fef502af-6e79-4c55-a86a-b45adb3fc64a": {
@@ -109457,9 +109451,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "3f78276a-d2a7-4b7f-aff8-dcbb982aa909",
-      "effects": [
-        "Burn"
-      ]
+      "effects": []
     },
     "3875aef0-3102-4fbf-be90-e4139f7a2348": {
       "name": "Wayward Swordtooth",
