@@ -982,6 +982,7 @@
       "label": "",
       "scryfallId": "783da808-6698-4e55-9fac-430a6effe2b1",
       "effects": [
+        "Counter",
         "Bounce"
       ]
     },
@@ -6395,6 +6396,7 @@
       "label": "",
       "scryfallId": "288c751e-a042-45a9-adce-7001bb0ce512",
       "effects": [
+        "Counter",
         "Pacify"
       ]
     },
@@ -12462,6 +12464,7 @@
       "scryfallId": "0cd0e11a-0398-431b-b523-9d3c8a0155cb",
       "effects": [
         "Removal",
+        "Counter",
         "Bounce"
       ]
     },
@@ -31604,7 +31607,7 @@
       "label": "",
       "scryfallId": "b9623c8c-01b4-4e8f-a5b9-eeea408ec027",
       "effects": [
-        "Bounce"
+        "Counter"
       ]
     },
     "3dfc6a52-d58c-4455-96fe-ec193743d67a": {
@@ -38730,7 +38733,8 @@
       "label": "",
       "scryfallId": "8375ad0c-5d8d-47f6-bd04-ffd59fa9c0be",
       "effects": [
-        "Tokens"
+        "Tokens",
+        "Counter"
       ]
     },
     "b9c58cfb-b7d5-4e86-a5d3-efb07192aa22": {
@@ -41520,6 +41524,7 @@
       "label": "",
       "scryfallId": "59c4dceb-6889-4a79-87c2-98952f3478bb",
       "effects": [
+        "Counter",
         "CardAdvantage"
       ]
     },
@@ -66044,7 +66049,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "26012b65-7e0a-427e-945e-de24738517fb",
-      "effects": []
+      "effects": [
+        "Counter"
+      ]
     },
     "09c68fb5-2000-4bb8-b03b-94b093e50bca": {
       "name": "Nimble-Blade Khenra",
@@ -69246,7 +69253,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "896e08f8-7608-4137-9a58-f6eda8f84313",
-      "effects": []
+      "effects": [
+        "Counter"
+      ]
     },
     "efc12fda-054b-466a-a863-06cf54878172": {
       "name": "Oust",
@@ -77744,7 +77753,8 @@
       "label": "",
       "scryfallId": "38e64b09-1a58-4669-b7f2-baa3ccc85f2d",
       "effects": [
-        "Tokens"
+        "Tokens",
+        "Counter"
       ]
     },
     "ed198c68-c219-469f-b133-737b060cfbfc": {
@@ -77778,7 +77788,8 @@
       "label": "",
       "scryfallId": "595332bf-6d3d-4240-974c-f87832954068",
       "effects": [
-        "Tokens"
+        "Tokens",
+        "Counter"
       ]
     },
     "59f10ddb-8287-4d2c-8c60-1080b108fa78": {
@@ -78967,7 +78978,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "4433653d-5ba9-4cdb-8a0b-69026301bc6f",
-      "effects": []
+      "effects": [
+        "Counter"
+      ]
     },
     "f5d9248e-9cff-4f80-b6ed-7d368099e97b": {
       "name": "Rimewind Taskmage",
@@ -91081,7 +91094,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "2895a5be-98b2-4680-8238-6f649153227f",
-      "effects": []
+      "effects": [
+        "Counter"
+      ]
     },
     "934c50aa-7d2e-4c9e-b91b-1e8c4055e1c6": {
       "name": "Spell Rupture",
@@ -92491,7 +92506,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "29421dd2-70a7-4623-afe0-ca4cb415ec87",
-      "effects": []
+      "effects": [
+        "Counter"
+      ]
     },
     "662a2158-4176-4b4a-be6a-13f4501d22f9": {
       "name": "Squelching Leeches",
@@ -95780,7 +95797,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "40fc6412-df1c-4bfa-842b-8c3a6f14e19d",
-      "effects": []
+      "effects": [
+        "Counter"
+      ]
     },
     "b187aeeb-5cf5-4b73-a3ef-f39188d2ba33": {
       "name": "Swans of Bryn Argoll",
@@ -95854,6 +95873,7 @@
       "label": "",
       "scryfallId": "2fb0ea3f-2f6d-4b64-a9d7-e822c8854a03",
       "effects": [
+        "Counter",
         "Bounce"
       ]
     },
@@ -95979,6 +95999,7 @@
       "label": "",
       "scryfallId": "a1c5f733-e126-4c22-b528-18bdb90b509b",
       "effects": [
+        "Counter",
         "CardAdvantage"
       ]
     },
@@ -96842,7 +96863,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "1421115b-9a98-4ab2-bcb2-7d8899ce12db",
-      "effects": []
+      "effects": [
+        "Counter"
+      ]
     },
     "a3a26df4-a9d5-48f5-942f-76862bdcd146": {
       "name": "Talent of the Telepath",
@@ -102446,7 +102469,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "1b54349c-d649-4947-8dfa-bcf2aebeab57",
-      "effects": []
+      "effects": [
+        "Counter"
+      ]
     },
     "9fd288d6-445e-4605-b206-aab43e300dde": {
       "name": "Tricks of the Trade",
@@ -104574,6 +104599,7 @@
       "label": "",
       "scryfallId": "2dc0bafd-debc-4b62-9fe0-56b4aad02484",
       "effects": [
+        "Counter",
         "Bounce"
       ]
     },
@@ -105953,6 +105979,7 @@
       "label": "",
       "scryfallId": "0e84fc99-4045-4518-b588-512a675f2933",
       "effects": [
+        "Counter",
         "Bounce"
       ]
     },
@@ -107541,7 +107568,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "c9765c83-fe52-43c5-9466-7318809bbfe0",
-      "effects": []
+      "effects": [
+        "Counter"
+      ]
     },
     "c4851768-e210-4aaf-935e-715942e198f9": {
       "name": "Voidslime",

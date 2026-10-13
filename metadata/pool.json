@@ -5591,6 +5591,7 @@
       "label": "",
       "scryfallId": "0e6d81e3-c83f-495a-b947-154fb4551a32",
       "effects": [
+        "Counter",
         "Bounce",
         "Tutor"
       ]
@@ -8326,6 +8327,7 @@
       "label": "",
       "scryfallId": "1ab06021-8896-4c6c-9c56-9714270f8e4e",
       "effects": [
+        "Counter",
         "CardAdvantage"
       ]
     },
@@ -9193,7 +9195,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "b1beaaae-9406-4beb-8e74-d278822434c7",
-      "effects": []
+      "effects": [
+        "Counter"
+      ]
     },
     "2ac2d483-2d2a-4912-8db4-04a5a2080831": {
       "name": "Greensleeves, Maro-Sorcerer",
@@ -10032,6 +10036,7 @@
       "label": "",
       "scryfallId": "08fd6904-c497-40de-b3cf-a427e5bed264",
       "effects": [
+        "Counter",
         "Bounce"
       ]
     },
@@ -20258,7 +20263,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "136e3710-9696-44ce-89c6-83a470e04e5d",
-      "effects": []
+      "effects": [
+        "Counter"
+      ]
     },
     "2251e34e-4ce8-4452-9dc6-d8cce8583996": {
       "name": "Stock Up",

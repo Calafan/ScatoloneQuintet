@@ -5711,7 +5711,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "400feef5-363b-4620-8416-af833c55d3bb",
-      "effects": []
+      "effects": [
+        "Counter"
+      ]
     },
     "06d2a96c-4f4d-4a4a-ac48-6f0fbc9d0afd": {
       "name": "Ashiok's Forerunner",
@@ -9936,7 +9938,9 @@
       "rating": 2,
       "label": "",
       "scryfallId": "cfa51783-9ef8-4e51-ba0d-ce8439d83bdf",
-      "effects": []
+      "effects": [
+        "Counter"
+      ]
     },
     "8d1a3935-8a8c-4754-b474-189611188bc5": {
       "name": "Bind the Monster",
@@ -13373,6 +13377,7 @@
       "label": "",
       "scryfallId": "3cb19d38-27f1-4a5a-899e-7576fa5a3b9e",
       "effects": [
+        "Counter",
         "Protection",
         "Pacify"
       ]
@@ -32468,7 +32473,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "13798c8c-1aa5-4f95-979b-b971e73d715f",
-      "effects": []
+      "effects": [
+        "Counter"
+      ]
     },
     "05157e8e-4c8c-455e-a5a1-de8271951c51": {
       "name": "Endless Evil",
