@@ -5363,6 +5363,7 @@
       "label": "",
       "scryfallId": "5e9fc80b-9602-4250-a282-e44aab6f8feb",
       "effects": [
+        "Tokens",
         "Ramp"
       ]
     },
@@ -6421,6 +6422,7 @@
       "label": "",
       "scryfallId": "23a05db7-dcae-4180-8ad1-60ba6fb30816",
       "effects": [
+        "Tokens",
         "Ramp"
       ]
     },
@@ -11199,6 +11201,7 @@
       "label": "",
       "scryfallId": "c4b65847-fee2-4e00-b598-7363059ec3ff",
       "effects": [
+        "Tokens",
         "Ramp"
       ]
     },
@@ -14456,6 +14459,7 @@
       "label": "",
       "scryfallId": "051f18b2-9d16-4831-8f7e-458877b0c1fa",
       "effects": [
+        "Tokens",
         "ManaFixing"
       ]
     },
@@ -15363,9 +15367,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "8801465e-295f-4b6b-a321-120f1b1edd0b",
-      "effects": [
-        "Pacify"
-      ]
+      "effects": []
     },
     "d1b1be96-b2aa-4386-97d2-eb0a8cc47210": {
       "name": "Channel the Suns",
@@ -15809,7 +15811,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "d516f267-e72b-453c-bceb-4766582568d2",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "98066238-28f8-41e3-903a-d367927f23ca": {
       "name": "Chimeric Mass",
@@ -16028,6 +16032,7 @@
       "label": "",
       "scryfallId": "5acd482c-9815-4ff5-99ef-fb1a014251bb",
       "effects": [
+        "Tokens",
         "Ramp"
       ]
     },
@@ -17399,9 +17404,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "92d59c06-41f7-4009-9157-70ba90cc978b",
-      "effects": [
-        "Pacify"
-      ]
+      "effects": []
     },
     "7e8c2a18-e404-40ff-a9e0-ec3eeb6d576e": {
       "name": "Command Beacon",
@@ -19342,6 +19345,7 @@
       "label": "",
       "scryfallId": "080edb03-932f-4e0f-a230-5c7794925017",
       "effects": [
+        "Tokens",
         "ManaFixing"
       ]
     },
@@ -21414,7 +21418,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "06125c05-a345-481d-bc7f-bf234b946b5b",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "8dc067bf-f78f-4ac4-b6e7-b305c42cf0bc": {
       "name": "Darksteel Citadel",
@@ -24287,6 +24293,7 @@
       "label": "",
       "scryfallId": "20f79f1a-690f-4ec1-86b8-49aa7ae8ff08",
       "effects": [
+        "Tokens",
         "Ramp"
       ]
     },
@@ -25003,8 +25010,7 @@
       "scryfallId": "ec06e42f-e294-44ef-8fa8-1d1a4c2090d8",
       "effects": [
         "Removal",
-        "Burn",
-        "Pacify"
+        "Burn"
       ]
     },
     "bffa18c3-642c-4239-b425-238599007976": {
@@ -26736,6 +26742,7 @@
       "label": "",
       "scryfallId": "d4df975f-b6ef-4e8e-8be8-529c0ffd8a37",
       "effects": [
+        "Tokens",
         "Ramp"
       ]
     },
@@ -27018,8 +27025,7 @@
       "label": "",
       "scryfallId": "0f00a70e-b3a0-4279-a4d6-37f2d1a1880e",
       "effects": [
-        "Tokens",
-        "Pacify"
+        "Tokens"
       ]
     },
     "6a5b1cd4-e597-4122-8fc7-4dce241d7c01": {
@@ -29437,9 +29443,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "dd7904ba-0764-4dd3-9c78-35f799e99049",
-      "effects": [
-        "Pacify"
-      ]
+      "effects": []
     },
     "d2045055-197c-436a-9874-199db5fe1c96": {
       "name": "Enduring Ideal",
@@ -29681,6 +29685,7 @@
       "label": "",
       "scryfallId": "9d2a16e2-ea98-4bf2-9e5c-7612d2dd039b",
       "effects": [
+        "Tokens",
         "Buff"
       ]
     },
@@ -32927,9 +32932,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "d15fc49c-07a9-4e55-a977-24f7b7c2df1a",
-      "effects": [
-        "Pacify"
-      ]
+      "effects": []
     },
     "85d7c8d4-6f99-4b1d-9e0e-ff41bbeee682": {
       "name": "Festive Funeral",
@@ -33406,6 +33409,7 @@
       "label": "",
       "scryfallId": "8e45cd37-bf97-4742-978d-96f96ed653cd",
       "effects": [
+        "Tokens",
         "Ramp"
       ]
     },
@@ -35090,6 +35094,7 @@
       "label": "",
       "scryfallId": "45cba87d-3c8c-4f38-bdd8-51072ba6365b",
       "effects": [
+        "Tokens",
         "Ramp"
       ]
     },
@@ -35383,6 +35388,7 @@
       "label": "",
       "scryfallId": "b022a628-4883-427a-8477-0e87d1a71028",
       "effects": [
+        "Tokens",
         "Ramp"
       ]
     },
@@ -38876,7 +38882,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "09c64d2e-1fbf-4858-8fa7-82bf2e41fe1f",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "d6b6d965-1401-4566-adb3-90b03218af8d": {
       "name": "Glint-Eye Nephilim",
@@ -40222,6 +40230,7 @@
       "label": "",
       "scryfallId": "913b803f-ba82-4660-86be-49677d1e32c9",
       "effects": [
+        "Tokens",
         "Ramp"
       ]
     },
@@ -41693,7 +41702,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "8df64c80-9e98-4429-b869-7ac824fe9580",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "b7163800-41fc-410a-9650-50ae90842170": {
       "name": "Gristle Glutton",
@@ -42193,6 +42204,7 @@
       "label": "",
       "scryfallId": "7cf96f1c-066e-4fde-acb8-4674842fb6c2",
       "effects": [
+        "Tokens",
         "Ramp"
       ]
     },
@@ -42269,7 +42281,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "92efc66e-4112-413b-ae7c-85f270abc4ff",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "3bcdf832-4ce2-4043-b46a-0c5fd7019fcd": {
       "name": "Gryff Vanguard",
@@ -42315,6 +42329,7 @@
       "label": "",
       "scryfallId": "1537f377-64c3-4c3b-a276-28d8234c029b",
       "effects": [
+        "Tokens",
         "Ramp"
       ]
     },
@@ -45365,6 +45380,7 @@
       "label": "",
       "scryfallId": "6ef11b54-205a-48e9-92d0-5d416be869ef",
       "effects": [
+        "Tokens",
         "ManaFixing"
       ]
     },
@@ -45507,7 +45523,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "00717f7c-0778-4a02-b6c0-b3c3f07e75a9",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "e6b77545-de5c-4f4a-b7ea-83498fb33ba8": {
       "name": "Holdout Settlement",
@@ -48433,7 +48451,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "0aec35cb-aaa8-4952-b421-a8b6c26d5e74",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "dbdd0963-b395-4cb8-ad9a-ed85a3e9f2e5": {
       "name": "Inkwell Leviathan",
@@ -49640,6 +49660,7 @@
       "label": "",
       "scryfallId": "83e4e83b-cbb8-4efd-b6c4-4459a29177ac",
       "effects": [
+        "Tokens",
         "Ramp",
         "Filter"
       ]
@@ -49942,7 +49963,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "a58f63c5-cdc5-4079-a727-cff45668d546",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "6daf3c59-7636-4d44-872b-67722b4868cb": {
       "name": "Jade Mage",
@@ -53376,6 +53399,7 @@
       "label": "",
       "scryfallId": "3efb210e-00a9-470e-ac30-4036a7befd4c",
       "effects": [
+        "Tokens",
         "Ramp"
       ]
     },
@@ -54742,6 +54766,7 @@
       "label": "",
       "scryfallId": "11d94b75-22e5-4696-bfde-11777e2aee2f",
       "effects": [
+        "Tokens",
         "ManaFixing"
       ]
     },
@@ -57303,6 +57328,7 @@
       "label": "",
       "scryfallId": "5d0edcbd-94d8-42e0-a76c-b98c2a126847",
       "effects": [
+        "Tokens",
         "ManaFixing"
       ]
     },
@@ -63049,9 +63075,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "181ee045-5650-479a-8c03-015b38fdcd63",
-      "effects": [
-        "Pacify"
-      ]
+      "effects": []
     },
     "8ca2f668-2a4d-4a1e-abcc-093ccbc29295": {
       "name": "Mornsong Aria",
@@ -65003,6 +65027,7 @@
       "label": "",
       "scryfallId": "08fb8639-a0bb-4ad7-86b0-46116a078556",
       "effects": [
+        "Tokens",
         "ManaFixing"
       ]
     },
@@ -67855,6 +67880,7 @@
       "label": "",
       "scryfallId": "8ef29942-a7e3-4e47-9f95-527a5d7e4f1d",
       "effects": [
+        "Tokens",
         "Ramp"
       ]
     },
@@ -69139,6 +69165,7 @@
       "label": "",
       "scryfallId": "fd5c0f38-916a-4f6c-b678-7447cb0709e0",
       "effects": [
+        "Tokens",
         "Ramp"
       ]
     },
@@ -71260,6 +71287,7 @@
       "label": "",
       "scryfallId": "31593a02-d026-4108-82e0-21ad5ff8c890",
       "effects": [
+        "Tokens",
         "Ramp"
       ]
     },
@@ -75204,6 +75232,7 @@
       "label": "",
       "scryfallId": "3964c3a5-3ce7-4b73-89ec-ed1b9799aef8",
       "effects": [
+        "Tokens",
         "ManaFixing"
       ]
     },
@@ -75440,6 +75469,7 @@
       "label": "",
       "scryfallId": "f5647ef4-736e-4861-8718-06c53a2253b3",
       "effects": [
+        "Tokens",
         "Ramp"
       ]
     },
@@ -79073,9 +79103,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "d7886607-86db-4221-8752-296104aaaef2",
-      "effects": [
-        "Pacify"
-      ]
+      "effects": []
     },
     "228ee6b0-2012-4ef8-8aab-552feece801d": {
       "name": "Riot Devils",
@@ -81020,9 +81048,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "3d61671e-3407-4553-8c33-32d23a015f9f",
-      "effects": [
-        "Pacify"
-      ]
+      "effects": []
     },
     "76168d1b-266d-4d27-9e97-248b0c2c7e8f": {
       "name": "Safehold Duo",
@@ -84322,6 +84348,7 @@
       "label": "",
       "scryfallId": "1645eafd-cd17-463a-9d7e-42f5f7b5196f",
       "effects": [
+        "Tokens",
         "Ramp"
       ]
     },
@@ -85427,6 +85454,7 @@
       "label": "",
       "scryfallId": "1f5bf05a-04a1-4dde-845b-eced21a785fa",
       "effects": [
+        "Tokens",
         "ManaFixing"
       ]
     },
@@ -87260,6 +87288,7 @@
       "label": "",
       "scryfallId": "3243e300-1420-4e96-a3d3-610c3723a11f",
       "effects": [
+        "Tokens",
         "Ramp"
       ]
     },
@@ -87562,6 +87591,7 @@
       "label": "",
       "scryfallId": "bc0906ce-223b-4bb2-b614-6e2e13dbb18c",
       "effects": [
+        "Tokens",
         "Ramp"
       ]
     },
@@ -93383,6 +93413,7 @@
       "label": "",
       "scryfallId": "02c54350-36ad-4d09-9e01-a5ffc7fef54c",
       "effects": [
+        "Tokens",
         "ManaFixing"
       ]
     },
@@ -100295,6 +100326,7 @@
       "label": "",
       "scryfallId": "5fc332da-e93f-45b1-912c-06af41b412e9",
       "effects": [
+        "Tokens",
         "Ramp"
       ]
     },
@@ -108567,6 +108599,7 @@
       "label": "",
       "scryfallId": "1703d037-2083-4027-b379-14f9c9d74ddc",
       "effects": [
+        "Tokens",
         "ManaFixing"
       ]
     },
@@ -109533,6 +109566,7 @@
       "label": "",
       "scryfallId": "3275df49-c3f1-4310-87dd-25e3e0ee7fca",
       "effects": [
+        "Tokens",
         "Ramp"
       ]
     },

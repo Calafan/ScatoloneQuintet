@@ -17590,7 +17590,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "063990db-559d-4bfa-83af-b73fdc4cb038",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "b4aae26a-44a4-4ef0-9a1d-14a07a0865a3": {
       "name": "Chimeric Sphere",
@@ -48160,9 +48162,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "3932b9a6-1e55-4651-a740-920c4177c435",
-      "effects": [
-        "Pacify"
-      ]
+      "effects": []
     },
     "fe71ada0-ac86-4035-9b6b-4c24ae65034c": {
       "name": "Heavyweight Demolisher",
@@ -67908,6 +67908,7 @@
       "label": "",
       "scryfallId": "0aa43289-c8a4-45d9-b461-255f89200879",
       "effects": [
+        "Tokens",
         "Buff"
       ]
     },
@@ -70901,7 +70902,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "4188a561-46e3-4ddd-8797-f33c37e9adb2",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "40d02b8c-fb0e-4607-855f-49fbcec2e209": {
       "name": "Nantuko Shade",
@@ -82876,6 +82879,7 @@
       "label": "",
       "scryfallId": "7f0f171a-2929-4d95-9829-d0e885622e04",
       "effects": [
+        "Tokens",
         "Ramp"
       ]
     },
@@ -89435,9 +89439,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "b1de62ed-79e6-4daf-a2ab-dc0726e1f7df",
-      "effects": [
-        "Pacify"
-      ]
+      "effects": []
     },
     "542c5eaf-8b03-4406-a794-30c56b61d637": {
       "name": "Samite Pilgrim",
@@ -103252,7 +103254,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "4cd40276-016b-475f-906f-74d31dceaf70",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "eb7b1284-0b2c-4b6a-a389-b2b932838083": {
       "name": "Stump Stomp // Burnwillow Clearing",
@@ -124361,8 +124365,7 @@
       "scryfallId": "5f00a908-1898-48e9-8b04-88c2450b2dd3",
       "effects": [
         "Buff",
-        "Protection",
-        "Pacify"
+        "Protection"
       ]
     },
     "c735077a-fae8-4c5f-a5bf-35969696460c": {
