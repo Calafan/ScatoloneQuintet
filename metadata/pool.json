@@ -8241,9 +8241,7 @@
       "rating": 3,
       "label": "",
       "scryfallId": "a4f247b6-8212-4e78-a452-d2d3be228d8e",
-      "effects": [
-        "Regrowth"
-      ],
+      "effects": [],
       "reviewedAt": "2026-09-10T13:22:56.8396254+00:00"
     },
     "b623e61a-cdb9-46b0-a443-547be05db877": {
@@ -10441,8 +10439,7 @@
       "label": "Revisione",
       "scryfallId": "5b51b691-e226-44c9-b7cb-26f19c060597",
       "effects": [
-        "Mill",
-        "Regrowth"
+        "Mill"
       ],
       "reviewedAt": "2026-09-12T10:02:42.2670752+00:00"
     },
@@ -17986,9 +17983,7 @@
       "rating": 3,
       "label": "",
       "scryfallId": "368653b8-cda9-46aa-85c4-b6cd7e0e8d31",
-      "effects": [
-        "Reanimate"
-      ],
+      "effects": [],
       "reviewedAt": "2026-09-10T14:07:28.5003634+00:00"
     },
     "f2a6dc8d-3c98-44ae-aff0-b838d7aee0b7": {
@@ -18521,7 +18516,8 @@
       "label": "",
       "scryfallId": "0a38194e-44bb-4f79-9797-03cb733808d0",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Regrowth"
       ],
       "reviewedAt": "2026-09-10T15:22:26.8014412+00:00"
     },
@@ -18563,8 +18559,7 @@
       "label": "",
       "scryfallId": "5671a03d-0858-41e7-976c-60825c29af04",
       "effects": [
-        "Filter",
-        "Reanimate"
+        "Filter"
       ],
       "reviewedAt": "2026-09-12T10:35:42.9205703+00:00"
     },
@@ -21050,7 +21045,8 @@
       "effects": [
         "CardAdvantage",
         "Filter",
-        "Buff"
+        "Buff",
+        "Regrowth"
       ],
       "reviewedAt": "2026-10-06T14:01:01.5170608+00:00"
     },
@@ -23246,9 +23242,7 @@
       "rating": 3,
       "label": "",
       "scryfallId": "586b2cfd-327e-46b5-984e-80e003cfbd98",
-      "effects": [
-        "Reanimate"
-      ],
+      "effects": [],
       "reviewedAt": "2026-09-12T09:51:47.3855384+00:00"
     },
     "8e121178-e9e3-43a5-a174-ecbe47d759f9": {
