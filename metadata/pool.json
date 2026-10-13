@@ -9187,9 +9187,7 @@
       "rating": 3,
       "label": "",
       "scryfallId": "50088a60-642b-47ed-a289-ef0b617b688f",
-      "effects": [
-        "Pacify"
-      ]
+      "effects": []
     },
     "d4a9d63a-5a8a-4f51-9e49-43d6dc3234b1": {
       "name": "Greedy Freebooter",
@@ -9437,8 +9435,7 @@
       "label": "",
       "scryfallId": "e7429a5b-5579-4c4e-89ff-ee7f43db37e4",
       "effects": [
-        "Tokens",
-        "Pacify"
+        "Tokens"
       ]
     },
     "d827575f-e364-4a20-887e-3091e5501a4f": {

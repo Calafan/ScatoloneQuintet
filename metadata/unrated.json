@@ -1019,7 +1019,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "91f99614-45e2-4688-8403-f3a6b9162b08",
-      "effects": []
+      "effects": [
+        "Pacify"
+      ]
     },
     "5efea57b-937d-46ac-999e-490316e0f820": {
       "name": "Aether Membrane",
@@ -1453,7 +1455,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "b450de6b-4b2f-4004-be7c-484434f28faf",
-      "effects": []
+      "effects": [
+        "Pacify"
+      ]
     },
     "e758aecd-6ce1-42f6-9716-32871e3bfa41": {
       "name": "Agrus Kos, Wojek Veteran",
@@ -3615,7 +3619,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "af643949-7a9b-4195-8ab8-d43b1928b85a",
-      "effects": []
+      "effects": [
+        "Pacify"
+      ]
     },
     "d6b54f58-7775-4180-b2e5-1b57da65a409": {
       "name": "Araba Mothrider",
@@ -13997,7 +14003,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "0c1880d4-90c7-46a2-bbc9-d2b52971d11c",
-      "effects": []
+      "effects": [
+        "Pacify"
+      ]
     },
     "9dc4b172-da33-40c0-ab29-d68807dbe93f": {
       "name": "Castaway's Despair",
@@ -15390,7 +15398,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "6e604b2e-f257-465d-9342-6eb55b2334c5",
-      "effects": []
+      "effects": [
+        "Pacify"
+      ]
     },
     "31e99241-592d-4be4-9ef3-6dde522b1885": {
       "name": "Chaos Imps",
@@ -25589,7 +25599,8 @@
       "label": "",
       "scryfallId": "21d14882-e40b-45b6-9f8e-3b5c183c9577",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Pacify"
       ]
     },
     "898e480d-c44e-4080-910a-f53e4ee471e1": {
@@ -27549,7 +27560,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "cb38f190-30f0-49ca-99c3-d3cdf21075e8",
-      "effects": []
+      "effects": [
+        "Pacify"
+      ]
     },
     "3d4a7dd3-9258-4bd1-adc4-08f0205e196a": {
       "name": "Dwynen's Elite",
@@ -49851,6 +49864,7 @@
         "CardAdvantage",
         "Filter",
         "Steal",
+        "Pacify",
         "Mill",
         "Regrowth"
       ]
@@ -60611,7 +60625,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "b839c9d0-ef08-4661-8009-3bcb256bf508",
-      "effects": []
+      "effects": [
+        "Pacify"
+      ]
     },
     "035ee753-232f-4ba2-afbf-8d1eb162e6f8": {
       "name": "Merrow Harbinger",
@@ -63343,7 +63359,8 @@
       "scryfallId": "84ae9595-8e76-4d8c-a08c-00434be75672",
       "effects": [
         "Bounce",
-        "Buff"
+        "Buff",
+        "Pacify"
       ]
     },
     "1e825298-7c99-40cc-81c9-280cc7ed98d3": {
@@ -63353,7 +63370,8 @@
       "scryfallId": "0240f9eb-e1b2-4b41-94b0-b00ad2850825",
       "effects": [
         "Tokens",
-        "CardAdvantage"
+        "CardAdvantage",
+        "Pacify"
       ]
     },
     "032a5616-bbaf-4659-86c4-43edf29b9788": {
@@ -67973,7 +67991,8 @@
       "scryfallId": "1dab370a-1067-4d94-be1f-10362d4abf5a",
       "effects": [
         "Tokens",
-        "CardAdvantage"
+        "CardAdvantage",
+        "Pacify"
       ]
     },
     "60c60923-ff1b-43f7-8768-731499fcffc9": {
@@ -71464,7 +71483,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "c04e6915-39b0-4fbc-9114-2ecf371b6f72",
-      "effects": []
+      "effects": [
+        "Pacify"
+      ]
     },
     "4c92b862-34c7-4195-bee3-bcc0cafad140": {
       "name": "Pine Walker",
@@ -81399,7 +81420,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "5ffed4e4-0f54-4ab1-8563-ac4be7ae8309",
-      "effects": []
+      "effects": [
+        "Pacify"
+      ]
     },
     "831e9f71-9664-4dbb-94f5-935d7cf95d77": {
       "name": "Saltskitter",
@@ -84597,7 +84620,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "454739db-a3d6-45e8-849a-287438c36627",
-      "effects": []
+      "effects": [
+        "Pacify"
+      ]
     },
     "7df49476-7b6c-4b5d-bede-463a7d2e0a58": {
       "name": "Sentinel Dispatch",
@@ -87391,7 +87416,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "8875c883-8d56-406b-bd89-42199a6e79f5",
-      "effects": []
+      "effects": [
+        "Pacify"
+      ]
     },
     "08688903-d9cc-4d57-ba91-14a8523551b9": {
       "name": "Silvergill Peddler",
@@ -88970,7 +88997,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "20f2b109-0d13-41a2-ba76-d75e417b39e8",
-      "effects": []
+      "effects": [
+        "Pacify"
+      ]
     },
     "fd541139-de13-4b32-93ba-070ecf711d33": {
       "name": "Slimefoot, the Stowaway",
@@ -89534,7 +89563,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "19f13eb3-4f41-4b42-b5c9-e3b5a25b722f",
-      "effects": []
+      "effects": [
+        "Pacify"
+      ]
     },
     "0d09049a-6786-4b69-b448-35efaa926a71": {
       "name": "Soaring Hope",
@@ -92131,7 +92162,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "3ae07900-e07e-47d3-b8a1-f69cec94864b",
-      "effects": []
+      "effects": [
+        "Pacify"
+      ]
     },
     "27a9e0af-76f0-4910-9f93-2a3617b4e79a": {
       "name": "Spore Burst",
@@ -100591,7 +100624,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "a014dd06-626d-4917-8981-e0064718b571",
-      "effects": []
+      "effects": [
+        "Pacify"
+      ]
     },
     "8a011d0d-da29-4287-b50c-12746abfa38c": {
       "name": "Tilling Treefolk",
@@ -101489,7 +101524,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "8840551f-d43a-487f-a960-9b220dec5df4",
-      "effects": []
+      "effects": [
+        "Pacify"
+      ]
     },
     "97326cad-b13c-4e52-82ce-850a39e5ff08": {
       "name": "Torpor Orb",

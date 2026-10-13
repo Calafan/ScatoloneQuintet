@@ -3099,7 +3099,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "7efe00f9-bf42-4d6f-9a22-b357b1c1e092",
-      "effects": []
+      "effects": [
+        "Pacify"
+      ]
     },
     "51f17fe1-1cf7-4362-b9a2-8ec225d41b03": {
       "name": "Ana Sanctuary",
@@ -9960,7 +9962,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "730e4629-dc54-415d-9493-88885788ca19",
-      "effects": []
+      "effects": [
+        "Pacify"
+      ]
     },
     "1ebdc091-16d5-4803-821a-ac8c4696b5bc": {
       "name": "Binding Grasp",
@@ -15417,9 +15421,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "13893599-0b87-4fc0-863d-f3e0ae51cc31",
-      "effects": [
-        "Pacify"
-      ]
+      "effects": []
     },
     "ac5487ba-6d6e-47ee-ae29-776e186789cc": {
       "name": "Captive Weird // Compleated Conjurer",
@@ -25442,7 +25444,8 @@
       "label": "",
       "scryfallId": "fb9cd7d9-8aad-4607-890c-9c8efe016a92",
       "effects": [
-        "Buff"
+        "Buff",
+        "Pacify"
       ]
     },
     "75c626fb-9dfc-4a94-b59f-f0e45c7b2f56": {
@@ -26144,7 +26147,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "d25a67dd-baeb-49e6-ba35-61ff0e2ed318",
-      "effects": []
+      "effects": [
+        "Pacify"
+      ]
     },
     "34a85d7f-d4ea-4a0f-aa4c-bf0b0f4987bf": {
       "name": "Despotic Scepter",
@@ -35884,7 +35889,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "02e98ae6-51f8-46be-b948-cb705a0b104b",
-      "effects": []
+      "effects": [
+        "Pacify"
+      ]
     },
     "abec56eb-7b3d-4bd8-93c7-bd7049c859c3": {
       "name": "Fear of Exposure",
@@ -45649,7 +45656,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "5b25ce3f-fab3-40f8-8a16-fe580f3d97a5",
-      "effects": []
+      "effects": [
+        "Pacify"
+      ]
     },
     "2b84a10e-4c5c-407f-8b5b-a23d402f0529": {
       "name": "Greel, Mind Raker",
@@ -68224,7 +68233,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "6cfd4944-790f-4835-a8a1-c23ef7047648",
-      "effects": []
+      "effects": [
+        "Pacify"
+      ]
     },
     "ceb302df-d67e-4e5d-aca0-f53bcdea658d": {
       "name": "Mistwalker",
@@ -69721,7 +69732,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "4649d881-709f-4ed0-91de-744d232a82f5",
-      "effects": []
+      "effects": [
+        "Pacify"
+      ]
     },
     "600db821-4210-4996-a3f7-e05a143e50c2": {
       "name": "Mourning Patrol // Morning Apparition",
@@ -93859,7 +93872,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "191d1ab9-cd9e-4351-9acd-d7a57b963253",
-      "effects": []
+      "effects": [
+        "Pacify"
+      ]
     },
     "92eae6af-b915-4eb8-93c4-527f732bb712": {
       "name": "Shattered Seraph",
@@ -111977,7 +111992,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "fe74a415-ea8f-4f16-8889-ae649f1483b2",
-      "effects": []
+      "effects": [
+        "Pacify"
+      ]
     },
     "176eeafd-0482-4fa4-9174-10f8b9494d9b": {
       "name": "Tormented Angel",
