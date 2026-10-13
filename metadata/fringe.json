@@ -24948,8 +24948,7 @@
       "label": "",
       "scryfallId": "3382b1de-6d45-443c-a837-f3cd3e86233d",
       "effects": [
-        "Tokens",
-        "Pacify"
+        "Tokens"
       ],
       "reviewedAt": "2026-10-06T14:43:22.5905454+00:00"
     },
@@ -42069,7 +42068,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "20275678-3488-43d8-a93b-993e2267ab07",
-      "effects": [],
+      "effects": [
+        "Pacify"
+      ],
       "reviewedAt": "2026-09-04T15:05:35.9160196+00:00"
     },
     "042e0533-faf4-475e-be7b-438d23c6e605": {
@@ -73524,9 +73525,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "0001e77a-7fff-49d2-a55c-42f6fdf6db08",
-      "effects": [
-        "Pacify"
-      ],
+      "effects": [],
       "reviewedAt": "2026-10-06T18:35:13.7229189+00:00"
     },
     "4162e60f-9d70-4b8c-a838-df57b83c208d": {
@@ -79302,7 +79301,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "0370330d-83d9-44d2-a1ed-c4827edc60fd",
-      "effects": [],
+      "effects": [
+        "Pacify"
+      ],
       "reviewedAt": "2026-09-04T14:42:35.6621389+00:00"
     },
     "70987216-f84d-43b9-8d75-bb21ff37747b": {
@@ -100974,7 +100975,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "397a16db-dcba-4fca-a58b-438e43d7d574",
-      "effects": [],
+      "effects": [
+        "Pacify"
+      ],
       "reviewedAt": "2026-09-04T14:50:37.8951436+00:00"
     },
     "86af21ba-58ad-45e8-a316-5411c870e415": {
