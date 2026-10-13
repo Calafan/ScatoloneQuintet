@@ -11272,7 +11272,8 @@
       "effects": [
         "CardAdvantage",
         "Burn",
-        "Steal"
+        "Steal",
+        "Cheat"
       ],
       "reviewedAt": "2026-09-10T11:05:14.7338739+00:00"
     },
@@ -15524,7 +15525,8 @@
       "label": "",
       "scryfallId": "160f048a-8813-454d-af84-1e53f33af9f6",
       "effects": [
-        "Steal"
+        "Steal",
+        "Cheat"
       ],
       "reviewedAt": "2026-10-06T13:55:35.8522986+00:00"
     },
