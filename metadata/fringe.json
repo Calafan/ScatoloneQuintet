@@ -941,6 +941,7 @@
       "label": "",
       "scryfallId": "176a1504-262b-48f5-92a8-9e29cb397366",
       "effects": [
+        "Counter",
         "Redirect"
       ],
       "reviewedAt": "2026-10-06T14:56:20.6234281+00:00"
@@ -7133,7 +7134,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "03bd3d4b-d01a-475d-bf3b-cf96f43bc9ef",
-      "effects": [],
+      "effects": [
+        "Counter"
+      ],
       "reviewedAt": "2026-09-04T14:24:01.4352347+00:00"
     },
     "59fcd09c-4633-457e-b36a-488e94c1c941": {
