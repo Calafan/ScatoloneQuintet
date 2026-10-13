@@ -56706,8 +56706,7 @@
       "effects": [
         "CardAdvantage",
         "Reanimate"
-      ],
-      "reviewedAt": "2026-09-25T10:42:00.5554335+00:00"
+      ]
     },
     "70446c56-07de-4d7f-94ae-4da88fba41cf": {
       "name": "Katabatic Winds",
@@ -100367,8 +100366,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "73ebd7f0-a54d-43a8-a5ee-9d6835308794",
-      "effects": [],
-      "reviewedAt": "2026-09-29T15:16:23.7525365+00:00"
+      "effects": []
     },
     "a7cf5b74-123c-4def-a4aa-771ecd3be260": {
       "name": "Splatter Goblin",
