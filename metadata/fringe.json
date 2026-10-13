@@ -4874,9 +4874,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "8f36da4b-75fd-4568-b9b8-cbd76058720b",
-      "effects": [
-        "Reanimate"
-      ],
+      "effects": [],
       "reviewedAt": "2026-10-06T13:58:46.9461349+00:00"
     },
     "370974e7-d242-4f24-a031-cba71c935306": {
@@ -38047,9 +38045,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "0b2a32c9-f0ae-4ae4-a5c5-72bea05018fb",
-      "effects": [
-        "Reanimate"
-      ],
+      "effects": [],
       "reviewedAt": "2026-10-08T11:04:22.7353438+00:00"
     },
     "14d5fdb3-14a3-461d-8515-a520c2c9e666": {
@@ -39349,9 +39345,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "1679f74d-00f8-436c-9f8c-aa3f843a546c",
-      "effects": [
-        "Reanimate"
-      ],
+      "effects": [],
       "reviewedAt": "2026-09-23T14:31:48.8939764+00:00"
     },
     "7777fab1-df3f-467f-b9e2-46dd2bd2166e": {
@@ -45063,7 +45057,6 @@
       "label": "",
       "scryfallId": "21321e17-79fd-43f1-93ae-4b87f0d0951a",
       "effects": [
-        "Reanimate",
         "Sacrifice"
       ],
       "reviewedAt": "2026-10-06T14:22:47.5131761+00:00"
@@ -47585,9 +47578,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "37a12935-c927-4d25-a7e5-17a0b6229c60",
-      "effects": [
-        "Reanimate"
-      ],
+      "effects": [],
       "reviewedAt": "2026-10-09T09:13:11.2206547+00:00"
     },
     "7e074b14-0ec8-439b-9b83-5f7c1a904384": {
@@ -53124,9 +53115,7 @@
       "rating": 2,
       "label": "",
       "scryfallId": "30be9a07-5803-4bef-9313-391c926bfcec",
-      "effects": [
-        "Reanimate"
-      ],
+      "effects": [],
       "reviewedAt": "2026-09-11T22:09:31.3548097+00:00"
     },
     "d75357f4-d439-48ff-8fd7-52a02f07cc81": {
@@ -62989,7 +62978,6 @@
       "label": "",
       "scryfallId": "12481875-102f-414c-9c28-9e2e7e5edb28",
       "effects": [
-        "Reanimate",
         "ManaFixing"
       ],
       "reviewedAt": "2026-10-09T15:02:49.5562729+00:00"
@@ -71443,7 +71431,6 @@
       "label": "",
       "scryfallId": "164a9755-f003-456d-a827-d6ef6cc29a86",
       "effects": [
-        "Reanimate",
         "Sacrifice"
       ],
       "reviewedAt": "2026-09-08T11:57:03.8438995+00:00"
@@ -76915,9 +76902,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "8b900c71-713b-4b7e-b4be-ad9f4aa0c139",
-      "effects": [
-        "Reanimate"
-      ],
+      "effects": [],
       "reviewedAt": "2026-09-25T10:49:42.0432891+00:00"
     },
     "5f4ad578-f2c4-47f6-8080-8fbc17383f6f": {
@@ -80914,9 +80899,7 @@
       "rating": 2,
       "label": "",
       "scryfallId": "c3ec1b6e-2f63-4b84-a101-8764c3e6d0f2",
-      "effects": [
-        "Reanimate"
-      ],
+      "effects": [],
       "reviewedAt": "2026-09-29T09:19:46.5020966+00:00"
     },
     "179cc807-5150-4513-88b2-73cb05009b7d": {
@@ -85350,9 +85333,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "e41bd259-e81f-432a-bebf-4c6534f23db7",
-      "effects": [
-        "Reanimate"
-      ],
+      "effects": [],
       "reviewedAt": "2026-09-25T08:29:44.7066905+00:00"
     },
     "837417d8-8260-486d-a3ed-3b5711eaf34a": {
@@ -85455,9 +85436,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "12c1b83d-710b-4680-855a-02ba1f72abf0",
-      "effects": [
-        "Reanimate"
-      ],
+      "effects": [],
       "reviewedAt": "2026-09-25T10:48:45.4461094+00:00"
     },
     "2c34949d-0765-455d-9ef4-81bc162b48d9": {
@@ -95936,8 +95915,7 @@
       "label": "",
       "scryfallId": "dd9f52d6-da6d-4f68-aafb-6bd3d022f616",
       "effects": [
-        "Tokens",
-        "Reanimate"
+        "Tokens"
       ],
       "reviewedAt": "2026-10-06T21:05:42.9429008+00:00"
     },
@@ -114458,9 +114436,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "a062202c-f9fb-4dd6-989a-c3083644f1c0",
-      "effects": [
-        "Reanimate"
-      ],
+      "effects": [],
       "reviewedAt": "2026-10-06T14:42:26.6693622+00:00"
     },
     "ed622e71-f348-4e46-8fb9-05aae430983a": {
@@ -123129,9 +123105,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "2ae83b4e-e5a4-4c98-8d16-eef3c71b8ff2",
-      "effects": [
-        "Reanimate"
-      ],
+      "effects": [],
       "reviewedAt": "2026-09-10T07:27:50.3900488+00:00"
     },
     "ac3d07cd-88c4-4e22-9d86-f92d34f406d4": {
