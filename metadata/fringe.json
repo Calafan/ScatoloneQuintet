@@ -20822,9 +20822,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "5d7c4619-e5af-4aa0-bd3f-6bf0e1fdc1fc",
-      "effects": [
-        "Ramp"
-      ],
+      "effects": [],
       "reviewedAt": "2026-09-08T10:25:58.4983482+00:00"
     },
     "5e186931-992b-491c-bffc-6877a613d5c3": {
@@ -27918,9 +27916,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "6aa92be7-883f-42bd-8623-00eb2df28a98",
-      "effects": [
-        "Ramp"
-      ],
+      "effects": [],
       "reviewedAt": "2026-09-08T11:59:15.6497175+00:00"
     },
     "2cef4171-8151-4ee9-83a7-bcb5116451bf": {
@@ -33950,9 +33946,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "5f82ffe7-c5a2-453d-9820-3c576b6f263c",
-      "effects": [
-        "Ramp"
-      ],
+      "effects": [],
       "reviewedAt": "2026-09-08T12:00:19.6898326+00:00"
     },
     "31da3df3-5b79-42d0-9018-76bc73411954": {
@@ -55899,9 +55893,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "4b0773b7-ae25-4fb0-aff1-1c91af81e70a",
-      "effects": [
-        "Ramp"
-      ],
+      "effects": [],
       "reviewedAt": "2026-09-08T10:31:38.7228358+00:00"
     },
     "45b42694-9ee8-44f3-9de3-aa2c0f1b6a13": {
@@ -56602,9 +56594,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "16dfb04a-e65d-483e-a4fb-f810b36ede9d",
-      "effects": [
-        "Ramp"
-      ],
+      "effects": [],
       "reviewedAt": "2026-09-08T10:46:38.6356858+00:00"
     },
     "871549e6-24c0-4fbd-8b71-ba8639b0ee47": {
@@ -78729,7 +78719,8 @@
       "scryfallId": "0c9bec4a-084b-4972-9a6b-58050088168b",
       "effects": [
         "Tokens",
-        "Ramp"
+        "Ramp",
+        "ManaFixing"
       ],
       "reviewedAt": "2026-10-09T14:46:26.2350249+00:00"
     },
@@ -80986,9 +80977,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "2e3f6220-6ead-46b4-8663-57609ef5a12e",
-      "effects": [
-        "Ramp"
-      ],
+      "effects": [],
       "reviewedAt": "2026-10-06T07:05:13.7061261+00:00"
     },
     "17407b73-0dbe-4a71-84ec-3aaca9651f5b": {
@@ -81640,7 +81629,8 @@
       "label": "",
       "scryfallId": "3f5bcf60-f956-4e0d-beb7-a7f5c1c83692",
       "effects": [
-        "Ramp"
+        "Ramp",
+        "ManaFixing"
       ],
       "reviewedAt": "2026-10-09T15:03:32.0429664+00:00"
     },
