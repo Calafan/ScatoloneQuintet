@@ -17597,7 +17597,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "cc96857c-b38e-4614-9838-cacd3700e3ee",
-      "effects": [],
+      "effects": [
+        "Tokens"
+      ],
       "reviewedAt": "2026-09-08T12:25:44.545095+00:00"
     },
     "771f5e29-b4d1-4466-8510-ce3f89ad7173": {
@@ -25100,9 +25102,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "4216c5aa-9df0-4e7c-b3e9-a3f712b17ce7",
-      "effects": [
-        "Pacify"
-      ],
+      "effects": [],
       "reviewedAt": "2026-09-08T10:31:03.122502+00:00"
     },
     "7fbb98cc-585c-4184-97f5-9b3d3ebdb1e5": {
@@ -54716,7 +54716,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "022bca13-5da8-424c-b3e5-7ced9d25868d",
-      "effects": [],
+      "effects": [
+        "Tokens"
+      ],
       "reviewedAt": "2026-09-04T14:07:06.4781612+00:00"
     },
     "985192cd-ceb6-48ad-80b9-e10fc544260e": {
@@ -67895,6 +67897,7 @@
       "label": "",
       "scryfallId": "0dc8aa5f-eb2e-4b76-a627-62a5114ba7fd",
       "effects": [
+        "Tokens",
         "Buff"
       ],
       "reviewedAt": "2026-09-04T14:36:48.4139745+00:00"
@@ -69085,6 +69088,7 @@
       "label": "",
       "scryfallId": "0f47d877-3cbf-4134-985f-092c5c3fda1e",
       "effects": [
+        "Tokens",
         "Tutor",
         "ManaFixing"
       ],
@@ -114561,8 +114565,7 @@
       "label": "",
       "scryfallId": "6c85ce70-7080-430e-8560-81bc09ca329e",
       "effects": [
-        "Protection",
-        "Pacify"
+        "Protection"
       ],
       "reviewedAt": "2026-09-10T16:02:14.3011582+00:00"
     },
@@ -123863,7 +123866,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "8becb285-cd91-4de0-af59-ddaa7d8c5366",
-      "effects": [],
+      "effects": [
+        "Tokens"
+      ],
       "reviewedAt": "2026-09-08T10:52:23.4942497+00:00"
     },
     "13ba9ef8-2010-4d3f-8c62-85b7c5620031": {
