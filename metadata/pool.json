@@ -1422,8 +1422,7 @@
       "rating": 4,
       "label": "",
       "scryfallId": "1a5ef312-0fea-4d37-b562-04b098bcc395",
-      "effects": [],
-      "reviewedAt": "2026-09-23T10:16:16.776582+00:00"
+      "effects": []
     },
     "84b08b55-0623-4202-98c6-1756d3c1bb8f": {
       "name": "Bandit's Haul",
@@ -2114,8 +2113,7 @@
       "rating": 3,
       "label": "",
       "scryfallId": "5a56ccab-6a43-48b4-ad65-b618e07c001f",
-      "effects": [],
-      "reviewedAt": "2026-10-08T22:38:00.5050953+00:00"
+      "effects": []
     },
     "469956a2-7cd4-4695-b8f4-c841526f160d": {
       "name": "Bloodletter of Aclazotz",
@@ -8366,8 +8364,7 @@
       "scryfallId": "8e6e21d2-e282-4f56-8e6b-929176b264b3",
       "effects": [
         "Filter"
-      ],
-      "reviewedAt": "2026-09-11T10:48:51.6956287+00:00"
+      ]
     },
     "e7bc7c44-946c-4131-b764-add0c5f21020": {
       "name": "Garrison Cat",
@@ -8411,8 +8408,7 @@
       "rating": 3,
       "label": "",
       "scryfallId": "03a07256-3305-4178-bd4f-d1583d23106d",
-      "effects": [],
-      "reviewedAt": "2026-09-10T16:01:48.3012016+00:00"
+      "effects": []
     },
     "c01d6fde-1bd2-4412-932a-9bc97d4e5aef": {
       "name": "Gatta and Luzzu",
@@ -14695,8 +14691,7 @@
       "scryfallId": "348e0927-1d8f-4723-879d-f7e95ac60c27",
       "effects": [
         "Tokens"
-      ],
-      "reviewedAt": "2026-10-06T14:52:36.6168332+00:00"
+      ]
     },
     "c0ebc1df-51ea-413b-bb88-7666a53ad783": {
       "name": "Otherworldly Escort",
@@ -18576,8 +18571,7 @@
       "effects": [
         "Buff",
         "Sacrifice"
-      ],
-      "reviewedAt": "2026-09-11T20:06:45.9812868+00:00"
+      ]
     },
     "51622e89-aa5e-4dd6-a078-eb45e8ebb434": {
       "name": "Seraphic Steed",
