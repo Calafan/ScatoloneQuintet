@@ -1040,7 +1040,8 @@
         "Tokens",
         "Bounce",
         "Discard",
-        "Steal"
+        "Steal",
+        "Cheat"
       ]
     },
     "9ea87566-43da-4ebd-a904-ae8b8830c3a2": {
@@ -2144,9 +2145,7 @@
       "rating": 4,
       "label": "",
       "scryfallId": "196e21ed-6523-40a5-9d53-5864c7dca2cf",
-      "effects": [
-        "Cheat"
-      ]
+      "effects": []
     },
     "fd505c02-c59e-476d-8e88-35da862ddc23": {
       "name": "Bloodthirsty Conqueror",
@@ -4762,7 +4761,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "0ba32ccb-6234-4e25-bfa2-b202323c94d5",
-      "effects": []
+      "effects": [
+        "Cheat"
+      ]
     },
     "a9c58cfe-9630-48fa-84ad-50268eb725ed": {
       "name": "Danse Macabre",
@@ -8515,7 +8516,8 @@
       "label": "",
       "scryfallId": "0caa6b4c-23ae-4a09-9d04-5c17ca3f8c7c",
       "effects": [
-        "Filter"
+        "Filter",
+        "Cheat"
       ]
     },
     "71ff4603-9f7a-459e-b5b3-9b39583f1dc7": {

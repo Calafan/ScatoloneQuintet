@@ -9238,7 +9238,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "6b46f93d-cdc5-4521-940d-e05d5463c30d",
-      "effects": []
+      "effects": [
+        "Cheat"
+      ]
     },
     "6b336228-92c0-4f14-a479-1f97aaeae018": {
       "name": "Belisarius Cawl",
@@ -21328,7 +21330,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "2f268152-304a-4db8-a3f9-dd9d0f3319a1",
-      "effects": []
+      "effects": [
+        "Cheat"
+      ]
     },
     "56204530-7ab5-4610-9570-fba2673725ad": {
       "name": "Coveted Prize",
@@ -23431,7 +23435,8 @@
       "scryfallId": "0013a9c4-77a1-418d-85c2-bd68b65cd3d4",
       "effects": [
         "Removal",
-        "Filter"
+        "Filter",
+        "Cheat"
       ]
     },
     "724d8247-33b1-42bf-a827-7b66e45504c1": {
@@ -24801,7 +24806,8 @@
       "label": "",
       "scryfallId": "cf0f58ac-88ef-445c-a12b-0bb1cf482298",
       "effects": [
-        "Tutor"
+        "Tutor",
+        "Cheat"
       ]
     },
     "0c7f9701-c39e-4f14-844a-15f2e3c41ca9": {
@@ -25290,7 +25296,8 @@
       "label": "",
       "scryfallId": "19b0c008-e0d9-43b3-9781-d4abbb410413",
       "effects": [
-        "Tutor"
+        "Tutor",
+        "Cheat"
       ]
     },
     "9386f4d3-aa72-4849-8921-83740762dc0e": {
@@ -25952,7 +25959,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "cf2f5dca-e01f-41e3-bb6f-a60162118c6d",
-      "effects": []
+      "effects": [
+        "Cheat"
+      ]
     },
     "b065ef1d-5cba-41f2-a4b4-a6ae479323d3": {
       "name": "Dermotaxi",
@@ -57805,7 +57814,8 @@
       "scryfallId": "532746e2-f822-4920-ab31-94e0c8baaa84",
       "effects": [
         "Ramp",
-        "Filter"
+        "Filter",
+        "Cheat"
       ]
     },
     "e4f4c41b-2533-497f-96bb-7083ef597268": {
@@ -66101,7 +66111,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "395a1a8a-785f-442b-8e95-8b4ca44af2a3",
-      "effects": []
+      "effects": [
+        "Cheat"
+      ]
     },
     "9d96671c-7a98-48ec-b479-bc451e18264d": {
       "name": "Mercenaries",
@@ -66487,8 +66499,7 @@
       "label": "",
       "scryfallId": "7815cac4-3718-4a64-b1dc-bface4264c8f",
       "effects": [
-        "Ramp",
-        "Cheat"
+        "Ramp"
       ]
     },
     "7140d726-0136-43af-84b5-85005a66a186": {
@@ -66507,7 +66518,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "59f34850-fb6f-4ac5-8309-4d53d770e28c",
-      "effects": []
+      "effects": [
+        "Cheat"
+      ]
     },
     "c8a1b3dd-bc36-4d97-8f93-1151446f04e2": {
       "name": "Metathran Elite",
@@ -75481,7 +75494,8 @@
       "label": "",
       "scryfallId": "44d0cc1e-c248-404d-a68b-ce449acb4ff8",
       "effects": [
-        "Filter"
+        "Filter",
+        "Cheat"
       ]
     },
     "e81035b5-d922-48f8-af20-0025da4721c6": {
@@ -104343,7 +104357,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "1c9e7fdc-676f-4901-83ff-bfea3a96d937",
-      "effects": []
+      "effects": [
+        "Cheat"
+      ]
     },
     "f701ada1-e9e1-42ce-9a62-c11bcec03da7": {
       "name": "Surtland Flinger",
@@ -109440,7 +109456,8 @@
       "label": "",
       "scryfallId": "1979a4a0-5df5-496a-aabb-d4cf35bed965",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Cheat"
       ]
     },
     "3437d504-bf62-4c27-b15f-f6330182ff7e": {
@@ -111823,7 +111840,8 @@
       "label": "",
       "scryfallId": "02f0067c-2d38-46bd-b52e-070c2ce424f0",
       "effects": [
-        "Tutor"
+        "Tutor",
+        "Cheat"
       ]
     },
     "e5e7e7e4-a774-4d68-8767-8ba2bae38250": {
@@ -113994,7 +114012,8 @@
       "label": "",
       "scryfallId": "4da2428b-bc93-4612-a59e-eb0f8ac9f080",
       "effects": [
-        "Filter"
+        "Filter",
+        "Cheat"
       ]
     },
     "e93782e3-1b93-459a-a7de-06c3b6591e6f": {
@@ -115915,7 +115934,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "10a544d7-ead7-42fd-a35a-c1b672771d5b",
-      "effects": []
+      "effects": [
+        "Cheat"
+      ]
     },
     "e5fa232a-c8f2-4532-88bf-60d1223181b0": {
       "name": "Urza's Armor",
@@ -122548,7 +122569,8 @@
       "label": "",
       "scryfallId": "1b668301-be41-4184-b7e7-1f133a1b06bb",
       "effects": [
-        "Filter"
+        "Filter",
+        "Cheat"
       ]
     },
     "594827de-e85f-4aac-b0e6-d92878f0f26c": {
@@ -123046,9 +123068,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "018414d2-adee-454b-9b00-7065ed8e2f11",
-      "effects": [
-        "Cheat"
-      ]
+      "effects": []
     },
     "cda1e3b5-ea80-4e83-b305-88993d307170": {
       "name": "Wizards of Thay",
@@ -125329,7 +125349,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "be645675-d263-42c4-9e71-f98cf4c2aab5",
-      "effects": []
+      "effects": [
+        "Cheat"
+      ]
     },
     "e90f298f-c54b-4fe8-82db-5b9153a57712": {
       "name": "Zoyowa Lava-Tongue",
