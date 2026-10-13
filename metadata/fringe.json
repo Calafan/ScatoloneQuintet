@@ -56703,6 +56703,7 @@
       "label": "",
       "scryfallId": "254b10a1-6f3f-4b81-b788-5b7f1408ff14",
       "effects": [
+        "CardAdvantage",
         "Reanimate"
       ],
       "reviewedAt": "2026-09-25T10:42:00.5554335+00:00"
@@ -93413,7 +93414,6 @@
       "label": "",
       "scryfallId": "2bf42714-dfbd-4da5-8eba-8b27ab4b4cdf",
       "effects": [
-        "CardAdvantage",
         "Steal"
       ],
       "reviewedAt": "2026-10-08T14:00:18.4302517+00:00"
@@ -100366,9 +100366,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "73ebd7f0-a54d-43a8-a5ee-9d6835308794",
-      "effects": [
-        "Filter"
-      ],
+      "effects": [],
       "reviewedAt": "2026-09-29T15:16:23.7525365+00:00"
     },
     "a7cf5b74-123c-4def-a4aa-771ecd3be260": {

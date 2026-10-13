@@ -9743,7 +9743,6 @@
       "label": "",
       "scryfallId": "082e1f8f-5f73-4419-8f6c-2d5a6909dc2c",
       "effects": [
-        "CardAdvantage",
         "Filter",
         "Burn"
       ],
@@ -10605,7 +10604,7 @@
       "label": "",
       "scryfallId": "0548ddb6-5301-4911-93fd-bb988275f44a",
       "effects": [
-        "Filter"
+        "CardAdvantage"
       ],
       "reviewedAt": "2026-10-09T13:34:51.4837446+00:00"
     },
@@ -14585,6 +14584,7 @@
       "label": "",
       "scryfallId": "10f14c9e-6776-4efd-9e3b-1d25b7625e17",
       "effects": [
+        "Tokens",
         "Removal",
         "Burn"
       ],
