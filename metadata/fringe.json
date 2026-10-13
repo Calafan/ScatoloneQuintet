@@ -39047,8 +39047,7 @@
       "label": "",
       "scryfallId": "66f4d0b2-fe17-4cfe-857e-fcee289c89f7",
       "effects": [
-        "Ramp",
-        "ManaFixing"
+        "Ramp"
       ]
     },
     "d97a0e41-9dd7-4466-afb7-3d8bd6cd0eed": {
@@ -57449,9 +57448,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "3ee3f0ed-e4ea-483e-bacc-d58bcf9e07b5",
-      "effects": [
-        "ManaFixing"
-      ]
+      "effects": []
     },
     "26747bdc-6bd4-4218-ae83-bd46c7668880": {
       "name": "Kethek, Crucible Goliath",
@@ -81590,9 +81587,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "2fc639ea-a925-4f1e-879f-b8fcb12bf257",
-      "effects": [
-        "ManaFixing"
-      ]
+      "effects": []
     },
     "a26c4076-c488-4700-8e32-4ceeeac2c29a": {
       "name": "Quirion Trailblazer",
@@ -89612,8 +89607,7 @@
       "label": "",
       "scryfallId": "5ca28cfd-1a1b-4176-8b07-993d3d7b7ae4",
       "effects": [
-        "Ramp",
-        "ManaFixing"
+        "Ramp"
       ]
     },
     "5e39d311-efb5-4f51-82cd-e8079e32907a": {

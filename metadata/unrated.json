@@ -2792,7 +2792,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "0348247d-0a70-4961-8590-9de41386c69b",
-      "effects": []
+      "effects": [
+        "ManaFixing"
+      ]
     },
     "2317a33f-665e-4cbc-bb5c-16b912ac2eef": {
       "name": "Angel of Condemnation",
@@ -6307,6 +6309,7 @@
       "label": "",
       "scryfallId": "303d51ab-b9c4-4647-950f-291daabe7b81",
       "effects": [
+        "Ramp",
         "CardAdvantage",
         "ManaFixing"
       ]
@@ -6344,7 +6347,7 @@
       "label": "",
       "scryfallId": "0784336e-89ed-44ad-a9c4-58c5ee1fc01a",
       "effects": [
-        "Ramp"
+        "ManaFixing"
       ]
     },
     "e7592863-4aee-47b3-9abf-4b863ab0b6ec": {
@@ -11165,7 +11168,7 @@
       "label": "",
       "scryfallId": "2cbd1e97-e156-4a28-b2fc-1454ddb2fe95",
       "effects": [
-        "Ramp"
+        "ManaFixing"
       ]
     },
     "73c423b7-cab8-4e69-8070-9edbf96a6c2c": {
@@ -13940,7 +13943,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "016a3d0d-08f5-4352-97a2-262b802c46e2",
-      "effects": []
+      "effects": [
+        "ManaFixing"
+      ]
     },
     "b4c4fdb9-e034-49c0-9f7f-07e8cae19eb2": {
       "name": "Casey Jones, Jury-Rig Justiciar",
@@ -19620,7 +19625,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "257a5ae9-f754-4c45-a47d-5196f1b625b7",
-      "effects": []
+      "effects": [
+        "ManaFixing"
+      ]
     },
     "3ee78cfc-0e9e-4737-a7e2-b42f94228040": {
       "name": "Cruel Celebrant",
@@ -21650,7 +21657,8 @@
       "label": "",
       "scryfallId": "131a124f-f11e-4ea1-a7b2-b94eea988d4e",
       "effects": [
-        "Ramp"
+        "Ramp",
+        "ManaFixing"
       ]
     },
     "311eef28-21e9-44fa-96df-d281f0a9ba34": {
@@ -24178,7 +24186,7 @@
       "label": "",
       "scryfallId": "012b9371-45e0-4e06-ad7a-4c52d1d38262",
       "effects": [
-        "Ramp"
+        "ManaFixing"
       ]
     },
     "4d99e786-585d-4026-9253-19741fb357de": {
@@ -40234,7 +40242,7 @@
       "label": "",
       "scryfallId": "104364d5-ede8-4ac5-900f-19947f51bbc1",
       "effects": [
-        "Ramp"
+        "ManaFixing"
       ]
     },
     "75df9e6a-a17c-4311-a4e7-ff0d75728337": {
@@ -42231,7 +42239,7 @@
       "label": "",
       "scryfallId": "104961dc-6684-474e-b126-4fcd95849f98",
       "effects": [
-        "Ramp"
+        "ManaFixing"
       ]
     },
     "a9edb891-1a38-4b8a-8539-c459e8a52315": {
@@ -42479,9 +42487,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "26a21ef8-e9c8-4a33-a08f-ff96f0ece8a5",
-      "effects": [
-        "Ramp"
-      ]
+      "effects": []
     },
     "ace6403d-9fac-4d0f-a6ea-eb2ff3da259d": {
       "name": "Guildmages' Forum",
@@ -49556,7 +49562,7 @@
       "label": "",
       "scryfallId": "16e5c214-1896-4aa0-8d83-7cb0eeb5aad4",
       "effects": [
-        "Ramp"
+        "ManaFixing"
       ]
     },
     "a07698f6-5ad5-49a3-9da2-f82d407f5cd7": {
@@ -57017,8 +57023,7 @@
       "label": "",
       "scryfallId": "151bdf3a-4445-43b1-8cea-2737c13d9dee",
       "effects": [
-        "Ramp",
-        "ManaFixing"
+        "Ramp"
       ]
     },
     "134d5b82-7940-4b33-a922-7f9d1f403e50": {
@@ -58563,7 +58568,8 @@
       "label": "",
       "scryfallId": "12ed4051-31c4-4f63-b576-e3761b9d35ae",
       "effects": [
-        "Ramp"
+        "Ramp",
+        "ManaFixing"
       ]
     },
     "9061e2ae-7385-494a-a511-0b6531d1fe0e": {
@@ -59153,7 +59159,8 @@
       "label": "",
       "scryfallId": "c3a70329-ecae-4647-b912-75d936a6c8c5",
       "effects": [
-        "Ramp"
+        "Ramp",
+        "ManaFixing"
       ]
     },
     "774e474a-f2a1-4b62-8cfe-40ad509f9062": {
@@ -69051,7 +69058,7 @@
       "label": "",
       "scryfallId": "06837fb2-26bd-435f-8410-a5f12439c9e9",
       "effects": [
-        "Ramp"
+        "ManaFixing"
       ]
     },
     "26f8626a-ce64-450c-bda5-833df2fbb4fb": {
@@ -71432,7 +71439,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "02221d76-922a-4ad4-8d40-c279b5a446b9",
-      "effects": []
+      "effects": [
+        "ManaFixing"
+      ]
     },
     "0f7c70c4-9795-4c76-8b27-043942a963c6": {
       "name": "Pillarfield Ox",
@@ -71886,7 +71895,8 @@
       "label": "",
       "scryfallId": "0ffe8485-d5fb-47cc-af53-6e0fd062b7a2",
       "effects": [
-        "Counter"
+        "Counter",
+        "ManaFixing"
       ]
     },
     "419c501f-c107-4166-b56d-631672f2a5cc": {
@@ -75337,7 +75347,7 @@
       "label": "",
       "scryfallId": "0670934a-b240-4be6-aebc-483b1332ea84",
       "effects": [
-        "Ramp"
+        "ManaFixing"
       ]
     },
     "5e62b51d-faec-4aa0-9504-cf2c282d08ea": {
@@ -77171,8 +77181,7 @@
       "label": "",
       "scryfallId": "249ff72b-30cf-44e8-a592-540a501589e8",
       "effects": [
-        "CardAdvantage",
-        "ManaFixing"
+        "CardAdvantage"
       ]
     },
     "ce9d3382-23ca-4d35-ad30-5e2b75517012": {
@@ -84325,7 +84334,7 @@
       "label": "",
       "scryfallId": "02c63879-d0e2-4bb3-b0fe-52be077030df",
       "effects": [
-        "Ramp"
+        "ManaFixing"
       ]
     },
     "29e8d973-0233-446e-b587-1c7508352642": {
@@ -84470,7 +84479,8 @@
       "label": "",
       "scryfallId": "05294ec8-96d7-496f-a106-aab19ec9b659",
       "effects": [
-        "Ramp"
+        "Ramp",
+        "ManaFixing"
       ]
     },
     "bbd0c406-c995-46e0-898d-375fdbede203": {
@@ -87491,7 +87501,7 @@
       "label": "",
       "scryfallId": "0e8f3aa0-c557-4cc7-9b5f-1d2288b5b11f",
       "effects": [
-        "Ramp"
+        "ManaFixing"
       ]
     },
     "e8705df9-6439-4930-91b6-229f818559af": {
@@ -98154,7 +98164,8 @@
       "label": "",
       "scryfallId": "05c4b07f-c6ed-4a92-aab3-54ee6adfb793",
       "effects": [
-        "Ramp"
+        "Ramp",
+        "ManaFixing"
       ]
     },
     "ca8f6e19-6ef3-4d77-8312-867767ffeda6": {
