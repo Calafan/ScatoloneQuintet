@@ -19941,7 +19941,8 @@
       "label": "",
       "scryfallId": "31699dde-756d-49f1-9384-cdb9f210294c",
       "effects": [
-        "Tokens"
+        "Tokens",
+        "CardAdvantage"
       ]
     },
     "32ebc862-3bf6-4754-b7b8-8bb73f1651cf": {
@@ -25254,7 +25255,7 @@
       "effects": [
         "Tokens",
         "Ramp",
-        "Filter"
+        "CardAdvantage"
       ]
     },
     "d8fe9672-0ead-4f47-abd8-e1ee133c5c60": {
@@ -29180,7 +29181,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "157f343d-8583-4827-a77d-d916e6a5caa1",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "1cb3f27c-2670-43b8-9305-8adf2e7bd3ae": {
       "name": "Enatu Golem",
@@ -29891,7 +29894,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "1a4bfa2a-da35-46ba-a258-6d7fb6843443",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "e3483dd4-0118-4143-9b55-51078a6f274a": {
       "name": "Epitaph Golem",
@@ -35206,7 +35211,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "2dbc0728-fb95-4886-95c4-7e7cced8dd6d",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "97b97728-bfe6-483a-a323-c758f41ff9dc": {
       "name": "Fossil Find",
@@ -49757,6 +49764,7 @@
       "label": "",
       "scryfallId": "5410254f-cf9d-46c2-acea-07298ae65924",
       "effects": [
+        "CardAdvantage",
         "Steal"
       ]
     },
@@ -52079,7 +52087,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "07360a3b-9c01-4ee1-9056-888e420650a9",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "b8c0c102-f0ef-4ab6-9b1a-ee82ee159c54": {
       "name": "Keymaster Rogue",
@@ -53656,7 +53666,8 @@
       "label": "",
       "scryfallId": "1471f611-1352-4c4a-aacd-57b27a996d2c",
       "effects": [
-        "Counter"
+        "Counter",
+        "CardAdvantage"
       ]
     },
     "3e6dad31-6192-4675-81df-09689906c12b": {
@@ -56903,8 +56914,7 @@
       "label": "",
       "scryfallId": "2d2654b1-ce21-4079-b808-5589019534a5",
       "effects": [
-        "Discard",
-        "CardAdvantage"
+        "Discard"
       ]
     },
     "b8f3b5b5-8835-400f-a626-94ff0a007e56": {
@@ -60412,7 +60422,8 @@
       "label": "",
       "scryfallId": "24bf4eac-784d-4d9e-b7b3-92da98215376",
       "effects": [
-        "Removal"
+        "Removal",
+        "CardAdvantage"
       ]
     },
     "1f6bff6c-a2f0-4ed7-8169-acb4d31a7187": {
@@ -62603,7 +62614,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "018e9fd1-3e7f-4909-bab1-3edb9c9e4326",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "f94cb722-7e46-4569-b474-9654ecf7ec14": {
       "name": "Mondronen Shaman // Tovolar's Magehunter",
@@ -64012,7 +64025,8 @@
       "scryfallId": "337214ad-2976-4692-89c4-2c5001bf087f",
       "effects": [
         "Counter",
-        "Bounce"
+        "Bounce",
+        "CardAdvantage"
       ]
     },
     "994bc16d-fdc6-475c-96df-beeb4d5aa03e": {
@@ -65477,7 +65491,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "346701fc-f2ca-44dc-8d58-19b40cf83a8c",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "c77f8fee-8d2d-4cec-948f-2ca3e5b64070": {
       "name": "Nezumi Bone-Reader",
@@ -65934,6 +65950,7 @@
       "label": "",
       "scryfallId": "f603486d-c8d7-4a02-bdb3-c25d2bc62ba6",
       "effects": [
+        "CardAdvantage",
         "Burn"
       ]
     },
@@ -85159,7 +85176,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "4e54c39b-6149-467b-a9a8-7ad09ca0cbd4",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "b4b724bb-4c1c-4002-8eb8-bc8dd3f88e62": {
       "name": "Shadow of Doubt",
@@ -86993,7 +87012,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "4e3fe912-1374-47c7-b73f-89ef55c479c1",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "eb2fe2f7-60f7-44d3-8d4a-4e102012435d": {
       "name": "Silburlind Snapper",
@@ -91340,7 +91361,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "1e31e8c5-1d7c-4e23-91fa-92adefe57347",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "690df8d2-9538-4c51-b730-cee09ad0ef1c": {
       "name": "Sphinx of the Chimes",
@@ -92935,7 +92958,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "1c47b010-7658-42ba-9f2d-39014463dec5",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "76ed34d2-e09e-4b53-98bd-d96b367fd315": {
       "name": "Steam Spitter",
@@ -101706,6 +101731,7 @@
       "scryfallId": "03499a72-e865-46ff-bcb2-75e53e4b600e",
       "effects": [
         "Tokens",
+        "CardAdvantage",
         "Sacrifice",
         "Regrowth"
       ]
@@ -104184,7 +104210,8 @@
       "label": "",
       "scryfallId": "53d56953-cac5-4bd4-bec9-d442d70d7e96",
       "effects": [
-        "Ramp"
+        "Ramp",
+        "CardAdvantage"
       ]
     },
     "c452e748-8a2a-4f68-8869-e294925a8b0b": {
@@ -104410,8 +104437,7 @@
       "label": "",
       "scryfallId": "5f2d9899-e141-42cf-8b2a-bec6fba1dbd6",
       "effects": [
-        "Discard",
-        "CardAdvantage"
+        "Discard"
       ]
     },
     "597d1dce-67e8-4c37-9781-eeaeb7c2d7b7": {
@@ -112042,6 +112068,7 @@
       "scryfallId": "09ed98e1-898b-494b-a27d-7c1ab28cd9f1",
       "effects": [
         "Removal",
+        "CardAdvantage",
         "Sacrifice"
       ]
     },

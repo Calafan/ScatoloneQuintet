@@ -1135,7 +1135,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "0071c208-c5cc-49f2-83d7-b4d2a71a0a31",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "535f405d-94df-4f45-aedc-b331103720b7": {
       "name": "Atsushi, the Blazing Sky",
@@ -2454,6 +2456,7 @@
       "label": "",
       "scryfallId": "1e20d56c-20df-4fe9-a329-df5768a180af",
       "effects": [
+        "CardAdvantage",
         "Burn"
       ]
     },
@@ -7081,7 +7084,9 @@
       "rating": 4,
       "label": "",
       "scryfallId": "04588d2f-9e90-4f83-b85e-67e4bc222a62",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "64883ef2-c536-42e2-b52f-cfd1984fcdfd": {
       "name": "Fading Hope",
@@ -8637,7 +8642,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "2810631f-c55c-4947-a26f-4d3ce76024b3",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "39e20898-cf01-48dc-8972-7ac500c3fa79": {
       "name": "Ghoulish Procession",
@@ -19845,7 +19852,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "2abf41d9-d44c-46f8-86e5-f4491541cea4",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "ddb7e868-8f1d-4d57-9ee2-ebadb17b398a": {
       "name": "Sphinx of Forgotten Lore",

@@ -28906,7 +28906,9 @@
       "rating": 2,
       "label": "",
       "scryfallId": "41c80ec6-3dfa-4e87-bccc-2bada06e7291",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "8b239262-c392-4ec6-9ae1-8b4a076e4bf0": {
       "name": "Dream's Grip",
@@ -36122,7 +36124,9 @@
       "rating": 2,
       "label": "",
       "scryfallId": "21d04292-3ff6-4e15-aacb-15fca67e9de0",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "16629f59-bae8-4c19-bf50-443eb0ed6856": {
       "name": "Felidar Retreat",
@@ -50139,7 +50143,9 @@
       "rating": 2,
       "label": "",
       "scryfallId": "226990f1-f153-40a4-ac4a-066d7a57278a",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "5c7f91af-8bac-4da1-b9e5-f15989c9d53c": {
       "name": "Hostile Takeover",
@@ -54704,7 +54710,8 @@
       "label": "",
       "scryfallId": "0760a892-207d-4f0a-b895-3930608c78e8",
       "effects": [
-        "Ramp"
+        "Ramp",
+        "CardAdvantage"
       ]
     },
     "64ee02f1-afdb-474b-a893-31538ad7219a": {
@@ -67102,7 +67109,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "49e81c3a-663d-414f-9a4f-95c0e55b1aa1",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "bf65e547-9d81-4f4b-8adb-46aee9088906": {
       "name": "Mindless Conscription",
@@ -76932,6 +76941,7 @@
       "scryfallId": "42b9e5f2-323c-4747-a8ec-c594f58693b0",
       "effects": [
         "Tokens",
+        "CardAdvantage",
         "Mill",
         "Regrowth"
       ]
@@ -96378,7 +96388,7 @@
       "label": "",
       "scryfallId": "3ff05312-787e-4e5e-a0d5-8f3fb576fc49",
       "effects": [
-        "Filter"
+        "CardAdvantage"
       ]
     },
     "3b7b166b-4329-4194-a9a7-f1fec7a92cec": {
@@ -107330,8 +107340,7 @@
       "label": "",
       "scryfallId": "6e2b6236-b40c-430c-98b0-7940b942657a",
       "effects": [
-        "Counter",
-        "CardAdvantage"
+        "Counter"
       ]
     },
     "ce0f6cd6-35d5-4f52-b81e-6d15e3bf916e": {
@@ -109058,8 +109067,7 @@
       "label": "",
       "scryfallId": "3570ebf2-a94c-4621-8808-b06e6e830c06",
       "effects": [
-        "Discard",
-        "CardAdvantage"
+        "Discard"
       ]
     },
     "db9c155f-b342-41bb-9e1a-50358fb9f40e": {
