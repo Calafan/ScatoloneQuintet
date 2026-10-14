@@ -7574,7 +7574,8 @@
       "label": "",
       "scryfallId": "3c6d3187-6994-4d8e-aa7f-3829ef74a5e5",
       "effects": [
-        "Tokens"
+        "Tokens",
+        "Burn"
       ],
       "reviewedAt": "2026-09-08T09:15:54.9192816+00:00"
     },
