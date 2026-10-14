@@ -72495,7 +72495,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "51d04a8f-4195-40ef-8aa6-0c28be051817",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "78c1d6fe-38e4-40c4-9252-87ff272247ad": {
       "name": "Noble Benefactor",
@@ -85717,7 +85719,8 @@
       "label": "",
       "scryfallId": "6d21fb27-e821-4ce1-8f34-fc5d6c69d779",
       "effects": [
-        "Reanimate"
+        "Reanimate",
+        "Protection"
       ]
     },
     "ad470afc-d1a5-4e64-8192-fb6308ed9bfe": {

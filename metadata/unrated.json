@@ -12413,7 +12413,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "1d470cfd-1964-4800-957c-f9625f2258ea",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "b6c0ee14-2028-4e8b-9acd-ff78821bca9b": {
       "name": "Bruce Banner // The Incredible Hulk",
@@ -30289,6 +30291,7 @@
       "label": "",
       "scryfallId": "2e1da79b-4392-47cc-ade9-776827695276",
       "effects": [
+        "Protection",
         "Sacrifice"
       ]
     },
@@ -31673,7 +31676,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "799ed076-4724-47bb-94a0-11b42a9826eb",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "dd3cc9e5-b99a-429c-baeb-663a7af70081": {
       "name": "Faith's Shield",
@@ -81525,7 +81530,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "8dd2ebbe-71c6-405b-bad0-5680f0ff575c",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "3e400e13-6cae-45e6-b5cc-5b5f9d74dec5": {
       "name": "Salvager of Secrets",
@@ -89946,7 +89953,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "17e5d127-6d1d-4423-bd45-3045afce8f0f",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "33cbb650-a756-4e06-8b18-6cc97b2340b4": {
       "name": "Soratami Savant",
