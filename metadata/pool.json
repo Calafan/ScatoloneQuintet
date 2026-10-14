@@ -456,7 +456,8 @@
       "effects": [
         "Tokens",
         "Reanimate",
-        "Sacrifice"
+        "Sacrifice",
+        "Regrowth"
       ]
     },
     "d64e9152-ef24-4394-aeb0-9c3befc56549": {
@@ -555,7 +556,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "536f7d4d-701b-4358-8a26-da1463a509aa",
-      "effects": []
+      "effects": [
+        "Reanimate"
+      ]
     },
     "8ce74097-97b1-493d-9585-bd1336f95927": {
       "name": "Ancient Bronze Dragon",
@@ -2137,7 +2140,9 @@
       "rating": 4,
       "label": "",
       "scryfallId": "196e21ed-6523-40a5-9d53-5864c7dca2cf",
-      "effects": []
+      "effects": [
+        "Regrowth"
+      ]
     },
     "fd505c02-c59e-476d-8e88-35da862ddc23": {
       "name": "Bloodthirsty Conqueror",
@@ -5873,6 +5878,7 @@
       "label": "",
       "scryfallId": "4194675b-0807-431c-9d47-7e51e5a1dac0",
       "effects": [
+        "Reanimate",
         "Steal"
       ]
     },
@@ -6664,8 +6670,7 @@
       "label": "",
       "scryfallId": "0596928c-2b20-4dbb-aa78-3ab6c3ce0d72",
       "effects": [
-        "ManaFixing",
-        "Regrowth"
+        "ManaFixing"
       ]
     },
     "a2b6faca-3321-45d2-a027-ff3a8ae61f10": {
@@ -8650,6 +8655,7 @@
       "label": "",
       "scryfallId": "21081971-7cb9-479f-9c3e-cb5b4a40a936",
       "effects": [
+        "Reanimate",
         "Steal"
       ]
     },
@@ -9942,9 +9948,7 @@
       "rating": 4,
       "label": "",
       "scryfallId": "0666bb2e-bd40-4487-953f-8eece37ad0df",
-      "effects": [
-        "Regrowth"
-      ]
+      "effects": []
     },
     "adca3929-4ecc-45bc-932e-604bcc32550a": {
       "name": "Horned Loch-Whale // Lagoon Breach",
@@ -12352,7 +12356,8 @@
       "label": "",
       "scryfallId": "097ff232-477b-4b50-a8ea-4391b4ae9efe",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Regrowth"
       ]
     },
     "d51831b1-7394-456e-a1de-6787a59f5932": {
@@ -14403,9 +14408,7 @@
       "rating": 5,
       "label": "",
       "scryfallId": "214a778a-61d5-4bbe-b0e1-e9eb542f441d",
-      "effects": [
-        "Regrowth"
-      ]
+      "effects": []
     },
     "11e3f1d3-9d78-4c00-b965-e14407fd5210": {
       "name": "Old-Growth Troll",
@@ -18596,7 +18599,9 @@
       "rating": 4,
       "label": "",
       "scryfallId": "3fa560c9-4c40-4158-8f6c-e38dd924e2f3",
-      "effects": []
+      "effects": [
+        "Regrowth"
+      ]
     },
     "abbdc656-02e9-43a0-8e2c-263d6c37c273": {
       "name": "Serrated Scorpion",
@@ -21294,6 +21299,7 @@
         "Tokens",
         "RemovePermanent",
         "Ramp",
+        "Reanimate",
         "Pacify"
       ]
     },
@@ -24332,7 +24338,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "0bff269c-1404-4587-a3b7-4ba3f6fc195e",
-      "effects": []
+      "effects": [
+        "Reanimate"
+      ]
     },
     "ef4d5fb3-70a3-433d-a9d3-18b2beb8d79f": {
       "name": "Wall of Blossoms",

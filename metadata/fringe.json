@@ -4462,7 +4462,8 @@
       "label": "",
       "scryfallId": "3c094ce7-683c-4ef5-8ac3-c930386da78f",
       "effects": [
-        "Removal"
+        "Removal",
+        "Regrowth"
       ]
     },
     "4b5806fa-430f-4b78-b874-63d01a8a9de5": {
@@ -12461,9 +12462,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "90ba37ee-159f-421f-8d37-a7b5f1b562f0",
-      "effects": [
-        "Regrowth"
-      ]
+      "effects": []
     },
     "86ef06b3-2049-494d-9ecb-ca14766d3b68": {
       "name": "Braided Net // Braided Quipu",
@@ -18547,9 +18546,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "2f6323ad-a3e9-40fb-a5bb-3e9ba41f7fa1",
-      "effects": [
-        "Regrowth"
-      ]
+      "effects": []
     },
     "9e107382-f683-44ed-ada1-775d3ac79dd0": {
       "name": "Clattering Skeletons",
@@ -18628,9 +18625,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "fc295bac-5031-46c8-8d9a-368656bcf6d3",
-      "effects": [
-        "Regrowth"
-      ]
+      "effects": []
     },
     "cc1ba59c-bb70-4da9-bbd0-a466075f9053": {
       "name": "Clay Statue",
@@ -18722,9 +18717,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "63f00fbd-71de-4535-aeb8-494447cc3509",
-      "effects": [
-        "Regrowth"
-      ]
+      "effects": []
     },
     "eb1ab332-5549-4ff4-8afa-b385a236fb9b": {
       "name": "Cleaving Skyrider",
@@ -21950,8 +21943,7 @@
       "label": "",
       "scryfallId": "d2e9aaaf-0b51-4721-b75c-923892a41743",
       "effects": [
-        "Buff",
-        "Regrowth"
+        "Buff"
       ]
     },
     "142b2f24-49f6-4ef8-9731-9ae2e513f796": {
@@ -22171,8 +22163,7 @@
       "label": "",
       "scryfallId": "e6297586-8953-408e-a38c-2239d45807e1",
       "effects": [
-        "Buff",
-        "Regrowth"
+        "Buff"
       ]
     },
     "6586f8d1-196d-42a4-816f-629d432ece2f": {
@@ -24743,7 +24734,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "81f967c9-b38d-489d-96cc-44a6b1804e10",
-      "effects": []
+      "effects": [
+        "Reanimate"
+      ]
     },
     "28d24add-da3a-4697-8fd2-5106c9225c0e": {
       "name": "Death's Duet",
@@ -25635,7 +25628,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "0a1351ed-b9df-4a6d-aaa1-ec6db673d265",
-      "effects": []
+      "effects": [
+        "Regrowth"
+      ]
     },
     "17bdd827-2e89-4559-939a-fc5c153189ed": {
       "name": "Demolisher Spawn",
@@ -27669,9 +27664,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "57d1f729-0d7c-4122-9bca-f3b08cf6fe4f",
-      "effects": [
-        "Regrowth"
-      ]
+      "effects": []
     },
     "cf5b3249-619f-48f5-8885-00fd41d24825": {
       "name": "Dogged Hunter",
@@ -29604,9 +29597,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "4138b66d-cf18-42a5-8522-241bd3969624",
-      "effects": [
-        "Regrowth"
-      ]
+      "effects": []
     },
     "0073d731-e60d-433a-ac35-a22af855da20": {
       "name": "Dungeon Delver",
@@ -29662,9 +29653,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "58725475-ff77-4511-9797-c44b0fa9909d",
-      "effects": [
-        "Regrowth"
-      ]
+      "effects": []
     },
     "8bb2ac6c-20aa-46dd-883f-b629855cabb0": {
       "name": "Durkwood Boars",
@@ -30447,9 +30436,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "67edfb64-2177-442d-bd10-7ed1fdaa3537",
-      "effects": [
-        "Regrowth"
-      ]
+      "effects": []
     },
     "ba5982a9-e8c1-4e7c-9a73-c4caad0f7336": {
       "name": "Earthrumbler",
@@ -39522,7 +39509,8 @@
       "scryfallId": "2d841faa-9e0b-45ff-9dfd-f8a169d9af76",
       "effects": [
         "Steal",
-        "Mill"
+        "Mill",
+        "Regrowth"
       ]
     },
     "f4f66558-3c99-4488-ad2d-90626a922042": {
@@ -41159,9 +41147,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "69b58b6b-24cd-4440-b99c-d88d44b3c41c",
-      "effects": [
-        "Regrowth"
-      ]
+      "effects": []
     },
     "d0d844f2-6cf4-49f2-95db-64e932a15b17": {
       "name": "Gangrenous Zombies",
@@ -42449,9 +42435,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "5274c2fa-eb0e-438b-8a48-d0b58829083a",
-      "effects": [
-        "Regrowth"
-      ]
+      "effects": []
     },
     "5f4939dc-6e87-47fa-8287-9da60d4b5db2": {
       "name": "Gilded Ghoda",
@@ -45942,8 +45926,7 @@
       "label": "",
       "scryfallId": "35baa726-8c2f-4a0b-93d1-d7ecfae69fe4",
       "effects": [
-        "Tutor",
-        "Regrowth"
+        "Tutor"
       ]
     },
     "1caa7fa2-a881-4a65-a87e-12a974520c83": {
@@ -51278,7 +51261,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "0834224d-981d-408d-b880-e4786be81ddf",
-      "effects": []
+      "effects": [
+        "Regrowth"
+      ]
     },
     "b30d583b-e770-47e8-9f26-fca7ef43285c": {
       "name": "Idol of False Gods",
@@ -56342,9 +56327,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "15dc0f41-33bd-47e4-aee2-a02162904d5b",
-      "effects": [
-        "Regrowth"
-      ]
+      "effects": []
     },
     "f122624f-f30d-444e-a62a-939829241045": {
       "name": "Kami of Whispered Hopes",
@@ -56922,7 +56905,8 @@
       "effects": [
         "Tokens",
         "RemovePermanent",
-        "CardAdvantage"
+        "CardAdvantage",
+        "Regrowth"
       ]
     },
     "e0edb2fc-2533-407c-85e5-4337f4233f05": {
@@ -57729,7 +57713,8 @@
       "effects": [
         "CardAdvantage",
         "Steal",
-        "Mill"
+        "Mill",
+        "Regrowth"
       ]
     },
     "97f548b1-6398-4dc7-b5eb-da5a3f24ddb7": {
@@ -77886,8 +77871,7 @@
       "label": "",
       "scryfallId": "5c1fe64c-2c7a-4c1a-b0cd-cfdd095a146b",
       "effects": [
-        "ManaFixing",
-        "Regrowth"
+        "ManaFixing"
       ]
     },
     "ad07cb55-cc4f-40be-b16a-bd3d3ca94249": {
@@ -81798,7 +81782,9 @@
       "rating": 2,
       "label": "",
       "scryfallId": "30f9136d-bf9d-40f6-859a-1f31594f48da",
-      "effects": []
+      "effects": [
+        "Regrowth"
+      ]
     },
     "21a86dcd-03e3-409b-b214-5feed07db584": {
       "name": "Radiant Solar",
@@ -82885,7 +82871,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "619e0c3a-14aa-43dc-bc55-dc97e3d7ccb4",
-      "effects": []
+      "effects": [
+        "Reanimate"
+      ]
     },
     "e10e84a7-d564-487a-ac64-5a001a45ee90": {
       "name": "Rath's Edge",
@@ -87549,7 +87537,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "cc2fd581-5cf8-4154-90dd-922afddcd556",
-      "effects": []
+      "effects": [
+        "Regrowth"
+      ]
     },
     "5b1dc298-403d-484d-90dd-e1c9b73e0188": {
       "name": "Rootless Yew",
@@ -93697,8 +93687,7 @@
       "label": "",
       "scryfallId": "3f1b4646-7016-4b56-8b9a-fabf8624ec1a",
       "effects": [
-        "Wipe",
-        "Regrowth"
+        "Wipe"
       ]
     },
     "eedd5a17-d0fe-4a13-8f2c-f343bfa43f92": {
@@ -99146,7 +99135,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "8ac3ee2e-455e-4cf9-b1ec-6d260098574a",
-      "effects": []
+      "effects": [
+        "Regrowth"
+      ]
     },
     "539899f3-f3f2-4f7a-a6f6-e80d4a39f753": {
       "name": "Spectral Bears",
@@ -100800,9 +100791,7 @@
       "rating": 2,
       "label": "",
       "scryfallId": "12d6d674-40aa-42d7-88b3-f65603ecaa1e",
-      "effects": [
-        "Regrowth"
-      ]
+      "effects": []
     },
     "e18d8326-c3c3-43c2-ac13-6861c0ef3888": {
       "name": "Squeeze",
@@ -104218,7 +104207,8 @@
       "label": "",
       "scryfallId": "0f02698f-d954-42e0-b4d6-9daf65f29e36",
       "effects": [
-        "Buff"
+        "Buff",
+        "Regrowth"
       ]
     },
     "bf9421d2-54e2-44d8-8b39-2e41192a6517": {
@@ -110717,7 +110707,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "bd037e51-9088-4145-8289-00a86fb72ca1",
-      "effects": []
+      "effects": [
+        "Reanimate"
+      ]
     },
     "f7d11254-b48a-4016-a035-c0d6642fdfae": {
       "name": "Thwip!",
@@ -114745,9 +114737,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "192187c6-8ad4-41cb-8000-8df3e80c739b",
-      "effects": [
-        "Regrowth"
-      ]
+      "effects": []
     },
     "e6af56bf-bd78-4801-8f6e-033cdd68de3d": {
       "name": "Undead Warchief",
@@ -116161,7 +116151,8 @@
       "label": "",
       "scryfallId": "02f806df-2d1e-4815-8928-73f40659ca20",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Regrowth"
       ]
     },
     "4d2cc2a8-e08a-420a-8922-c63e39129e23": {
@@ -118171,6 +118162,7 @@
       "label": "",
       "scryfallId": "2716d5b6-9ca7-4c8f-a363-1934221606a6",
       "effects": [
+        "Reanimate",
         "Steal"
       ]
     },
@@ -119546,9 +119538,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "c1da8e79-365d-4a36-87c5-648085828f9f",
-      "effects": [
-        "Reanimate"
-      ]
+      "effects": []
     },
     "30254aa2-2307-4f42-926a-54a416f55f87": {
       "name": "Wall of Opposition",
@@ -123101,7 +123091,8 @@
       "label": "",
       "scryfallId": "17ede5ee-4081-4ab9-b43f-c332f29d3d7e",
       "effects": [
-        "Protection"
+        "Protection",
+        "Regrowth"
       ]
     },
     "2b6da458-e075-4696-a74f-c8846e0cc370": {
@@ -124646,6 +124637,7 @@
       "label": "",
       "scryfallId": "07388ef7-0e3b-44e3-bffa-0747dcb8b0cc",
       "effects": [
+        "Reanimate",
         "Steal"
       ]
     },
