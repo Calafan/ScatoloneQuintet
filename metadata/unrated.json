@@ -25012,7 +25012,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "446ea3a4-206a-4097-87c1-c04bb7812972",
-      "effects": []
+      "effects": [
+        "Wipe"
+      ]
     },
     "3070f997-24f2-471d-af96-a2f3b588198e": {
       "name": "Divine Verdict",
@@ -27267,7 +27269,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "2b3547f2-487a-45b0-92e2-6b6146f5f223",
-      "effects": []
+      "effects": [
+        "Wipe"
+      ]
     },
     "934808a1-31d9-4b82-9626-5f1286a52f1d": {
       "name": "Dunerider Outlaw",
@@ -54618,7 +54622,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "87e2ee71-293d-452b-89a5-b15990186f5b",
-      "effects": []
+      "effects": [
+        "Wipe"
+      ]
     },
     "649d983a-e861-4893-8ae8-fb0a22cfad0a": {
       "name": "Last Thoughts",
@@ -95231,7 +95237,8 @@
       "label": "",
       "scryfallId": "aadf6548-8d6a-4e7c-b135-844ca8ca143a",
       "effects": [
-        "Wipe"
+        "Wipe",
+        "Bounce"
       ]
     },
     "a2a380d8-4df7-4357-862c-ed3fb795db6c": {
@@ -99469,7 +99476,8 @@
       "label": "",
       "scryfallId": "359d1b13-6156-43b0-a9a7-6bfff36c1a91",
       "effects": [
-        "Wipe"
+        "Wipe",
+        "Bounce"
       ]
     },
     "fa85c5a2-8e83-4624-a35a-a0bbf17ecbb4": {
