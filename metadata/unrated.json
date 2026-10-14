@@ -1934,7 +1934,8 @@
       "label": "",
       "scryfallId": "c92ab7b5-6a29-463e-b294-3cb0efaccddb",
       "effects": [
-        "Tokens"
+        "Tokens",
+        "Burn"
       ]
     },
     "2b8ef83b-1a1d-4299-ab69-e9e296bb224d": {
@@ -15248,7 +15249,8 @@
       "effects": [
         "Tokens",
         "Wipe",
-        "Filter"
+        "Filter",
+        "Burn"
       ]
     },
     "486757df-23c0-4b53-97c3-c38c4eb32a56": {
@@ -19326,7 +19328,8 @@
       "label": "",
       "scryfallId": "8b3376c4-369a-4d63-bd48-966bcfb0c9b9",
       "effects": [
-        "Discard"
+        "Discard",
+        "Burn"
       ]
     },
     "e2375f13-fd45-4087-abd1-c884acc6c736": {
@@ -28339,7 +28342,8 @@
       "scryfallId": "3a583f30-a3e0-4c4f-81b3-01452edaf22c",
       "effects": [
         "Tokens",
-        "Buff"
+        "Buff",
+        "Burn"
       ]
     },
     "d9a7e5a6-3e41-4fc6-987a-18fe1b9d67dd": {
@@ -28357,7 +28361,8 @@
       "label": "",
       "scryfallId": "77dd1c84-0c67-41a2-aa19-ca448520ac54",
       "effects": [
-        "Tokens"
+        "Tokens",
+        "Burn"
       ]
     },
     "1f4ff059-e505-4746-ba4f-6b78a502f523": {
@@ -31814,7 +31819,8 @@
       "label": "",
       "scryfallId": "80f2a0ff-2a63-4f6b-8e7a-311fef92dac8",
       "effects": [
-        "Removal"
+        "Removal",
+        "Burn"
       ]
     },
     "22446354-e5c3-4f19-9731-79a4562639d1": {
@@ -32723,7 +32729,8 @@
       "label": "",
       "scryfallId": "2391265f-ef0c-463f-9371-5a0b71dbbb49",
       "effects": [
-        "Tokens"
+        "Tokens",
+        "Burn"
       ]
     },
     "d4556b82-f96e-4f88-a885-3e84afdb98a1": {
@@ -36049,7 +36056,8 @@
       "label": "",
       "scryfallId": "557f8092-e66d-4721-b1a7-e36fced89b5d",
       "effects": [
-        "Removal"
+        "Removal",
+        "Burn"
       ]
     },
     "e69a6fee-c4c0-4b31-8899-6e0935a6cded": {
@@ -37857,7 +37865,8 @@
       "label": "",
       "scryfallId": "0fa3dd33-7240-4b32-b5ee-a67f24b42e4d",
       "effects": [
-        "Tokens"
+        "Tokens",
+        "Burn"
       ]
     },
     "77e5e7e3-b97b-4953-9df4-1aee509fbf2a": {
@@ -50112,7 +50121,8 @@
       "label": "",
       "scryfallId": "365336b4-92ee-429d-8f18-4624cba5469d",
       "effects": [
-        "Removal"
+        "Removal",
+        "Burn"
       ]
     },
     "10a87c58-2d8b-4658-b7d6-8dcbb44a2d2f": {
@@ -50206,7 +50216,8 @@
       "label": "",
       "scryfallId": "2de336a3-224f-49e0-b4ff-34bf3de398bf",
       "effects": [
-        "Removal"
+        "Removal",
+        "Burn"
       ]
     },
     "c3c802ba-dfbb-4f63-ae9a-e29c2e30013d": {
@@ -71565,7 +71576,8 @@
       "label": "",
       "scryfallId": "b26ff2fa-82de-4831-9341-a446abf9ed03",
       "effects": [
-        "Removal"
+        "Removal",
+        "Burn"
       ]
     },
     "e2fc5069-374b-4feb-acd9-976ddf90e504": {
@@ -75473,7 +75485,8 @@
       "scryfallId": "0e01fef8-5563-4dec-ab8e-e486e19e202c",
       "effects": [
         "Tokens",
-        "Removal"
+        "Removal",
+        "Burn"
       ]
     },
     "329f6e2e-6c37-4e98-bd45-bd252f1a2bd9": {
@@ -83491,7 +83504,8 @@
       "label": "",
       "scryfallId": "232afb53-8799-4d45-a3b5-f29ff5afc0c3",
       "effects": [
-        "Discard"
+        "Discard",
+        "Burn"
       ]
     },
     "4d0fa514-87fc-46ff-bf49-4cd332396978": {
@@ -98752,7 +98766,8 @@
       "label": "",
       "scryfallId": "ea28bd68-47a8-47c6-be16-75ae622daf0a",
       "effects": [
-        "Tokens"
+        "Tokens",
+        "Burn"
       ]
     },
     "f9085e55-2833-41b7-9100-a35dc04dee93": {
@@ -99435,7 +99450,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "06ed7c94-ed3c-427a-b62a-32e91e054671",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "4c5b2be9-5d48-4e62-ae67-d61f3708bb4f": {
       "name": "Thieving Sprite",
@@ -105085,7 +105102,8 @@
       "label": "",
       "scryfallId": "0952da7a-0f53-44c3-b379-18a89e41b836",
       "effects": [
-        "Tokens"
+        "Tokens",
+        "Burn"
       ]
     },
     "01d70534-7c26-4a54-9eca-d0ebbefc2159": {
@@ -112527,7 +112545,8 @@
       "label": "",
       "scryfallId": "f12d2c01-0ef2-40e6-8c7d-8512e2c8c074",
       "effects": [
-        "Tokens"
+        "Tokens",
+        "Burn"
       ]
     },
     "01ab37a4-21d2-49f4-9b85-cb522a4d04ad": {

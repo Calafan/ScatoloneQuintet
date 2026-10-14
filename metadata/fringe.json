@@ -37366,7 +37366,8 @@
       "label": "",
       "scryfallId": "ac345df3-e542-4e42-ad29-b7f3cb20eb0a",
       "effects": [
-        "Tokens"
+        "Tokens",
+        "Burn"
       ]
     },
     "d53fecd7-aa12-482e-8f45-5efe6348070d": {
@@ -45958,6 +45959,7 @@
       "label": "",
       "scryfallId": "35baa726-8c2f-4a0b-93d1-d7ecfae69fe4",
       "effects": [
+        "Burn",
         "Tutor"
       ]
     },
@@ -50581,7 +50583,8 @@
       "label": "",
       "scryfallId": "ce09c0df-d022-4ebf-8f7f-8a913249e75f",
       "effects": [
-        "Tokens"
+        "Tokens",
+        "Burn"
       ]
     },
     "53f1bcff-55fb-4d38-b108-dcbed623f488": {
@@ -59332,6 +59335,7 @@
       "scryfallId": "1a6bb0c2-1e3c-48cd-8f10-49f047e0514c",
       "effects": [
         "Tokens",
+        "Burn",
         "Tutor"
       ]
     },
@@ -61054,7 +61058,8 @@
       "label": "",
       "scryfallId": "a800f326-3416-4917-a1cf-0f90255777d3",
       "effects": [
-        "Tokens"
+        "Tokens",
+        "Burn"
       ]
     },
     "7bc53740-86e7-4e9d-aab6-b5ae62a42133": {
@@ -77876,7 +77881,8 @@
       "label": "",
       "scryfallId": "15846e08-c757-4b0e-b2ac-3462e0cacba0",
       "effects": [
-        "Removal"
+        "Removal",
+        "Burn"
       ]
     },
     "5556a897-8947-4b78-81ce-a829508a4f11": {
@@ -94697,7 +94703,8 @@
       "label": "",
       "scryfallId": "b1e623a8-145e-4649-b2cc-d3bb8a93f0f3",
       "effects": [
-        "Removal"
+        "Removal",
+        "Burn"
       ]
     },
     "a43500ed-4aa6-49de-8a6e-a1781301b108": {
