@@ -651,7 +651,8 @@
       "label": "",
       "scryfallId": "a3e6ff4d-bf7d-488f-a02f-f40e7f8761ca",
       "effects": [
-        "Ramp"
+        "Ramp",
+        "Buff"
       ],
       "reviewedAt": "2026-09-11T13:46:43.5790747+00:00"
     },
@@ -811,7 +812,8 @@
       "label": "",
       "scryfallId": "5289ce8b-09cc-4fcd-a609-3e01ad8fda6f",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Buff"
       ],
       "reviewedAt": "2026-09-25T07:44:47.0596709+00:00"
     },
@@ -2836,6 +2838,7 @@
       "label": "",
       "scryfallId": "106944b2-f3ae-4350-be33-61b9f92fc92f",
       "effects": [
+        "Buff",
         "Protection"
       ],
       "reviewedAt": "2026-09-25T07:41:28.3792696+00:00"
@@ -10602,7 +10605,8 @@
       "label": "",
       "scryfallId": "0548ddb6-5301-4911-93fd-bb988275f44a",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Buff"
       ],
       "reviewedAt": "2026-10-09T13:34:51.4837446+00:00"
     },
@@ -15056,7 +15060,9 @@
       "rating": 4,
       "label": "",
       "scryfallId": "2d669d7d-a249-44d8-a650-719f57ca87eb",
-      "effects": [],
+      "effects": [
+        "Buff"
+      ],
       "reviewedAt": "2026-09-25T11:03:54.0599403+00:00"
     },
     "9bdc1e63-1cf9-4ddb-a7d5-f2a2eb91bdfd": {
@@ -15444,7 +15450,8 @@
       "label": "",
       "scryfallId": "54f00cff-9999-4d81-ac3d-2a74f4ae19e1",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Buff"
       ],
       "reviewedAt": "2026-09-25T09:30:53.8685925+00:00"
     },
@@ -20844,6 +20851,7 @@
       "label": "",
       "scryfallId": "83719626-3ff8-4566-9911-88212e753c69",
       "effects": [
+        "Buff",
         "Pacify"
       ],
       "reviewedAt": "2026-09-25T07:41:18.3006052+00:00"
@@ -20918,7 +20926,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "22f0a911-5a48-4da4-bb02-950babaead2c",
-      "effects": [],
+      "effects": [
+        "Buff"
+      ],
       "reviewedAt": "2026-10-06T13:54:25.1260328+00:00"
     },
     "7a0fe73f-6e08-4c9a-80e1-c2ead6cebe06": {
@@ -20975,7 +20985,8 @@
       "label": "",
       "scryfallId": "1b794170-4ffd-4628-ba5a-b9293bb364dc",
       "effects": [
-        "Ramp"
+        "Ramp",
+        "Buff"
       ],
       "reviewedAt": "2026-09-23T22:16:01.2170292+00:00"
     },
@@ -21757,6 +21768,7 @@
       "label": "",
       "scryfallId": "cd9d91a8-7315-4355-af99-941f3cf7398c",
       "effects": [
+        "Buff",
         "Protection"
       ],
       "reviewedAt": "2026-09-25T07:41:32.2203857+00:00"
