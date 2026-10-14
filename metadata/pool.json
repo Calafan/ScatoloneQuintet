@@ -653,8 +653,7 @@
       "effects": [
         "Ramp",
         "Buff"
-      ],
-      "reviewedAt": "2026-09-11T13:46:43.5790747+00:00"
+      ]
     },
     "c0d8fef4-65f4-4769-982d-b397d2b7e977": {
       "name": "Animate Dead",
@@ -814,8 +813,7 @@
       "effects": [
         "CardAdvantage",
         "Buff"
-      ],
-      "reviewedAt": "2026-09-25T07:44:47.0596709+00:00"
+      ]
     },
     "5acc8b39-3c3e-4012-8cfd-ac3c2c4ca982": {
       "name": "Arc Lightning",
@@ -2841,8 +2839,7 @@
       "effects": [
         "Buff",
         "Protection"
-      ],
-      "reviewedAt": "2026-09-25T07:41:28.3792696+00:00"
+      ]
     },
     "1fef13d8-5da2-46a6-91ed-7a31bd46e538": {
       "name": "Bumi, Unleashed",
@@ -10608,8 +10605,7 @@
       "effects": [
         "CardAdvantage",
         "Buff"
-      ],
-      "reviewedAt": "2026-10-09T13:34:51.4837446+00:00"
+      ]
     },
     "121bd1af-da21-4937-a911-377c5b430796": {
       "name": "Intimidation Tactics",
@@ -15067,8 +15063,7 @@
       "scryfallId": "2d669d7d-a249-44d8-a650-719f57ca87eb",
       "effects": [
         "Buff"
-      ],
-      "reviewedAt": "2026-09-25T11:03:54.0599403+00:00"
+      ]
     },
     "9bdc1e63-1cf9-4ddb-a7d5-f2a2eb91bdfd": {
       "name": "Pearl-Ear, Imperial Advisor",
@@ -15457,8 +15452,7 @@
       "effects": [
         "CardAdvantage",
         "Buff"
-      ],
-      "reviewedAt": "2026-09-25T09:30:53.8685925+00:00"
+      ]
     },
     "25afddd2-6e48-4742-b34e-e3b5def7c0fd": {
       "name": "Pippin, Guard of the Citadel",
@@ -20860,8 +20854,7 @@
       "effects": [
         "Buff",
         "Pacify"
-      ],
-      "reviewedAt": "2026-09-25T07:41:18.3006052+00:00"
+      ]
     },
     "944a91ab-c217-4c1d-b920-2e5503c34546": {
       "name": "Sunstar Expansionist",
@@ -20935,8 +20928,7 @@
       "scryfallId": "22f0a911-5a48-4da4-bb02-950babaead2c",
       "effects": [
         "Buff"
-      ],
-      "reviewedAt": "2026-10-06T13:54:25.1260328+00:00"
+      ]
     },
     "7a0fe73f-6e08-4c9a-80e1-c2ead6cebe06": {
       "name": "Surrak, Elusive Hunter",
@@ -20994,8 +20986,7 @@
       "effects": [
         "Ramp",
         "Buff"
-      ],
-      "reviewedAt": "2026-09-23T22:16:01.2170292+00:00"
+      ]
     },
     "872bebff-720d-459b-8f86-fb9129a8d1fb": {
       "name": "Svyelun of Sea and Sky",
@@ -21777,8 +21768,7 @@
       "effects": [
         "Buff",
         "Protection"
-      ],
-      "reviewedAt": "2026-09-25T07:41:32.2203857+00:00"
+      ]
     },
     "d5770b0f-4493-42e9-a2d7-0e74a28da4ba": {
       "name": "The Earth King",
