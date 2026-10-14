@@ -25515,7 +25515,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "14749600-9eca-4122-b04f-30ddda091b74",
-      "effects": [],
+      "effects": [
+        "Protection"
+      ],
       "reviewedAt": "2026-09-04T14:54:24.579234+00:00"
     },
     "705cc928-d6d4-4294-979b-a385d1b07dc6": {
@@ -91986,7 +91988,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "f8be4b6b-23a2-42d2-911d-fa14f7f5a95b",
-      "effects": [],
+      "effects": [
+        "Protection"
+      ],
       "reviewedAt": "2026-09-08T09:36:28.6772096+00:00"
     },
     "5bf1dbb6-ed65-4968-8edd-b98e9bd19d4d": {
