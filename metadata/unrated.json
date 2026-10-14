@@ -5599,9 +5599,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "0e398a02-1456-4fae-be75-4231c968bf47",
-      "effects": [
-        "Steal"
-      ]
+      "effects": []
     },
     "586aebf2-4653-49fa-8425-13bd1f511bf0": {
       "name": "Aura Gnarlid",
@@ -11797,7 +11795,6 @@
       "scryfallId": "50e30e21-0bf7-4d10-b2cc-ed0c52b95955",
       "effects": [
         "Reanimate",
-        "Steal",
         "Mill"
       ]
     },
@@ -27688,9 +27685,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "0116416b-ed95-4fa2-abc5-446de5c3106b",
-      "effects": [
-        "Steal"
-      ]
+      "effects": []
     },
     "d4c04cec-3a0d-4e86-95ed-8d367fe7220d": {
       "name": "Eaten by Spiders",
@@ -31151,7 +31146,6 @@
       "scryfallId": "17592ec3-cffb-4cf9-86bc-4ad3ac696d91",
       "effects": [
         "Reanimate",
-        "Steal",
         "Mill"
       ]
     },
@@ -43282,8 +43276,7 @@
       "label": "",
       "scryfallId": "52485cdb-4498-4091-ad6e-d912471f146e",
       "effects": [
-        "Bounce",
-        "Steal"
+        "Bounce"
       ]
     },
     "18c65823-01ae-4314-a254-d89a1a362633": {
@@ -49828,7 +49821,6 @@
       "effects": [
         "CardAdvantage",
         "Filter",
-        "Steal",
         "Pacify",
         "Mill",
         "Regrowth"
@@ -50155,8 +50147,7 @@
       "label": "",
       "scryfallId": "3308993d-8bfb-477a-887a-89ed35577f57",
       "effects": [
-        "CardAdvantage",
-        "Steal"
+        "CardAdvantage"
       ]
     },
     "b1fbfcf3-6921-4417-a58e-0f5e5d34a105": {
@@ -60518,7 +60509,6 @@
       "label": "",
       "scryfallId": "8182c9e0-861e-4736-997b-e79e62a2fec5",
       "effects": [
-        "Steal",
         "Mill"
       ]
     },
@@ -66545,8 +66535,7 @@
       "label": "",
       "scryfallId": "932649ab-ed5e-405f-986f-855d8a7c8eb2",
       "effects": [
-        "Discard",
-        "Steal"
+        "Discard"
       ]
     },
     "3e7707df-54e3-4307-9695-2de4e3edcf89": {
@@ -76713,8 +76702,7 @@
       "label": "",
       "scryfallId": "39c0abef-f59c-473a-8a6e-eacd4a78ff72",
       "effects": [
-        "Discard",
-        "Steal"
+        "Discard"
       ]
     },
     "251cee41-30f5-4bba-93cd-31493a5ea051": {
@@ -101094,8 +101082,7 @@
       "scryfallId": "15bb3454-e3bb-4af9-9e93-461e210c26b7",
       "effects": [
         "CardAdvantage",
-        "Burn",
-        "Steal"
+        "Burn"
       ]
     },
     "c8323e46-c068-45e2-b6ba-7972b4af728a": {
@@ -101593,7 +101580,6 @@
       "scryfallId": "0e767e07-febd-4025-bf03-d4d816bc1d3d",
       "effects": [
         "CardAdvantage",
-        "Steal",
         "Regrowth"
       ]
     },

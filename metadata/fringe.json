@@ -13771,7 +13771,6 @@
       "scryfallId": "38b51dbb-7d8e-41fc-9768-627fd4692555",
       "effects": [
         "Ramp",
-        "Steal",
         "ManaFixing"
       ]
     },
@@ -39513,7 +39512,6 @@
       "label": "",
       "scryfallId": "2d841faa-9e0b-45ff-9dfd-f8a169d9af76",
       "effects": [
-        "Steal",
         "Mill",
         "Regrowth"
       ]
@@ -46815,9 +46813,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "16a86a35-f7e5-434d-bf44-61ae7cb0f98b",
-      "effects": [
-        "Steal"
-      ]
+      "effects": []
     },
     "653217b1-1e92-49a7-81d9-fc4d70d4f27f": {
       "name": "Haldir, Lórien Lieutenant",
@@ -46997,8 +46993,7 @@
       "label": "",
       "scryfallId": "97502411-5c93-434c-b77b-ceb2c32feae7",
       "effects": [
-        "Buff",
-        "Steal"
+        "Buff"
       ]
     },
     "c7371040-160c-4502-b7f9-77b7f54cc020": {
@@ -114009,8 +114004,7 @@
       "label": "",
       "scryfallId": "3c97c8a5-33b3-4f7f-a224-bb4df7b4bcc0",
       "effects": [
-        "Reanimate",
-        "Steal"
+        "Reanimate"
       ]
     },
     "88b076a4-46ff-4a41-95a5-2821f4d8944d": {
