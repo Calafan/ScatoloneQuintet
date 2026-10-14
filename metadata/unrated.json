@@ -15235,7 +15235,8 @@
       "scryfallId": "49fdd0d3-7140-4c12-a41c-37eedd986d9e",
       "effects": [
         "Tokens",
-        "Wipe"
+        "Wipe",
+        "Filter"
       ]
     },
     "486757df-23c0-4b53-97c3-c38c4eb32a56": {
@@ -24203,8 +24204,7 @@
       "label": "",
       "scryfallId": "0f2b0b24-83bf-479b-baa4-3244a114852d",
       "effects": [
-        "Discard",
-        "Filter"
+        "Discard"
       ]
     },
     "1916f120-4418-404a-aed5-b95ebf60d3a3": {
@@ -32125,6 +32125,7 @@
       "scryfallId": "a19d5bdd-7f45-4ff1-bd1a-ac4e87572bcb",
       "effects": [
         "Removal",
+        "Filter",
         "Burn"
       ]
     },
@@ -44049,7 +44050,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "af569235-f5cb-4e3e-ba77-c1c429ed0a60",
-      "effects": []
+      "effects": [
+        "Filter"
+      ]
     },
     "82e6da87-f8a4-4897-bf0f-c0f2cd06b8b1": {
       "name": "Heartwood Storyteller",
@@ -85625,7 +85628,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "0f5223b4-e0d1-4fc6-a363-ebcdfeee56d1",
-      "effects": []
+      "effects": [
+        "Filter"
+      ]
     },
     "7fb63d9a-8d90-4b43-8390-924de2d7e32c": {
       "name": "Shattergang Brothers",
@@ -89874,7 +89879,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "462a861d-e5c5-48b1-95c0-3ef04b690eac",
-      "effects": []
+      "effects": [
+        "Filter"
+      ]
     },
     "c1d5a631-a963-43a4-a5c0-1ba23bd88d0f": {
       "name": "Sorcerer of the Fang",

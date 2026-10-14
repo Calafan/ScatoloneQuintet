@@ -81256,7 +81256,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "04748466-851a-47ae-adc1-98baaa2a0801",
-      "effects": []
+      "effects": [
+        "Filter"
+      ]
     },
     "60b18d94-8ae5-4508-b4db-18f92c2d39fd": {
       "name": "Queen's Bay Paladin",
@@ -97425,7 +97427,8 @@
       "label": "",
       "scryfallId": "0c635ea1-6395-4b28-86e7-6e136c95ca8a",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Filter"
       ]
     },
     "17b29350-4f37-4552-8192-4856b15345f9": {
@@ -111571,7 +111574,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "3fdd9981-bb5e-450d-90c3-4405a7097939",
-      "effects": []
+      "effects": [
+        "Filter"
+      ]
     },
     "5d1d9914-3ef2-45c5-b1cb-cb85d2f7394c": {
       "name": "Tolls of War",
