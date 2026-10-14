@@ -2774,8 +2774,7 @@
       "effects": [
         "Wipe",
         "Filter"
-      ],
-      "reviewedAt": "2026-10-09T13:18:16.5039516+00:00"
+      ]
     },
     "fc8ee6e1-a2e1-4033-a164-7968fc79dd27": {
       "name": "Amateur Hero",
@@ -56147,8 +56146,7 @@
         "Ramp",
         "CardAdvantage",
         "ManaFixing"
-      ],
-      "reviewedAt": "2026-09-11T22:03:07.9067462+00:00"
+      ]
     },
     "ba48e067-f4d9-45b2-ade1-71cf8cda418c": {
       "name": "Kaito Shizuki",
@@ -77774,8 +77772,7 @@
         "Ramp",
         "CardAdvantage",
         "ManaFixing"
-      ],
-      "reviewedAt": "2026-09-10T13:17:26.2627727+00:00"
+      ]
     },
     "ea96fe35-88ed-432b-a495-08e787d23d0b": {
       "name": "Piercing Exhale",
@@ -101984,8 +101981,7 @@
       "scryfallId": "06a972a4-0c1b-4f12-a5a5-fdea47c4cd35",
       "effects": [
         "CardAdvantage"
-      ],
-      "reviewedAt": "2026-09-10T14:16:19.8650148+00:00"
+      ]
     },
     "ce76d17e-d536-46f0-98e2-3e1b1b4f61a4": {
       "name": "Stimulus Package",
@@ -102489,8 +102485,7 @@
       "effects": [
         "CardAdvantage",
         "Redirect"
-      ],
-      "reviewedAt": "2026-10-09T09:57:35.2203994+00:00"
+      ]
     },
     "7022ae9a-2589-493b-a050-a230fd02f80b": {
       "name": "Storm of Souls",
