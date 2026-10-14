@@ -2736,8 +2736,7 @@
       "scryfallId": "5842332a-b27b-49ac-948d-f88a21deb1de",
       "effects": [
         "CardAdvantage"
-      ],
-      "reviewedAt": "2026-10-09T14:55:24.9730058+00:00"
+      ]
     },
     "43dc4b0c-e437-4abc-a3fb-48bd3098de88": {
       "name": "Altaïr Ibn-La'Ahad",
@@ -9651,8 +9650,7 @@
       "scryfallId": "55b9b8e5-1ed8-4be0-aad5-041a599c6841",
       "effects": [
         "Buff"
-      ],
-      "reviewedAt": "2026-10-09T13:16:19.9674122+00:00"
+      ]
     },
     "dfc08963-132f-4ebf-9384-15d17d1098f7": {
       "name": "Bestial Fury",
@@ -21246,8 +21244,7 @@
         "Counter",
         "Reanimate",
         "Regrowth"
-      ],
-      "reviewedAt": "2026-09-25T10:33:54.1926388+00:00"
+      ]
     },
     "c5a39f76-dd1b-442c-9f52-08561ecb91ad": {
       "name": "Country Roads",
@@ -24871,8 +24868,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "e704fb95-17b7-432a-831c-18abe7d9cc73",
-      "effects": [],
-      "reviewedAt": "2026-09-11T12:16:41.9999444+00:00"
+      "effects": []
     },
     "3162e0b4-1348-4c86-8da7-ae23ff968c57": {
       "name": "Deathmark Prelate",
@@ -29811,8 +29807,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "b8e40377-990f-41ea-8dd2-62a998dcd128",
-      "effects": [],
-      "reviewedAt": "2026-10-06T14:02:28.625934+00:00"
+      "effects": []
     },
     "b58a70e2-3609-441a-993a-dccb9a2cf242": {
       "name": "Dutiful Knowledge Seeker",
@@ -31146,8 +31141,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "0ce97bb8-b0ee-4473-8c26-a3ec91abec97",
-      "effects": [],
-      "reviewedAt": "2026-09-12T10:05:53.7145123+00:00"
+      "effects": []
     },
     "7dce1e8c-5cfd-4626-9f23-7bb3f1b10c1e": {
       "name": "Eldritch Immunity",
@@ -35914,8 +35908,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "81756844-c642-406f-842d-35c1e404fec0",
-      "effects": [],
-      "reviewedAt": "2026-09-25T08:30:04.034753+00:00"
+      "effects": []
     },
     "3724cc42-1bbd-4a11-8469-ab8492ddba52": {
       "name": "Fear of Lost Teeth",
@@ -44717,8 +44710,7 @@
       "scryfallId": "3581ef56-4649-43f4-829c-af28278833a2",
       "effects": [
         "Sacrifice"
-      ],
-      "reviewedAt": "2026-10-06T18:29:58.9437017+00:00"
+      ]
     },
     "74027d31-6efb-471d-9499-cdb1cefc9eae": {
       "name": "Goma Fada Vanguard",
@@ -47049,8 +47041,7 @@
       "effects": [
         "Removal",
         "Burn"
-      ],
-      "reviewedAt": "2026-09-08T09:50:58.7921761+00:00"
+      ]
     },
     "ce176172-6c7b-40b0-a6d0-68e9c32b3402": {
       "name": "Hammerhead Shark",
@@ -54603,8 +54594,7 @@
       "scryfallId": "23422e75-e1c7-484b-aa1f-155ef9a998ec",
       "effects": [
         "Regrowth"
-      ],
-      "reviewedAt": "2026-09-23T10:45:08.9813232+00:00"
+      ]
     },
     "16d2a56a-7181-4ef3-866b-10dd8615d9e9": {
       "name": "Jacob Hauken, Inspector // Hauken's Insight",
@@ -66102,8 +66092,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "752ffa24-93b6-4b33-bf10-7222357ac472",
-      "effects": [],
-      "reviewedAt": "2026-09-10T14:06:54.5784004+00:00"
+      "effects": []
     },
     "f6aebd42-0150-4741-84c2-4c85893640e9": {
       "name": "Merchant of Secrets",
@@ -68178,8 +68167,7 @@
       "scryfallId": "0831f747-b3e5-4e5f-9cc2-ad581a90797a",
       "effects": [
         "Reanimate"
-      ],
-      "reviewedAt": "2026-09-08T10:32:50.2906628+00:00"
+      ]
     },
     "863a5ddb-2d66-4a07-bafc-38290776d5c0": {
       "name": "Mistral Singer",
@@ -70973,8 +70961,7 @@
       "scryfallId": "16d56cd5-f038-4653-987e-d1a5485ac86e",
       "effects": [
         "Regrowth"
-      ],
-      "reviewedAt": "2026-10-06T14:04:15.6717466+00:00"
+      ]
     },
     "ade8fc6f-efaa-4a24-96d8-99ef5026cd74": {
       "name": "Nashi, Searcher in the Dark",
@@ -83014,8 +83001,7 @@
         "CardAdvantage",
         "Mill",
         "Regrowth"
-      ],
-      "reviewedAt": "2026-09-25T09:58:58.051941+00:00"
+      ]
     },
     "68919931-b995-4aa0-9d2a-e80eae2f335f": {
       "name": "Ravaged Highlands",
@@ -84233,8 +84219,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "55271960-b9bd-4bea-93ca-3321bf30be78",
-      "effects": [],
-      "reviewedAt": "2026-10-08T10:13:31.2061321+00:00"
+      "effects": []
     },
     "661736eb-97d7-4b3c-ab18-708479a5fb29": {
       "name": "Reduce to Memory",
@@ -86219,8 +86204,7 @@
       "effects": [
         "Removal",
         "Burn"
-      ],
-      "reviewedAt": "2026-10-06T18:29:09.0410733+00:00"
+      ]
     },
     "8896c74b-d466-4c25-94cf-82b5e2b1fdef": {
       "name": "Rinoa Heartilly",
@@ -102482,8 +102466,7 @@
       "scryfallId": "253266de-0eeb-46c7-9912-145586661fc4",
       "effects": [
         "Regrowth"
-      ],
-      "reviewedAt": "2026-09-10T14:01:35.4690975+00:00"
+      ]
     },
     "cf5f4860-e805-46a3-9352-a2c583e33403": {
       "name": "Storm of Saruman",
@@ -109013,8 +108996,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "0ff3fbe7-1c11-4cce-a43b-b6b4cb4d1594",
-      "effects": [],
-      "reviewedAt": "2026-10-08T22:33:00.9415003+00:00"
+      "effects": []
     },
     "dac3a263-cc02-446a-88ec-882a21096b6c": {
       "name": "The Spear of Leonidas",
@@ -115439,8 +115421,7 @@
       "effects": [
         "CardAdvantage",
         "Filter"
-      ],
-      "reviewedAt": "2026-09-29T13:47:19.1016576+00:00"
+      ]
     },
     "0a56a33b-033f-4398-8dc1-e531be059710": {
       "name": "Unsparing Boltcaster",
@@ -118620,8 +118601,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "8a48705f-bd8a-43f1-b1fe-14a5c9a83ccd",
-      "effects": [],
-      "reviewedAt": "2026-10-08T10:26:38.0864909+00:00"
+      "effects": []
     },
     "d94ff0b8-5499-4eeb-80f0-20c7fbf07499": {
       "name": "Voja, Jaws of the Conclave",
@@ -122052,8 +122032,7 @@
       "effects": [
         "CardAdvantage",
         "Regrowth"
-      ],
-      "reviewedAt": "2026-09-10T16:14:47.2488431+00:00"
+      ]
     },
     "d8df9813-0376-4d30-8cdc-30451fb67726": {
       "name": "Will of the Mardu",
