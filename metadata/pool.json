@@ -1790,7 +1790,8 @@
       "label": "",
       "scryfallId": "c8c2a5b2-9c29-4f00-9d29-f18dce3b3c0b",
       "effects": [
-        "Ramp"
+        "Ramp",
+        "Buff"
       ]
     },
     "d3a0b660-358c-41bd-9cd2-41fbf3491b1a": {
@@ -12341,7 +12342,9 @@
       "rating": 4,
       "label": "",
       "scryfallId": "355e8682-2aa8-4294-aa72-5e9587a6444c",
-      "effects": []
+      "effects": [
+        "Buff"
+      ]
     },
     "28c7c816-07e7-42fb-923c-bf149ba28b38": {
       "name": "Luminous Broodmoth",
@@ -14027,7 +14030,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "2de6edc9-4dd6-402e-a697-58957522fabc",
-      "effects": []
+      "effects": [
+        "Buff"
+      ]
     },
     "8b153452-b4f2-4310-99e2-c729f28be6b9": {
       "name": "Nimble Brigand",
@@ -20805,7 +20810,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "3d0081b1-40fd-44ad-b154-efe2f27fed6b",
-      "effects": []
+      "effects": [
+        "Buff"
+      ]
     },
     "65779f3b-7fc5-4847-99d7-78f697d34c3d": {
       "name": "Sunset Revelry",
@@ -22388,6 +22395,7 @@
       "label": "",
       "scryfallId": "37feb62d-82cd-4fbc-bbe1-323b4f01c922",
       "effects": [
+        "Buff",
         "Burn"
       ]
     },
