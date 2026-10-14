@@ -10164,6 +10164,7 @@
       "label": "",
       "scryfallId": "9dabd626-7ec3-4913-babb-d5d3fd5e32d5",
       "effects": [
+        "Removal",
         "Bounce"
       ],
       "reviewedAt": "2026-09-11T10:52:51.8856951+00:00"
