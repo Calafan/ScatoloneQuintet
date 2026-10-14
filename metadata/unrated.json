@@ -9415,7 +9415,6 @@
       "label": "",
       "scryfallId": "217dfa26-d3ad-4fe8-9db4-ddd753a4b679",
       "effects": [
-        "Removal",
         "RemovePermanent",
         "Protection"
       ]
@@ -12782,6 +12781,7 @@
       "label": "",
       "scryfallId": "146c0cab-5f6b-425d-9f50-33d8da266235",
       "effects": [
+        "Removal",
         "Burn"
       ]
     },
@@ -15277,6 +15277,7 @@
       "label": "",
       "scryfallId": "0947a15a-957a-4858-8143-5fa3d286e6d9",
       "effects": [
+        "Removal",
         "CardAdvantage",
         "Burn"
       ]
@@ -15353,7 +15354,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "8801465e-295f-4b6b-a321-120f1b1edd0b",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "d1b1be96-b2aa-4386-97d2-eb0a8cc47210": {
       "name": "Channel the Suns",
@@ -15889,6 +15892,7 @@
       "label": "",
       "scryfallId": "4549735d-df63-47db-ad53-0497499fe387",
       "effects": [
+        "Removal",
         "Pacify"
       ]
     },
@@ -21003,8 +21007,7 @@
       "label": "",
       "scryfallId": "606f0b72-fc78-415c-9999-4ce362ed037d",
       "effects": [
-        "Tokens",
-        "Removal"
+        "Tokens"
       ]
     },
     "7e0d60d7-cb27-4e45-80d4-c29aef5d56b6": {
@@ -23831,8 +23834,7 @@
       "label": "",
       "scryfallId": "1207e6eb-15a7-4ec4-91b3-880375704bb6",
       "effects": [
-        "Tokens",
-        "Removal"
+        "Tokens"
       ]
     },
     "8f80a7be-3da3-4e84-82a8-dd5d4b2c3f32": {
@@ -25391,6 +25393,7 @@
       "label": "",
       "scryfallId": "17db6ef5-1aa9-4b8c-b0b7-d6668a2347a1",
       "effects": [
+        "Removal",
         "Discard"
       ]
     },
@@ -31786,7 +31789,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "80f2a0ff-2a63-4f6b-8e7a-311fef92dac8",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "22446354-e5c3-4f19-9731-79a4562639d1": {
       "name": "Fallen Ferromancer",
@@ -36016,7 +36021,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "557f8092-e66d-4721-b1a7-e36fced89b5d",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "e69a6fee-c4c0-4b31-8899-6e0935a6cded": {
       "name": "Furious Resistance",
@@ -46617,6 +46624,7 @@
       "scryfallId": "2ec38d40-3f96-46d4-a0ec-0b98aa622ebc",
       "effects": [
         "Tokens",
+        "Removal",
         "Burn"
       ]
     },
@@ -47289,9 +47297,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "413c3671-f49d-47e0-a6b4-bc60c09204da",
-      "effects": [
-        "Removal"
-      ]
+      "effects": []
     },
     "3c2445ee-84d5-47de-8b09-dbdc89ca2db7": {
       "name": "Immerwolf",
@@ -50060,7 +50066,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "365336b4-92ee-429d-8f18-4624cba5469d",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "10a87c58-2d8b-4658-b7d6-8dcbb44a2d2f": {
       "name": "Jaya, Venerated Firemage",
@@ -50153,7 +50161,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "2de336a3-224f-49e0-b4ff-34bf3de398bf",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "c3c802ba-dfbb-4f63-ae9a-e29c2e30013d": {
       "name": "Jeskai Ascendancy",
@@ -52142,6 +52152,7 @@
       "scryfallId": "0f05d1ae-d70b-474c-93fc-a5d2e3ac6b64",
       "effects": [
         "Tokens",
+        "Removal",
         "Sacrifice"
       ]
     },
@@ -62076,7 +62087,6 @@
       "label": "",
       "scryfallId": "01b1cd72-f8e8-4030-9449-7e0c978a1e82",
       "effects": [
-        "Removal",
         "Protection"
       ]
     },
@@ -62953,7 +62963,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "a83a2fe7-36df-4a38-8dd3-605eeb5f58f1",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "ee3b72ac-35b6-45d0-bb50-5a5899b291b1": {
       "name": "Morgue Burst",
@@ -63472,7 +63484,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "a2971a0e-ea25-4b83-8f87-0aa5683ad9fc",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "e6eff050-f1f6-49ce-a92e-1d1e13e51084": {
       "name": "Muraganda Petroglyphs",
@@ -66655,7 +66669,6 @@
       "label": "",
       "scryfallId": "dbca168e-095f-4fbc-88f8-3048d83caf94",
       "effects": [
-        "Removal",
         "Bounce",
         "Reanimate",
         "Protection"
@@ -69288,8 +69301,7 @@
       "label": "",
       "scryfallId": "505532ef-3791-4253-8a2a-b6f02ef45ab4",
       "effects": [
-        "Tokens",
-        "Removal"
+        "Tokens"
       ]
     },
     "185d84f4-6095-46ef-917f-3d662a86aa81": {
@@ -71495,7 +71507,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "b26ff2fa-82de-4831-9341-a446abf9ed03",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "e2fc5069-374b-4feb-acd9-976ddf90e504": {
       "name": "Pious Evangel // Wayward Disciple",
@@ -74079,6 +74093,7 @@
       "label": "",
       "scryfallId": "4179a72b-8482-46ec-9815-f5d6d94b5aa5",
       "effects": [
+        "Removal",
         "Burn"
       ]
     },
@@ -75381,6 +75396,7 @@
       "label": "",
       "scryfallId": "73037cc3-1986-42b9-9917-fa20418c0d2f",
       "effects": [
+        "Removal",
         "Burn"
       ]
     },
@@ -82090,7 +82106,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "7fc6a735-cbf5-4af2-b15c-7ced82f0d9da",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "49f3bd5a-9c2a-45b8-aa10-9c6471028a0f": {
       "name": "Satyr Grovedancer",
@@ -83622,6 +83640,7 @@
       "label": "",
       "scryfallId": "0008098c-2985-493f-bc37-0a8fb96cad65",
       "effects": [
+        "Removal",
         "Burn"
       ]
     },
@@ -90247,6 +90266,7 @@
       "label": "",
       "scryfallId": "03543d10-202b-4b07-a34b-64216a745d84",
       "effects": [
+        "Removal",
         "Burn"
       ]
     },
@@ -91676,6 +91696,7 @@
       "label": "",
       "scryfallId": "e7a12664-a930-4159-8311-19862488fb05",
       "effects": [
+        "Removal",
         "Pacify"
       ]
     },
@@ -100483,8 +100504,7 @@
       "label": "",
       "scryfallId": "09811f17-058e-4ffb-a76b-27d64a31b417",
       "effects": [
-        "Tokens",
-        "Removal"
+        "Tokens"
       ]
     },
     "ee9c57c6-41ef-4328-8417-e5a433eadf17": {
@@ -102560,8 +102580,7 @@
       "label": "",
       "scryfallId": "6d82c4c7-7ed4-4a8d-9ab8-7a9dd43b8970",
       "effects": [
-        "Tokens",
-        "Removal"
+        "Tokens"
       ]
     },
     "0fd11de4-2dfd-4345-b3cb-d7d65e11c6d9": {
@@ -103069,7 +103088,6 @@
       "label": "",
       "scryfallId": "160d3bf1-5f8b-431c-bb4e-a6874c69817a",
       "effects": [
-        "Removal",
         "Protection"
       ]
     },
@@ -107562,9 +107580,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "611d0e10-e767-4e66-b1f1-02f1624fab2b",
-      "effects": [
-        "Removal"
-      ]
+      "effects": []
     },
     "6686b897-64a9-4482-9563-57c88bc83d71": {
       "name": "Voidwielder",
@@ -109584,6 +109600,7 @@
       "label": "",
       "scryfallId": "396c8c41-70b4-4189-9160-8b7367a817a2",
       "effects": [
+        "Removal",
         "Pacify"
       ]
     },
@@ -111191,7 +111208,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "1ec2084c-fb72-4e8b-84d2-361cbf333d8e",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "c6fead73-0473-4b57-899a-9f8c5b4f896d": {
       "name": "Wolf's Quarry",

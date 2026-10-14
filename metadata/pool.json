@@ -2864,7 +2864,6 @@
       "scryfallId": "20ded7af-8086-465e-a980-3099217d324c",
       "effects": [
         "Tokens",
-        "Removal",
         "Wipe"
       ]
     },
@@ -13660,7 +13659,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "1b948181-4688-455c-97ae-990d0ec50f1d",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "503094aa-6f8f-42c1-ad5a-9305934e5f0c": {
       "name": "Myrel, Shield of Argive",
@@ -15495,9 +15496,7 @@
       "rating": 3,
       "label": "",
       "scryfallId": "9163cb04-ee28-4127-b53a-89c546996d7d",
-      "effects": [
-        "Removal"
-      ]
+      "effects": []
     },
     "f89d093d-c815-4df7-a348-2005aa227586": {
       "name": "Planetarium of Wan Shi Tong",
@@ -21043,7 +21042,6 @@
       "label": "",
       "scryfallId": "06651379-7f21-49a1-8bff-adbe57296d46",
       "effects": [
-        "Removal",
         "Buff"
       ]
     },
@@ -25332,7 +25330,6 @@
       "scryfallId": "1e4f2fc8-63f4-4732-a4bb-80c7016fa19a",
       "effects": [
         "Tokens",
-        "Removal",
         "Buff"
       ]
     },

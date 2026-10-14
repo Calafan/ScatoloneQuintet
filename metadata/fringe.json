@@ -4460,7 +4460,6 @@
       "label": "",
       "scryfallId": "3c094ce7-683c-4ef5-8ac3-c930386da78f",
       "effects": [
-        "Removal",
         "Regrowth"
       ]
     },
@@ -10845,7 +10844,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "a0174556-9f9b-4756-84ca-d14a5a60720c",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "75719f87-ce1a-40d6-ac5a-5ebf0c936c84": {
       "name": "Blitzball",
@@ -15046,6 +15047,7 @@
       "label": "",
       "scryfallId": "32869a36-f21e-4348-a787-871daa6151df",
       "effects": [
+        "Removal",
         "Pacify"
       ]
     },
@@ -17026,7 +17028,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "0118733f-ddea-4527-9acd-24a006b49aa4",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "a2c4537e-70a6-416d-9e8b-f549ad535147": {
       "name": "Chandra's Magmutt",
@@ -17279,7 +17283,9 @@
       "rating": 2,
       "label": "",
       "scryfallId": "4bf147a6-2282-4120-9cbd-d0309fc9b02b",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "fa47c190-d66a-41b0-aa08-21036cda4223": {
       "name": "Charge of the Mites",
@@ -28756,6 +28762,7 @@
       "label": "",
       "scryfallId": "2001eef3-42cd-45f7-9b48-ece13c75827f",
       "effects": [
+        "Removal",
         "Pacify"
       ]
     },
@@ -30345,7 +30352,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "b5f700c6-7591-481d-b223-21f5b820e831",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "0380e99c-18f9-4472-8223-bb208e5f0963": {
       "name": "Earth Village Ruffians",
@@ -46924,9 +46933,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "0f2e89f2-6101-4ada-b925-2ae6f754b39e",
-      "effects": [
-        "Removal"
-      ]
+      "effects": []
     },
     "57d7deaf-ee08-49ab-b239-1c77a1f65225": {
       "name": "Halls of Mist",
@@ -63336,8 +63343,7 @@
       "label": "",
       "scryfallId": "48fe7387-f956-47f0-a5c3-63802ae4d3d9",
       "effects": [
-        "Tokens",
-        "Removal"
+        "Tokens"
       ]
     },
     "85905607-dceb-4c37-81a3-ab441ce9490c": {
@@ -70671,6 +70677,7 @@
       "scryfallId": "30005416-7913-4fbf-9987-2b988ad5a6d3",
       "effects": [
         "Tokens",
+        "Removal",
         "CardAdvantage"
       ]
     },
@@ -82732,8 +82739,7 @@
       "label": "",
       "scryfallId": "2a196419-83f9-4286-9e3d-93f0518e281d",
       "effects": [
-        "Tokens",
-        "Removal"
+        "Tokens"
       ]
     },
     "098a43e3-341d-4b27-8c17-ef5990e21b0a": {
@@ -84568,7 +84574,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "0ab97a84-fe8c-4986-afd8-3abdcc029f7f",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "d851312f-8b4e-4d8e-bfee-c470853be930": {
       "name": "Relic Axe",
@@ -94624,7 +94632,9 @@
       "rating": 2,
       "label": "",
       "scryfallId": "b1e623a8-145e-4649-b2cc-d3bb8a93f0f3",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "a43500ed-4aa6-49de-8a6e-a1781301b108": {
       "name": "Shower of Sparks",
@@ -95070,6 +95080,7 @@
       "label": "",
       "scryfallId": "118995a6-8471-47ac-9404-700ce7fc46f6",
       "effects": [
+        "Removal",
         "Filter",
         "Pacify"
       ]
@@ -124212,7 +124223,8 @@
       "label": "",
       "scryfallId": "3bd9e99a-ae8c-4323-aa86-b19288c877d4",
       "effects": [
-        "Tokens"
+        "Tokens",
+        "Removal"
       ]
     },
     "6ad61622-a70f-423c-99e3-b1ef6ead0b31": {
@@ -125419,7 +125431,6 @@
       "scryfallId": "3d94b4c3-7944-41b6-8c92-78fd6e50658d",
       "effects": [
         "Tokens",
-        "Removal",
         "Filter"
       ]
     },
