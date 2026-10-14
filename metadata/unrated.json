@@ -34248,6 +34248,7 @@
       "label": "",
       "scryfallId": "02b40fe4-901a-4832-8d52-a6bb5cc07b63",
       "effects": [
+        "Removal",
         "Buff",
         "Burn"
       ]
@@ -47297,7 +47298,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "413c3671-f49d-47e0-a6b4-bc60c09204da",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "3c2445ee-84d5-47de-8b09-dbdc89ca2db7": {
       "name": "Immerwolf",
