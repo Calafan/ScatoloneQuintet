@@ -2406,7 +2406,8 @@
       "label": "",
       "scryfallId": "0055ea30-20fb-4324-a632-8fed87628f05",
       "effects": [
-        "Disenchant"
+        "Disenchant",
+        "LandDestruction"
       ]
     },
     "d9c29e6e-5949-4599-bf74-b9539e753f76": {
@@ -5530,7 +5531,6 @@
       "label": "",
       "scryfallId": "25fe7b73-7e7c-436f-aae1-21bab34efefe",
       "effects": [
-        "RemovePermanent",
         "Protection"
       ]
     },
@@ -6312,7 +6312,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "250b3ddb-bfd1-4a3c-bafb-4ef79a3edf08",
-      "effects": []
+      "effects": [
+        "Discard"
+      ]
     },
     "d0375311-b0ea-4870-bc2c-4894da088dc3": {
       "name": "Ellywick Tumblestrum",

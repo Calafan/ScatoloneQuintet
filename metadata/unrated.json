@@ -2511,7 +2511,6 @@
       "label": "",
       "scryfallId": "16b9f43a-9c3f-4bfa-9eb1-734189a4bb1f",
       "effects": [
-        "RemovePermanent",
         "Filter",
         "Steal"
       ]
@@ -8216,7 +8215,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "b6072316-a837-4794-9ad8-d009f351360f",
-      "effects": []
+      "effects": [
+        "Mill"
+      ]
     },
     "68eb3566-c74d-42a6-89a6-b468677fc485": {
       "name": "Benthicore",
@@ -11496,9 +11497,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "038ac338-e756-4722-ae9c-da25d3435ab6",
-      "effects": [
-        "RemovePermanent"
-      ]
+      "effects": []
     },
     "796009b3-73b5-42c0-a490-66f12be5a42e": {
       "name": "Braid of Fire",
@@ -20116,7 +20115,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "1a623415-46c0-45aa-ab75-1e2d9708013a",
-      "effects": []
+      "effects": [
+        "Mill"
+      ]
     },
     "0cb7f468-070a-463c-b00c-16db3421d16a": {
       "name": "Culling Mark",
@@ -24175,7 +24176,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "0ea28dd5-57b0-4255-a3d9-1c190c446f20",
-      "effects": []
+      "effects": [
+        "Mill"
+      ]
     },
     "3e554ab4-8179-4d3e-84ba-9a67b51cff7f": {
       "name": "Diminish",
@@ -25206,7 +25209,8 @@
       "label": "",
       "scryfallId": "12e7e2b5-3141-4a19-aa49-91ab7e5c211c",
       "effects": [
-        "Burn"
+        "Burn",
+        "Mill"
       ]
     },
     "2c438ecb-b127-4450-9395-2d1eea294f30": {
@@ -32181,7 +32185,8 @@
       "label": "",
       "scryfallId": "89923289-0f62-444e-a781-d9948f32eedd",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Mill"
       ]
     },
     "cffcd887-660c-4646-9333-bcc8549f6609": {
@@ -32563,9 +32568,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "221a347c-ee99-47b2-a502-cfd87f67f61a",
-      "effects": [
-        "RemovePermanent"
-      ]
+      "effects": []
     },
     "5ae3cbb9-9f0c-4077-ae7c-fba660d7fb4b": {
       "name": "Felidar Sovereign",
@@ -62033,7 +62036,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "f8c2e662-d8c3-44d4-b666-fe0d4a046271",
-      "effects": []
+      "effects": [
+        "Mill"
+      ]
     },
     "49cade2f-92ab-48c8-aed3-d52ab3263506": {
       "name": "Mist Leopard",
@@ -66296,6 +66301,7 @@
       "label": "",
       "scryfallId": "86089a5c-fa5a-4c51-ac15-4eb3b0824349",
       "effects": [
+        "Disenchant",
         "LandDestruction"
       ]
     },
@@ -67320,9 +67326,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "5a7fadca-0a94-4624-ab95-2c2410829824",
-      "effects": [
-        "RemovePermanent"
-      ]
+      "effects": []
     },
     "385d70ed-07ab-4e01-a473-4408f4bcf6d0": {
       "name": "Oath of the Ancient Wood",
@@ -68439,7 +68443,8 @@
       "label": "",
       "scryfallId": "24ae75f6-fb74-422c-93f6-a0be7f919e47",
       "effects": [
-        "Tokens"
+        "Tokens",
+        "Mill"
       ]
     },
     "631d0de7-4810-4bc3-b86b-8e2505ed91f4": {
@@ -80435,7 +80440,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "f0bdbe64-d985-4bc5-bb1d-4cbf12ef60b2",
-      "effects": []
+      "effects": [
+        "Mill"
+      ]
     },
     "8b3cec74-0d32-4762-b3e0-3f4e5eb6f179": {
       "name": "Ruination Rioter",
@@ -81511,7 +81518,8 @@
       "label": "",
       "scryfallId": "4b8ce2a9-9d8e-442b-bc12-74545ceb65bd",
       "effects": [
-        "Filter"
+        "Filter",
+        "Mill"
       ]
     },
     "502e991c-f4de-4095-adac-cb0c25e44a7c": {
@@ -87847,7 +87855,8 @@
       "label": "",
       "scryfallId": "bf60850a-0390-475e-b23f-171632e09625",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Mill"
       ]
     },
     "68f1db12-82fb-4bf1-908d-db38fd67efe5": {
@@ -89233,7 +89242,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "9782b463-0677-40f4-ab2c-4c3ff19f1168",
-      "effects": []
+      "effects": [
+        "Mill"
+      ]
     },
     "fe0d73b6-39eb-49cc-932b-f443d7638176": {
       "name": "Sludge Strider",
@@ -97614,7 +97625,6 @@
       "label": "",
       "scryfallId": "c878bdc0-d697-4a2f-bba5-758b27f4247a",
       "effects": [
-        "RemovePermanent",
         "Protection"
       ]
     },
@@ -99780,7 +99790,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "46f9eeb2-22f6-4bdb-bbf8-f53774cc6226",
-      "effects": []
+      "effects": [
+        "Mill"
+      ]
     },
     "5cc4ee18-675e-4707-b658-ec746a1c03d8": {
       "name": "Thought Hemorrhage",
@@ -103775,7 +103787,8 @@
       "label": "",
       "scryfallId": "1192f7a9-102e-4b3a-b154-18c8eb332217",
       "effects": [
-        "RemovePermanent"
+        "RemovePermanent",
+        "Mill"
       ]
     },
     "b817bc56-9b4d-4c50-bafa-3c652b99578f": {
@@ -106746,7 +106759,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "1ec66525-a7e9-450f-83df-03d9957837d5",
-      "effects": []
+      "effects": [
+        "Mill"
+      ]
     },
     "3d747c43-a09b-4209-b042-2b89156612d8": {
       "name": "Vile Manifestation",

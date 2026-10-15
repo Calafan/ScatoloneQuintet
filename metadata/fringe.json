@@ -83128,7 +83128,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "9843f847-6a8f-4042-86b6-f7fe5a47cc57",
-      "effects": []
+      "effects": [
+        "Mill"
+      ]
     },
     "2d668f67-7cde-447a-8eb3-35c0c5c5ab69": {
       "name": "Raven Wings",
@@ -90661,7 +90663,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "29c3b7fa-78e7-4a0c-bcdc-4b829638e3f6",
-      "effects": []
+      "effects": [
+        "Mill"
+      ]
     },
     "2d98d8d8-e277-42c4-bf94-dd7d7f2047c3": {
       "name": "Scandalmonger",
@@ -105144,7 +105148,6 @@
       "label": "",
       "scryfallId": "45f2ab6e-019e-4e72-be06-9c8cd97d54d4",
       "effects": [
-        "RemovePermanent",
         "Reanimate",
         "Protection"
       ]
