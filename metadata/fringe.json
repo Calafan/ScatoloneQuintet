@@ -44598,6 +44598,7 @@
       "label": "",
       "scryfallId": "27d42bd9-0307-42ec-a4cd-b39b69b607d0",
       "effects": [
+        "Ramp",
         "Buff"
       ],
       "reviewedAt": "2026-09-23T12:51:54.1089748+00:00"
@@ -83889,7 +83890,6 @@
       "label": "",
       "scryfallId": "912fcd14-5e81-418c-997b-771f2f38f63d",
       "effects": [
-        "Ramp",
         "ManaFixing"
       ],
       "reviewedAt": "2026-09-12T10:05:45.0988537+00:00"
@@ -88000,7 +88000,9 @@
       "rating": 2,
       "label": "",
       "scryfallId": "40c01dd8-ff8e-4e0a-8695-c60ff8d059df",
-      "effects": [],
+      "effects": [
+        "Ramp"
+      ],
       "reviewedAt": "2026-10-08T22:27:54.964933+00:00"
     },
     "1a33a5c2-5aa1-48e5-95a8-d52cdce980de": {
@@ -89491,6 +89493,7 @@
       "label": "",
       "scryfallId": "227036a1-7570-4657-9c0a-635dd6d889e9",
       "effects": [
+        "Ramp",
         "Buff"
       ],
       "reviewedAt": "2026-09-10T15:29:39.2005564+00:00"

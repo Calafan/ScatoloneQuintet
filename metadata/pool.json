@@ -126,7 +126,6 @@
       "scryfallId": "627c392c-4d18-4eb2-a4e8-c668f61f5487",
       "effects": [
         "Tokens",
-        "Ramp",
         "Discard",
         "CardAdvantage"
       ],
