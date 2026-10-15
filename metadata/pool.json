@@ -6062,8 +6062,7 @@
       "effects": [
         "Removal",
         "Disenchant"
-      ],
-      "reviewedAt": "2026-09-11T13:25:04.327101+00:00"
+      ]
     },
     "f8966fd5-2926-4ba0-b7d6-cfea40cd4e05": {
       "name": "Earthbender Ascension",
@@ -13354,8 +13353,7 @@
       "effects": [
         "Removal",
         "RemovePermanent"
-      ],
-      "reviewedAt": "2026-10-09T13:54:12.9948655+00:00"
+      ]
     },
     "82aa1402-4b1c-4343-aba5-dd3271cc1ac5": {
       "name": "Molten Exhale",
