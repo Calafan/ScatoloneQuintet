@@ -32130,7 +32130,8 @@
       "scryfallId": "0ee5aa80-32cc-486e-bbb2-5386eadaf4ca",
       "effects": [
         "Removal",
-        "Burn"
+        "Burn",
+        "Tutor"
       ],
       "reviewedAt": "2026-10-06T07:03:11.3872437+00:00"
     },
