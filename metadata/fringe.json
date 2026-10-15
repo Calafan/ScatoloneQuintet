@@ -902,8 +902,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "4d6c2d5c-b3ce-4c38-9af2-7c61f322923b",
-      "effects": [],
-      "reviewedAt": "2026-10-09T13:23:51.2828575+00:00"
+      "effects": []
     },
     "fb49c7d2-d750-4676-b90e-76e7fae70a25": {
       "name": "Adorned Crocodile",
@@ -2744,8 +2743,7 @@
       "scryfallId": "358026de-ab7c-4a17-8cac-cfbee391b127",
       "effects": [
         "Tokens"
-      ],
-      "reviewedAt": "2026-09-23T10:51:06.8794154+00:00"
+      ]
     },
     "054c00b4-c940-455a-ad88-b8aa35931ecf": {
       "name": "Alter Reality",
@@ -26577,8 +26575,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "828f8f68-abe2-4e39-b3e4-991dceacd5d9",
-      "effects": [],
-      "reviewedAt": "2026-09-05T10:34:11.8712422+00:00"
+      "effects": []
     },
     "ae96fe7e-8d89-4f44-9cc4-3c9b124fdc4b": {
       "name": "Dig Up",
@@ -28071,8 +28068,7 @@
       "scryfallId": "0d5674f9-22b2-45f9-902d-4fd245485c60",
       "effects": [
         "Ramp"
-      ],
-      "reviewedAt": "2026-09-11T21:34:28.3825235+00:00"
+      ]
     },
     "0880b36a-6141-4955-b532-cf88daca0869": {
       "name": "Draconian Cylix",
@@ -40045,8 +40041,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "84c55b5e-fdc2-4796-8c50-62715b8b15a3",
-      "effects": [],
-      "reviewedAt": "2026-10-09T14:57:56.9718889+00:00"
+      "effects": []
     },
     "466cf331-2d9c-4ebc-84f6-30c890e1b637": {
       "name": "Frontier Seeker",
@@ -40974,8 +40969,7 @@
       "scryfallId": "15dc4f0d-88f1-4434-a36e-ac9aae7b295c",
       "effects": [
         "Regrowth"
-      ],
-      "reviewedAt": "2026-10-06T14:06:48.470941+00:00"
+      ]
     },
     "4a4418fa-7574-4027-aa09-4ca789be15ba": {
       "name": "Gallowbraid",
@@ -44379,8 +44373,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "09167603-93ab-488b-88eb-37f7cf9e3e19",
-      "effects": [],
-      "reviewedAt": "2026-09-04T14:49:35.8730162+00:00"
+      "effects": []
     },
     "f621dcaa-c500-4a17-a65a-60d9b5516a3b": {
       "name": "Goblin Wizardry",
@@ -57798,8 +57791,7 @@
       "scryfallId": "4611fd39-a212-4d04-8c9e-d5d9c2bf3c7d",
       "effects": [
         "Filter"
-      ],
-      "reviewedAt": "2026-10-09T15:06:49.180955+00:00"
+      ]
     },
     "fbbc3acb-c917-44ff-ac6f-9dd6ebe3f4ad": {
       "name": "Kird Ape",
@@ -81307,8 +81299,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "7310000d-1b17-4d7c-bab8-81015e844b54",
-      "effects": [],
-      "reviewedAt": "2026-10-09T14:39:18.9561586+00:00"
+      "effects": []
     },
     "407d9d09-3db6-49b0-9e80-4e1538156e44": {
       "name": "Quest for the Necropolis",
@@ -95001,8 +94992,7 @@
       "scryfallId": "2ccf3eea-a921-4db5-b071-4d9a53756863",
       "effects": [
         "Filter"
-      ],
-      "reviewedAt": "2026-10-09T12:54:09.3678196+00:00"
+      ]
     },
     "0c2095b0-478d-45b4-a34d-b19eb77cea4c": {
       "name": "Sidequest: Card Collection // Magicked Card",
@@ -108972,8 +108962,7 @@
       "scryfallId": "ed77def5-ac92-4907-805d-261cae0db357",
       "effects": [
         "Removal"
-      ],
-      "reviewedAt": "2026-09-23T21:52:13.245633+00:00"
+      ]
     },
     "3d36f0ab-d333-4a08-ad1b-5b7e1ddb647c": {
       "name": "The Ring Goes South",
@@ -122219,8 +122208,7 @@
       "scryfallId": "31479296-5ea7-470c-9d3f-257e67844fbc",
       "effects": [
         "Protection"
-      ],
-      "reviewedAt": "2026-09-04T23:17:42.5843219+00:00"
+      ]
     },
     "c7c660bd-5f58-464c-bc75-dd244b7ca535": {
       "name": "Willow Satyr",
