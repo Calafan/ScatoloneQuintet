@@ -2853,9 +2853,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "00e27348-54c7-4b48-bd04-884938c84728",
-      "effects": [
-        "Reanimate"
-      ]
+      "effects": []
     },
     "fcfcac6b-6d26-4ffe-ae9e-b0ee7fa49787": {
       "name": "Angel of Grace",
@@ -3194,7 +3192,6 @@
       "scryfallId": "f17103dd-f31b-4f6e-b2ea-4ea91815bdd6",
       "effects": [
         "Wipe",
-        "Reanimate",
         "Burn"
       ]
     },
@@ -9905,9 +9902,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "30644004-5ff9-4b74-804e-502991302d6b",
-      "effects": [
-        "Reanimate"
-      ]
+      "effects": []
     },
     "434e82b5-abd4-41ac-a5b1-2dd01c667374": {
       "name": "Bloodline Keeper // Lord of Lineage",
@@ -9923,9 +9918,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "42bffd03-3821-4b0f-9535-2eb455154587",
-      "effects": [
-        "Reanimate"
-      ]
+      "effects": []
     },
     "d8560ee9-8cbb-440b-a132-e102a1eb3e89": {
       "name": "Bloodlord of Vaasgoth",
@@ -12451,9 +12444,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "09c010da-1f05-4ab2-a8e7-f9d7762ea502",
-      "effects": [
-        "Reanimate"
-      ]
+      "effects": []
     },
     "e39a1f6b-6b13-4a8b-ac0c-63ede4636812": {
       "name": "Bruse Tarl, Boorish Herder",
@@ -13326,8 +13317,7 @@
       "label": "",
       "scryfallId": "ee35f96c-6060-4456-897e-27b74c8c2137",
       "effects": [
-        "Filter",
-        "Cheat"
+        "Filter"
       ]
     },
     "a28ef7a5-4b47-4429-838b-a64a7c0701d0": {
@@ -38405,8 +38395,7 @@
       "label": "",
       "scryfallId": "6674c7f7-8022-4457-9a8a-6b87ff3348b0",
       "effects": [
-        "CardAdvantage",
-        "Cheat"
+        "CardAdvantage"
       ]
     },
     "1d67f5ff-1fce-45e5-b6a1-416c569351e2": {
@@ -47773,7 +47762,6 @@
       "label": "",
       "scryfallId": "4e13f122-0dfe-42f3-9815-9ae1a29fca99",
       "effects": [
-        "Reanimate",
         "Tutor"
       ]
     },
@@ -47800,9 +47788,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "024e80e3-a36f-4c07-99d3-5dd8a2d8998f",
-      "effects": [
-        "Cheat"
-      ]
+      "effects": []
     },
     "d45a4924-daa0-4ac3-afd7-b66f636ce870": {
       "name": "Incendiary Command",
@@ -50967,9 +50953,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "0e42cd7b-8ce5-46a6-a44b-2b1dc8477d86",
-      "effects": [
-        "Cheat"
-      ]
+      "effects": []
     },
     "6307ec34-bef6-4ac6-a363-f9bef0d03b3b": {
       "name": "Kaalia, Zenith Seeker",
@@ -53253,9 +53237,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "53d74710-7396-4984-afd8-fe47059e3d12",
-      "effects": [
-        "Reanimate"
-      ]
+      "effects": []
     },
     "9d834f1b-a4b5-4676-bb6d-2ffc6b3bccd2": {
       "name": "Knollspine Dragon",
@@ -58904,9 +58886,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "044dd138-fc8e-4a24-ad6d-2df71f94c0c0",
-      "effects": [
-        "Reanimate"
-      ]
+      "effects": []
     },
     "e9e55768-ed62-4998-9922-dbcdeab12aee": {
       "name": "March of the Drowned",
@@ -60083,9 +60063,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "8c41a0ad-138e-4eef-8f7f-35017e3b086f",
-      "effects": [
-        "Reanimate"
-      ]
+      "effects": []
     },
     "8f1d65ae-7ce5-4bb6-8c00-eace25ff837c": {
       "name": "Measure of Wickedness",
@@ -64049,8 +64027,7 @@
       "scryfallId": "71a76840-47f7-4e1e-b68b-00cb7da98cdf",
       "effects": [
         "Tokens",
-        "Tutor",
-        "Cheat"
+        "Tutor"
       ]
     },
     "ea2cbf5a-2def-450b-9db8-40a5b6a604d0": {
@@ -66290,8 +66267,7 @@
       "label": "",
       "scryfallId": "1b4c26ab-0f7b-4163-b9e4-a415b91352a6",
       "effects": [
-        "Tutor",
-        "Cheat"
+        "Tutor"
       ]
     },
     "d14c9d2b-41c7-4c9a-a66a-cda34d29c7ba": {
@@ -72723,9 +72699,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "32faaece-2775-4ab5-8376-d9f68959d5ac",
-      "effects": [
-        "Cheat"
-      ]
+      "effects": []
     },
     "2519ccc0-c206-41fb-aa15-2ef88025ff96": {
       "name": "Prehistoric Pet",
@@ -74797,9 +74771,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "77983bbf-6761-4126-82b4-bdcdd6b8e1dc",
-      "effects": [
-        "Cheat"
-      ]
+      "effects": []
     },
     "c762361a-0b72-4db5-8b6f-715ca42d5067": {
       "name": "Quest for the Gemblades",
@@ -75889,9 +75861,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "250ee8d2-6f03-44a5-8f4c-ced4eaa4cdea",
-      "effects": [
-        "Reanimate"
-      ]
+      "effects": []
     },
     "5dc34e93-97e3-434b-9f12-f45c6d556f13": {
       "name": "Rampage of the Clans",
@@ -77502,9 +77472,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "0c4b091e-3f61-4877-86af-2cf21282af16",
-      "effects": [
-        "Reanimate"
-      ]
+      "effects": []
     },
     "6881e3ac-9e3d-49d2-b2ac-63feb6f0f2ff": {
       "name": "Relentless Hunter",
@@ -80104,9 +80072,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "83b0c93a-d1f7-4694-990b-6c2c70648bbc",
-      "effects": [
-        "Reanimate"
-      ]
+      "effects": []
     },
     "88c187fd-b3d3-4218-8e63-380a9ca9f1b4": {
       "name": "Rot Shambler",
@@ -82024,8 +81990,7 @@
         "Tokens",
         "CardAdvantage",
         "Tutor",
-        "ManaFixing",
-        "Cheat"
+        "ManaFixing"
       ]
     },
     "d902074a-2a2b-42b7-a1e5-750862c64fbe": {
@@ -82127,8 +82092,7 @@
       "effects": [
         "Wipe",
         "Burn",
-        "Tutor",
-        "Cheat"
+        "Tutor"
       ]
     },
     "074cbe14-a0c8-4772-955a-b4052333d6ce": {
@@ -85326,8 +85290,7 @@
       "label": "",
       "scryfallId": "202c2323-6589-457a-af51-5528a98e7b30",
       "effects": [
-        "Tutor",
-        "Cheat"
+        "Tutor"
       ]
     },
     "7dacc5aa-ea4d-414e-8324-6a7d24bb7671": {
@@ -90114,8 +90077,7 @@
       "scryfallId": "219d3e48-e0b1-472d-ac45-11c14b292c9e",
       "effects": [
         "Removal",
-        "Burn",
-        "Cheat"
+        "Burn"
       ]
     },
     "5c780dda-ee76-482a-a610-53c321c4fdec": {
@@ -109157,9 +109119,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "3abab3d4-d525-41bf-85ee-fba7f999001f",
-      "effects": [
-        "Cheat"
-      ]
+      "effects": []
     },
     "9f90dcd1-e372-40c5-9de2-81392b0add06": {
       "name": "Warren Pilferers",
@@ -112763,9 +112723,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "0d19ea1f-8b39-4a7d-8aaa-e87fc09b15f2",
-      "effects": [
-        "Reanimate"
-      ]
+      "effects": []
     },
     "eadd88b6-e75a-4482-8382-561718121772": {
       "name": "Zombie Goliath",

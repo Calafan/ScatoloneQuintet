@@ -9237,9 +9237,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "6b46f93d-cdc5-4521-940d-e05d5463c30d",
-      "effects": [
-        "Cheat"
-      ]
+      "effects": []
     },
     "6b336228-92c0-4f14-a479-1f97aaeae018": {
       "name": "Belisarius Cawl",
@@ -10387,9 +10385,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "10b93890-25e3-4bc9-9768-4adbcca19fcf",
-      "effects": [
-        "Reanimate"
-      ]
+      "effects": []
     },
     "f068a0f3-48bc-4d5d-be79-c23c0be11c27": {
       "name": "Bladewing's Thrall",
@@ -16384,9 +16380,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "0b4dc1d3-53a1-411b-abf9-f5e4e80edc63",
-      "effects": [
-        "Reanimate"
-      ]
+      "effects": []
     },
     "d18c40cd-0f38-498b-8882-10381a831751": {
       "name": "Celestial Judgment",
@@ -24532,8 +24526,7 @@
       "label": "",
       "scryfallId": "9c78da23-e7ec-4a3d-9f79-09fb86993b26",
       "effects": [
-        "Removal",
-        "Reanimate"
+        "Removal"
       ]
     },
     "d23ca3d2-0731-4df4-a3c6-69ddf0c58601": {
@@ -24801,8 +24794,7 @@
       "label": "",
       "scryfallId": "cf0f58ac-88ef-445c-a12b-0bb1cf482298",
       "effects": [
-        "Tutor",
-        "Cheat"
+        "Tutor"
       ]
     },
     "0c7f9701-c39e-4f14-844a-15f2e3c41ca9": {
@@ -28339,8 +28331,7 @@
       "scryfallId": "0cb504a0-1dfb-49d0-84c3-7bd318d55481",
       "effects": [
         "Burn",
-        "Tutor",
-        "Cheat"
+        "Tutor"
       ]
     },
     "3e5d3574-cc92-434a-a210-fcda906391c8": {
@@ -33964,9 +33955,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "333db3bc-98e9-4635-b1b0-a7e57ee59165",
-      "effects": [
-        "Reanimate"
-      ]
+      "effects": []
     },
     "39acc3d0-85fc-4814-93f2-e709c3b2c86b": {
       "name": "Everything Comes to Dust",
@@ -43921,9 +43910,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "16cd79f1-88dd-40a0-b348-6eb6757e3b13",
-      "effects": [
-        "Cheat"
-      ]
+      "effects": []
     },
     "582fdfbe-c5fe-45d0-b3ff-e66db5183725": {
       "name": "Goblin Legionnaire",
@@ -45412,9 +45399,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "3c75650c-fefa-44ad-afd8-98e494d7cf3b",
-      "effects": [
-        "Reanimate"
-      ]
+      "effects": []
     },
     "9ea58a77-9b2e-4ae2-8a31-a51804900a3b": {
       "name": "Gravestone Strider",
@@ -47672,9 +47657,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "203ddc5e-3824-4a97-b97d-aeda7b82c704",
-      "effects": [
-        "Reanimate"
-      ]
+      "effects": []
     },
     "cbd2d38b-6402-44b7-ba27-d854268e31d0": {
       "name": "Haunting Wind",
@@ -67358,9 +67341,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "11dafdcc-bead-4c79-acfc-55cf2247a731",
-      "effects": [
-        "Cheat"
-      ]
+      "effects": []
     },
     "2593944c-1bde-4307-b3ca-f7ecbeb027c1": {
       "name": "Minion of the Wastes",
@@ -74414,9 +74395,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "0dc715da-970a-4525-a752-a3b7a0f1e87b",
-      "effects": [
-        "Reanimate"
-      ]
+      "effects": []
     },
     "7d086ae5-738c-4685-80ae-66bd9379d8f7": {
       "name": "Oraxid",
@@ -85481,7 +85460,6 @@
       "label": "",
       "scryfallId": "e85d85c2-9f34-4375-adcd-a1c5b487cacc",
       "effects": [
-        "Reanimate",
         "LandDestruction"
       ]
     },
@@ -93464,8 +93442,7 @@
       "label": "",
       "scryfallId": "50e816ac-679c-4305-80f8-33278e9371c5",
       "effects": [
-        "Tutor",
-        "Cheat"
+        "Tutor"
       ]
     },
     "9e9ec33b-b923-40e5-81a8-e1e78df63ec7": {
@@ -102923,8 +102900,7 @@
       "label": "",
       "scryfallId": "6d37e626-1f2e-4c26-a6a3-93eaddee1233",
       "effects": [
-        "Filter",
-        "Cheat"
+        "Filter"
       ]
     },
     "bd0e22d1-4789-406d-9293-3ade30365b32": {
@@ -111755,7 +111731,6 @@
       "label": "",
       "scryfallId": "30f965af-0960-4c01-be9a-bb6ff98636f6",
       "effects": [
-        "Reanimate",
         "Sacrifice"
       ]
     },
@@ -122580,8 +122555,7 @@
       "label": "",
       "scryfallId": "1b668301-be41-4184-b7e7-1f133a1b06bb",
       "effects": [
-        "Filter",
-        "Cheat"
+        "Filter"
       ]
     },
     "594827de-e85f-4aac-b0e6-d92878f0f26c": {
