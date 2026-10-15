@@ -198,7 +198,6 @@
       "label": "",
       "scryfallId": "120b71f5-3c4d-4e00-9a3d-6872416a4373",
       "effects": [
-        "Ramp",
         "ManaFixing"
       ]
     },
@@ -5326,7 +5325,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "15175742-11ae-4819-a5bd-412084b0b686",
-      "effects": []
+      "effects": [
+        "Ramp"
+      ]
     },
     "7aa5db50-5057-45fd-bce9-fb4a5e874263": {
       "name": "Astral Drift",
@@ -21679,8 +21680,7 @@
       "label": "",
       "scryfallId": "131a124f-f11e-4ea1-a7b2-b94eea988d4e",
       "effects": [
-        "Ramp",
-        "ManaFixing"
+        "Ramp"
       ]
     },
     "311eef28-21e9-44fa-96df-d281f0a9ba34": {
@@ -50491,7 +50491,6 @@
       "label": "",
       "scryfallId": "61751365-3acf-4eb8-b1f9-358ebccccf94",
       "effects": [
-        "Ramp",
         "ManaFixing"
       ]
     },
@@ -58546,7 +58545,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "1fcf02eb-2aaa-4c22-a3b3-f57019664118",
-      "effects": []
+      "effects": [
+        "Ramp"
+      ]
     },
     "6faa6b62-d516-415c-8029-223c3f18f8af": {
       "name": "Mana Seism",
@@ -59211,8 +59212,7 @@
       "label": "",
       "scryfallId": "c3a70329-ecae-4647-b912-75d936a6c8c5",
       "effects": [
-        "Ramp",
-        "ManaFixing"
+        "Ramp"
       ]
     },
     "774e474a-f2a1-4b62-8cfe-40ad509f9062": {
@@ -73253,7 +73253,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "97bd2780-f132-46dc-a33e-611dd7845bc4",
-      "effects": []
+      "effects": [
+        "ManaFixing"
+      ]
     },
     "27a3aa64-1de7-4b0c-af23-52886e7d258a": {
       "name": "Prismatic Undercurrents",
@@ -90689,7 +90691,6 @@
       "label": "",
       "scryfallId": "abefb30c-780d-4496-8fc6-6e1b80686c15",
       "effects": [
-        "Ramp",
         "ManaFixing"
       ]
     },
@@ -90724,7 +90725,7 @@
       "label": "",
       "scryfallId": "4d71bb44-1011-471c-9341-39efb2a5aaad",
       "effects": [
-        "Ramp"
+        "ManaFixing"
       ]
     },
     "557cc9a7-c8cc-4823-b108-2dfe648c789d": {
@@ -101871,8 +101872,7 @@
       "label": "",
       "scryfallId": "6151001a-cf4b-4f95-a986-7181313e2224",
       "effects": [
-        "Ramp",
-        "ManaFixing"
+        "Ramp"
       ]
     },
     "1bc7c38b-9571-4395-be90-922f92816987": {
@@ -104026,7 +104026,6 @@
       "label": "",
       "scryfallId": "393fc419-a6ce-447d-9994-744cf41f9a27",
       "effects": [
-        "Ramp",
         "ManaFixing"
       ]
     },
@@ -104890,7 +104889,6 @@
       "label": "",
       "scryfallId": "45d7ab0e-db37-4051-86dd-3ab09c047a2b",
       "effects": [
-        "Ramp",
         "ManaFixing"
       ]
     },
@@ -106194,8 +106192,7 @@
       "label": "",
       "scryfallId": "beec869b-fe2c-4f30-ae36-9ce5bdc555e1",
       "effects": [
-        "Ramp",
-        "ManaFixing"
+        "Ramp"
       ]
     },
     "c35540ad-9ab1-4be9-b97d-603813394a26": {
@@ -108402,9 +108399,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "02c9396d-28f2-40b7-908e-51db51da57a7",
-      "effects": [
-        "Ramp"
-      ]
+      "effects": []
     },
     "11284767-7095-4e0e-bc60-c69d58098348": {
       "name": "Wakestone Gargoyle",
@@ -111726,7 +111721,6 @@
       "label": "",
       "scryfallId": "7f1fe849-b407-4252-b175-3f4afbbcea1b",
       "effects": [
-        "Ramp",
         "ManaFixing"
       ]
     },

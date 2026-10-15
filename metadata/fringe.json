@@ -14265,8 +14265,7 @@
       "label": "",
       "scryfallId": "8c9ac05f-f47c-4569-a06e-793d28cbb936",
       "effects": [
-        "RemovePermanent",
-        "ManaFixing"
+        "RemovePermanent"
       ]
     },
     "29fd050c-dd1d-4e1b-b3cc-f7d8d18e4dcb": {
@@ -25385,6 +25384,7 @@
       "label": "",
       "scryfallId": "25d790b5-3a3d-436e-afd4-553d0bfbd58c",
       "effects": [
+        "Ramp",
         "CardAdvantage"
       ]
     },
@@ -25394,7 +25394,8 @@
       "label": "",
       "scryfallId": "2cfe404d-1a27-4627-9284-56188d92d5d5",
       "effects": [
-        "Tokens"
+        "Tokens",
+        "Ramp"
       ]
     },
     "3ad002de-8be3-48d2-a0e0-865538144789": {
@@ -26802,7 +26803,7 @@
       "label": "",
       "scryfallId": "6e29bae1-0643-4781-9edc-50a8e6d1a3a1",
       "effects": [
-        "Ramp"
+        "ManaFixing"
       ]
     },
     "d558b465-75c6-450e-b1f2-5843ad67de71": {
@@ -29455,7 +29456,8 @@
       "label": "",
       "scryfallId": "0a155b60-8aff-4492-8cfd-299a53f5cf1b",
       "effects": [
-        "Ramp"
+        "Ramp",
+        "ManaFixing"
       ]
     },
     "8a69a0f0-5f0f-4098-ab6d-be3233af5cd3": {
@@ -29644,7 +29646,6 @@
       "label": "",
       "scryfallId": "aa74e656-480a-4c1b-963d-1b207075c27f",
       "effects": [
-        "Ramp",
         "ManaFixing"
       ]
     },
@@ -34820,7 +34821,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "18da4c4e-bee1-4479-8c38-3030ef157a3d",
-      "effects": []
+      "effects": [
+        "Ramp"
+      ]
     },
     "422e1869-134f-463d-9fa1-86b66a998b3e": {
       "name": "Fabricate",
@@ -42827,8 +42830,8 @@
       "label": "",
       "scryfallId": "452abab0-cf23-4b9d-831a-7b9fa1fd582a",
       "effects": [
-        "Ramp",
         "Burn",
+        "ManaFixing",
         "LandDestruction"
       ]
     },
@@ -43169,8 +43172,7 @@
       "label": "",
       "scryfallId": "c60fbc33-6198-4661-967e-cc94f2788e4a",
       "effects": [
-        "Ramp",
-        "ManaFixing"
+        "Ramp"
       ]
     },
     "549e6de7-56e9-4f5c-8c88-30e446bc53bb": {
@@ -55255,7 +55257,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "6bf61883-2343-4a9f-9a34-99326a8827ad",
-      "effects": []
+      "effects": [
+        "Ramp"
+      ]
     },
     "f87df7d4-99e2-4340-9d0a-b96c397555db": {
       "name": "Jetmir's Fixer",
@@ -57007,7 +57011,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "080585c6-d946-4435-954a-0ada936dc3f1",
-      "effects": []
+      "effects": [
+        "Ramp"
+      ]
     },
     "2ac1c95c-2a9d-40bc-9cad-9cadfa3f19f7": {
       "name": "Kazandu Mammoth // Kazandu Valley",
@@ -63328,7 +63334,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "5516e81e-16ea-411c-9df0-ed3b03670220",
-      "effects": []
+      "effects": [
+        "Ramp"
+      ]
     },
     "49e9fba7-8465-4bbb-95db-73a7e149f494": {
       "name": "Maelstrom of the Spirit Dragon",
@@ -65195,7 +65203,7 @@
       "label": "",
       "scryfallId": "03757415-6b58-42d3-9452-a862e90647ee",
       "effects": [
-        "Ramp",
+        "ManaFixing",
         "LandDestruction"
       ]
     },
@@ -66923,7 +66931,7 @@
       "label": "",
       "scryfallId": "84b1be9b-ef70-4c29-9c1c-72a35c17031d",
       "effects": [
-        "Ramp"
+        "ManaFixing"
       ]
     },
     "7b0d7e62-0287-454a-8702-b0bfa7b41245": {
@@ -73160,14 +73168,18 @@
       "rating": 1,
       "label": "",
       "scryfallId": "03129d38-b4c7-428d-b69b-ed4553c40785",
-      "effects": []
+      "effects": [
+        "Ramp"
+      ]
     },
     "8b610f8f-c8dd-4eeb-bc6e-3bc706d5f63e": {
       "name": "Nyxbloom Ancient",
       "rating": 1,
       "label": "",
       "scryfallId": "5f2b2373-9052-4246-a644-1f5b723ea9f1",
-      "effects": []
+      "effects": [
+        "Ramp"
+      ]
     },
     "986ba716-3921-4f64-9acf-703200d666f6": {
       "name": "Nyxborn Brute",
@@ -82357,7 +82369,7 @@
       "label": "",
       "scryfallId": "2258b7b6-e679-4fcf-9cfe-2ff01a8996dc",
       "effects": [
-        "Ramp",
+        "ManaFixing",
         "LandDestruction"
       ]
     },
@@ -93903,7 +93915,7 @@
       "label": "",
       "scryfallId": "cc75ba0d-230e-4ca4-bb40-bd05af2a4457",
       "effects": [
-        "Ramp",
+        "ManaFixing",
         "LandDestruction"
       ]
     },
@@ -101022,6 +101034,7 @@
       "scryfallId": "92d8efd0-474d-467f-9000-1c0811d2afb5",
       "effects": [
         "Tokens",
+        "Ramp",
         "Buff"
       ]
     },
@@ -116250,7 +116263,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "2e2fbba8-1627-48d1-9b09-d314fddc5466",
-      "effects": []
+      "effects": [
+        "Ramp"
+      ]
     },
     "775c41fa-2316-43c9-af34-ac9c9b0db7e2": {
       "name": "Vadrok, Apex of Thunder",

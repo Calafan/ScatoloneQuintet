@@ -1854,7 +1854,9 @@
       "rating": 4,
       "label": "",
       "scryfallId": "a28c674c-ae89-416e-bac6-edfd9f24ee7b",
-      "effects": []
+      "effects": [
+        "ManaFixing"
+      ]
     },
     "9456c5b6-946d-403a-8ed0-dff9f921d98c": {
       "name": "Black Knight",
@@ -2941,7 +2943,9 @@
       "rating": 4,
       "label": "",
       "scryfallId": "9dda1e1c-b330-42e0-8547-97e2afc7615f",
-      "effects": []
+      "effects": [
+        "ManaFixing"
+      ]
     },
     "4bbc5df9-60d7-46c1-8856-91c9c74abf18": {
       "name": "Caelorna, Coral Tyrant",
@@ -3733,7 +3737,9 @@
       "rating": 4,
       "label": "",
       "scryfallId": "557470dc-c594-4b26-81b9-356bedb0c215",
-      "effects": []
+      "effects": [
+        "ManaFixing"
+      ]
     },
     "446db5a4-21b0-44c1-b12b-d365313dd67a": {
       "name": "Clifftop Lookout",
@@ -5126,6 +5132,7 @@
       "label": "",
       "scryfallId": "0896860c-d028-4193-89a5-97e05c12a1e7",
       "effects": [
+        "Ramp",
         "Buff"
       ]
     },
@@ -6808,9 +6815,7 @@
       "label": "",
       "scryfallId": "32ffc8eb-9518-455c-ada5-8b7596896dcf",
       "effects": [
-        "RemovePermanent",
-        "Ramp",
-        "ManaFixing"
+        "RemovePermanent"
       ]
     },
     "d3264482-2a5a-45e8-987f-593b8aceac12": {
@@ -7493,8 +7498,7 @@
       "label": "",
       "scryfallId": "05edfbbc-34e8-4046-966c-3a979468b95e",
       "effects": [
-        "Ramp",
-        "ManaFixing"
+        "Ramp"
       ]
     },
     "bdb9b2ce-342c-4935-8943-d0c3971b1e38": {
@@ -12458,7 +12462,9 @@
       "rating": 4,
       "label": "",
       "scryfallId": "51eb4a44-a5c8-49ed-b440-2462626bb638",
-      "effects": []
+      "effects": [
+        "ManaFixing"
+      ]
     },
     "3d268e48-3004-4384-bf52-e63243fb5e02": {
       "name": "Magda, Brazen Outlaw",
@@ -12686,7 +12692,9 @@
       "rating": 4,
       "label": "",
       "scryfallId": "08a1a78c-f715-4d92-a428-bcc409bdbd79",
-      "effects": []
+      "effects": [
+        "ManaFixing"
+      ]
     },
     "11a46cb6-ab01-4630-9541-782db2ef3b91": {
       "name": "Map the Frontier",
@@ -18349,7 +18357,9 @@
       "rating": 4,
       "label": "",
       "scryfallId": "d97f31e1-bcaf-4316-a2de-49e2cf7566ec",
-      "effects": []
+      "effects": [
+        "ManaFixing"
+      ]
     },
     "72c4c682-df97-4408-997b-e849f54aba39": {
       "name": "Seal from Existence",
@@ -22316,35 +22326,45 @@
       "rating": 4,
       "label": "",
       "scryfallId": "0786c046-0cf6-41c8-800a-082997d2fcbf",
-      "effects": []
+      "effects": [
+        "ManaFixing"
+      ]
     },
     "a8052556-8962-4130-86a8-6fb7b6a324f7": {
       "name": "Thriving Grove",
       "rating": 4,
       "label": "",
       "scryfallId": "0de19659-5b50-4917-b8dd-e030aa72868d",
-      "effects": []
+      "effects": [
+        "ManaFixing"
+      ]
     },
     "d1946630-e224-40db-8f0d-388b09622288": {
       "name": "Thriving Heath",
       "rating": 4,
       "label": "",
       "scryfallId": "06329ca8-75b0-409d-bb80-6b9164f4e22a",
-      "effects": []
+      "effects": [
+        "ManaFixing"
+      ]
     },
     "69fc70b8-b143-4662-ac95-e2743037239d": {
       "name": "Thriving Isle",
       "rating": 4,
       "label": "",
       "scryfallId": "2592bd6b-aea8-4fac-ad52-1801fcc7abe5",
-      "effects": []
+      "effects": [
+        "ManaFixing"
+      ]
     },
     "bff416bb-d193-4c45-b2c1-7c297dbfad08": {
       "name": "Thriving Moor",
       "rating": 4,
       "label": "",
       "scryfallId": "06a80fcc-b457-49c6-8c3a-0c5f58d74b2d",
-      "effects": []
+      "effects": [
+        "ManaFixing"
+      ]
     },
     "789b7af5-ac15-40b6-b5b7-f3fcdcfb52e1": {
       "name": "Thrun, Breaker of Silence",
