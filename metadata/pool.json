@@ -6061,7 +6061,6 @@
       "scryfallId": "9207362c-3605-4794-803f-ad1d0175fcca",
       "effects": [
         "Removal",
-        "RemovePermanent",
         "Disenchant"
       ],
       "reviewedAt": "2026-09-11T13:25:04.327101+00:00"
@@ -13353,7 +13352,8 @@
       "label": "",
       "scryfallId": "2487d124-210b-4808-888c-cd0a78aebd90",
       "effects": [
-        "Removal"
+        "Removal",
+        "RemovePermanent"
       ],
       "reviewedAt": "2026-10-09T13:54:12.9948655+00:00"
     },
