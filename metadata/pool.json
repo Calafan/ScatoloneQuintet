@@ -1355,8 +1355,7 @@
       "scryfallId": "340c5799-4964-44dd-8c48-8f3f3aba5211",
       "effects": [
         "Ramp"
-      ],
-      "reviewedAt": "2026-09-25T07:39:45.1637592+00:00"
+      ]
     },
     "13ff3222-91cb-4796-a34e-899ed817694c": {
       "name": "Badlands",
@@ -8675,8 +8674,7 @@
       "scryfallId": "206fb477-5f4e-42e6-a35a-1ceba5d85b78",
       "effects": [
         "Reanimate"
-      ],
-      "reviewedAt": "2026-09-12T09:18:47.506125+00:00"
+      ]
     },
     "986a7ad0-527a-4079-aa1b-c8acdf087020": {
       "name": "Ghostfire Slice",
@@ -11067,8 +11065,7 @@
       "effects": [
         "Tokens",
         "CardAdvantage"
-      ],
-      "reviewedAt": "2026-10-09T09:35:43.6542388+00:00"
+      ]
     },
     "f4629329-a79b-4460-a1bc-9ae0f59adf5a": {
       "name": "Joshua, Phoenix's Dominant // Phoenix, Warden of Fire",
@@ -23744,8 +23741,7 @@
       "effects": [
         "Tokens",
         "Burn"
-      ],
-      "reviewedAt": "2026-10-06T18:38:00.2258317+00:00"
+      ]
     },
     "3fe61a65-b1c0-4d15-b379-e4ce22c96941": {
       "name": "Urabrask, Heretic Praetor",
