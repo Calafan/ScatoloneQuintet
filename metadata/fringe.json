@@ -44602,8 +44602,7 @@
       "effects": [
         "Ramp",
         "Buff"
-      ],
-      "reviewedAt": "2026-09-23T12:51:54.1089748+00:00"
+      ]
     },
     "7534d0b3-4211-4add-8e8d-370c033518d3": {
       "name": "Goldfury Strider",
@@ -83903,8 +83902,7 @@
       "scryfallId": "912fcd14-5e81-418c-997b-771f2f38f63d",
       "effects": [
         "ManaFixing"
-      ],
-      "reviewedAt": "2026-09-12T10:05:45.0988537+00:00"
+      ]
     },
     "fe455177-d9e5-4893-ad87-ebbba5e2fa45": {
       "name": "Reckless Ogre",
@@ -88014,8 +88012,7 @@
       "scryfallId": "40c01dd8-ff8e-4e0a-8695-c60ff8d059df",
       "effects": [
         "Ramp"
-      ],
-      "reviewedAt": "2026-10-08T22:27:54.964933+00:00"
+      ]
     },
     "1a33a5c2-5aa1-48e5-95a8-d52cdce980de": {
       "name": "Rowdy Research",
@@ -89507,8 +89504,7 @@
       "effects": [
         "Ramp",
         "Buff"
-      ],
-      "reviewedAt": "2026-09-10T15:29:39.2005564+00:00"
+      ]
     },
     "7ce37c26-91ea-493f-bfc3-a890d4538bc1": {
       "name": "Samwise Gamgee",
