@@ -16782,7 +16782,9 @@
       "rating": 2,
       "label": "",
       "scryfallId": "1d47ddca-a363-4ab7-b7f2-d0e0043c9916",
-      "effects": []
+      "effects": [
+        "RemovePermanent"
+      ]
     },
     "029d08cb-da4d-4f4e-b667-62712af63260": {
       "name": "Chain of Plasma",
@@ -90503,7 +90505,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "574d1a02-a403-4b6e-8ce0-a472325c9c2c",
-      "effects": []
+      "effects": [
+        "RemovePermanent"
+      ]
     },
     "474f0675-4088-4f77-8081-f9ed7d492837": {
       "name": "Say Its Name",

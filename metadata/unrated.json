@@ -9424,7 +9424,6 @@
       "label": "",
       "scryfallId": "217dfa26-d3ad-4fe8-9db4-ddd753a4b679",
       "effects": [
-        "RemovePermanent",
         "Protection"
       ]
     },
@@ -11423,7 +11422,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "1542ad81-169e-4ac8-bd85-038494489594",
-      "effects": []
+      "effects": [
+        "RemovePermanent"
+      ]
     },
     "6f067bfd-1c59-463f-99e1-61161b43b405": {
       "name": "Bounty of Might",
@@ -11615,7 +11616,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "2e1bd3ff-f3cd-4e9d-ae2e-2c51d0aaec7f",
-      "effects": []
+      "effects": [
+        "RemovePermanent"
+      ]
     },
     "e56a9b7b-ce3f-4f5c-87d0-6f1d50d98ac3": {
       "name": "Bramblefort Fink",
@@ -23761,7 +23764,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "a87cb2f2-00ed-46a3-a69d-5360e1558b03",
-      "effects": []
+      "effects": [
+        "RemovePermanent"
+      ]
     },
     "b46526af-6b88-42c4-b317-4b499f151ff0": {
       "name": "Detainment Spell",
@@ -34397,9 +34402,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "1065c4c7-c022-4aa1-a99b-13566cf1d3e7",
-      "effects": [
-        "RemovePermanent"
-      ]
+      "effects": []
     },
     "9f679093-86a0-4211-8491-de1f6d81c483": {
       "name": "Flight Spellbomb",
@@ -38797,9 +38800,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "448f1348-081f-4bf7-8a52-71b1a6d59f93",
-      "effects": [
-        "RemovePermanent"
-      ]
+      "effects": []
     },
     "92c9aad6-35ec-425d-be7d-393328992820": {
       "name": "Glimmerpost",
@@ -62409,7 +62410,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "2fff6824-ebd7-4a13-8897-ee2467aab111",
-      "effects": []
+      "effects": [
+        "RemovePermanent"
+      ]
     },
     "86b98c3e-f568-4bfc-977f-d1be270936e5": {
       "name": "Molder",
@@ -65289,7 +65292,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "ee0683b2-8bc2-4c6a-964e-b909693b68c1",
-      "effects": []
+      "effects": [
+        "RemovePermanent"
+      ]
     },
     "b03397e5-56af-47c0-ab9a-746a0c99c568": {
       "name": "Nessian Game Warden",
@@ -65714,6 +65719,7 @@
       "label": "",
       "scryfallId": "0e3b1fea-5c2c-4848-8109-548f56b99d49",
       "effects": [
+        "RemovePermanent",
         "Burn",
         "Steal"
       ]
@@ -80026,7 +80032,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "0fe6051f-6252-4ad1-90ab-d21705a708d1",
-      "effects": []
+      "effects": [
+        "RemovePermanent"
+      ]
     },
     "9c83c32e-798e-40aa-9bb6-6ef5500d273b": {
       "name": "Rootrunner",
@@ -96449,7 +96457,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "0483c869-38dc-4b0b-82f3-dd08a1ab985f",
-      "effects": []
+      "effects": [
+        "RemovePermanent"
+      ]
     },
     "29a90fda-541e-4923-b3ed-e2b35d02c74b": {
       "name": "Sylvan Ranger",
@@ -98249,7 +98259,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "32141ae3-0c1c-480c-8f61-90a46d5ce54c",
-      "effects": []
+      "effects": [
+        "RemovePermanent"
+      ]
     },
     "3dd196b6-a85a-4e3e-bb57-ec34241f8117": {
       "name": "Terminus",
@@ -111474,7 +111486,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "0bb81647-e8ff-492e-a862-1b1ca142efe6",
-      "effects": []
+      "effects": [
+        "RemovePermanent"
+      ]
     },
     "5859fd59-8732-414a-8932-007980af495d": {
       "name": "Woodland Bellower",

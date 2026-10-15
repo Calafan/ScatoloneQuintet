@@ -19340,7 +19340,9 @@
       "rating": 4,
       "label": "",
       "scryfallId": "0f8fcb99-71c3-4638-903a-2548a1ddc42d",
-      "effects": []
+      "effects": [
+        "RemovePermanent"
+      ]
     },
     "eb44b65d-6b56-4f20-a4fb-c5dd147a54c4": {
       "name": "Skyclave Relic",
@@ -21314,7 +21316,6 @@
       "scryfallId": "18bffcab-638f-4492-b150-d6383e387002",
       "effects": [
         "Tokens",
-        "RemovePermanent",
         "Ramp",
         "Reanimate",
         "Pacify"
@@ -22987,7 +22988,6 @@
       "label": "",
       "scryfallId": "3336593c-c83c-48e7-9173-2c2b74b94d3b",
       "effects": [
-        "RemovePermanent",
         "Reanimate"
       ]
     },
@@ -24917,6 +24917,7 @@
       "scryfallId": "0d68dee5-56ff-45bb-a37e-9e2dfc07c5a7",
       "effects": [
         "Removal",
+        "RemovePermanent",
         "Burn",
         "Mill",
         "Regrowth"
