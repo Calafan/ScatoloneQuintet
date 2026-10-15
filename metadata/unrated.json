@@ -2250,7 +2250,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "810e2cfc-510c-43de-97be-533e999264f2",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "2baf2ee6-e290-4a2b-89a0-0e725edde06d": {
       "name": "Allied Reinforcements",
@@ -3356,7 +3358,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "175b6e34-9cb3-4c8d-9cc0-960082a9ee71",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "50de88d4-0beb-45e5-9664-d4f0e280e652": {
       "name": "Ant Queen",
@@ -3718,7 +3722,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "66aed11a-0831-4619-931f-7dfded999c66",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "1a62ba93-153c-4bed-9f6a-ff914df360c1": {
       "name": "Araumi of the Dead Tide",
@@ -16762,7 +16768,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "00e3ff89-9901-48ba-900c-5778cdd1b112",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "e1c13a19-46cd-474b-a46b-a483be6b91bb": {
       "name": "Cloudgoat Ranger",
@@ -18589,7 +18597,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "0ce7d93d-3998-4486-b277-e4f91f6e3feb",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "1253de62-6218-401c-9d98-a5ec8617e0d8": {
       "name": "Cosi's Ravager",
@@ -19802,7 +19812,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "fbf140fa-a901-41a5-a10f-f97ccef72fcc",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "618cd1bc-4422-441b-906f-1a209277be93": {
       "name": "Crushing Canopy",
@@ -21802,7 +21814,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "6ea1d34b-d17d-4b87-b1dc-d7aa59d9baad",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "64247fcb-0e1b-48c9-bdac-769d7edd8d1d": {
       "name": "Day of Destiny",
@@ -29667,7 +29681,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "0cbeeddb-0f22-46fd-80e1-1fc650fda577",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "aa5865f5-aafc-4e46-995b-f005aeefde91": {
       "name": "Ensouled Scimitar",
@@ -30399,7 +30415,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "825d3f4d-eba3-4c45-8846-03b246e93f6c",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "dbba75f5-2404-4bd5-982b-f6c4effa5316": {
       "name": "Ethereal Armor",
@@ -33086,7 +33104,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "0137de04-9fd7-41b0-b497-163e6e93432b",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "ad69f48e-c387-4376-a04f-37d3992c7946": {
       "name": "Fierce Witchstalker",
@@ -35134,7 +35154,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "11a3b2a9-5879-4b42-8e67-9ed1b788c90e",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "f60fb81a-969a-476c-a227-5231bbed4ad4": {
       "name": "Forsake the Worldly",
@@ -42338,7 +42360,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "7448f2db-97f9-49fd-aa8c-bc337177dd77",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "27d6b1fb-ce53-45d6-a601-9f5b9ee7ab2f": {
       "name": "Guardian of Cloverdell",
@@ -42881,7 +42905,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "fafd3018-1cfe-4c41-a08c-5c2ba3528c7e",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "42d121a2-5266-483a-ab16-e0a8073cd6a3": {
       "name": "Halimar Depths",
@@ -47918,7 +47944,6 @@
       "label": "",
       "scryfallId": "099b1265-11a5-48e2-9529-24fa3ea46377",
       "effects": [
-        "Tokens",
         "Removal",
         "Filter"
       ]
@@ -50257,7 +50282,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "145bf0e9-89a1-4f17-9afb-3107acea2e2b",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "5fe13418-c63c-4f3c-9a42-7ab06949e3cd": {
       "name": "Jeskai Runemark",
@@ -51457,6 +51484,7 @@
       "label": "",
       "scryfallId": "25c0968c-1377-447b-bede-5a2482d4cd2b",
       "effects": [
+        "Tokens",
         "Tutor"
       ]
     },
@@ -55627,7 +55655,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "f0dea9d0-9f93-460d-bf69-ae1c1172a95e",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "2270daaf-252d-40c4-bed5-bd46ae15f041": {
       "name": "Liesa, Shroud of Dusk",
@@ -55828,7 +55858,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "3c689146-c45d-4c8a-bb51-fd37d265d007",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "b19ff0dd-2041-461f-aa62-6dc273e4bbe5": {
       "name": "Lighthouse Chronologist",
@@ -57193,9 +57225,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "072e502a-c340-4f50-9f51-62d50242b17c",
-      "effects": [
-        "Tokens"
-      ]
+      "effects": []
     },
     "bf28a2ed-cad7-48a7-9dec-06e43af73e9c": {
       "name": "Loyal Cathar // Unhallowed Cathar",
@@ -57209,18 +57239,14 @@
       "rating": 0,
       "label": "",
       "scryfallId": "1197e710-278f-4942-87b0-f6363d329e65",
-      "effects": [
-        "CardAdvantage"
-      ]
+      "effects": []
     },
     "de1cfa83-2049-48ab-b093-2f120a3ef4f2": {
       "name": "Loyal Guardian",
       "rating": 0,
       "label": "",
       "scryfallId": "08edd941-5ecc-4015-bd5d-e2eebfbf2ba6",
-      "effects": [
-        "Buff"
-      ]
+      "effects": []
     },
     "f693cf76-0919-4b89-92de-e619be006abb": {
       "name": "Loyal Gyrfalcon",
@@ -57243,9 +57269,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "1949469a-faa5-4bff-8b0f-0a1bc7ca87da",
-      "effects": [
-        "Burn"
-      ]
+      "effects": []
     },
     "6cf8191c-acca-4145-86c2-53a138b3fe4a": {
       "name": "Loyal Unicorn",
@@ -59742,7 +59766,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "1131a921-1d9d-405b-aa36-44010fca21e7",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "8af347b8-89fa-499e-8e5a-77463edd6773": {
       "name": "Masumaro, First to Live",
@@ -68442,7 +68468,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "905ad286-e70b-46cd-87fd-eec13ed2d43b",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "a5375366-7ddc-4bd5-91c9-dc08f8beb3f6": {
       "name": "Opal Lake Gatekeepers",
@@ -71868,7 +71896,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "231613d6-d3b8-4b41-bc93-4d5da3fec5d0",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "2e3ee458-fa3f-4452-ab95-5a7fb5a0483b": {
       "name": "Plaguecrafter",
@@ -73140,7 +73170,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "1f814aa9-f5e7-409c-82b5-45205d2b5f29",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "499f1e1e-d96e-481f-a5d9-eb38da927cd7": {
       "name": "Primordial Sage",
@@ -74560,6 +74592,7 @@
       "label": "",
       "scryfallId": "58c1bdbc-2bf4-4036-bf83-669c27458c6e",
       "effects": [
+        "Tokens",
         "Sacrifice"
       ]
     },
@@ -75209,6 +75242,7 @@
       "label": "",
       "scryfallId": "038ed726-bde8-46b0-bdf5-f88e2f074434",
       "effects": [
+        "Tokens",
         "Buff"
       ]
     },
@@ -76105,7 +76139,6 @@
       "label": "",
       "scryfallId": "00f91207-c877-4911-8bb6-d8c5272b412d",
       "effects": [
-        "Tokens",
         "Removal"
       ]
     },
@@ -80792,7 +80825,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "797a4456-1677-49d5-bb4f-4fb062522f1e",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "bab28608-b388-4c48-92a4-689943bbbf4a": {
       "name": "Rusted Sentinel",
@@ -83328,7 +83363,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "476d509f-efc0-4138-8dce-23fa6321279c",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "c961373a-be0e-467c-92e0-33a0c953736a": {
       "name": "Scroll of Griselbrand",
@@ -90269,7 +90306,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "0fcc772e-da73-4a60-ab9b-8b558ac320ec",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "6cc99047-91dc-4ef2-99f3-65932b82ca31": {
       "name": "Soul Swallower",
@@ -90425,6 +90464,7 @@
       "label": "",
       "scryfallId": "34ba18f5-b894-47db-b49c-f2c4368ab769",
       "effects": [
+        "Tokens",
         "Buff"
       ]
     },
@@ -94110,9 +94150,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "525d742f-dadb-4a59-b70d-3b328bf99cca",
-      "effects": [
-        "CardAdvantage"
-      ]
+      "effects": []
     },
     "131a7475-0b9e-46eb-9ade-fef1b9820184": {
       "name": "Stormtide Leviathan",
@@ -96307,7 +96345,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "7207c416-dc16-40ab-94a0-836ee0710e24",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "7fe5baab-b182-4cd9-bea5-912ce9b1464a": {
       "name": "Sygg's Command",
@@ -98453,6 +98493,7 @@
       "label": "",
       "scryfallId": "58265203-bc16-41d2-875c-2ff3b4870824",
       "effects": [
+        "Tokens",
         "Removal"
       ]
     },
@@ -98523,7 +98564,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "3c2e917f-734e-4b8b-abc6-ea33c0fc722e",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "8ab7358e-a0f5-4220-8769-25177237bcdf": {
       "name": "Tezzeret, Agent of Bolas",
@@ -98531,6 +98574,7 @@
       "label": "",
       "scryfallId": "0c0b540a-3f90-4730-a3a1-034992363b53",
       "effects": [
+        "Tokens",
         "CardAdvantage",
         "Burn"
       ]
@@ -98552,6 +98596,7 @@
       "label": "",
       "scryfallId": "277dbeea-103c-4c5b-8981-3f5f7e60c66a",
       "effects": [
+        "Tokens",
         "CardAdvantage",
         "Cheat"
       ]
@@ -99433,6 +99478,7 @@
       "label": "",
       "scryfallId": "06ed7c94-ed3c-427a-b62a-32e91e054671",
       "effects": [
+        "Tokens",
         "Burn"
       ]
     },
@@ -100452,9 +100498,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "743b53fb-8e9d-4984-91c1-508eb99938ea",
-      "effects": [
-        "Buff"
-      ]
+      "effects": []
     },
     "9c5bc3a7-42fe-4f8f-b799-ece7dd98ea4d": {
       "name": "Thunderheads",
@@ -103590,9 +103634,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "08076c82-edb6-4c3c-abda-3d3ad7bdd78f",
-      "effects": [
-        "Removal"
-      ]
+      "effects": []
     },
     "d9cb3d86-cb3a-4e2e-a24e-ed3cfe5233d0": {
       "name": "Tyrant's Machine",
@@ -105557,7 +105599,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "d5cc40e7-fb31-4540-81a1-d0c0f514c8a8",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "a17a86a3-9f9c-4e09-93e6-e543a70733bc": {
       "name": "Vastwood Gorger",
@@ -105580,7 +105624,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "1848b845-dc37-4f3e-9521-dafab7fa67a8",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "64cf5d59-7bcd-4b0b-a160-c8468d4c0f60": {
       "name": "Vault Skirge",
@@ -108351,7 +108397,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "02c9396d-28f2-40b7-908e-51db51da57a7",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "11284767-7095-4e0e-bc60-c69d58098348": {
       "name": "Wakestone Gargoyle",
@@ -108954,6 +109002,7 @@
       "label": "",
       "scryfallId": "fd1a1f48-d46b-4b8e-a642-fc70fd9ef7df",
       "effects": [
+        "Tokens",
         "Ramp"
       ]
     },
@@ -110138,7 +110187,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "23ba0d50-9b7b-428b-8d7e-47bd8d67bfd1",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "96ef0bd9-4abb-49af-8744-0b2ad595a393": {
       "name": "White Shield Crusader",
@@ -110437,7 +110488,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "00020b05-ecb9-4603-8cc1-8cfa7a14befc",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "478d1acf-93fa-4695-83be-693b839ebf80": {
       "name": "Wilderness Elemental",
@@ -110661,7 +110714,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "bbaae63e-6269-4aca-aa45-956f6bf4e112",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "74dcff4f-c126-4bbb-b6f0-3f3315bc95fe": {
       "name": "Wind-Kin Raiders",
@@ -111607,7 +111662,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "0058a848-cb55-408a-a500-d97f573588f5",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "deeb7e22-b207-42de-b9d4-f790403d52a9": {
       "name": "World Breaker",
@@ -111935,6 +111992,7 @@
       "label": "",
       "scryfallId": "548ee36f-b1be-4e81-bb04-1ccdacde615c",
       "effects": [
+        "Tokens",
         "Filter"
       ]
     },
@@ -112699,7 +112757,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "16964263-61fc-40f2-b206-4f69060affba",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "8e4b8fe8-882c-4d0f-8fec-0256c62a0df0": {
       "name": "Zof Shade",

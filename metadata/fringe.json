@@ -1366,7 +1366,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "15250ea9-49b2-4f5f-bfa4-f356d1bedd4b",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "471f6ad3-cf01-42dd-a519-ea8e13039fea": {
       "name": "Afflict",
@@ -2526,7 +2528,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "71a49b18-a339-401c-ab77-fcd04772cf69",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "410b7faf-365c-4b73-a64d-bddbe49cfded": {
       "name": "Alloy Golem",
@@ -22544,7 +22548,9 @@
       "rating": 2,
       "label": "",
       "scryfallId": "a17a1f7a-c66d-4fec-a51d-c55361a66f5b",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "28c0fd21-a88a-4a40-853f-2c1810517bc3": {
       "name": "Cryptic Trilobite",
@@ -26306,7 +26312,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "011c9afa-46c0-419e-848c-92476702fd68",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "f7544a96-46b3-4cdc-8b14-c7b6daecdabd": {
       "name": "Destructive Flow",
@@ -31542,7 +31550,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "22147f72-7ff8-40c4-9bdd-df41dce17dad",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "8695c7e2-464e-464c-9d3f-a7cf025f3eb2": {
       "name": "Elephant-Mandrill",
@@ -32396,6 +32406,7 @@
       "label": "",
       "scryfallId": "04a81975-5f0e-4593-a2da-b9689f9a985f",
       "effects": [
+        "Tokens",
         "Ramp"
       ]
     },
@@ -47535,7 +47546,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "c92ff968-b436-4313-8375-8a3bb41f9892",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "0ebec97e-3cb1-41e2-a693-0febb5623016": {
       "name": "Harmonious Grovestrider",
@@ -56528,7 +56541,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "0edc37c6-b6a8-424f-95dd-928d03c28542",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "8b21146d-3e92-46e7-b5d9-8240fba5088e": {
       "name": "Kamahl, Fist of Krosa",
@@ -56797,7 +56812,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "07845861-f974-43b7-829c-79a4a41ac3e3",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "bc8802db-8c94-4eb4-817f-5f4f5408b7a4": {
       "name": "Karn, Legacy Reforged",
@@ -56825,7 +56842,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "055a00a2-0df2-4f49-ac51-e33dfaf7ee85",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "031f629f-7a9a-4143-9f5d-434ed1c23b7f": {
       "name": "Karok Wrangler",
@@ -61929,7 +61948,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "64558128-7990-470c-88c9-d47d622e44db",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "4844312c-3c9d-4ca1-986d-4ad35e68454e": {
       "name": "Living Wall",
@@ -63358,7 +63379,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "44154580-28f8-4b2f-88b7-528010816ddf",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "262e1cf6-61c8-444d-a71b-050eebcaf932": {
       "name": "Lurking Green Dragon",
@@ -72767,7 +72790,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "fd37ea0e-ff72-4522-aa5b-d46bff832a34",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "00037840-6089-42ec-8c5c-281f9f474504": {
       "name": "Nissa, Worldsoul Speaker",
@@ -73890,6 +73915,7 @@
       "label": "",
       "scryfallId": "3670a3ae-9252-4885-b527-d7062b5337d0",
       "effects": [
+        "Tokens",
         "Buff"
       ]
     },
@@ -75712,6 +75738,7 @@
       "label": "",
       "scryfallId": "0baba16f-086f-4051-9e86-527e45c0f367",
       "effects": [
+        "Tokens",
         "Wipe"
       ]
     },
@@ -86854,6 +86881,7 @@
       "label": "",
       "scryfallId": "2e658cb2-11c5-4b59-a91c-f26ac28e82af",
       "effects": [
+        "Tokens",
         "Buff"
       ]
     },
@@ -87372,6 +87400,7 @@
       "label": "",
       "scryfallId": "8cbdd88e-c532-4fc0-a1fe-8aa0c26d1092",
       "effects": [
+        "Tokens",
         "Buff"
       ]
     },
@@ -102539,7 +102568,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "12be33d7-f25e-4dbf-9706-74403103b127",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "d73913ea-44d0-408f-9f8b-8e91843f2826": {
       "name": "Stillness in Motion",
@@ -111948,7 +111979,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "171eb68a-bce4-4518-a4d4-9ec90e92aa0b",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "46c3a69a-4984-40b0-905f-4b0762c7ad72": {
       "name": "Titania, Nature's Force",
@@ -112979,7 +113012,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "54c1bc37-2e87-4037-8a7f-5ac9217c0caa",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "8f28b65b-4b73-4080-9cdc-d236ad99f39c": {
       "name": "Track Down",

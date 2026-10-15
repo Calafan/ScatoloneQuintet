@@ -11773,7 +11773,9 @@
       "rating": 3,
       "label": "",
       "scryfallId": "11a65d71-978d-4a4f-8407-2662117f6223",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "c6f7efad-381c-45ba-9976-159b7e78f7ed": {
       "name": "Lamplight Phoenix",
