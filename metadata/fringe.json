@@ -816,9 +816,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "4d6901e7-d519-4dfc-a74d-63fff5e4ffae",
-      "effects": [
-        "Tokens"
-      ],
+      "effects": [],
       "reviewedAt": "2026-09-10T14:01:54.1612167+00:00"
     },
     "2fdc0d15-ecb4-4a6d-be77-7a3fca188c9c": {
@@ -8469,9 +8467,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "5ff538f9-10b4-4327-aea6-a86759daf488",
-      "effects": [
-        "Tokens"
-      ],
+      "effects": [],
       "reviewedAt": "2026-09-08T09:37:37.9016999+00:00"
     },
     "980c32ff-c154-4ac9-adc2-ed3a85c8d71c": {
@@ -9243,7 +9239,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "e522b043-fbd8-48a4-9f20-39e2a66a35ec",
-      "effects": [],
+      "effects": [
+        "Tokens"
+      ],
       "reviewedAt": "2026-09-12T09:53:51.1236669+00:00"
     },
     "6fa27f8a-bade-460f-853a-abc1c05c946a": {
@@ -13415,6 +13413,7 @@
       "label": "",
       "scryfallId": "824823fb-5ae1-48b1-bc46-e452afa73cd8",
       "effects": [
+        "Tokens",
         "Removal"
       ],
       "reviewedAt": "2026-09-25T07:37:35.3136023+00:00"
@@ -18462,6 +18461,7 @@
       "label": "",
       "scryfallId": "02242155-5612-4be7-b4db-c94f3ff34383",
       "effects": [
+        "Tokens",
         "ManaFixing"
       ],
       "reviewedAt": "2026-10-09T15:01:43.7162604+00:00"
@@ -46572,7 +46572,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "8032c909-3170-45ab-a552-a8dc683b0a6e",
-      "effects": [],
+      "effects": [
+        "Tokens"
+      ],
       "reviewedAt": "2026-09-12T10:24:46.6392705+00:00"
     },
     "18ba355d-a25f-4a5d-b734-11739b0b86af": {
@@ -54493,9 +54495,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "2489dd12-34e8-41d9-a986-3452a03c9413",
-      "effects": [
-        "Tokens"
-      ],
+      "effects": [],
       "reviewedAt": "2026-09-11T21:46:26.3526922+00:00"
     },
     "84d45389-a085-44bc-a3fb-1a5f7cc6cbe0": {
@@ -59327,7 +59327,6 @@
       "label": "",
       "scryfallId": "7b524c71-c2ac-4a08-8ab7-27b1c232a359",
       "effects": [
-        "Tokens",
         "Regrowth"
       ],
       "reviewedAt": "2026-09-12T09:36:16.1095785+00:00"
@@ -60318,6 +60317,7 @@
       "label": "",
       "scryfallId": "22bf056b-24bb-4f32-93af-088817f42ce8",
       "effects": [
+        "Tokens",
         "Reanimate",
         "Sacrifice",
         "ManaFixing"
@@ -62762,6 +62762,7 @@
       "label": "",
       "scryfallId": "88745474-d8e7-407e-80df-02541ad1ab0b",
       "effects": [
+        "Tokens",
         "Bounce"
       ],
       "reviewedAt": "2026-09-25T07:41:25.9555089+00:00"
@@ -63482,7 +63483,6 @@
       "label": "",
       "scryfallId": "cc598338-eeba-4815-a0a6-ff2dc09790d2",
       "effects": [
-        "Tokens",
         "ManaFixing"
       ],
       "reviewedAt": "2026-10-06T07:21:25.5462659+00:00"
@@ -72059,7 +72059,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "5d7b2638-2e6b-49c4-b716-9286ee0866d8",
-      "effects": [],
+      "effects": [
+        "Tokens"
+      ],
       "reviewedAt": "2026-10-06T18:37:34.6888296+00:00"
     },
     "d27bb97d-286b-4947-8d7b-443e4df93319": {
@@ -77732,9 +77734,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "7354b7ac-ccc7-4473-8492-9ec54415fd66",
-      "effects": [
-        "Tokens"
-      ],
+      "effects": [],
       "reviewedAt": "2026-09-10T15:23:20.3860219+00:00"
     },
     "3d79cbe2-cf1b-4313-ab47-0118fcdbfc6c": {
@@ -81934,7 +81934,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "0208a5a9-3a6f-44c5-9e46-24bdf924753c",
-      "effects": [],
+      "effects": [
+        "Tokens"
+      ],
       "reviewedAt": "2026-09-10T07:26:58.7014038+00:00"
     },
     "91babc5f-ebeb-4894-8c35-b0f60249cb80": {
@@ -84898,7 +84900,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "a394112a-032b-4047-887a-6522cf7b83d5",
-      "effects": [],
+      "effects": [
+        "Tokens"
+      ],
       "reviewedAt": "2026-09-25T07:46:39.8986412+00:00"
     },
     "d6bf5e22-8d33-43a9-8824-435068e0a87a": {
@@ -85129,7 +85133,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "35096eb3-ad7b-4b6e-b799-cb4cc447883e",
-      "effects": [],
+      "effects": [
+        "Tokens"
+      ],
       "reviewedAt": "2026-09-29T14:57:12.1701211+00:00"
     },
     "a149ac31-b792-4fbe-903a-788bbdfd5e97": {
@@ -86391,6 +86397,7 @@
       "label": "",
       "scryfallId": "19ad36d6-8bf4-490c-9980-b98a470af892",
       "effects": [
+        "Tokens",
         "Buff"
       ],
       "reviewedAt": "2026-09-11T19:57:15.4616963+00:00"
@@ -89577,6 +89584,7 @@
       "label": "",
       "scryfallId": "87fe9225-d73f-457e-b837-20852e15bb5e",
       "effects": [
+        "Tokens",
         "Ramp"
       ],
       "reviewedAt": "2026-09-23T12:55:30.2928412+00:00"
@@ -105678,7 +105686,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "2c35c626-872f-4c45-be91-aaa5ec1d1d58",
-      "effects": [],
+      "effects": [
+        "Tokens"
+      ],
       "reviewedAt": "2026-09-11T15:06:54.6641298+00:00"
     },
     "e6e7b5ba-ea10-4f53-8afc-045aa1906c6b": {
@@ -107791,9 +107801,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "0cf789e7-045c-4ad1-abc3-23eabda54f02",
-      "effects": [
-        "Tokens"
-      ],
+      "effects": [],
       "reviewedAt": "2026-09-10T15:54:36.612282+00:00"
     },
     "a949c96c-362c-45a3-bd5c-ce5ce153ee9e": {
@@ -109267,6 +109275,7 @@
       "label": "",
       "scryfallId": "366990ed-3ee3-420d-9ed1-811b0e1498c6",
       "effects": [
+        "Tokens",
         "CardAdvantage"
       ],
       "reviewedAt": "2026-09-11T10:37:05.5810238+00:00"
@@ -112792,7 +112801,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "09ffe48f-abfa-4110-805e-35671b42386d",
-      "effects": [],
+      "effects": [
+        "Tokens"
+      ],
       "reviewedAt": "2026-10-08T10:23:22.9218053+00:00"
     },
     "bdf4e225-23b5-47d9-9936-ddcec8aa1ca4": {
@@ -120546,9 +120557,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "6829b20d-c2fa-41a6-89ca-f21c522d8866",
-      "effects": [
-        "Tokens"
-      ],
+      "effects": [],
       "reviewedAt": "2026-09-10T15:49:56.0383685+00:00"
     },
     "fd57331f-1cfa-4f88-a925-fc171738c3c0": {
@@ -124530,7 +124539,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "29a69b1a-e7c9-4ae0-a9f9-4758daf02a86",
-      "effects": [],
+      "effects": [
+        "Tokens"
+      ],
       "reviewedAt": "2026-09-04T14:35:44.9659606+00:00"
     },
     "2e150f97-5688-4559-94b8-86c33fda28a0": {
