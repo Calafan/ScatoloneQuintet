@@ -16540,8 +16540,7 @@
       "label": "",
       "scryfallId": "b1100dba-de2d-481e-b29c-71f6d34663ba",
       "effects": [
-        "Buff",
-        "Pacify"
+        "Buff"
       ]
     },
     "443f8dd1-333d-42c4-a286-302a9496209a": {
@@ -32257,9 +32256,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "25080720-612f-40c0-8894-cda8e3e8afb8",
-      "effects": [
-        "Pacify"
-      ]
+      "effects": []
     },
     "0b786547-67ed-49fa-9981-35c4c2175f62": {
       "name": "Ember Island Production",
@@ -68871,9 +68868,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "1525f5f8-cf1b-4d1d-8892-6470b1f03388",
-      "effects": [
-        "Pacify"
-      ]
+      "effects": []
     },
     "1745fd57-467c-45f9-a46e-b9a2af87ec87": {
       "name": "Mogg Hollows",
@@ -113414,7 +113409,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "aa35419c-d46b-493f-844c-e9c2ad3ce07c",
-      "effects": []
+      "effects": [
+        "Pacify"
+      ]
     },
     "ef72af33-37fc-48ed-90d8-547c90e1609d": {
       "name": "Trap the Trespassers",
@@ -119844,8 +119841,7 @@
       "label": "",
       "scryfallId": "136991b2-0dfd-40dd-a098-67dd34c657c2",
       "effects": [
-        "Buff",
-        "Pacify"
+        "Buff"
       ]
     },
     "6253f9d4-83ff-4a0b-b465-e9f9a565f664": {

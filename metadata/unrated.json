@@ -10738,9 +10738,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "a50ad54a-73f8-4b97-b890-2be9a178bc42",
-      "effects": [
-        "Pacify"
-      ]
+      "effects": []
     },
     "79af045e-2c73-4003-8f62-b8611a225f08": {
       "name": "Bonds of Faith",
@@ -20586,7 +20584,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "fc382831-e338-49bd-a37f-931bf611b165",
-      "effects": []
+      "effects": [
+        "Pacify"
+      ]
     },
     "cfb1b64b-bf78-4015-ac29-cdcdf2adaa02": {
       "name": "Curtains' Call",
@@ -44171,8 +44171,7 @@
       "scryfallId": "5737246f-1292-4af6-aecf-8f161f5300cb",
       "effects": [
         "Removal",
-        "Burn",
-        "Pacify"
+        "Burn"
       ]
     },
     "d07707ef-fa4e-423f-8a1f-095d19100321": {
@@ -49936,9 +49935,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "0a47a2dc-f7f2-4103-9ebe-8cd8b83915ae",
-      "effects": [
-        "Pacify"
-      ]
+      "effects": []
     },
     "9c8027b7-b823-4214-936c-91b7a8986228": {
       "name": "Jaddi Lifestrider",
@@ -57267,9 +57264,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "7cae7971-953b-454a-84dd-ae2974946da9",
-      "effects": [
-        "Pacify"
-      ]
+      "effects": []
     },
     "76f405a1-242a-47e6-9aa6-261e49a85b45": {
       "name": "Loyal Subordinate",
@@ -99003,7 +98998,8 @@
       "label": "",
       "scryfallId": "b6ebd6a6-7707-480b-ac62-48907623017b",
       "effects": [
-        "Disenchant"
+        "Disenchant",
+        "Pacify"
       ]
     },
     "26b41c78-c5ee-4c50-93be-e3acc35ab355": {
@@ -102043,8 +102039,7 @@
       "label": "",
       "scryfallId": "751e2700-6425-45b8-b026-8c78098f08b2",
       "effects": [
-        "Burn",
-        "Pacify"
+        "Burn"
       ]
     },
     "7f1a9248-8e7b-46a8-942b-ca18c7da8c4a": {
@@ -111337,8 +111332,7 @@
       "label": "",
       "scryfallId": "08e3015b-9c76-484e-9d28-0fbdeb982605",
       "effects": [
-        "Buff",
-        "Pacify"
+        "Buff"
       ]
     },
     "ac8630ac-defb-4774-ac71-d35fe02a7324": {
