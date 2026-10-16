@@ -3225,7 +3225,8 @@
       "label": "",
       "scryfallId": "024ae668-a1ae-4020-89c8-acbd8bd0a691",
       "effects": [
-        "Wipe"
+        "Wipe",
+        "LandDestruction"
       ]
     },
     "ed68160e-5e3d-44f2-ac7a-3749fda10119": {
@@ -5391,6 +5392,7 @@
       "label": "",
       "scryfallId": "3c043edb-07b6-4f43-b93a-7e6b4eb14aa1",
       "effects": [
+        "Wipe",
         "LandDestruction"
       ]
     },
@@ -12141,6 +12143,7 @@
       "scryfallId": "20ae3609-a3cc-486c-94f6-b8f647adfb47",
       "status": "Banned",
       "effects": [
+        "Wipe",
         "LandDestruction"
       ]
     },
@@ -16664,6 +16667,7 @@
       "label": "",
       "scryfallId": "11dca9ba-b27f-4af8-9962-3794e743886f",
       "effects": [
+        "Wipe",
         "LandDestruction"
       ]
     },
@@ -20883,7 +20887,10 @@
       "rating": 4,
       "label": "",
       "scryfallId": "30053742-35e4-4ae0-a90e-d687a5f298d9",
-      "effects": []
+      "effects": [
+        "Wipe",
+        "LandDestruction"
+      ]
     },
     "88d49309-e7d7-486d-8696-cd66bec2fe33": {
       "name": "Sunder the Gateway",
@@ -23708,7 +23715,8 @@
       "scryfallId": "14768d98-5b53-4bba-b0d2-09c92da664d4",
       "effects": [
         "Wipe",
-        "Bounce"
+        "Bounce",
+        "LandDestruction"
       ]
     },
     "4b1da9aa-a30c-44b8-a10e-f9dc3fe70b6f": {
@@ -23825,7 +23833,8 @@
       "scryfallId": "013f03fa-4b49-4709-8f6b-415af3e6dd09",
       "effects": [
         "Wipe",
-        "Tutor"
+        "Tutor",
+        "LandDestruction"
       ]
     },
     "a6eb06dc-a62d-4fdb-b336-e304d8d68c92": {
@@ -24504,6 +24513,7 @@
       "scryfallId": "0c070f12-0342-48d5-ab0e-4fc4701c3669",
       "status": "Banned",
       "effects": [
+        "Wipe",
         "LandDestruction"
       ]
     },

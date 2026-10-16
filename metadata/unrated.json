@@ -1617,6 +1617,7 @@
       "scryfallId": "332dfb82-1dc2-4ef6-8653-53a6a09b470a",
       "effects": [
         "Removal",
+        "Wipe",
         "Burn",
         "Pacify",
         "LandDestruction"
@@ -7766,7 +7767,8 @@
       "label": "",
       "scryfallId": "061d9fa5-a8e0-4263-9804-22d648554eba",
       "effects": [
-        "Wipe"
+        "Wipe",
+        "LandDestruction"
       ]
     },
     "069c8fa1-fa04-4620-9356-a618158dad3e": {
@@ -10961,6 +10963,7 @@
       "label": "",
       "scryfallId": "7ce986a4-5f82-4e7e-bef5-b49f05bf96a6",
       "effects": [
+        "Wipe",
         "LandDestruction"
       ]
     },
@@ -22197,8 +22200,10 @@
       "label": "",
       "scryfallId": "514154e5-931f-4924-aef1-8e66d2efe16f",
       "effects": [
+        "Wipe",
         "Discard",
-        "Burn"
+        "Burn",
+        "LandDestruction"
       ]
     },
     "edbde032-4432-4610-83a2-a52f6ce199e1": {
@@ -24337,7 +24342,8 @@
       "scryfallId": "9bde655f-9f49-42f8-a168-9cbca0592bb8",
       "effects": [
         "Tokens",
-        "Removal"
+        "Removal",
+        "LandDestruction"
       ]
     },
     "5c58f2eb-2617-4d10-a393-6e4a9eddd1dd": {
@@ -28567,8 +28573,7 @@
       "scryfallId": "59dedcb3-6c03-4484-a493-e6f808a33ead",
       "effects": [
         "Tokens",
-        "Wipe",
-        "LandDestruction"
+        "Wipe"
       ]
     },
     "eab0d8b9-c66f-402f-b259-f46f15cefd78": {
@@ -28782,6 +28787,7 @@
       "label": "",
       "scryfallId": "46fe9fbe-59a7-4aa4-947d-c178487d1929",
       "effects": [
+        "Wipe",
         "LandDestruction"
       ]
     },
@@ -31828,6 +31834,7 @@
       "label": "",
       "scryfallId": "3a613a01-6145-4e34-987c-c9bdcb068370",
       "effects": [
+        "Wipe",
         "LandDestruction"
       ]
     },
@@ -35725,6 +35732,7 @@
       "label": "",
       "scryfallId": "4529a3d2-e4e6-4cca-bcea-16b51f69bbec",
       "effects": [
+        "Wipe",
         "LandDestruction"
       ]
     },
@@ -38069,7 +38077,8 @@
       "label": "",
       "scryfallId": "93d0509a-a863-4d9c-b39f-625a8cc1a547",
       "effects": [
-        "Wipe"
+        "Wipe",
+        "LandDestruction"
       ]
     },
     "4cbce730-7b70-41bd-b463-bfec46afe3b0": {
@@ -56271,7 +56280,8 @@
       "effects": [
         "Tokens",
         "Wipe",
-        "CardAdvantage"
+        "CardAdvantage",
+        "LandDestruction"
       ]
     },
     "b96a8ad2-3d86-459b-a34f-19c9dc07c3c4": {
@@ -58103,7 +58113,8 @@
       "label": "",
       "scryfallId": "87dd1dba-2dda-4c04-bdbd-06aa838cacd3",
       "effects": [
-        "Wipe"
+        "Wipe",
+        "LandDestruction"
       ]
     },
     "e08d264d-5731-4e2a-ae6d-5a74ef648575": {
@@ -63934,6 +63945,7 @@
       "label": "",
       "scryfallId": "df630ae9-aa17-46e9-95e7-4980f4a76ade",
       "effects": [
+        "Wipe",
         "LandDestruction"
       ]
     },
@@ -76477,7 +76489,8 @@
       "label": "",
       "scryfallId": "73bfefd3-bddd-47bb-92f3-9356a7bca637",
       "effects": [
-        "Wipe"
+        "Wipe",
+        "LandDestruction"
       ]
     },
     "d830a136-6fb9-42e7-81f1-97e1d713ee82": {
@@ -76702,6 +76715,7 @@
       "label": "",
       "scryfallId": "da3ecfc6-1f9e-443e-a445-51df518025a5",
       "effects": [
+        "Wipe",
         "LandDestruction"
       ]
     },
@@ -78193,7 +78207,10 @@
       "rating": 0,
       "label": "",
       "scryfallId": "0febc7fe-4172-4285-9804-a62ce4506c39",
-      "effects": []
+      "effects": [
+        "Wipe",
+        "LandDestruction"
+      ]
     },
     "aeca0661-8b71-4085-81e9-bb0884fc9831": {
       "name": "Restore the Peace",
@@ -89354,7 +89371,8 @@
       "label": "",
       "scryfallId": "0f6f64b9-145c-4ed2-b90c-cbcf021b353d",
       "effects": [
-        "Discard"
+        "Discard",
+        "LandDestruction"
       ]
     },
     "e0583f29-c344-4b56-b0dc-bef1089a95c7": {
@@ -94385,9 +94403,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "4a62827a-183f-4bef-b6ce-20a4577f6d30",
-      "effects": [
-        "LandDestruction"
-      ]
+      "effects": []
     },
     "bd7867f4-4f58-49c2-9c24-a124dfdb506d": {
       "name": "Street Wraith",
@@ -94606,7 +94622,8 @@
       "scryfallId": "d10da484-db67-4afc-90ef-6caf7d2e3a75",
       "effects": [
         "Disenchant",
-        "Burn"
+        "Burn",
+        "LandDestruction"
       ]
     },
     "bf0b6800-8e6b-4ccd-8e4d-96e61342f981": {
@@ -97610,6 +97627,7 @@
       "label": "",
       "scryfallId": "1b86be51-1b0b-49d0-917c-508f12c85c17",
       "effects": [
+        "Wipe",
         "LandDestruction"
       ]
     },
@@ -99953,6 +99971,7 @@
       "label": "",
       "scryfallId": "2a0f2db3-41a6-4283-9812-46b6ae6d1df6",
       "effects": [
+        "Wipe",
         "LandDestruction"
       ]
     },
@@ -109511,7 +109530,9 @@
       "label": "",
       "scryfallId": "17328391-a510-42a0-8a00-4f61dd873c13",
       "effects": [
-        "Disenchant"
+        "Wipe",
+        "Disenchant",
+        "LandDestruction"
       ]
     },
     "35044f8a-c8e0-41ae-ba61-43109e51f7e8": {
@@ -111755,7 +111776,8 @@
       "label": "",
       "scryfallId": "2ef3d4b5-0453-4bf0-b018-23b0c3b9ae11",
       "effects": [
-        "Wipe"
+        "Wipe",
+        "LandDestruction"
       ]
     },
     "67c50af9-bb8e-40b6-8b25-c209784b6865": {
@@ -111781,7 +111803,8 @@
       "scryfallId": "d6f70fdb-264f-4545-97fa-3702168a66d4",
       "effects": [
         "Wipe",
-        "Bounce"
+        "Bounce",
+        "LandDestruction"
       ]
     },
     "6970f285-dc2b-437b-b099-ca1d3ef106ab": {
