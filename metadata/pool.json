@@ -1355,7 +1355,8 @@
       "scryfallId": "340c5799-4964-44dd-8c48-8f3f3aba5211",
       "effects": [
         "Ramp"
-      ]
+      ],
+      "reviewedAt": "2026-10-16T09:53:20.9759455+00:00"
     },
     "13ff3222-91cb-4796-a34e-899ed817694c": {
       "name": "Badlands",
@@ -1821,7 +1822,8 @@
       "effects": [
         "CardAdvantage",
         "Steal"
-      ]
+      ],
+      "reviewedAt": "2026-10-16T09:56:40.1453182+00:00"
     },
     "623903de-3c04-4745-9af3-d7ec9fb2574d": {
       "name": "Bite Down",
@@ -1860,7 +1862,8 @@
       "effects": [
         "CardAdvantage",
         "Steal"
-      ]
+      ],
+      "reviewedAt": "2026-10-16T09:51:11.6250865+00:00"
     },
     "dde6bce5-8bbe-4866-b5aa-2c05c7d37241": {
       "name": "Black Dragon Gate",
@@ -7259,7 +7262,8 @@
         "Removal",
         "Filter",
         "Burn"
-      ]
+      ],
+      "reviewedAt": "2026-10-16T09:53:17.8061684+00:00"
     },
     "46515251-2172-4b0a-81ac-4c0120b73360": {
       "name": "Fanged Flames",
@@ -8675,7 +8679,8 @@
       "scryfallId": "206fb477-5f4e-42e6-a35a-1ceba5d85b78",
       "effects": [
         "Reanimate"
-      ]
+      ],
+      "reviewedAt": "2026-10-16T09:55:01.1283147+00:00"
     },
     "986a7ad0-527a-4079-aa1b-c8acdf087020": {
       "name": "Ghostfire Slice",
@@ -9338,7 +9343,8 @@
       "effects": [
         "CardAdvantage",
         "Steal"
-      ]
+      ],
+      "reviewedAt": "2026-10-16T09:56:53.0804691+00:00"
     },
     "c7748659-0206-448f-8567-83565cb0b51a": {
       "name": "Guardian Archon",
@@ -11066,7 +11072,8 @@
       "effects": [
         "Tokens",
         "CardAdvantage"
-      ]
+      ],
+      "reviewedAt": "2026-10-16T09:56:51.4722479+00:00"
     },
     "f4629329-a79b-4460-a1bc-9ae0f59adf5a": {
       "name": "Joshua, Phoenix's Dominant // Phoenix, Warden of Fire",
@@ -17390,7 +17397,8 @@
         "CardAdvantage",
         "Steal",
         "ManaFixing"
-      ]
+      ],
+      "reviewedAt": "2026-10-16T09:56:42.9139976+00:00"
     },
     "4499d8cd-d090-4acc-a1d9-3d9d9b6ef768": {
       "name": "Reverse the Polarity",
@@ -18714,7 +18722,8 @@
       "scryfallId": "42edc09b-29e7-41d1-ad4b-b904f2976a66",
       "effects": [
         "Sacrifice"
-      ]
+      ],
+      "reviewedAt": "2026-10-16T09:52:13.1272981+00:00"
     },
     "51622e89-aa5e-4dd6-a078-eb45e8ebb434": {
       "name": "Seraphic Steed",
@@ -20817,7 +20826,8 @@
       "effects": [
         "Removal",
         "Buff"
-      ]
+      ],
+      "reviewedAt": "2026-10-16T09:50:38.1854445+00:00"
     },
     "032f59c3-9f47-4db3-a43c-065a99ed7efe": {
       "name": "Summon: Primal Odin",
@@ -23730,7 +23740,8 @@
         "Burn",
         "ManaFixing",
         "Regrowth"
-      ]
+      ],
+      "reviewedAt": "2026-10-16T09:57:16.7408572+00:00"
     },
     "7c4b2203-a937-4d91-8e39-2283fe686b45": {
       "name": "Urabrask's Forge",
@@ -23740,7 +23751,8 @@
       "effects": [
         "Tokens",
         "Burn"
-      ]
+      ],
+      "reviewedAt": "2026-10-16T09:57:20.3681942+00:00"
     },
     "3fe61a65-b1c0-4d15-b379-e4ce22c96941": {
       "name": "Urabrask, Heretic Praetor",
