@@ -16128,6 +16128,7 @@
       "scryfallId": "01be13b4-aa80-4250-82e8-96ec7f860111",
       "effects": [
         "Tokens",
+        "Removal",
         "Burn"
       ]
     },

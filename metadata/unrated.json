@@ -46423,9 +46423,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "1d1de712-86ac-4c03-be86-2403cd121f66",
-      "effects": [
-        "Removal"
-      ]
+      "effects": []
     },
     "9508efe6-0528-4a13-9961-c2a1b05085a6": {
       "name": "Humble Budoka",
@@ -62392,6 +62390,7 @@
       "label": "",
       "scryfallId": "0bbfa871-eebe-4d04-92dd-834b2bf79855",
       "effects": [
+        "Removal",
         "Burn"
       ]
     },
@@ -66193,9 +66192,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "445e60aa-1a0a-499e-9887-7d17a1f80a02",
-      "effects": [
-        "Removal"
-      ]
+      "effects": []
     },
     "51f4eb1f-abf2-425a-b78e-cafac177da89": {
       "name": "Nine-Tail White Fox",
@@ -72358,7 +72355,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "21a8f0e5-8fec-45b2-a6a0-59d7b493a259",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "653e4b68-3184-4352-ac91-127f7e6d7c12": {
       "name": "Port Razer",
@@ -103240,7 +103239,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "3ae61336-a4ee-40cd-9a18-392d96b873a4",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "661a99ef-8d5b-4aac-98f6-52b17a8ecf52": {
       "name": "Turntimber Basilisk",
