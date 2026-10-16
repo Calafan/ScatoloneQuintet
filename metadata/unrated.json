@@ -1166,6 +1166,7 @@
       "label": "",
       "scryfallId": "29d32427-da4d-4906-8c61-13054c87b349",
       "effects": [
+        "Filter",
         "Cheat"
       ]
     },
@@ -1286,6 +1287,7 @@
       "label": "",
       "scryfallId": "3f92cfc3-7b87-4945-b7d6-b106c9d8bfed",
       "effects": [
+        "Filter",
         "Cheat"
       ]
     },
@@ -9631,7 +9633,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "361912f4-5205-44a5-b21e-17402526c1fd",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "ac74bd52-a450-486f-8161-816fd8d966d0": {
       "name": "Blood Tyrant",
@@ -9832,8 +9836,7 @@
       "label": "",
       "scryfallId": "04151a78-eb5a-4cb2-aa1f-e4835f3124c1",
       "effects": [
-        "CardAdvantage",
-        "Burn"
+        "CardAdvantage"
       ]
     },
     "79591c18-0065-49bb-a77a-734d4af87a3c": {
@@ -16015,9 +16018,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "11496802-ce30-4506-9311-f6ae42e0753b",
-      "effects": [
-        "Protection"
-      ]
+      "effects": []
     },
     "24542d66-e67a-4403-91a8-bb4231ea1f50": {
       "name": "Chronatog Totem",
@@ -17957,7 +17958,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "54cb25b6-049c-46dd-88a4-f3890e018db0",
-      "effects": []
+      "effects": [
+        "Disenchant"
+      ]
     },
     "b0c50079-5376-47ff-82c5-d52dbf49afdf": {
       "name": "Consign to the Pit",
@@ -18251,8 +18254,7 @@
       "label": "",
       "scryfallId": "14d5a8f3-05b6-4bb7-bbe1-e753e22cbb50",
       "effects": [
-        "Tokens",
-        "Disenchant"
+        "Tokens"
       ]
     },
     "c1801b5c-1a87-46d0-83d3-e8dfd94211f4": {
@@ -20956,8 +20958,7 @@
       "label": "",
       "scryfallId": "0817c5fa-acd9-4fed-ab8b-06750a8817b0",
       "effects": [
-        "CardAdvantage",
-        "Burn"
+        "CardAdvantage"
       ]
     },
     "d57a8f0b-7989-4db5-8756-6f2690097252": {
@@ -21255,7 +21256,8 @@
       "label": "",
       "scryfallId": "453f1766-c369-423a-8ce6-f6c25753125a",
       "effects": [
-        "Tokens"
+        "Tokens",
+        "Burn"
       ]
     },
     "95650a60-6f1d-4594-8b53-7fd406212207": {
@@ -22887,7 +22889,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "2467167e-b366-4ccd-84b9-05a6cacad572",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "ee152ffa-9c39-48ed-9aca-e53c8ebb0231": {
       "name": "Defiant Greatmaw",
@@ -24171,8 +24175,7 @@
       "label": "",
       "scryfallId": "0b7c34af-91de-44c6-a3e2-f48dbb0ce9fd",
       "effects": [
-        "Steal",
-        "Regrowth"
+        "Steal"
       ]
     },
     "b93732e4-7aeb-4c37-a415-2b0ff46e2056": {
@@ -29223,7 +29226,8 @@
       "label": "",
       "scryfallId": "157f343d-8583-4827-a77d-d916e6a5caa1",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Regrowth"
       ]
     },
     "1cb3f27c-2670-43b8-9305-8adf2e7bd3ae": {
@@ -34769,7 +34773,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "3cbc7ac4-c28e-4155-b3c8-60946653b9b4",
-      "effects": []
+      "effects": [
+        "Reanimate"
+      ]
     },
     "0a35df9d-80a0-4b6f-91d5-dad980af47e1": {
       "name": "Footbottom Feast",
@@ -34956,8 +34962,7 @@
       "label": "",
       "scryfallId": "c5f79ec4-3722-4fda-824b-e80dc7608d01",
       "effects": [
-        "CardAdvantage",
-        "Burn"
+        "CardAdvantage"
       ]
     },
     "5c87e2fa-77f1-4978-b25f-f14d227301d1": {
@@ -37062,7 +37067,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "0e07bc36-2207-48f4-a151-4ccb0c6d851d",
-      "effects": []
+      "effects": [
+        "ManaFixing"
+      ]
     },
     "2c09ca09-8e62-4fe3-9b3d-61573dd2ffbc": {
       "name": "Gemhide Sliver",
@@ -37165,7 +37172,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "451eb0dd-f3e8-4504-9de0-0bdf124e9ae2",
-      "effects": []
+      "effects": [
+        "Filter"
+      ]
     },
     "80e72437-0c17-44c0-b0a7-eab075a64569": {
       "name": "Genesis Storm",
@@ -37179,7 +37188,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "226c7b27-e6d1-4e52-9182-41adf26f6936",
-      "effects": []
+      "effects": [
+        "Filter"
+      ]
     },
     "ada3c285-3449-4037-8b44-42e128456a65": {
       "name": "Genju of the Cedars",
@@ -42759,7 +42770,6 @@
       "scryfallId": "91585912-038d-4d26-b552-0e7c48ba1e4f",
       "effects": [
         "Tokens",
-        "Removal",
         "Reanimate"
       ]
     },
@@ -43513,8 +43523,7 @@
       "label": "",
       "scryfallId": "9cf96a6c-8481-4954-b149-7153b80480be",
       "effects": [
-        "CardAdvantage",
-        "Burn"
+        "CardAdvantage"
       ]
     },
     "d83bf132-e67e-4af0-b236-4f7a32fa3dec": {
@@ -43782,7 +43791,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "04560623-c768-4273-a40d-7e3f39e832cf",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "098e6926-4a6a-4bbb-96bc-1f35cc7982ae": {
       "name": "Havoc Sower",
@@ -60533,7 +60544,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "17d6703c-ad79-457b-a1b5-c2284e363085",
-      "effects": []
+      "effects": [
+        "Regrowth"
+      ]
     },
     "24b5dbe3-578a-4897-8215-e723f00a8f1a": {
       "name": "Merfolk Branchwalker",
@@ -62798,7 +62811,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "f4960789-1a45-4273-b2f2-34713f19d697",
-      "effects": []
+      "effects": [
+        "ManaFixing"
+      ]
     },
     "61b74f82-39f3-4618-b8e7-292058421d1b": {
       "name": "Moonglove Changeling",
@@ -64055,9 +64070,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "eff75f16-413c-4618-b766-67bd8ff4d161",
-      "effects": [
-        "Disenchant"
-      ]
+      "effects": []
     },
     "2549bc57-9ffb-4053-9f10-f2a5f792b845": {
       "name": "Myriad Landscape",
@@ -66364,7 +66377,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "7946b256-ae79-4b99-8bf4-0d627baf9044",
-      "effects": []
+      "effects": [
+        "ManaFixing"
+      ]
     },
     "ac905661-37c4-495a-ac76-96032c23a144": {
       "name": "Nissa, Genesis Mage",
@@ -69789,8 +69804,7 @@
       "label": "",
       "scryfallId": "94bc63b7-a6d8-40b9-86f1-111f8421af8c",
       "effects": [
-        "CardAdvantage",
-        "Burn"
+        "CardAdvantage"
       ]
     },
     "c37051cc-6683-4dbb-b5ff-5c3a5bdab1df": {
@@ -74977,7 +74991,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "31c776aa-7f7e-4cd7-a188-bbe655f785d2",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "593b229b-579b-4052-8a00-dac787b149b1": {
       "name": "Quill-Slinger Boggart",
@@ -76392,7 +76408,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "5d24d153-a014-4524-a496-9fe1c41cbc2b",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "024ea14f-48b7-485d-8426-317d59f8262d": {
       "name": "Raving Oni-Slave",
@@ -78536,7 +78554,8 @@
       "label": "",
       "scryfallId": "50ae0831-f3ba-4535-bfb6-feefbbc15275",
       "effects": [
-        "Reanimate"
+        "Reanimate",
+        "Burn"
       ]
     },
     "2f857ef6-c1e5-4b85-b3fb-8163be4895b5": {
@@ -81312,7 +81331,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "0042d67c-2466-4c20-816e-92e476e545cc",
-      "effects": []
+      "effects": [
+        "Filter"
+      ]
     },
     "ab5f6e83-a151-48b6-8cc5-3b2dae94079c": {
       "name": "Saheeli's Silverwing",
@@ -81917,7 +81938,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "241a25c7-7205-46ee-8b08-845cdcc546bb",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "391f1331-7577-4bf4-a9ed-2f55ded4cbd8": {
       "name": "Sanguine Glorifier",
@@ -83547,7 +83570,8 @@
       "scryfallId": "4a6e8004-7644-4694-8719-f9a36f9804f0",
       "effects": [
         "Tokens",
-        "Buff"
+        "Buff",
+        "Burn"
       ]
     },
     "6eed122b-9760-47fd-8ba2-adeda8054e0d": {
@@ -84024,6 +84048,7 @@
       "label": "",
       "scryfallId": "3689a7f1-9713-412e-a030-9cba463c170e",
       "effects": [
+        "Filter",
         "Cheat"
       ]
     },
@@ -85611,7 +85636,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "285beca0-4876-426f-a4b4-ecefe79ad55d",
-      "effects": []
+      "effects": [
+        "ManaFixing"
+      ]
     },
     "3d19ab38-fb32-4f2b-b68c-28db4a6864c6": {
       "name": "Shard Volley",
@@ -87110,8 +87137,7 @@
       "label": "",
       "scryfallId": "0bc5b585-6bff-4027-88fa-3eecc6d598f6",
       "effects": [
-        "CardAdvantage",
-        "Burn"
+        "CardAdvantage"
       ]
     },
     "724f3d2f-0513-4efd-961f-56a7ea7b5731": {
@@ -87145,7 +87171,8 @@
       "label": "",
       "scryfallId": "4e3fe912-1374-47c7-b73f-89ef55c479c1",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Regrowth"
       ]
     },
     "eb2fe2f7-60f7-44d3-8d4a-4e102012435d": {
@@ -94108,8 +94135,7 @@
       "label": "",
       "scryfallId": "0b420ce8-3dd1-430b-a090-4b4e8dcb6aa9",
       "effects": [
-        "CardAdvantage",
-        "Burn"
+        "CardAdvantage"
       ]
     },
     "b35c1b30-c1dc-489f-bd79-ad6566fb9389": {
@@ -100729,7 +100755,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "e526ebbf-2041-4c3e-9a20-73bbf6f90251",
-      "effects": []
+      "effects": [
+        "ManaFixing"
+      ]
     },
     "331b44e4-cf08-44f4-8afd-a7374e5dc5ed": {
       "name": "Tidespout Tyrant",
@@ -102255,6 +102283,7 @@
       "label": "",
       "scryfallId": "19b788c4-3964-48c1-bf29-54058c9212ba",
       "effects": [
+        "Tutor",
         "ManaFixing"
       ]
     },
@@ -104476,7 +104505,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "806c2819-592f-4aa8-b3b2-86d4be84ce44",
-      "effects": []
+      "effects": [
+        "Reanimate"
+      ]
     },
     "ed8d8eb5-fbc8-4b7f-9b75-53ab118e72de": {
       "name": "Unholy Hunger",
@@ -104492,7 +104523,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "31e22edb-a815-413d-b62d-f32f8932b6e6",
-      "effects": []
+      "effects": [
+        "Reanimate"
+      ]
     },
     "1f514b02-7827-4087-a6b7-bd6a3f520a64": {
       "name": "Unified Front",
@@ -106326,8 +106359,7 @@
       "label": "",
       "scryfallId": "81647b86-2c84-4a14-8d5a-919f7a5b8bc7",
       "effects": [
-        "Ramp",
-        "ManaFixing"
+        "Ramp"
       ]
     },
     "55187899-c445-48e9-80b9-235eaf42f803": {
@@ -107141,7 +107173,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "4a45a631-f899-4414-8e0a-64d987e9ba8b",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "1c2d6b55-653a-41fd-8a5e-6463a992640b": {
       "name": "Virtus's Maneuver",
@@ -107576,7 +107610,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "41f505a3-2c54-43a9-b4a9-43a1451b36f6",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "fcedc288-5e27-45a2-a07b-06c7aa7a9230": {
       "name": "Vizkopa Vampire",
@@ -111975,8 +112011,7 @@
       "label": "",
       "scryfallId": "8e946dda-65db-4a01-8abd-9a92e8e3eddd",
       "effects": [
-        "Steal",
-        "Regrowth"
+        "Steal"
       ]
     },
     "45bb536c-c173-4b6e-a5a8-354c74fd93a1": {

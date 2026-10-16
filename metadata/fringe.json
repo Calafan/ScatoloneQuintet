@@ -11133,8 +11133,7 @@
       "label": "",
       "scryfallId": "607b1066-1ca0-45e1-a55c-30aed77cc8dc",
       "effects": [
-        "CardAdvantage",
-        "Burn"
+        "CardAdvantage"
       ]
     },
     "e05c6c80-a91a-45e0-b991-0014fd5a6472": {
@@ -12269,7 +12268,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "6f342de7-f179-4894-96e4-56339d32f801",
-      "effects": []
+      "effects": [
+        "Regrowth"
+      ]
     },
     "a213c650-06cc-4ea8-86f8-78ccfe103b38": {
       "name": "Bosco, Just a Bear",
@@ -29044,7 +29045,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "052c771c-20e9-4973-a62b-89dc634d8d9d",
-      "effects": []
+      "effects": [
+        "ManaFixing"
+      ]
     },
     "d9583aab-3eff-4d88-84d5-7219ab982636": {
       "name": "Dream Tides",
@@ -30087,9 +30090,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "bbd6a95a-11b9-43aa-b293-20a3102bae71",
-      "effects": [
-        "Burn"
-      ]
+      "effects": []
     },
     "6da00e2d-4287-48eb-8abe-d153318381fd": {
       "name": "Dwarven Grunt",
@@ -30708,7 +30709,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "16ebef2c-8bb2-4816-a628-0062f95e512e",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "2f3237fe-9e07-4aad-8bc8-7ef4b510dd36": {
       "name": "Ebony Charm",
@@ -36414,8 +36417,7 @@
       "label": "",
       "scryfallId": "020a6903-350b-4b12-8fbc-5da40f77cb77",
       "effects": [
-        "CardAdvantage",
-        "Burn"
+        "CardAdvantage"
       ]
     },
     "fbfa19ca-98bb-4c7d-a04e-920a8aafb031": {
@@ -43040,8 +43042,7 @@
       "scryfallId": "452abab0-cf23-4b9d-831a-7b9fa1fd582a",
       "effects": [
         "Burn",
-        "ManaFixing",
-        "LandDestruction"
+        "ManaFixing"
       ]
     },
     "df9409e6-bd6d-4b5b-b807-fcf347ee940a": {
@@ -65528,8 +65529,7 @@
       "label": "",
       "scryfallId": "03757415-6b58-42d3-9452-a862e90647ee",
       "effects": [
-        "ManaFixing",
-        "LandDestruction"
+        "ManaFixing"
       ]
     },
     "8ccd20c7-b7fc-4ab1-a98b-3bbcc2079339": {
@@ -66103,6 +66103,7 @@
       "scryfallId": "19385c88-9af3-4931-8dfc-6e51a5c5f816",
       "effects": [
         "Removal",
+        "Ramp",
         "Burn",
         "Sacrifice"
       ]
@@ -67715,7 +67716,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "ce763778-0a35-41d2-9286-fdf2302554f5",
-      "effects": []
+      "effects": [
+        "Reanimate"
+      ]
     },
     "d4212d44-d6a0-4c5b-9c54-bc90f36828dd": {
       "name": "Minn, Wily Illusionist",
@@ -75890,9 +75893,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "d3350367-42bd-44af-be13-ad31c002f8ac",
-      "effects": [
-        "Burn"
-      ]
+      "effects": []
     },
     "70f26726-0373-4e50-a1de-37392ca94890": {
       "name": "Ox Drover",
@@ -75995,8 +75996,7 @@
       "label": "",
       "scryfallId": "481d268a-848c-4ccd-95ff-eed77dc20776",
       "effects": [
-        "CardAdvantage",
-        "Burn"
+        "CardAdvantage"
       ]
     },
     "e02fff6b-9ee4-474f-97fc-d70d4bc8001b": {
@@ -82760,8 +82760,7 @@
       "label": "",
       "scryfallId": "2258b7b6-e679-4fcf-9cfe-2ff01a8996dc",
       "effects": [
-        "ManaFixing",
-        "LandDestruction"
+        "ManaFixing"
       ]
     },
     "d69cb63f-98cc-4699-a03d-4f1beeeb7065": {
@@ -84750,7 +84749,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "c6f56714-0baa-48f9-8da1-50d9279e759c",
-      "effects": []
+      "effects": [
+        "ManaFixing"
+      ]
     },
     "ebb88893-427f-496c-82a8-94d2bafb5e4c": {
       "name": "Reenact the Crime",
@@ -92180,7 +92181,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "ca11015e-200b-488c-8bf5-662dcc03cd2d",
-      "effects": []
+      "effects": [
+        "ManaFixing"
+      ]
     },
     "0ebd8ab3-d4b7-480e-b7b1-267078edddf2": {
       "name": "Sea Spirit",
@@ -93228,8 +93231,7 @@
       "label": "",
       "scryfallId": "2e24b682-d0b1-4869-9645-7e31493ce3f2",
       "effects": [
-        "Tokens",
-        "Removal"
+        "Tokens"
       ]
     },
     "a8a7a3b7-015c-4fbd-8b90-e0ddf71663e4": {
@@ -93818,6 +93820,7 @@
       "label": "",
       "scryfallId": "449baad3-9a4a-4f5f-9e9f-02cc97ab71e6",
       "effects": [
+        "Reanimate",
         "Buff"
       ]
     },
@@ -94102,8 +94105,7 @@
       "label": "",
       "scryfallId": "dfc33a4f-9ec2-4324-82a1-a4b9700572f2",
       "effects": [
-        "Steal",
-        "Regrowth"
+        "Steal"
       ]
     },
     "d3f4aa87-a89e-43f8-abc3-712e6bf08889": {
@@ -94235,7 +94237,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "21e4140e-22b3-479f-a259-0f56ed02b8ad",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "d04d2434-121e-4420-abfc-fa21ad5577c3": {
       "name": "Shard of the Void Dragon",
@@ -94362,8 +94366,7 @@
       "label": "",
       "scryfallId": "cc75ba0d-230e-4ca4-bb40-bd05af2a4457",
       "effects": [
-        "ManaFixing",
-        "LandDestruction"
+        "ManaFixing"
       ]
     },
     "2019004c-ebcf-4665-8736-f01ce7d8fcd2": {
@@ -94792,7 +94795,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "7263e20e-5473-42e9-90c3-3bcd848644ca",
-      "effects": []
+      "effects": [
+        "ManaFixing"
+      ]
     },
     "7d892d61-5a69-4500-9fb2-7cf50728aedd": {
       "name": "Shimmering Wings",
@@ -105078,6 +105083,7 @@
       "scryfallId": "36133cff-4349-42d5-a7a9-9c6967af56c1",
       "effects": [
         "Ramp",
+        "Filter",
         "Cheat"
       ]
     },
@@ -117924,7 +117930,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "d123da53-9fd3-492b-beb7-76d1c0f5e4f6",
-      "effects": []
+      "effects": [
+        "Buff"
+      ]
     },
     "7a21ea22-3cd7-4c11-8895-5943c0d93a0d": {
       "name": "Verdant Force",
@@ -118986,7 +118994,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "0e2c92c5-5f6f-4512-ae51-428b08a34fa2",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "22a33139-a730-4792-9dd5-2c0f99f96855": {
       "name": "Vitu-Ghazi Inspector",
@@ -122266,8 +122276,7 @@
       "scryfallId": "2bcf89c2-32cc-4c26-8fe4-8cf54f5a2675",
       "effects": [
         "Buff",
-        "Steal",
-        "Regrowth"
+        "Steal"
       ]
     },
     "6022608a-6cf2-45bd-adec-63211710a5ed": {

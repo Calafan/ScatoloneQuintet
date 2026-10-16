@@ -6276,8 +6276,7 @@
       "label": "",
       "scryfallId": "281a741f-288c-4f19-b200-cacef57674e9",
       "effects": [
-        "CardAdvantage",
-        "Burn"
+        "CardAdvantage"
       ]
     },
     "3db16fb8-5650-4568-b975-42ad3d44ebcd": {
@@ -18605,8 +18604,7 @@
       "label": "",
       "scryfallId": "075bfaa8-3d54-4934-aaf6-72be43a87324",
       "effects": [
-        "Tokens",
-        "Burn"
+        "Tokens"
       ]
     },
     "144d0817-348c-4171-aa7e-3468b23cf97d": {
