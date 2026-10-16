@@ -2206,8 +2206,7 @@
       "label": "",
       "scryfallId": "0cd92a83-cec3-4085-a929-3f204e3e0140",
       "effects": [
-        "Removal",
-        "Burn"
+        "Removal"
       ],
       "reviewedAt": "2026-09-23T13:04:54.1267427+00:00"
     },
@@ -3057,8 +3056,7 @@
       "label": "",
       "scryfallId": "35a335bf-7358-460f-b7c9-1e8bc4300f64",
       "effects": [
-        "Ramp",
-        "ManaFixing"
+        "Ramp"
       ],
       "reviewedAt": "2026-09-04T15:00:50.8341055+00:00"
     },
@@ -3077,9 +3075,7 @@
       "rating": 3,
       "label": "",
       "scryfallId": "1a860925-d912-49e5-9ddc-41ab26916bb3",
-      "effects": [
-        "Filter"
-      ],
+      "effects": [],
       "reviewedAt": "2026-10-08T10:11:30.8228761+00:00"
     },
     "d5b80895-621a-40df-bf48-6c7295658f21": {
@@ -7525,8 +7521,7 @@
       "label": "",
       "scryfallId": "07be53ef-c7b7-44fe-9754-b76871c6b55f",
       "effects": [
-        "Ramp",
-        "ManaFixing"
+        "Ramp"
       ],
       "reviewedAt": "2026-09-04T14:55:30.7461835+00:00"
     },
@@ -8741,7 +8736,7 @@
       "label": "",
       "scryfallId": "07bc15bf-1923-45d7-988f-9a4adf3982ee",
       "effects": [
-        "Ramp"
+        "ManaFixing"
       ],
       "reviewedAt": "2026-09-08T10:23:22.346576+00:00"
     },
@@ -11793,7 +11788,8 @@
       "label": "",
       "scryfallId": "1301e203-7d9a-4735-8db3-7882ad70d343",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "ManaFixing"
       ],
       "reviewedAt": "2026-09-04T14:45:59.3445492+00:00"
     },
@@ -22457,8 +22453,7 @@
       "label": "",
       "scryfallId": "5628e781-9f12-49ed-a575-6b467d39510b",
       "effects": [
-        "Tokens",
-        "Filter"
+        "Tokens"
       ],
       "reviewedAt": "2026-09-25T10:36:24.5609728+00:00"
     },
@@ -22766,7 +22761,7 @@
       "label": "",
       "scryfallId": "aae08938-e563-4322-b2eb-db81913ea730",
       "effects": [
-        "Ramp"
+        "ManaFixing"
       ],
       "reviewedAt": "2026-09-08T10:54:14.1746781+00:00"
     },
