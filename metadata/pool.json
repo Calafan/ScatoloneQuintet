@@ -7210,8 +7210,7 @@
       "effects": [
         "Protection",
         "ManaFixing"
-      ],
-      "reviewedAt": "2026-10-11T19:49:23.5306286+00:00"
+      ]
     },
     "46d6bc30-9a21-4476-947b-87951cd9c882": {
       "name": "Falkenrath Pit Fighter",
@@ -18715,8 +18714,7 @@
       "scryfallId": "42edc09b-29e7-41d1-ad4b-b904f2976a66",
       "effects": [
         "Sacrifice"
-      ],
-      "reviewedAt": "2026-10-15T08:06:53.194663+00:00"
+      ]
     },
     "51622e89-aa5e-4dd6-a078-eb45e8ebb434": {
       "name": "Seraphic Steed",

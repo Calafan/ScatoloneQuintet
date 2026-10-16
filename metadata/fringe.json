@@ -21920,8 +21920,7 @@
       "scryfallId": "04c85150-269e-4158-a1b9-bd11bc6b7d79",
       "effects": [
         "Tokens"
-      ],
-      "reviewedAt": "2026-09-10T15:03:56.3769123+00:00"
+      ]
     },
     "597c390e-deeb-4452-aeda-7cf9312a8b01": {
       "name": "Crested Craghorn",
@@ -23900,8 +23899,7 @@
       "scryfallId": "fac87b49-a0cd-42d5-b30a-efc6d5526fc3",
       "effects": [
         "Protection"
-      ],
-      "reviewedAt": "2026-09-11T15:01:42.6891746+00:00"
+      ]
     },
     "36633b43-855b-4620-8afb-70c39fc07280": {
       "name": "Dark Hatchling",
@@ -32453,8 +32451,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "4663e9e3-1989-4ddb-9508-9cc055d2ebe9",
-      "effects": [],
-      "reviewedAt": "2026-09-12T09:37:59.6697582+00:00"
+      "effects": []
     },
     "9b7634bf-067b-4b5c-be72-ff1b80247969": {
       "name": "Emmessi Tome",
@@ -38276,8 +38273,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "23fcd6a8-be83-4304-ae32-d3dfc855f596",
-      "effects": [],
-      "reviewedAt": "2026-09-08T11:59:24.0839319+00:00"
+      "effects": []
     },
     "6a4068b0-fb4f-429c-a94e-47849f3eb7ef": {
       "name": "Flight",
@@ -45533,8 +45529,7 @@
       "scryfallId": "fbe072da-0524-492b-af3d-7c2600e915ab",
       "effects": [
         "Removal"
-      ],
-      "reviewedAt": "2026-09-08T06:48:14.9244906+00:00"
+      ]
     },
     "d04a836b-7e42-424d-9600-42a40d0dfccd": {
       "name": "Gravebane Zombie",
@@ -64730,8 +64725,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "1cf76776-96a5-4362-b395-4853b2a52e89",
-      "effects": [],
-      "reviewedAt": "2026-09-25T10:50:44.9833873+00:00"
+      "effects": []
     },
     "541f13aa-a1ed-453a-b719-82daef1be607": {
       "name": "Manipulate Fate",
@@ -66477,8 +66471,7 @@
       "scryfallId": "0f47e29e-54c5-4b1a-b9b9-d5e267a0203a",
       "effects": [
         "CardAdvantage"
-      ],
-      "reviewedAt": "2026-09-23T10:55:41.5915383+00:00"
+      ]
     },
     "b32a7b97-0883-4c9f-a23d-ad269efd8cc3": {
       "name": "Merciless Enforcers",
@@ -70806,8 +70799,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "e35d7f08-0687-41bd-8c53-31a49adabb11",
-      "effects": [],
-      "reviewedAt": "2026-09-04T23:21:15.2486163+00:00"
+      "effects": []
     },
     "d3d59704-569d-42a7-8b31-8a31b9c0395f": {
       "name": "Mystic Penitent",
@@ -72027,8 +72019,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "7829c0ae-f72f-4195-ad43-775d7218565c",
-      "effects": [],
-      "reviewedAt": "2026-09-10T15:19:43.6936801+00:00"
+      "effects": []
     },
     "fe8fc442-ed17-40b2-8624-69f2eed3f9be": {
       "name": "Nesting Dovehawk",
@@ -83197,8 +83188,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "e26e7c9c-e6de-47f4-8394-7e853408f84c",
-      "effects": [],
-      "reviewedAt": "2026-09-04T14:46:36.0891749+00:00"
+      "effects": []
     },
     "c71eb9b5-2017-4e6c-8140-f9c8af65893f": {
       "name": "Rappelling Scouts",
@@ -94408,8 +94398,7 @@
       "scryfallId": "6f2cec5d-50ea-4d0f-8925-eba06222d015",
       "effects": [
         "Buff"
-      ],
-      "reviewedAt": "2026-09-10T16:09:49.4392161+00:00"
+      ]
     },
     "507ce455-bd02-49f9-bf64-4b2d21ffe0ea": {
       "name": "Shelkin Brownie",
@@ -100092,8 +100081,7 @@
       "effects": [
         "Filter",
         "Buff"
-      ],
-      "reviewedAt": "2026-09-11T21:25:22.0057253+00:00"
+      ]
     },
     "229ecaa1-b3c9-44a1-8e7a-857ea5b8b0df": {
       "name": "Spider-Man, Miles Morales",
@@ -109960,8 +109948,7 @@
       "scryfallId": "19bd0885-baaa-40f2-9c59-b1ea53807540",
       "effects": [
         "Ramp"
-      ],
-      "reviewedAt": "2026-09-11T20:01:17.8872101+00:00"
+      ]
     },
     "ad2793f3-a36f-4a09-a38f-eb98ce0a2b79": {
       "name": "The Witch's Vanity",
@@ -115722,8 +115709,7 @@
       "effects": [
         "Tokens",
         "Removal"
-      ],
-      "reviewedAt": "2026-09-22T11:43:55.4705441+00:00"
+      ]
     },
     "a5827d57-ae8b-44b0-a81b-3d191a0ba2fa": {
       "name": "Unfulfilled Desires",
@@ -121432,8 +121418,7 @@
       "scryfallId": "62cd82da-badb-420b-8ea8-681db86afbbc",
       "effects": [
         "Tokens"
-      ],
-      "reviewedAt": "2026-09-24T21:28:43.0234173+00:00"
+      ]
     },
     "f07a24c0-bf3c-4733-9473-c6be3b16950e": {
       "name": "Weakness",
