@@ -86,7 +86,6 @@
       "label": "",
       "scryfallId": "de2de2bd-9ba7-4b6f-94c2-dafb2011a48e",
       "effects": [
-        "Buff",
         "Protection"
       ]
     },
@@ -566,7 +565,6 @@
       "label": "",
       "scryfallId": "1fd2c9ab-b3dd-4f68-b91f-0f075a045757",
       "effects": [
-        "Buff",
         "Protection"
       ]
     },
@@ -1679,7 +1677,6 @@
       "label": "",
       "scryfallId": "e77e2fd5-5c46-4f6b-ac43-ec23fab57a1a",
       "effects": [
-        "Buff",
         "Protection"
       ]
     },
@@ -4594,6 +4591,7 @@
       "label": "",
       "scryfallId": "4203df15-dd44-496b-889a-d7a8fe320330",
       "effects": [
+        "Buff",
         "Pacify"
       ]
     },
@@ -10169,7 +10167,6 @@
       "label": "",
       "scryfallId": "3cce80d0-b937-4325-a603-1278c110f244",
       "effects": [
-        "Buff",
         "Protection"
       ]
     },
@@ -12880,7 +12877,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "9bb44500-0c07-4fb6-9525-ab41621be1b0",
-      "effects": []
+      "effects": [
+        "Buff"
+      ]
     },
     "70bb275b-3458-4690-a50f-b231fbf0bccb": {
       "name": "Burrenton Forge-Tender",
@@ -17640,7 +17639,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "4afa3367-eb7e-4c92-96a1-2b6865b24f52",
-      "effects": []
+      "effects": [
+        "Buff"
+      ]
     },
     "653de668-beb0-4be7-bb05-30de5f52a3f1": {
       "name": "Conclave Cavalier",
@@ -24938,7 +24939,6 @@
       "label": "",
       "scryfallId": "388c6b68-a9a0-41dd-97da-526246b60e73",
       "effects": [
-        "Buff",
         "Protection"
       ]
     },
@@ -38684,7 +38684,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "e5f0feef-1a71-4c8c-9fd1-f5cbe718a988",
-      "effects": []
+      "effects": [
+        "Buff"
+      ]
     },
     "c4c0a391-4549-4041-bc6d-09f8b756868e": {
       "name": "Gleam of Resistance",
@@ -38864,7 +38866,6 @@
       "label": "",
       "scryfallId": "0b9db535-6279-4b5e-87c3-15c1321b50c8",
       "effects": [
-        "Buff",
         "Protection"
       ]
     },
@@ -40372,7 +40373,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "49d68905-e13e-4751-b028-90c795c11cd5",
-      "effects": []
+      "effects": [
+        "Buff"
+      ]
     },
     "9abdd53a-aa62-447b-9525-02a2227cc44b": {
       "name": "Gor Muldrak, Amphinologist",
@@ -46666,7 +46669,8 @@
       "label": "",
       "scryfallId": "093f039a-47af-4284-a7ab-67971c2bc5b2",
       "effects": [
-        "Tokens"
+        "Tokens",
+        "Buff"
       ]
     },
     "e9bc324e-c200-45ef-8b9b-52a61d0f7374": {
@@ -50843,7 +50847,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "138a8e44-a7b1-4ce3-983d-9b6d56056b83",
-      "effects": []
+      "effects": [
+        "Buff"
+      ]
     },
     "6ef46fd7-82db-45d3-b02e-7312384577f3": {
       "name": "Junktroller",
@@ -58295,7 +58301,6 @@
       "label": "",
       "scryfallId": "30cace63-91ca-493c-b67f-740fbbf06370",
       "effects": [
-        "Buff",
         "Protection"
       ]
     },
@@ -61134,7 +61139,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "8ee66318-4dbb-49a3-a3c8-ee0e1a9f02b7",
-      "effects": []
+      "effects": [
+        "Buff"
+      ]
     },
     "593caa15-e1d1-477f-bbb4-124d7a7b81f3": {
       "name": "Mighty Leap",
@@ -67706,7 +67713,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "11cd2e1c-c2f0-4790-ad65-409b3d967a85",
-      "effects": []
+      "effects": [
+        "Buff"
+      ]
     },
     "ade898df-14a5-460b-94f6-1f3f74d3ff95": {
       "name": "Odric, Master Tactician",
@@ -68113,7 +68122,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "0f860fcf-eda1-4a83-9be7-80b7c34fff94",
-      "effects": []
+      "effects": [
+        "Buff"
+      ]
     },
     "620ff5f2-7d3f-467f-943d-3b62c2135023": {
       "name": "Oloro, Ageless Ascetic",
@@ -79399,7 +79410,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "498508dd-fefb-463e-ad13-4cbf9e006b34",
-      "effects": []
+      "effects": [
+        "Buff"
+      ]
     },
     "fb60739e-1dc3-481d-a056-ad72e665c680": {
       "name": "Rite of Replication",
@@ -85418,7 +85431,8 @@
       "label": "",
       "scryfallId": "b07f6814-9b52-4560-a3e0-c01c154b7bf3",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Buff"
       ]
     },
     "39c7d2cc-4fd1-4f1a-be1a-a6ae56d2356d": {
@@ -92302,9 +92316,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "658b93b5-e16a-4a1a-bd26-74a9f25caffe",
-      "effects": [
-        "Buff"
-      ]
+      "effects": []
     },
     "1be56a3d-a6c0-4b65-ae71-3d90ceefc6c0": {
       "name": "Sporemound",
@@ -95516,7 +95528,6 @@
       "label": "",
       "scryfallId": "2b349b4b-f08d-45e8-81f6-3467a02e6d23",
       "effects": [
-        "Buff",
         "Protection"
       ]
     },
@@ -99136,6 +99147,7 @@
       "scryfallId": "72ab3ccf-3ddb-4dd1-9cfb-98802a18d954",
       "effects": [
         "Wipe",
+        "Buff",
         "Regrowth"
       ]
     },
@@ -104561,7 +104573,6 @@
       "label": "",
       "scryfallId": "4adf7a3f-35df-4322-a61e-e0e4f47da623",
       "effects": [
-        "Buff",
         "Protection"
       ]
     },
@@ -108255,7 +108266,8 @@
       "label": "",
       "scryfallId": "0be61d61-6a5b-471b-9a62-8a7fdeef1331",
       "effects": [
-        "Tokens"
+        "Tokens",
+        "Buff"
       ]
     },
     "c7c241f2-d3cc-4032-a9da-149de73c2539": {
@@ -111465,7 +111477,6 @@
       "label": "",
       "scryfallId": "cc329134-4b71-4c33-8cfb-c3867a733115",
       "effects": [
-        "Buff",
         "Protection"
       ]
     },

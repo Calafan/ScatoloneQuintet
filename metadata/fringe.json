@@ -8970,7 +8970,6 @@
       "label": "",
       "scryfallId": "7e22411c-11c1-4770-8491-7952dd406e01",
       "effects": [
-        "Buff",
         "Protection"
       ]
     },
@@ -16377,7 +16376,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "6ee4fda8-07cd-4091-8850-a6925080b464",
-      "effects": []
+      "effects": [
+        "Buff"
+      ]
     },
     "9e48eb8e-ec62-4d73-ac80-31e6fe74ec31": {
       "name": "Cease-Fire",
@@ -25869,7 +25870,6 @@
       "label": "",
       "scryfallId": "3f23c487-ac4a-475b-ad5e-ec6f8678e668",
       "effects": [
-        "Buff",
         "Protection"
       ]
     },
@@ -33781,7 +33781,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "8d09ddf0-91f0-4e76-809f-c39ca7418ed5",
-      "effects": []
+      "effects": [
+        "Buff"
+      ]
     },
     "ea38a211-a7b0-49fe-b5dc-7eca7610cccb": {
       "name": "Essence Vortex",
@@ -93448,7 +93450,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "03bd847a-7966-49d1-a7ed-912eff840ab3",
-      "effects": []
+      "effects": [
+        "Buff"
+      ]
     },
     "989a7353-8d3d-4ea2-ab5e-8535d95dddae": {
       "name": "Serra Zealot",
@@ -103440,7 +103444,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "090b3da4-c942-480e-9997-bb9c20e8d62d",
-      "effects": []
+      "effects": [
+        "Buff"
+      ]
     },
     "00606d5e-a134-4363-9ee6-05e03d58f234": {
       "name": "Strength of Unity",
@@ -124224,7 +124230,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "4867d366-5e3b-4526-943b-acde71cd0ce2",
-      "effects": []
+      "effects": [
+        "Buff"
+      ]
     },
     "fdbac0a7-18c0-48a5-a174-0d4d1473fd9c": {
       "name": "Wrench",

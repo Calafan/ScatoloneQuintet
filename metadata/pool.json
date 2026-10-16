@@ -1473,7 +1473,9 @@
       "rating": 4,
       "label": "",
       "scryfallId": "1271251b-7d79-4cb4-80bb-98574aa63249",
-      "effects": []
+      "effects": [
+        "Buff"
+      ]
     },
     "28b22709-3e69-4eb7-8a3d-b75b6e65f30e": {
       "name": "Barbed Spike",
@@ -12359,7 +12361,6 @@
         "Tokens",
         "Removal",
         "CardAdvantage",
-        "Buff",
         "Protection",
         "Burn"
       ]
