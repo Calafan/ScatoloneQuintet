@@ -10635,7 +10635,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "425bff89-ad15-4d22-bce9-a4a07dbafd87",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "c0899c12-5462-4ff1-a9e5-d99cffa7c6cc": {
       "name": "Bombard",
@@ -15425,6 +15427,7 @@
       "label": "",
       "scryfallId": "10b0724c-ad0e-4686-aa41-b9e955913b7f",
       "effects": [
+        "CardAdvantage",
         "Steal"
       ]
     },
@@ -21797,6 +21800,7 @@
       "label": "",
       "scryfallId": "6bb68644-e99d-4ecb-a804-8d4ad1c3325d",
       "effects": [
+        "CardAdvantage",
         "Steal"
       ]
     },
@@ -38374,7 +38378,6 @@
       "label": "",
       "scryfallId": "09b76448-08db-44ea-ab65-0812e1d1e73c",
       "effects": [
-        "CardAdvantage",
         "Regrowth"
       ]
     },
@@ -49922,6 +49925,7 @@
       "scryfallId": "0e606072-a3aa-4300-ba90-ec92a721fa76",
       "effects": [
         "Bounce",
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -56278,7 +56282,6 @@
       "scryfallId": "1ce07e2f-581f-4e47-a689-60bb5e31d0b2",
       "effects": [
         "Removal",
-        "CardAdvantage",
         "Burn",
         "Regrowth"
       ]
@@ -91459,9 +91462,7 @@
       "rating": 0,
       "label": "",
       "scryfallId": "1304a4e9-fd62-4b97-b652-b4ebc0f6ebe8",
-      "effects": [
-        "CardAdvantage"
-      ]
+      "effects": []
     },
     "25597913-aa17-4e3b-a4e9-371ce1459160": {
       "name": "Sphinx of Lost Truths",
@@ -91523,7 +91524,9 @@
       "rating": 0,
       "label": "",
       "scryfallId": "1c0ca3bd-da1d-46ce-843a-cc583b3ecda9",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "1c96772b-463c-4655-836b-cf6e9dc6319f": {
       "name": "Sphinx of the Steel Wind",
@@ -95823,7 +95826,7 @@
       "label": "",
       "scryfallId": "8a28c9cb-ae41-4f9c-b3f6-151ef95c81b3",
       "effects": [
-        "Filter"
+        "CardAdvantage"
       ]
     },
     "152e7e91-4eda-4e72-a9fb-bd5cb2e68239": {

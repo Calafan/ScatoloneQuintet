@@ -67184,9 +67184,7 @@
       "rating": 2,
       "label": "",
       "scryfallId": "3eee6f29-ef06-47f6-99af-fb0ff88f09d0",
-      "effects": [
-        "CardAdvantage"
-      ]
+      "effects": []
     },
     "29c0a904-43e3-44c3-8e00-deea523de8eb": {
       "name": "Militant Monk",
@@ -87165,7 +87163,6 @@
       "scryfallId": "074850d6-959e-4a8e-99a8-f573d4afadaf",
       "effects": [
         "Ramp",
-        "CardAdvantage",
         "Regrowth"
       ]
     },
@@ -118981,6 +118978,7 @@
       "scryfallId": "3979b3d5-7551-4161-bfe5-fe4b54fd96e5",
       "effects": [
         "Tokens",
+        "CardAdvantage",
         "Sacrifice",
         "Tutor"
       ]

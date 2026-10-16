@@ -4912,6 +4912,7 @@
       "label": "",
       "scryfallId": "134a0b3d-f8f2-49b7-9943-dbc30d8cfc7f",
       "effects": [
+        "CardAdvantage",
         "Steal"
       ]
     },
@@ -13889,6 +13890,7 @@
       "label": "",
       "scryfallId": "1e62de3b-6a41-43e3-93ad-9a1e3894be3b",
       "effects": [
+        "CardAdvantage",
         "Steal"
       ]
     },
