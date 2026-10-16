@@ -43600,8 +43600,7 @@
       "scryfallId": "ee39da13-4b8a-4796-a7c2-aaa11992d573",
       "effects": [
         "Pacify"
-      ],
-      "reviewedAt": "2026-09-04T14:27:40.3647111+00:00"
+      ]
     },
     "cca68900-2093-4cae-b757-efc7dd807e18": {
       "name": "Glyph of Destruction",
@@ -47645,8 +47644,7 @@
       "effects": [
         "Filter",
         "Pacify"
-      ],
-      "reviewedAt": "2026-09-25T10:43:55.3341043+00:00"
+      ]
     },
     "1fa272bf-8759-4750-b40b-8e2f6972d570": {
       "name": "Harsh Judgment",
@@ -71464,8 +71462,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "7bd0b831-9d7e-40ce-8514-e852daee1a9e",
-      "effects": [],
-      "reviewedAt": "2026-09-08T08:24:52.1256488+00:00"
+      "effects": []
     },
     "bb493c95-5f6d-405b-aac6-c56fe6b6f42f": {
       "name": "Nature's Cloak",
@@ -117355,8 +117352,7 @@
       "effects": [
         "Disenchant",
         "Pacify"
-      ],
-      "reviewedAt": "2026-09-29T09:34:14.9275612+00:00"
+      ]
     },
     "8d83d816-518c-4557-a3c4-0255f772c57a": {
       "name": "Vault 21: House Gambit",
@@ -121444,8 +121440,7 @@
       "effects": [
         "Pacify",
         "Regrowth"
-      ],
-      "reviewedAt": "2026-09-11T21:45:13.2545084+00:00"
+      ]
     },
     "e507df33-d150-4b21-8ddb-90799f412dd8": {
       "name": "Wayta, Trainer Prodigy",

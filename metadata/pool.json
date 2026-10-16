@@ -15110,8 +15110,7 @@
       "effects": [
         "Removal",
         "Protection"
-      ],
-      "reviewedAt": "2026-09-25T08:34:50.4290515+00:00"
+      ]
     },
     "85ccae95-92c4-41ff-96fd-dcb515dc568e": {
       "name": "Path of the Animist",
@@ -15399,8 +15398,7 @@
       "scryfallId": "55707746-da6e-46e5-a5ca-7ac843fdc38e",
       "effects": [
         "Protection"
-      ],
-      "reviewedAt": "2026-09-25T07:49:41.4119779+00:00"
+      ]
     },
     "08f17ebc-c0fd-493f-84b3-e9250694543e": {
       "name": "Phial of Galadriel",
@@ -20860,8 +20858,7 @@
         "Disenchant",
         "ManaFixing",
         "Pacify"
-      ],
-      "reviewedAt": "2026-09-11T21:14:03.2887326+00:00"
+      ]
     },
     "1820af5c-9cc2-4b77-b4ca-86084442f087": {
       "name": "Sun Droplet",
