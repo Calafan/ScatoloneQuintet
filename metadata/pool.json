@@ -1819,8 +1819,7 @@
       "effects": [
         "CardAdvantage",
         "Steal"
-      ],
-      "reviewedAt": "2026-09-12T09:18:43.177406+00:00"
+      ]
     },
     "623903de-3c04-4745-9af3-d7ec9fb2574d": {
       "name": "Bite Down",
@@ -1859,8 +1858,7 @@
       "effects": [
         "CardAdvantage",
         "Steal"
-      ],
-      "reviewedAt": "2026-09-11T10:50:29.8317379+00:00"
+      ]
     },
     "dde6bce5-8bbe-4866-b5aa-2c05c7d37241": {
       "name": "Black Dragon Gate",
@@ -9340,8 +9338,7 @@
       "effects": [
         "CardAdvantage",
         "Steal"
-      ],
-      "reviewedAt": "2026-10-09T08:12:57.7453121+00:00"
+      ]
     },
     "c7748659-0206-448f-8567-83565cb0b51a": {
       "name": "Guardian Archon",
@@ -17393,8 +17390,7 @@
         "CardAdvantage",
         "Steal",
         "ManaFixing"
-      ],
-      "reviewedAt": "2026-10-06T07:21:43.251095+00:00"
+      ]
     },
     "4499d8cd-d090-4acc-a1d9-3d9d9b6ef768": {
       "name": "Reverse the Polarity",
@@ -23736,8 +23732,7 @@
         "Burn",
         "ManaFixing",
         "Regrowth"
-      ],
-      "reviewedAt": "2026-10-06T18:32:15.6586786+00:00"
+      ]
     },
     "7c4b2203-a937-4d91-8e39-2283fe686b45": {
       "name": "Urabrask's Forge",

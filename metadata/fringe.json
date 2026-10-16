@@ -10785,8 +10785,7 @@
       "effects": [
         "CardAdvantage",
         "Steal"
-      ],
-      "reviewedAt": "2026-10-08T22:34:17.5280828+00:00"
+      ]
     },
     "5dbfd316-a0a9-4caa-99b1-069931d2aaa4": {
       "name": "Blind Fury",
@@ -30970,8 +30969,7 @@
         "CardAdvantage",
         "Steal",
         "ManaFixing"
-      ],
-      "reviewedAt": "2026-09-23T21:22:26.4372929+00:00"
+      ]
     },
     "25432a3a-bcfd-4c43-b662-07676e9b3fdd": {
       "name": "Eel-Hounds",
@@ -37286,8 +37284,7 @@
         "CardAdvantage",
         "Sacrifice",
         "Steal"
-      ],
-      "reviewedAt": "2026-09-11T21:56:24.7055969+00:00"
+      ]
     },
     "a129423d-c886-4120-96f7-c2517ea7eb83": {
       "name": "Fire Lord Zuko",
@@ -85328,8 +85325,7 @@
         "CardAdvantage",
         "Sacrifice",
         "Steal"
-      ],
-      "reviewedAt": "2026-09-11T19:57:05.6298616+00:00"
+      ]
     },
     "72f9a6f7-ea26-438d-aafa-758239fd3681": {
       "name": "Renounce",
@@ -90632,8 +90628,7 @@
         "CardAdvantage",
         "Steal",
         "Mill"
-      ],
-      "reviewedAt": "2026-10-06T14:12:26.9480782+00:00"
+      ]
     },
     "8ba24644-8dff-4f1e-a96a-7361baf46b5a": {
       "name": "Saruman the White",
@@ -98547,8 +98542,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "5a013f6d-e8ac-4fed-8e9f-a616881b0404",
-      "effects": [],
-      "reviewedAt": "2026-10-11T19:16:48.6527002+00:00"
+      "effects": []
     },
     "6053a192-fcf9-4b06-9f46-e84eaadaa882": {
       "name": "Solfatara",
@@ -99527,8 +99521,7 @@
       "scryfallId": "520f5a03-ff5a-43ed-8f15-cf24596d60cd",
       "effects": [
         "CardAdvantage"
-      ],
-      "reviewedAt": "2026-09-11T13:33:08.1558396+00:00"
+      ]
     },
     "c54879da-0f1d-4ad0-b082-95f0e4d35685": {
       "name": "Sparring Golem",
@@ -103313,8 +103306,7 @@
       "effects": [
         "CardAdvantage",
         "Steal"
-      ],
-      "reviewedAt": "2026-09-11T22:10:09.2922958+00:00"
+      ]
     },
     "0e8ae1f7-8926-414a-8434-db0b0f877505": {
       "name": "Strands of Night",
@@ -117293,8 +117285,7 @@
         "Filter",
         "Pacify",
         "Cheat"
-      ],
-      "reviewedAt": "2026-09-23T12:30:07.7431057+00:00"
+      ]
     },
     "e2c00aff-696c-4b20-acd4-95b71b5f8b10": {
       "name": "Vault 11: Voter's Dilemma",
@@ -121846,8 +121837,7 @@
       "effects": [
         "CardAdvantage",
         "Buff"
-      ],
-      "reviewedAt": "2026-09-23T21:28:19.7349406+00:00"
+      ]
     },
     "d63185ac-c7cd-4501-9248-54d6caf7d091": {
       "name": "Well of Discovery",
