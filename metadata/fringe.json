@@ -82531,8 +82531,7 @@
       "effects": [
         "Wipe",
         "LandDestruction"
-      ],
-      "reviewedAt": "2026-09-04T14:35:34.1574453+00:00"
+      ]
     },
     "c7d398a4-0eb3-43cc-9952-35f3b791aa7a": {
       "name": "Rain of Blades",
@@ -102402,8 +102401,7 @@
         "Wipe",
         "Burn",
         "LandDestruction"
-      ],
-      "reviewedAt": "2026-09-05T12:05:20.3470363+00:00"
+      ]
     },
     "03d2d7dd-54b6-469e-8b1c-c48db8cc0925": {
       "name": "Stenn, Paranoid Partisan",
