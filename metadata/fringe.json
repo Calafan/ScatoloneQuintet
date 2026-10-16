@@ -681,6 +681,7 @@
       "scryfallId": "13281377-6d16-4ed3-8aa6-c47d6eb783df",
       "status": "Banned",
       "effects": [
+        "Wipe",
         "LandDestruction"
       ],
       "reviewedAt": "2026-09-04T14:58:20.6254759+00:00"
@@ -4106,7 +4107,8 @@
       "label": "",
       "scryfallId": "7ff23780-d183-4cca-ad0c-448ef325bf36",
       "effects": [
-        "Wipe"
+        "Wipe",
+        "LandDestruction"
       ],
       "reviewedAt": "2026-09-08T10:40:18.8585229+00:00"
     },
@@ -38051,6 +38053,7 @@
       "scryfallId": "0eb40337-4bcc-457a-ada7-df93616ff74f",
       "status": "Banned",
       "effects": [
+        "Wipe",
         "LandDestruction"
       ],
       "reviewedAt": "2026-09-04T14:10:24.8073697+00:00"
@@ -71512,7 +71515,6 @@
       "label": "",
       "scryfallId": "450759f0-5d60-4f05-9011-b0b66dbb06a7",
       "effects": [
-        "Wipe",
         "LandDestruction"
       ],
       "reviewedAt": "2026-09-08T08:24:11.5683398+00:00"
@@ -82518,6 +82520,7 @@
       "label": "",
       "scryfallId": "907a3396-706b-4ca2-9973-bca758986032",
       "effects": [
+        "Wipe",
         "LandDestruction"
       ],
       "reviewedAt": "2026-09-04T14:35:34.1574453+00:00"
@@ -102388,6 +102391,7 @@
       "label": "",
       "scryfallId": "4c7065a2-f819-4cbe-b453-a55e904f0461",
       "effects": [
+        "Wipe",
         "Burn",
         "LandDestruction"
       ],
@@ -114374,6 +114378,7 @@
       "label": "",
       "scryfallId": "0ab151ce-9468-4427-853b-4e0011d783fb",
       "effects": [
+        "Wipe",
         "LandDestruction"
       ],
       "reviewedAt": "2026-09-04T14:08:38.6415943+00:00"
