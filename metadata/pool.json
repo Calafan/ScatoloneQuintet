@@ -1817,6 +1817,7 @@
       "label": "",
       "scryfallId": "d1ee8ead-df6a-4c02-83f7-2902d97132b8",
       "effects": [
+        "CardAdvantage",
         "Steal"
       ],
       "reviewedAt": "2026-09-12T09:18:43.177406+00:00"
@@ -1856,6 +1857,7 @@
       "label": "",
       "scryfallId": "0ed36ada-22c8-4e40-86c5-c116a0bee1c2",
       "effects": [
+        "CardAdvantage",
         "Steal"
       ],
       "reviewedAt": "2026-09-11T10:50:29.8317379+00:00"
@@ -9335,6 +9337,7 @@
       "label": "",
       "scryfallId": "00f40514-d37d-423f-aa0c-1875300f43a8",
       "effects": [
+        "CardAdvantage",
         "Steal"
       ],
       "reviewedAt": "2026-10-09T08:12:57.7453121+00:00"
@@ -17385,6 +17388,7 @@
       "label": "",
       "scryfallId": "34d75399-02e1-4ab8-9493-70c1d9d28b42",
       "effects": [
+        "CardAdvantage",
         "Steal",
         "ManaFixing"
       ],
@@ -23727,9 +23731,9 @@
         "Removal",
         "Wipe",
         "Ramp",
-        "CardAdvantage",
         "Burn",
-        "ManaFixing"
+        "ManaFixing",
+        "Regrowth"
       ],
       "reviewedAt": "2026-10-06T18:32:15.6586786+00:00"
     },

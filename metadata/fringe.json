@@ -10783,6 +10783,7 @@
       "label": "",
       "scryfallId": "9869763c-1f20-4214-a8bd-bd9291b837f4",
       "effects": [
+        "CardAdvantage",
         "Steal"
       ],
       "reviewedAt": "2026-10-08T22:34:17.5280828+00:00"
@@ -30966,6 +30967,8 @@
       "label": "",
       "scryfallId": "181f4713-6167-4a79-8584-30cb87e6f92b",
       "effects": [
+        "CardAdvantage",
+        "Steal",
         "ManaFixing"
       ],
       "reviewedAt": "2026-09-23T21:22:26.4372929+00:00"
@@ -37280,6 +37283,7 @@
       "label": "",
       "scryfallId": "77e548c9-8bed-40c3-bcdd-9d97a82c885d",
       "effects": [
+        "CardAdvantage",
         "Sacrifice",
         "Steal"
       ],
@@ -85323,6 +85327,7 @@
       "label": "",
       "scryfallId": "b5eb0064-c7c4-4e3e-add2-b86269de3fb9",
       "effects": [
+        "CardAdvantage",
         "Sacrifice",
         "Steal"
       ],
@@ -90627,6 +90632,7 @@
       "label": "",
       "scryfallId": "018238ae-b740-4185-8747-b68f6d1e7989",
       "effects": [
+        "CardAdvantage",
         "Steal",
         "Mill"
       ],
@@ -98544,9 +98550,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "5a013f6d-e8ac-4fed-8e9f-a616881b0404",
-      "effects": [
-        "CardAdvantage"
-      ],
+      "effects": [],
       "reviewedAt": "2026-10-11T19:16:48.6527002+00:00"
     },
     "6053a192-fcf9-4b06-9f46-e84eaadaa882": {
@@ -99524,7 +99528,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "520f5a03-ff5a-43ed-8f15-cf24596d60cd",
-      "effects": [],
+      "effects": [
+        "CardAdvantage"
+      ],
       "reviewedAt": "2026-09-11T13:33:08.1558396+00:00"
     },
     "c54879da-0f1d-4ad0-b082-95f0e4d35685": {
@@ -103308,6 +103314,7 @@
       "label": "",
       "scryfallId": "8b880c1a-b82d-42ae-aaaf-22cdc81fe891",
       "effects": [
+        "CardAdvantage",
         "Steal"
       ],
       "reviewedAt": "2026-09-11T22:10:09.2922958+00:00"
@@ -117286,8 +117293,9 @@
       "label": "",
       "scryfallId": "0a0acee2-f6dc-4e92-937b-01e2c07adc55",
       "effects": [
-        "CardAdvantage",
-        "Pacify"
+        "Filter",
+        "Pacify",
+        "Cheat"
       ],
       "reviewedAt": "2026-09-23T12:30:07.7431057+00:00"
     },
@@ -121838,6 +121846,7 @@
       "label": "",
       "scryfallId": "9831a905-55c2-4d88-b7ec-463df05e4d7a",
       "effects": [
+        "CardAdvantage",
         "Buff"
       ],
       "reviewedAt": "2026-09-23T21:28:19.7349406+00:00"
