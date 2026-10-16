@@ -7256,6 +7256,7 @@
       "label": "",
       "scryfallId": "08c9bf6c-fc52-4565-96d1-951a314e59e5",
       "effects": [
+        "Removal",
         "Filter",
         "Burn"
       ],
@@ -20817,6 +20818,7 @@
       "label": "",
       "scryfallId": "76a8cae7-e6ea-45eb-be8d-0e6a29b98aa6",
       "effects": [
+        "Removal",
         "Buff"
       ],
       "reviewedAt": "2026-09-10T15:17:39.7017697+00:00"
