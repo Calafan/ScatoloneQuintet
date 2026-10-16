@@ -71877,7 +71877,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "47734f39-04fb-4786-8d80-a21a1830ab49",
-      "effects": []
+      "effects": [
+        "Cheat"
+      ]
     },
     "b015ec84-95b9-4010-afef-d9d0cacb98dd": {
       "name": "Neerdiv, Devious Diver",
