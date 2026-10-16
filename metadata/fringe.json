@@ -25124,8 +25124,8 @@
       "label": "",
       "scryfallId": "b0ea46a1-ea65-4802-812c-4f0e0f3088d2",
       "effects": [
-        "Burn",
-        "Pacify"
+        "Removal",
+        "Burn"
       ],
       "reviewedAt": "2026-09-08T09:12:57.5760284+00:00"
     },
@@ -43601,7 +43601,9 @@
       "rating": 1,
       "label": "",
       "scryfallId": "ee39da13-4b8a-4796-a7c2-aaa11992d573",
-      "effects": [],
+      "effects": [
+        "Pacify"
+      ],
       "reviewedAt": "2026-09-04T14:27:40.3647111+00:00"
     },
     "cca68900-2093-4cae-b757-efc7dd807e18": {
@@ -47644,7 +47646,8 @@
       "label": "",
       "scryfallId": "70ca61a9-8938-41bf-bd14-5759f4de6521",
       "effects": [
-        "Filter"
+        "Filter",
+        "Pacify"
       ],
       "reviewedAt": "2026-09-25T10:43:55.3341043+00:00"
     },
@@ -71466,9 +71469,7 @@
       "rating": 1,
       "label": "",
       "scryfallId": "7bd0b831-9d7e-40ce-8514-e852daee1a9e",
-      "effects": [
-        "Pacify"
-      ],
+      "effects": [],
       "reviewedAt": "2026-09-08T08:24:52.1256488+00:00"
     },
     "bb493c95-5f6d-405b-aac6-c56fe6b6f42f": {
@@ -113920,7 +113921,7 @@
       "label": "",
       "scryfallId": "139dab8d-88f5-4a59-9db1-9b8b81c78822",
       "effects": [
-        "Removal"
+        "Pacify"
       ],
       "reviewedAt": "2026-10-06T18:32:58.6174421+00:00"
     },
@@ -117355,8 +117356,8 @@
       "label": "",
       "scryfallId": "a22ad436-215a-4da1-b12e-1faac474f948",
       "effects": [
-        "Removal",
-        "Disenchant"
+        "Disenchant",
+        "Pacify"
       ],
       "reviewedAt": "2026-09-29T09:34:14.9275612+00:00"
     },
@@ -121445,6 +121446,7 @@
       "label": "",
       "scryfallId": "5e5b2324-69fe-4105-b6f8-14dfbe359d59",
       "effects": [
+        "Pacify",
         "Regrowth"
       ],
       "reviewedAt": "2026-09-11T21:45:13.2545084+00:00"

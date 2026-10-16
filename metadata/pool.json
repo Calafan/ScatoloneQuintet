@@ -15109,8 +15109,7 @@
       "scryfallId": "1086e826-94b8-4398-8a38-d8eacca56a43",
       "effects": [
         "Removal",
-        "Protection",
-        "Pacify"
+        "Protection"
       ],
       "reviewedAt": "2026-09-25T08:34:50.4290515+00:00"
     },
@@ -15399,8 +15398,7 @@
       "label": "",
       "scryfallId": "55707746-da6e-46e5-a5ca-7ac843fdc38e",
       "effects": [
-        "Protection",
-        "Pacify"
+        "Protection"
       ],
       "reviewedAt": "2026-09-25T07:49:41.4119779+00:00"
     },
@@ -20789,7 +20787,6 @@
       "label": "",
       "scryfallId": "92c0bfc2-ba98-48b6-82a4-95a2321c8df4",
       "effects": [
-        "Removal",
         "Buff",
         "Pacify"
       ],
@@ -20861,7 +20858,8 @@
         "Removal",
         "Ramp",
         "Disenchant",
-        "ManaFixing"
+        "ManaFixing",
+        "Pacify"
       ],
       "reviewedAt": "2026-09-11T21:14:03.2887326+00:00"
     },
