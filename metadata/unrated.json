@@ -17172,8 +17172,7 @@
       "label": "",
       "scryfallId": "9a60eacf-55bb-4da1-b960-5b6efd55e0cc",
       "effects": [
-        "CardAdvantage",
-        "Cheat"
+        "CardAdvantage"
       ]
     },
     "7f7049e8-49ed-46da-89f7-1e40aefb3b0c": {
@@ -43869,8 +43868,7 @@
       "label": "",
       "scryfallId": "193a4aad-4c31-42dc-9a6e-c86df8e262a6",
       "effects": [
-        "CardAdvantage",
-        "Cheat"
+        "CardAdvantage"
       ]
     },
     "5449bf36-e26c-4f76-bcae-944c70d184f8": {
