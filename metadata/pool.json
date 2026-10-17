@@ -5389,7 +5389,6 @@
       "label": "",
       "scryfallId": "3c043edb-07b6-4f43-b93a-7e6b4eb14aa1",
       "effects": [
-        "Wipe",
         "LandDestruction"
       ]
     },
@@ -12140,7 +12139,6 @@
       "scryfallId": "20ae3609-a3cc-486c-94f6-b8f647adfb47",
       "status": "Banned",
       "effects": [
-        "Wipe",
         "LandDestruction"
       ]
     },
@@ -16664,7 +16662,6 @@
       "label": "",
       "scryfallId": "11dca9ba-b27f-4af8-9962-3794e743886f",
       "effects": [
-        "Wipe",
         "LandDestruction"
       ]
     },
@@ -20885,7 +20882,6 @@
       "label": "",
       "scryfallId": "30053742-35e4-4ae0-a90e-d687a5f298d9",
       "effects": [
-        "Wipe",
         "LandDestruction"
       ]
     },
@@ -24510,7 +24506,6 @@
       "scryfallId": "0c070f12-0342-48d5-ab0e-4fc4701c3669",
       "status": "Banned",
       "effects": [
-        "Wipe",
         "LandDestruction"
       ]
     },

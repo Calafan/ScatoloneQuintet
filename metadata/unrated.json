@@ -1617,7 +1617,6 @@
       "scryfallId": "332dfb82-1dc2-4ef6-8653-53a6a09b470a",
       "effects": [
         "Removal",
-        "Wipe",
         "Burn",
         "Pacify",
         "LandDestruction"
@@ -10963,7 +10962,6 @@
       "label": "",
       "scryfallId": "7ce986a4-5f82-4e7e-bef5-b49f05bf96a6",
       "effects": [
-        "Wipe",
         "LandDestruction"
       ]
     },
@@ -28787,7 +28785,6 @@
       "label": "",
       "scryfallId": "46fe9fbe-59a7-4aa4-947d-c178487d1929",
       "effects": [
-        "Wipe",
         "LandDestruction"
       ]
     },
@@ -31834,7 +31831,6 @@
       "label": "",
       "scryfallId": "3a613a01-6145-4e34-987c-c9bdcb068370",
       "effects": [
-        "Wipe",
         "LandDestruction"
       ]
     },
@@ -35732,7 +35728,6 @@
       "label": "",
       "scryfallId": "4529a3d2-e4e6-4cca-bcea-16b51f69bbec",
       "effects": [
-        "Wipe",
         "LandDestruction"
       ]
     },
@@ -63945,7 +63940,6 @@
       "label": "",
       "scryfallId": "df630ae9-aa17-46e9-95e7-4980f4a76ade",
       "effects": [
-        "Wipe",
         "LandDestruction"
       ]
     },
@@ -76715,7 +76709,6 @@
       "label": "",
       "scryfallId": "da3ecfc6-1f9e-443e-a445-51df518025a5",
       "effects": [
-        "Wipe",
         "LandDestruction"
       ]
     },
@@ -97627,7 +97620,6 @@
       "label": "",
       "scryfallId": "1b86be51-1b0b-49d0-917c-508f12c85c17",
       "effects": [
-        "Wipe",
         "LandDestruction"
       ]
     },
@@ -99971,7 +99963,6 @@
       "label": "",
       "scryfallId": "2a0f2db3-41a6-4283-9812-46b6ae6d1df6",
       "effects": [
-        "Wipe",
         "LandDestruction"
       ]
     },
@@ -109530,7 +109521,6 @@
       "label": "",
       "scryfallId": "17328391-a510-42a0-8a00-4f61dd873c13",
       "effects": [
-        "Wipe",
         "Disenchant",
         "LandDestruction"
       ]

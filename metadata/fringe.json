@@ -9485,7 +9485,6 @@
       "label": "",
       "scryfallId": "b76b6660-d4b2-44de-a1a7-8d00811f90f6",
       "effects": [
-        "Wipe",
         "LandDestruction"
       ]
     },
@@ -33173,7 +33172,6 @@
       "label": "",
       "scryfallId": "1a9232ae-9f32-4bbc-a020-554b3f9cbbd3",
       "effects": [
-        "Wipe",
         "LandDestruction"
       ]
     },
@@ -43409,7 +43407,6 @@
       "label": "",
       "scryfallId": "336474b4-2cf5-44c0-b72c-f75f1a7ed928",
       "effects": [
-        "Wipe",
         "LandDestruction"
       ]
     },
@@ -52012,7 +52009,6 @@
       "label": "",
       "scryfallId": "44497303-9686-4810-bf0f-876dd9696cab",
       "effects": [
-        "Wipe",
         "LandDestruction"
       ]
     },
@@ -57537,7 +57533,6 @@
       "label": "",
       "scryfallId": "d3fc78b5-c259-4c67-810c-99655e72c2da",
       "effects": [
-        "Wipe",
         "LandDestruction"
       ]
     },
@@ -88597,7 +88592,6 @@
       "label": "",
       "scryfallId": "6330d925-96a8-47e1-855d-035ddc2af709",
       "effects": [
-        "Wipe",
         "LandDestruction"
       ]
     },
@@ -106891,7 +106885,6 @@
       "label": "",
       "scryfallId": "9de0ee5d-10f6-4152-8416-1f2b749b439d",
       "effects": [
-        "Wipe",
         "LandDestruction"
       ]
     },
