@@ -681,7 +681,6 @@
       "scryfallId": "13281377-6d16-4ed3-8aa6-c47d6eb783df",
       "status": "Banned",
       "effects": [
-        "Wipe",
         "LandDestruction"
       ],
       "reviewedAt": "2026-09-04T14:58:20.6254759+00:00"
@@ -38057,7 +38056,6 @@
       "scryfallId": "0eb40337-4bcc-457a-ada7-df93616ff74f",
       "status": "Banned",
       "effects": [
-        "Wipe",
         "LandDestruction"
       ],
       "reviewedAt": "2026-09-04T14:10:24.8073697+00:00"
@@ -114385,7 +114383,6 @@
       "label": "",
       "scryfallId": "0ab151ce-9468-4427-853b-4e0011d783fb",
       "effects": [
-        "Wipe",
         "LandDestruction"
       ],
       "reviewedAt": "2026-09-04T14:08:38.6415943+00:00"
