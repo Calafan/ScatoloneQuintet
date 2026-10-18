@@ -7,7 +7,7 @@ cube (a rating), whether it is set aside (a status), and what it does in play
 
 The images are not in the repository. They are downloaded from
 [Scryfall](https://scryfall.com), kept locally and can be rebuilt at any time,
-as can the folders used to browse the cube. Both the downloading and the tagging
+as can the cube report. Both the downloading and the tagging
 are done by [ScatoloneDownloader](https://github.com/Calafan/ScatoloneDownloader).
 
 ## Repository layout
@@ -17,11 +17,9 @@ ScatoloneQuintet/
 ├── metadata/                 tracked: the source of truth
 │   ├── pool.json             rating 3–5, the cube itself
 │   ├── fringe.json           rating 1–2, evaluated and cut
-│   ├── unrated.json          rating 0, the rest of the library
-│   └── import-state.json     watermark for incremental imports from Adobe Bridge
+│   └── unrated.json          rating 0, the rest of the library
 ├── Source/                   not tracked: card images, <year>/<set>/<card>.png
-└── Views/                    not tracked: browse folders and Cubo_Analysis.md,
-                              rebuilt from scratch by build-views
+└── Views/                    not tracked: Cubo_Analysis.md, written by report
 ```
 
 A card lives in exactly one tier file, chosen by its rating, so the file edited
@@ -35,12 +33,12 @@ printing. No rating, status or tag exists only inside an image file.
 
 ## Ratings
 
-| Rating | Meaning | File | Browse folder |
+| Rating | Meaning | File | In the report |
 |---|---|---|---|
-| 0 | not evaluated yet | `unrated.json` | `Views/0_Unrated/<year>/<set>/` |
-| 1 | rejected | `fringe.json` | none |
-| 2 | cut, but only just: the bench | `fringe.json` | `Views/6_Bench/` |
-| 3–5 | in the cube | `pool.json` | every other folder under `Views/` |
+| 0 | not evaluated yet | `unrated.json` | no |
+| 1 | rejected | `fringe.json` | no |
+| 2 | cut, but only just: the bench | `fringe.json` | its own appendix, to promote from |
+| 3–5 | in the cube | `pool.json` | every section |
 
 ## Statuses
 
@@ -52,10 +50,8 @@ A card can carry at most one status:
 | **Token** | Not a card you play. It is a helper card printed to track an effect during the game, such as The Ring Tempts You, The Undercity or the Monarch. |
 | **Jolly** | A wildcard. Everyone who chipped in for the cube picks one card to add, whatever its rating, and it is printed and goes in the box. |
 
-A card with a status is set apart from the pool. It appears only in its own
-folder (`Views/0_Banned/`, `Views/0_Token/`, `Views/0_Jolly/`) at any rating, it
-is left out of the cube analysis, and `make-list` writes it in a section of its
-own.
+A card with a status is set apart from the pool. At any rating it is left out of
+the cube analysis, and `make-list` writes it in a section of its own.
 
 ## Card entries
 
@@ -66,7 +62,6 @@ times it has been printed.
 "646f9ad8-9d18-4b42-954a-e21a62e9f0e8": {
   "name": "Aang's Iceberg",
   "rating": 4,
-  "label": "",
   "scryfallId": "6cd25a10-…",
   "effects": ["Filter"],
   "reviewedAt": "2026-09-10T15:29:…"
@@ -77,7 +72,6 @@ times it has been printed.
 |---|---|
 | `name` | Card name, for reading only; the key is what identifies the card. |
 | `rating` | 0–5, see above. It also decides which file the entry is in. |
-| `label` | Adobe Bridge colour label from the original import. Nothing reads it any more. |
 | `status` | `Banned`, `Token` or `Jolly`; omitted for a normal card. |
 | `scryfallId` | The exact printing (the art) the card is kept in. |
 | `effects` | Effect tags from the ontology below, in the order of the table. |
@@ -95,8 +89,8 @@ General rules:
   pumps, shields or mills only itself has a stat line, not an effect.
 - **A tag has to be what the card is for.** A small rider on a card that does
   something else does not earn a tag of its own.
-- **Card types are not effects.** Creature and Land are covered by the type
-  buckets in `Views/`.
+- **Card types are not effects.** Creature and Land are the card's type, which
+  the tagger filters on.
 - **Deliberately absent:** fogs (they buy a turn instead of answering a threat)
   and lifegain (a resource, and this cube has no lifegain archetype).
 - **The classifier proposes and a person decides.** `classify` reads each
@@ -147,13 +141,13 @@ All commands belong to
 
 | Command | What it does |
 |---|---|
+| `register` | Adds the new images in `Source/` as unrated entries. It never touches an entry already here. |
 | `tag` | Opens the web tagger: rating, status and effects, one card at a time, saved on every keystroke. It opens on the review queue. |
 | `classify` | Proposes effect tags from each card's rules text. It never touches a reviewed entry. |
 | `audit` | Lists reviewed cards that say the same thing but were tagged differently. |
-| `build-views` | Rebuilds `Views/` and the `Cubo_Analysis.md` report from the metadata. |
+| `report` | Writes the `Cubo_Analysis.md` report from the metadata. |
 | `make-list` | Writes the pool as a download list, statuses in their own sections. |
 | `restore` | Downloads again every image missing from `Source/`. |
-| `import` | Brings in ratings and labels set in Adobe Bridge. |
 
 ## Banned mechanics
 
