@@ -34536,14 +34536,6 @@
       "scryfallId": "378c5ba0-bf4f-43d5-b371-0991db5a2e32",
       "effects": []
     },
-    "7cdeecb5-354a-4a6c-989f-d8c9554befb7": {
-      "name": "Fleshpulper Giant",
-      "rating": 0,
-      "scryfallId": "f2726d3c-c182-4d8a-a723-0de2c5c4b152",
-      "effects": [
-        "Removal"
-      ]
-    },
     "49815e6d-b9c5-4e45-949e-34d34b3543e8": {
       "name": "Fleshwrither",
       "rating": 0,
