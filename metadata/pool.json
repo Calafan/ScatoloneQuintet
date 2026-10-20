@@ -3856,10 +3856,10 @@
       ],
       "reviewedAt": "2026-10-06T18:48:29.4743395+00:00"
     },
-    "49371b7f-2e7a-427d-9d63-392bd3a19aec": {
+    "88bb91b5-2ccd-4ce9-8cd4-e54d63c12abf": {
       "name": "Coruscation Mage",
       "rating": 3,
-      "scryfallId": "6674c208-4d8d-4833-bee2-bfc87c93049d",
+      "scryfallId": "dc2c1de0-6233-469a-be72-a050b97d2c8f",
       "effects": [
         "Burn"
       ],
@@ -4373,10 +4373,10 @@
         "ManaFixing"
       ]
     },
-    "08887c45-02e5-40a3-b13f-5245a80938ff": {
+    "67d2a021-a042-4e5f-b6e4-39cb35514794": {
       "name": "Darkstar Augur",
       "rating": 3,
-      "scryfallId": "01b55966-0910-484d-9b2b-0a59233c44c4",
+      "scryfallId": "1c603751-1e2b-4c8e-a8d2-5c0876e7254f",
       "effects": [
         "CardAdvantage"
       ],
@@ -9442,25 +9442,15 @@
       "effects": [],
       "reviewedAt": "2026-09-12T09:19:01.7004317+00:00"
     },
-    "11b14eab-5268-485b-ad39-a0c0dfef9f28": {
+    "69e2df4e-c7f3-4c3a-be5b-1c4afb29cead": {
       "name": "Inferno",
       "rating": 3,
-      "scryfallId": "02c3a185-8184-40e9-bba6-4b4dc5be5c1e",
+      "scryfallId": "a6b61512-5b24-424c-966f-36b595781e14",
       "effects": [
         "Wipe",
         "Burn"
       ],
       "reviewedAt": "2026-09-25T12:17:21.7290777+00:00"
-    },
-    "69e2df4e-c7f3-4c3a-be5b-1c4afb29cead": {
-      "name": "Inferno",
-      "rating": 4,
-      "scryfallId": "bf6895de-9c74-49a0-a71c-1e55a6897dfa",
-      "effects": [
-        "Wipe",
-        "Burn"
-      ],
-      "reviewedAt": "2026-09-04T15:04:49.6130822+00:00"
     },
     "cd54438d-7f9d-4d80-b15b-0f0bf4becc15": {
       "name": "Inferno of the Star Mounts",
@@ -12782,12 +12772,13 @@
       ],
       "reviewedAt": "2026-09-12T09:53:58.9918542+00:00"
     },
-    "995eede5-d3aa-42f8-9883-6e47a7c041bc": {
+    "8cbbb1f4-4654-4865-a14c-0c94cd5d8b19": {
       "name": "No Way Out",
       "rating": 3,
-      "scryfallId": "44f6daf9-e3fa-474e-a6af-356c619f8d22",
+      "scryfallId": "d9ef6a68-60a4-4a20-8b57-8b7a7c5ed0c6",
       "effects": [
-        "Tokens"
+        "Tokens",
+        "Discard"
       ]
     },
     "f3f10173-fead-48a2-9726-a4e7efec3951": {
@@ -17235,10 +17226,10 @@
         "Disenchant"
       ]
     },
-    "23eaef1b-1e34-4081-9b4f-ac33524e5b32": {
+    "65db1ec4-70b9-45f9-a2c2-01f6c8e8fd89": {
       "name": "Sicarian Infiltrator",
       "rating": 4,
-      "scryfallId": "58784a4f-8190-4751-b42c-fff188ad3ce5",
+      "scryfallId": "8e4ad023-6672-4f6f-838a-7f923ef44a80",
       "effects": [
         "CardAdvantage"
       ],
@@ -20405,10 +20396,10 @@
         "ManaFixing"
       ]
     },
-    "e292b492-1918-4c92-af43-3bfbe39dcea4": {
+    "a52a06aa-56fc-4845-bbcd-a54f16369b34": {
       "name": "Timeless Witness",
       "rating": 3,
-      "scryfallId": "0902163b-9a92-4df3-afdd-396db24c7fd4",
+      "scryfallId": "8a0f47b0-2254-4df2-b3dc-74c1d3811d2f",
       "effects": [
         "Regrowth"
       ]

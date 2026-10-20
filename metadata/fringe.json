@@ -11097,15 +11097,6 @@
       "effects": [
         "Removal"
       ],
-      "reviewedAt": "2026-09-08T12:45:12.7350724+00:00"
-    },
-    "50fe6d9d-1062-4fc0-a76c-f73840090dbc": {
-      "name": "Bounty Hunter",
-      "rating": 1,
-      "scryfallId": "5982969b-c0c1-4afa-b8d3-ece7f6925062",
-      "effects": [
-        "Removal"
-      ],
       "reviewedAt": "2026-09-25T12:17:37.5217626+00:00"
     },
     "e4bfe005-7c4e-4178-ae41-a28eb2352ad1": {
@@ -26204,14 +26195,7 @@
     "3da87e58-6a4b-48c3-873c-bc654277d4df": {
       "name": "Drowned",
       "rating": 1,
-      "scryfallId": "92debe15-70c2-4d91-9fdc-f85c05ceef1d",
-      "effects": [],
-      "reviewedAt": "2026-09-04T15:08:02.1187024+00:00"
-    },
-    "4808e39c-213b-4034-bbc4-f8450b82817d": {
-      "name": "Drowned",
-      "rating": 1,
-      "scryfallId": "6f573891-83f4-44b7-932c-c60134edb10d",
+      "scryfallId": "951b6c10-cbba-44b6-aae2-2c386b7ebacb",
       "effects": [],
       "reviewedAt": "2026-09-25T12:17:17.3002443+00:00"
     },
@@ -34289,10 +34273,10 @@
       "effects": [],
       "reviewedAt": "2026-09-05T10:35:21.4631908+00:00"
     },
-    "62428d4a-beaa-4124-95ad-a7228e4450cc": {
+    "523d075d-b577-4f24-8c14-9a76761a2eaf": {
       "name": "Flowerfoot Swordmaster",
       "rating": 1,
-      "scryfallId": "31c977b7-12cb-4e6f-8260-a7399b60940f",
+      "scryfallId": "97ff118f-9c3c-43a2-8085-980c7fe7d227",
       "effects": [],
       "reviewedAt": "2026-09-25T08:52:29.0554586+00:00"
     },
@@ -40502,13 +40486,6 @@
       "name": "Grave Robbers",
       "rating": 1,
       "scryfallId": "a131605a-f646-4745-a1e4-48d155a3d94f",
-      "effects": [],
-      "reviewedAt": "2026-09-04T15:07:17.3329665+00:00"
-    },
-    "a69990e3-78e6-401d-8efd-3402541fbaa1": {
-      "name": "Grave Robbers",
-      "rating": 1,
-      "scryfallId": "7c363de3-af48-4e4a-b179-a77f05c06be7",
       "effects": [],
       "reviewedAt": "2026-09-25T12:17:23.3614354+00:00"
     },
@@ -47577,10 +47554,10 @@
       ],
       "reviewedAt": "2026-10-06T21:12:17.9679909+00:00"
     },
-    "4b6d757a-b108-46f4-b87e-c31b1caffff3": {
+    "7ed4afc9-959a-4868-8f4a-2221bea1ba32": {
       "name": "Intrepid Rabbit",
       "rating": 1,
-      "scryfallId": "3b1cd58d-c0bc-48e5-b6fa-fb222fba77ab",
+      "scryfallId": "4d70b99d-c8bf-4a56-8957-cf587fe60b81",
       "effects": [],
       "reviewedAt": "2026-09-25T09:32:54.2145011+00:00"
     },
@@ -52156,10 +52133,10 @@
       "effects": [],
       "reviewedAt": "2026-09-04T14:23:12.9067462+00:00"
     },
-    "6790eb4e-f6ed-44f5-85f1-bd7e167b828c": {
+    "badf0669-9f65-44e3-bf91-6c57ac2fecff": {
       "name": "Kobolds of Kher Keep",
       "rating": 1,
-      "scryfallId": "0a8bc802-2b33-44eb-b93b-624709790279",
+      "scryfallId": "df0320d9-7c2a-456a-9159-1b4fae67bfb5",
       "effects": [],
       "reviewedAt": "2026-09-04T14:59:51.9389748+00:00"
     },
@@ -67040,10 +67017,10 @@
         "Sacrifice"
       ]
     },
-    "dce71fa4-5e0b-4c19-807e-59a60917fe6b": {
+    "292aafef-8945-4827-90b2-1dd9764e517b": {
       "name": "Osgood, Operation Double",
       "rating": 1,
-      "scryfallId": "3b3d0482-c747-4eca-947b-9af1a2cc9b29",
+      "scryfallId": "88ce4ff5-7b9e-4ef8-9a7e-9d148983b04e",
       "effects": [
         "Ramp",
         "CardAdvantage"
@@ -83822,10 +83799,10 @@
       "effects": [],
       "reviewedAt": "2026-09-25T07:37:57.27628+00:00"
     },
-    "b9ad70d0-7e71-4ec1-a39e-7d9363501322": {
+    "82a6d89d-9215-4540-b7d5-26cdd6afb05b": {
       "name": "Shapeshifter",
       "rating": 1,
-      "scryfallId": "049048af-9945-4b73-9aa3-7f09bf4c22b3",
+      "scryfallId": "cc278af4-b60d-41b7-b9d7-36c8aefca1a7",
       "effects": [],
       "reviewedAt": "2026-09-04T15:10:22.6140696+00:00"
     },
@@ -89148,10 +89125,10 @@
       ],
       "reviewedAt": "2026-09-10T16:13:15.4169314+00:00"
     },
-    "28806925-a1c4-4d03-b516-560d5c978f8b": {
+    "7ef7d902-1f05-40b3-8997-dec197b0b678": {
       "name": "Spider-Verse",
       "rating": 1,
-      "scryfallId": "0f5555eb-94f1-4cad-9cea-f6fe68d6e5ac",
+      "scryfallId": "5e85512d-0b46-48f9-a391-6ae6a1b7fb55",
       "effects": [],
       "reviewedAt": "2026-09-10T15:17:59.4384301+00:00"
     },
@@ -90736,10 +90713,10 @@
       "effects": [],
       "reviewedAt": "2026-09-10T13:22:01.0707892+00:00"
     },
-    "7bdb02d9-20e2-40a9-a895-f1da83d739f4": {
+    "8d72ddb3-ef6e-4847-b6d4-5d85b1dd5802": {
       "name": "Starscape Cleric",
       "rating": 1,
-      "scryfallId": "5379a77e-4b98-4abc-b967-fbc76bb85fc6",
+      "scryfallId": "53a938a7-0154-4350-87cb-00da24ec3824",
       "effects": [
         "Burn"
       ],

@@ -6051,10 +6051,10 @@
       "scryfallId": "57626fd2-d101-4e23-946f-8309c9676fe5",
       "effects": []
     },
-    "76a82a10-643d-441c-9895-70004cc56487": {
+    "c872012d-b598-4076-8385-2e3771c0306f": {
       "name": "Aven Initiate",
       "rating": 0,
-      "scryfallId": "12feaabf-7b3e-4cef-8d45-1b9bbe2baaf6",
+      "scryfallId": "61203781-24ad-4bc9-9b69-97149f3043bc",
       "effects": []
     },
     "d31fd12f-b4dd-4bc3-ace4-703dabd0f607": {
@@ -25889,10 +25889,10 @@
         "Tokens"
       ]
     },
-    "015b712b-3778-449d-9280-f848eef0fd8a": {
+    "8f561498-66e7-4cbf-8cb9-e6fd4717993d": {
       "name": "Dragon Egg",
       "rating": 0,
-      "scryfallId": "0e80f154-9409-40fa-a564-6fc296498d80",
+      "scryfallId": "dc2048f7-0c68-4142-9aad-de9b91fe5958",
       "effects": []
     },
     "d0d2c45b-b6e3-4999-bdab-976e8f0d6617": {
@@ -45206,11 +45206,15 @@
       "scryfallId": "9902b260-82cf-4b10-a353-321231824a3b",
       "effects": []
     },
-    "d5432852-e4f2-4fb1-a427-e73c542ca6e5": {
+    "45e5135b-274c-46b4-8249-7e05e37aaff7": {
       "name": "Heroes for Hire",
       "rating": 0,
-      "scryfallId": "0c666db1-587a-4ec6-9d63-f1e999bb7f4a",
-      "effects": []
+      "scryfallId": "37759556-ea31-47b4-8457-a83d17a51e28",
+      "effects": [
+        "Ramp",
+        "CardAdvantage",
+        "ManaFixing"
+      ]
     },
     "9f2f12cc-0adb-482d-bbce-05e4ce8850c4": {
       "name": "Heroes in a Half Shell",
@@ -61443,10 +61447,10 @@
         "Buff"
       ]
     },
-    "a6e807d4-102a-4408-91e4-0cde7a51e845": {
+    "0c3c3bcc-d485-4a01-92fe-8bf29c0fc926": {
       "name": "Meteorite",
       "rating": 0,
-      "scryfallId": "00b41ca9-0bf0-41fc-af65-854e602ee007",
+      "scryfallId": "d7a39c1a-7615-4ac8-8984-b8459d201cb2",
       "effects": [
         "Removal",
         "Ramp",
@@ -71811,10 +71815,10 @@
         "CardAdvantage"
       ]
     },
-    "37412dd5-77b4-4166-b0a4-644f2c879e1b": {
+    "b16085d5-6d00-4d47-ab8b-d18d55c72141": {
       "name": "Phyrexian Hydra",
       "rating": 0,
-      "scryfallId": "2bff78d9-7c4c-4b3b-a485-5328e985315b",
+      "scryfallId": "cb135aa1-9f46-4d60-a1a4-97aa0e852ced",
       "effects": []
     },
     "ec9c35f2-6a68-45e7-a86e-9f5af9fe28fc": {
@@ -74321,10 +74325,10 @@
         "Pacify"
       ]
     },
-    "1dea6957-aa6b-42b4-be21-8dc5e01d68e2": {
+    "24ce3dbe-2b61-43a6-ab16-32b37e385127": {
       "name": "Proven Combatant",
       "rating": 0,
-      "scryfallId": "7c9d8aac-c032-4e0d-a8ef-99a7c53c7a19",
+      "scryfallId": "d83fd08a-c87b-4e29-bd1d-31dea3732156",
       "effects": []
     },
     "43b164d5-2bff-4a03-a4fa-16ffad7e3164": {
@@ -75001,10 +75005,10 @@
       "scryfallId": "42cdb88d-675a-43bb-b85c-51c4cc526315",
       "effects": []
     },
-    "0c3b370e-cf07-474d-adc5-7dd7448e5558": {
+    "636b44dc-f7e4-42d2-abf6-ae49432b6052": {
       "name": "Pym Particles",
       "rating": 0,
-      "scryfallId": "65b9e360-d293-40fc-aac3-d63985745dc8",
+      "scryfallId": "928dfa54-1ead-4eff-a538-36cb94f05b78",
       "effects": []
     },
     "5a8977fc-0732-4807-b876-01819aedd70b": {
@@ -88273,10 +88277,10 @@
         "Removal"
       ]
     },
-    "e1aad66e-6db6-4032-9c93-0f1db1f14cf2": {
+    "b4ed24b2-ba4f-492d-8b8d-44a5b21e4b33": {
       "name": "Sinuous Striker",
       "rating": 0,
-      "scryfallId": "513f2ce9-0127-4479-b37a-a835fbada8f8",
+      "scryfallId": "ed2b97d1-3e69-4305-b1df-947ff64c5043",
       "effects": []
     },
     "658f5cfb-326d-4da9-a39b-2ecd393a1f54": {
@@ -105561,10 +105565,10 @@
       "scryfallId": "67a27473-bd70-49a5-9985-70350282fc79",
       "effects": []
     },
-    "92837e49-ebc2-4a05-86fd-cf014314e1e0": {
+    "e6088c23-a660-4d2c-b633-1c6cb1a59ebe": {
       "name": "Unwavering Initiate",
       "rating": 0,
-      "scryfallId": "07ab720d-40fc-4315-bc8d-c7073cea588b",
+      "scryfallId": "8a73fe35-68d6-4882-aeab-5c1e7b97b938",
       "effects": []
     },
     "d0a38e8c-c42c-4c99-8a44-d390ff2511ff": {
@@ -108319,10 +108323,10 @@
         "Removal"
       ]
     },
-    "c97e158a-a1be-446c-b9aa-cae931735b9d": {
+    "55bceb83-bbba-477f-98ce-6e0a80b91080": {
       "name": "Vizier of Many Faces",
       "rating": 0,
-      "scryfallId": "1df4f7a8-590a-4d90-b163-49ac88a915b6",
+      "scryfallId": "b2781c44-aa90-4a37-a812-33c643ba4deb",
       "effects": []
     },
     "79770e65-740a-44c7-bea2-a24e6a722c22": {
