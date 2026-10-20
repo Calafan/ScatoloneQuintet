@@ -3362,6 +3362,14 @@
       ],
       "reviewedAt": "2026-09-02T16:23:10.0200294+00:00"
     },
+    "73d60ab9-1c38-4592-a5b5-ab84788bcc84": {
+      "name": "City's Blessing",
+      "rating": 5,
+      "scryfallId": "ba64ed3e-93c5-406f-a38d-65cc68472122",
+      "status": "Token",
+      "effects": [],
+      "reviewedAt": "2026-10-20T16:18:15.3739686+00:00"
+    },
     "18f0cd0b-3e4f-4637-a62e-75dd1b2f3fce": {
       "name": "Claim Jumper",
       "rating": 4,
@@ -3469,6 +3477,14 @@
         "Tutor"
       ],
       "reviewedAt": "2026-09-11T10:02:07.3108549+00:00"
+    },
+    "496e1083-c792-40a4-adf4-fec1d559cd5e": {
+      "name": "Clue",
+      "rating": 5,
+      "scryfallId": "271afa7e-2126-4497-b871-9795b7355d69",
+      "status": "Token",
+      "effects": [],
+      "reviewedAt": "2026-10-20T16:18:15.3739686+00:00"
     },
     "c95cebf7-c28c-4453-b5e4-e895d621f290": {
       "name": "Coalition Honor Guard",
@@ -4418,6 +4434,14 @@
         "Buff"
       ],
       "reviewedAt": "2026-09-23T12:56:30.0771488+00:00"
+    },
+    "84142407-ba98-497d-bbc8-39176aa67c02": {
+      "name": "Day // Night",
+      "rating": 5,
+      "scryfallId": "9c0f7843-4cbb-4d0f-8887-ec823a9238da",
+      "status": "Token",
+      "effects": [],
+      "reviewedAt": "2026-10-20T16:18:15.3739686+00:00"
     },
     "70486bee-6ee7-41ea-b834-8caf4699302b": {
       "name": "Daze",
@@ -7248,6 +7272,14 @@
       "effects": [
         "Counter"
       ]
+    },
+    "a468338f-635e-4206-89d6-72d723071d45": {
+      "name": "Food",
+      "rating": 5,
+      "scryfallId": "13e8f518-1c0d-4c01-a397-71481839d02b",
+      "status": "Token",
+      "effects": [],
+      "reviewedAt": "2026-10-20T16:18:15.3739686+00:00"
     },
     "6e26a525-2584-490d-b106-621c1a30e1fd": {
       "name": "Forbid",
@@ -18285,6 +18317,14 @@
         "Wipe"
       ]
     },
+    "a0ddfd98-17ca-4327-b4db-8188af39f0f8": {
+      "name": "Start Your Engines! // Max Speed",
+      "rating": 5,
+      "scryfallId": "82613de6-ed37-48c1-8d2f-d91a3f496794",
+      "status": "Token",
+      "effects": [],
+      "reviewedAt": "2026-10-20T16:18:15.3739686+00:00"
+    },
     "d04e0975-f401-41b8-a9db-9bcf9cbbce66": {
       "name": "Starting Town",
       "rating": 4,
@@ -19904,6 +19944,14 @@
         "Filter"
       ]
     },
+    "7c934091-1bc7-4458-acef-fdac62ec3df1": {
+      "name": "The Monarch",
+      "rating": 5,
+      "scryfallId": "40b79918-22a7-4fff-82a6-8ebfe6e87185",
+      "status": "Token",
+      "effects": [],
+      "reviewedAt": "2026-10-20T16:18:15.3739686+00:00"
+    },
     "a9c1fa95-34a8-42ef-af2f-1394df23cad8": {
       "name": "The Night of the Doctor",
       "rating": 3,
@@ -19951,6 +19999,14 @@
         "ManaFixing"
       ],
       "reviewedAt": "2026-10-10T19:19:14.3298781+00:00"
+    },
+    "98737456-ac2a-420d-aa0e-778ba3a22cec": {
+      "name": "The Ring // The Ring Tempts You",
+      "rating": 5,
+      "scryfallId": "7215460e-8c06-47d0-94e5-d1832d0218af",
+      "status": "Token",
+      "effects": [],
+      "reviewedAt": "2026-10-20T16:18:15.3739686+00:00"
     },
     "9b0b217d-cc9d-4187-89cb-f13160ed2983": {
       "name": "The Rise of Sozin // Fire Lord Sozin",
@@ -20736,6 +20792,14 @@
       "effects": [
         "Steal"
       ]
+    },
+    "3c549374-6c37-42e0-8d88-a8555d46732d": {
+      "name": "Treasure",
+      "rating": 5,
+      "scryfallId": "21e89101-f1cf-4bbd-a1d5-c5d48512e0dd",
+      "status": "Token",
+      "effects": [],
+      "reviewedAt": "2026-10-20T16:18:15.3739686+00:00"
     },
     "83860749-1603-46e9-9065-e98001244193": {
       "name": "Treebeard, Gracious Host",
