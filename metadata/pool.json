@@ -1902,6 +1902,14 @@
       "effects": [],
       "reviewedAt": "2026-10-08T10:26:26.1296027+00:00"
     },
+    "03f45075-9423-454f-a256-94dcafb2a779": {
+      "name": "Blood",
+      "rating": 5,
+      "scryfallId": "a6f374bc-cd29-469f-808a-6a6c004ee8aa",
+      "status": "Token",
+      "effects": [],
+      "reviewedAt": "2026-10-20T16:21:02.9952519+00:00"
+    },
     "abfa5753-8c02-4e2f-8f98-b0636907293a": {
       "name": "Blood Fountain",
       "rating": 4,
@@ -8177,6 +8185,14 @@
         "Burn"
       ]
     },
+    "5aa757d8-db7a-4a60-b63e-c9777c141953": {
+      "name": "Gold",
+      "rating": 5,
+      "scryfallId": "f8b8298e-5ce6-4ff6-9563-fcd158ce841e",
+      "status": "Token",
+      "effects": [],
+      "reviewedAt": "2026-10-20T16:21:02.9952519+00:00"
+    },
     "bd6af7b3-b30f-4a65-a18f-8655f778e76a": {
       "name": "Gold Myr",
       "rating": 3,
@@ -8753,6 +8769,14 @@
       "effects": [
         "Removal"
       ]
+    },
+    "ed1d8118-b182-413b-99ba-52844d35a35b": {
+      "name": "Heartwood",
+      "rating": 5,
+      "scryfallId": "eb4bf635-04d7-4994-9f70-4ff573a767e7",
+      "status": "Token",
+      "effects": [],
+      "reviewedAt": "2026-10-20T16:21:02.9952519+00:00"
     },
     "06c3e85c-17d8-44e1-a0f8-07ef3f1624cb": {
       "name": "Heated Debate",
@@ -9441,6 +9465,14 @@
       ],
       "reviewedAt": "2026-09-05T08:08:59.806951+00:00"
     },
+    "dd3bf75e-9ef0-4ded-9b65-1a60a78a6253": {
+      "name": "Incubator // Phyrexian",
+      "rating": 5,
+      "scryfallId": "2c5ed737-657b-43bf-b222-941da7579a4a",
+      "status": "Token",
+      "effects": [],
+      "reviewedAt": "2026-10-20T16:21:02.9952519+00:00"
+    },
     "ec2b3779-55f7-4169-aa66-6312fb52721f": {
       "name": "Indatha Triome",
       "rating": 5,
@@ -10020,6 +10052,14 @@
         "Reanimate",
         "Burn"
       ]
+    },
+    "7034bca4-8ba0-47a6-886e-ecbd829ddaec": {
+      "name": "Junk",
+      "rating": 5,
+      "scryfallId": "62c4a6f6-6425-4c0c-b35a-880fcab42aad",
+      "status": "Token",
+      "effects": [],
+      "reviewedAt": "2026-10-20T16:21:02.9952519+00:00"
     },
     "c6867301-296c-4840-aad4-1ad8345c091c": {
       "name": "Juvenile Mist Dragon",
@@ -10651,6 +10691,14 @@
         "ManaFixing"
       ],
       "reviewedAt": "2026-10-16T12:47:12.3388083+00:00"
+    },
+    "d7b177cf-59fd-44dc-9c56-1c4bcacb8468": {
+      "name": "Lander",
+      "rating": 5,
+      "scryfallId": "49164e15-252a-46e2-8c5a-66e41e071072",
+      "status": "Token",
+      "effects": [],
+      "reviewedAt": "2026-10-20T16:21:02.9952519+00:00"
     },
     "00e25126-b807-4753-ba63-9a533755e5ce": {
       "name": "Lantern of Revealing",
@@ -11535,6 +11583,14 @@
         "ManaFixing"
       ]
     },
+    "c050f054-1ccf-4819-bc30-a928aed60c56": {
+      "name": "Map",
+      "rating": 5,
+      "scryfallId": "64839118-09d2-4645-9d3c-f80755ac781f",
+      "status": "Token",
+      "effects": [],
+      "reviewedAt": "2026-10-20T16:21:02.9952519+00:00"
+    },
     "11a46cb6-ab01-4630-9541-782db2ef3b91": {
       "name": "Map the Frontier",
       "rating": 3,
@@ -12401,6 +12457,14 @@
       "effects": [
         "Tokens"
       ]
+    },
+    "4c1e395a-94c0-4e83-a621-b3387bfebbdf": {
+      "name": "Mutagen",
+      "rating": 5,
+      "scryfallId": "6559c423-449c-4e8e-8384-3ce78183e317",
+      "status": "Token",
+      "effects": [],
+      "reviewedAt": "2026-10-20T16:21:02.9952519+00:00"
     },
     "9fdd445a-c8e1-4309-9d74-374676fcac1d": {
       "name": "Mutinous Massacre",
@@ -14271,6 +14335,14 @@
       "effects": [
         "Removal"
       ]
+    },
+    "91da73fe-d028-43d7-bf75-f7ef30b45664": {
+      "name": "Powerstone",
+      "rating": 5,
+      "scryfallId": "447af615-1e59-471f-886b-bf46007a938d",
+      "status": "Token",
+      "effects": [],
+      "reviewedAt": "2026-10-20T16:21:02.9952519+00:00"
     },
     "4505ff9f-97f1-45d1-aea9-5590fefb4a4d": {
       "name": "Prayer of Binding",
@@ -17011,6 +17083,14 @@
         "Reanimate"
       ],
       "reviewedAt": "2026-09-08T09:24:14.8106174+00:00"
+    },
+    "08734dc6-71d9-46c1-a116-187a92ce3867": {
+      "name": "Shard",
+      "rating": 5,
+      "scryfallId": "df826c7d-5508-4e21-848c-91bc3e3f447a",
+      "status": "Token",
+      "effects": [],
+      "reviewedAt": "2026-10-20T16:21:02.9952519+00:00"
     },
     "406247ee-2b86-4068-b5fa-65cdc83a82f4": {
       "name": "Shardmage's Rescue",
@@ -21827,6 +21907,14 @@
         "Mill"
       ],
       "reviewedAt": "2026-09-23T10:41:09.3240351+00:00"
+    },
+    "32edf0e6-a495-4de8-b85f-42a2d4ef71b1": {
+      "name": "Vibranium",
+      "rating": 5,
+      "scryfallId": "252ff4c7-758e-4ceb-aed1-ef15a94e245e",
+      "status": "Token",
+      "effects": [],
+      "reviewedAt": "2026-10-20T16:21:02.9952519+00:00"
     },
     "6a7f3e1f-6798-4644-b64c-7765f81f0938": {
       "name": "Vibrant Cityscape",
