@@ -599,16 +599,6 @@
       "effects": [],
       "reviewedAt": "2026-09-23T15:06:39.7156408+00:00"
     },
-    "6ae3c3a2-bd17-4fea-ae27-9d2d1eaf8cc0": {
-      "name": "Acid Rain",
-      "rating": 1,
-      "scryfallId": "13281377-6d16-4ed3-8aa6-c47d6eb783df",
-      "status": "Banned",
-      "effects": [
-        "LandDestruction"
-      ],
-      "reviewedAt": "2026-09-04T14:58:20.6254759+00:00"
-    },
     "bf034a20-e362-4f38-9bf9-857777c62598": {
       "name": "Acidic Dagger",
       "rating": 1,
@@ -33807,16 +33797,6 @@
       "effects": [
         "Filter"
       ]
-    },
-    "c281f436-8c77-48f7-b31c-d40cd7f9ed6a": {
-      "name": "Flashfires",
-      "rating": 1,
-      "scryfallId": "0eb40337-4bcc-457a-ada7-df93616ff74f",
-      "status": "Banned",
-      "effects": [
-        "LandDestruction"
-      ],
-      "reviewedAt": "2026-09-04T14:10:24.8073697+00:00"
     },
     "d9c4a3ca-b966-4fd0-b189-ffbcbfb412b1": {
       "name": "Flatline",
@@ -73312,9 +73292,9 @@
       "rating": 1,
       "scryfallId": "907a3396-706b-4ca2-9973-bca758986032",
       "effects": [
-        "Wipe",
         "LandDestruction"
-      ]
+      ],
+      "reviewedAt": "2026-10-20T10:52:39.4459411+00:00"
     },
     "c7d398a4-0eb3-43cc-9952-35f3b791aa7a": {
       "name": "Rain of Blades",
@@ -90955,16 +90935,6 @@
       ],
       "reviewedAt": "2026-09-08T07:22:37.5715889+00:00"
     },
-    "14062abe-14df-4dbe-ad7b-530e5f6c4988": {
-      "name": "Stench of Evil",
-      "rating": 1,
-      "scryfallId": "4c7065a2-f819-4cbe-b453-a55e904f0461",
-      "effects": [
-        "Wipe",
-        "Burn",
-        "LandDestruction"
-      ]
-    },
     "03d2d7dd-54b6-469e-8b1c-c48db8cc0925": {
       "name": "Stenn, Paranoid Partisan",
       "rating": 2,
@@ -101628,15 +101598,6 @@
       "rating": 1,
       "scryfallId": "0dee69f8-cceb-41b9-a0ee-6b2ac9f4bad9",
       "effects": []
-    },
-    "ef2b1565-7b02-4cab-9031-beb1701ee929": {
-      "name": "Tsunami",
-      "rating": 1,
-      "scryfallId": "0ab151ce-9468-4427-853b-4e0011d783fb",
-      "effects": [
-        "LandDestruction"
-      ],
-      "reviewedAt": "2026-09-04T14:08:38.6415943+00:00"
     },
     "781c9391-0322-40ad-8050-07151e2e6fc7": {
       "name": "Tui and La, Moon and Ocean",

@@ -100,6 +100,16 @@
       ],
       "reviewedAt": "2026-09-23T10:50:17.3188287+00:00"
     },
+    "6ae3c3a2-bd17-4fea-ae27-9d2d1eaf8cc0": {
+      "name": "Acid Rain",
+      "rating": 4,
+      "scryfallId": "13281377-6d16-4ed3-8aa6-c47d6eb783df",
+      "status": "Banned",
+      "effects": [
+        "LandDestruction"
+      ],
+      "reviewedAt": "2026-10-20T09:12:29.5426305+00:00"
+    },
     "4ccc1ac5-db90-4fc9-9795-7afaf7466c3e": {
       "name": "Acidic Soil",
       "rating": 4,
@@ -1255,6 +1265,14 @@
         "LandDestruction"
       ],
       "reviewedAt": "2026-09-04T13:19:07.5933276+00:00"
+    },
+    "06b9590d-01bf-4fae-9837-352c9e04267a": {
+      "name": "Baldur's Gate Wilderness",
+      "rating": 5,
+      "scryfallId": "a9d56324-8293-4500-a9ad-fed351ccf966",
+      "status": "Token",
+      "effects": [],
+      "reviewedAt": "2026-10-20T09:39:37.642964+00:00"
     },
     "adfcdadd-ddda-477b-8e72-0cae2430fb63": {
       "name": "Baleful Mastery",
@@ -5389,11 +5407,8 @@
       "rating": 5,
       "scryfallId": "0202cf00-cbdd-499f-809d-cb0b8c085550",
       "status": "Token",
-      "effects": [
-        "Tokens",
-        "CardAdvantage",
-        "ManaFixing"
-      ]
+      "effects": [],
+      "reviewedAt": "2026-10-20T09:39:37.642964+00:00"
     },
     "ea86abfa-6cab-4ef0-8463-34136fc25b59": {
       "name": "Duplicant",
@@ -7118,6 +7133,16 @@
         "RemovePermanent"
       ],
       "reviewedAt": "2026-09-04T15:05:03.4117848+00:00"
+    },
+    "c281f436-8c77-48f7-b31c-d40cd7f9ed6a": {
+      "name": "Flashfires",
+      "rating": 4,
+      "scryfallId": "0eb40337-4bcc-457a-ada7-df93616ff74f",
+      "status": "Banned",
+      "effects": [
+        "LandDestruction"
+      ],
+      "reviewedAt": "2026-10-20T09:12:42.7355527+00:00"
     },
     "b233a9e4-0b4c-41e8-a5b8-77824241966b": {
       "name": "Flay Essence",
@@ -11097,10 +11122,8 @@
       "rating": 5,
       "scryfallId": "1a9f4382-38fc-4fc7-b177-dc6e643738c2",
       "status": "Token",
-      "effects": [
-        "Tokens",
-        "ManaFixing"
-      ]
+      "effects": [],
+      "reviewedAt": "2026-10-20T09:39:37.642964+00:00"
     },
     "cec95b9f-9d1e-4988-befe-d0c9e20e428d": {
       "name": "Lost in Space",
@@ -13061,6 +13084,7 @@
       "name": "Omen of Fire",
       "rating": 4,
       "scryfallId": "9c724b46-6e17-4bee-9bc6-e9fc5a379dd7",
+      "status": "Banned",
       "effects": [
         "Wipe",
         "LandDestruction"
@@ -18275,6 +18299,17 @@
       "effects": [],
       "reviewedAt": "2026-10-10T18:55:11.2268378+00:00"
     },
+    "14062abe-14df-4dbe-ad7b-530e5f6c4988": {
+      "name": "Stench of Evil",
+      "rating": 4,
+      "scryfallId": "4c7065a2-f819-4cbe-b453-a55e904f0461",
+      "status": "Banned",
+      "effects": [
+        "Burn",
+        "LandDestruction"
+      ],
+      "reviewedAt": "2026-10-20T09:13:38.6953946+00:00"
+    },
     "319d5cf8-ab72-401e-b04e-c13a7a6c1aac": {
       "name": "Stern Dismissal",
       "rating": 4,
@@ -20444,10 +20479,8 @@
       "rating": 5,
       "scryfallId": "70b284bd-7a8f-4b60-8238-f746bdc5b236",
       "status": "Token",
-      "effects": [
-        "Tokens",
-        "Burn"
-      ]
+      "effects": [],
+      "reviewedAt": "2026-10-20T09:39:37.642964+00:00"
     },
     "af65bbf9-e328-4b8b-8caa-c6dff743867b": {
       "name": "Too Greedily, Too Deep",
@@ -20779,6 +20812,16 @@
       ],
       "reviewedAt": "2026-10-09T14:36:44.2905188+00:00"
     },
+    "ef2b1565-7b02-4cab-9031-beb1701ee929": {
+      "name": "Tsunami",
+      "rating": 4,
+      "scryfallId": "0ab151ce-9468-4427-853b-4e0011d783fb",
+      "status": "Banned",
+      "effects": [
+        "LandDestruction"
+      ],
+      "reviewedAt": "2026-10-20T09:12:51.5571332+00:00"
+    },
     "02418479-9455-417f-a6a1-004356faff37": {
       "name": "Tundra",
       "rating": 5,
@@ -21010,6 +21053,14 @@
         "Regrowth"
       ],
       "reviewedAt": "2026-09-23T14:30:01.4950924+00:00"
+    },
+    "36b61021-72f0-4c22-a41d-9b2f093d7ca8": {
+      "name": "Undercity // The Initiative",
+      "rating": 5,
+      "scryfallId": "2c65185b-6cf0-451d-985e-56aa45d9a57d",
+      "status": "Token",
+      "effects": [],
+      "reviewedAt": "2026-10-20T09:39:37.642964+00:00"
     },
     "08d80efc-9542-4ba2-824c-c8615d8d07f2": {
       "name": "Undercity Sewers",
