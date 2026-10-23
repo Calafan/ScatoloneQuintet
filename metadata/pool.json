@@ -799,7 +799,8 @@
       "scryfallId": "10be3e37-da93-476c-8da3-57bed77df2d7",
       "effects": [
         "Removal",
-        "CardAdvantage"
+        "CardAdvantage",
+        "Burn"
       ]
     },
     "ceef2d5a-77ea-4e56-9806-fd1a2d5be400": {
@@ -14886,6 +14887,7 @@
       "scryfallId": "10cde602-f47c-4dac-bf1b-e300c82e5fd5",
       "effects": [
         "CardAdvantage",
+        "Burn",
         "Steal",
         "ManaFixing"
       ]
@@ -15832,7 +15834,8 @@
       "rating": 4,
       "scryfallId": "086e68b5-0f89-46d0-9a04-7f8658a9ab53",
       "effects": [
-        "Tokens"
+        "Tokens",
+        "Burn"
       ]
     },
     "cbdbf18f-0180-4ade-a79e-1e644dd42d6f": {
@@ -17463,7 +17466,9 @@
       "name": "Simian Simulacrum",
       "rating": 3,
       "scryfallId": "036eee90-b002-4d9a-a72e-56cef7cc8648",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "3bcc378c-4470-4757-a0d5-025a32c918ea": {
       "name": "Sin, Spira's Punishment",

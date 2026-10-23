@@ -4137,7 +4137,8 @@
       "rating": 1,
       "scryfallId": "22eb0d3c-41e6-4e3f-8f5b-52850ab2301c",
       "effects": [
-        "Wipe"
+        "Wipe",
+        "Burn"
       ]
     },
     "9188031e-1c24-4981-a3d2-461a2bf917b6": {
@@ -13146,7 +13147,9 @@
       "name": "Caldaia Strongarm",
       "rating": 1,
       "scryfallId": "58b431d2-33c1-49d8-b45d-690c174bb456",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "7cdcfbdf-5ec7-451b-8c96-f19d75a4d76c": {
       "name": "Caldera Kavu",
@@ -37505,7 +37508,9 @@
       "name": "Ghost Ark",
       "rating": 1,
       "scryfallId": "0641ac68-75da-468a-af51-0520e6954d8d",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "26957a44-6155-4688-a850-a3b49b011a9f": {
       "name": "Ghost Hounds",
@@ -58585,7 +58590,9 @@
       "name": "Mayhem Patrol",
       "rating": 1,
       "scryfallId": "50162cdd-ba30-48df-93ff-197c7f4a2913",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "3cb91e96-285d-4191-97cd-ee7ce5d86eb2": {
       "name": "Maze Skullbomb",
@@ -60793,7 +60800,8 @@
       "rating": 1,
       "scryfallId": "1ed2953c-31fc-42d0-81c2-069b642032f6",
       "effects": [
-        "Tokens"
+        "Tokens",
+        "Burn"
       ]
     },
     "4eba0e29-985b-4763-9a70-0946ba044b43": {
@@ -61467,7 +61475,8 @@
       "rating": 1,
       "scryfallId": "461d9f1c-53a4-48a6-bafb-0e70099f276c",
       "effects": [
-        "Tokens"
+        "Tokens",
+        "Burn"
       ]
     },
     "90fdfba8-f29e-44f9-91d2-7bf3c458a9c1": {
@@ -70309,7 +70318,8 @@
       "scryfallId": "1549221a-9b37-44a9-af36-9c2e6c99684e",
       "effects": [
         "Tokens",
-        "CardAdvantage"
+        "CardAdvantage",
+        "Burn"
       ]
     },
     "933e4e8a-01ea-4f58-8f5e-4f6c43f4e105": {
@@ -71199,7 +71209,8 @@
       "rating": 1,
       "scryfallId": "1131c841-d736-4c97-9c80-7e61fa30079d",
       "effects": [
-        "Reanimate"
+        "Reanimate",
+        "Burn"
       ]
     },
     "d93f82ce-0eed-45cc-a7b1-50fd4cbb6152": {
@@ -75120,7 +75131,9 @@
       "name": "Reconstructed Thopter",
       "rating": 1,
       "scryfallId": "bcc8a8d8-6d8e-44b3-a29b-5fa4a851a25b",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "ad8fb78b-5ca5-4ef1-8c68-ee57d1e32fec": {
       "name": "Reconstruction",
@@ -75695,7 +75708,9 @@
       "name": "Relic Bane",
       "rating": 1,
       "scryfallId": "9cbafa51-693b-485c-807d-64020540f16a",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "90cd8274-3f21-4b78-8910-dcaa5f8fe25d": {
       "name": "Relic Barrier",
@@ -109987,6 +110002,7 @@
       "rating": 1,
       "scryfallId": "597fe119-64a7-4499-8b69-738af5a71a20",
       "effects": [
+        "Burn",
         "Pacify"
       ]
     },
@@ -111200,7 +111216,9 @@
       "name": "Yotian Frontliner",
       "rating": 1,
       "scryfallId": "bfa05d1e-6728-4e77-bfb2-da0b9598e44b",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "d218b9ad-3a6f-4bda-90c6-3f869c6c4e6d": {
       "name": "Yotian Medic",
