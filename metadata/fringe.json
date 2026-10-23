@@ -13137,7 +13137,8 @@
       "rating": 2,
       "scryfallId": "287c7d61-13a0-46f7-a8d7-33320e250bbe",
       "effects": [
-        "Tokens"
+        "Tokens",
+        "Burn"
       ],
       "reviewedAt": "2026-10-11T19:32:53.9124772+00:00"
     },
@@ -13501,7 +13502,8 @@
       "rating": 2,
       "scryfallId": "02ed7f46-f58f-412a-8aa4-71f453ee3618",
       "effects": [
-        "RemovePermanent"
+        "RemovePermanent",
+        "Burn"
       ],
       "reviewedAt": "2026-10-16T14:48:44.1169007+00:00"
     },
@@ -16058,6 +16060,7 @@
       "scryfallId": "260feb59-6039-48ac-b6ac-9b7e9ac1d05c",
       "effects": [
         "CardAdvantage",
+        "Burn",
         "Sacrifice"
       ],
       "reviewedAt": "2026-10-10T19:52:20.008781+00:00"
@@ -17660,7 +17663,9 @@
       "name": "Combat Courier",
       "rating": 1,
       "scryfallId": "171edf80-ffc1-4894-9be5-c3e93a96f734",
-      "effects": [],
+      "effects": [
+        "Burn"
+      ],
       "reviewedAt": "2026-10-11T19:28:02.5567028+00:00"
     },
     "541b7b2f-7bb0-4858-8dc5-6e50de443c33": {
@@ -23483,7 +23488,8 @@
       "rating": 1,
       "scryfallId": "6c3d8fc5-bef5-4625-8832-43afa997dbe3",
       "effects": [
-        "Tokens"
+        "Tokens",
+        "Burn"
       ],
       "reviewedAt": "2026-10-11T19:40:44.1358835+00:00"
     },
@@ -27348,7 +27354,8 @@
       "rating": 1,
       "scryfallId": "06425615-6c10-4766-8128-a1a09a35649d",
       "effects": [
-        "Tokens"
+        "Tokens",
+        "Burn"
       ],
       "reviewedAt": "2026-09-08T12:21:20.408265+00:00"
     },
@@ -30233,7 +30240,8 @@
       "scryfallId": "3ee18d18-0167-4caa-adad-9d4435689c80",
       "effects": [
         "Discard",
-        "CardAdvantage"
+        "CardAdvantage",
+        "Burn"
       ],
       "reviewedAt": "2026-09-25T07:44:34.116416+00:00"
     },
@@ -38092,7 +38100,9 @@
       "name": "Girder Goons",
       "rating": 1,
       "scryfallId": "4bfd6449-31a1-4572-8f9c-3f6f4670dc9d",
-      "effects": [],
+      "effects": [
+        "Burn"
+      ],
       "reviewedAt": "2026-10-10T19:29:44.2481377+00:00"
     },
     "9c298c7b-9c63-4a66-a0fc-977491b623c7": {
@@ -40642,7 +40652,8 @@
       "scryfallId": "958cef68-8417-40c1-8943-c816a3c8a2fd",
       "effects": [
         "Tokens",
-        "Reanimate"
+        "Reanimate",
+        "Burn"
       ],
       "reviewedAt": "2026-09-23T14:31:32.6437502+00:00"
     },
@@ -43360,7 +43371,9 @@
       "name": "Henzie \"Toolbox\" Torre",
       "rating": 1,
       "scryfallId": "266dd649-b767-4e40-8ccc-06d9f8db9be3",
-      "effects": [],
+      "effects": [
+        "Burn"
+      ],
       "reviewedAt": "2026-10-10T19:33:01.6801458+00:00"
     },
     "4080f7e3-06d3-4d3d-9929-4e826cb66713": {
@@ -43695,7 +43708,9 @@
       "name": "Hexmark Destroyer",
       "rating": 1,
       "scryfallId": "0c9d6f62-3946-48c8-9c51-21c577bff160",
-      "effects": [],
+      "effects": [
+        "Burn"
+      ],
       "reviewedAt": "2026-10-16T14:34:43.5593297+00:00"
     },
     "f7f78825-10d6-441a-ae26-51b77cc271cd": {
@@ -55389,7 +55404,8 @@
       "rating": 1,
       "scryfallId": "1ad67201-0613-4d4f-9b1d-898a882b3503",
       "effects": [
-        "Removal"
+        "Removal",
+        "Burn"
       ],
       "reviewedAt": "2026-10-10T19:44:45.0719399+00:00"
     },
@@ -60732,7 +60748,9 @@
       "name": "Mishra's Juggernaut",
       "rating": 1,
       "scryfallId": "b30457c3-57df-4720-8b45-962f16316d17",
-      "effects": [],
+      "effects": [
+        "Burn"
+      ],
       "reviewedAt": "2026-10-10T19:08:19.2671845+00:00"
     },
     "3684edb5-bbf1-4ed7-b5b7-f24b452dbd64": {
@@ -60848,7 +60866,9 @@
       "name": "Mist Dancer",
       "rating": 1,
       "scryfallId": "5fa09033-2b7a-4f13-99ef-7c5a347b3d84",
-      "effects": [],
+      "effects": [
+        "Burn"
+      ],
       "reviewedAt": "2026-10-09T14:46:34.0341946+00:00"
     },
     "448f5c55-7334-4fa4-9d90-0e57bae19444": {
@@ -63232,7 +63252,8 @@
       "effects": [
         "Tokens",
         "Removal",
-        "Filter"
+        "Filter",
+        "Burn"
       ],
       "reviewedAt": "2026-10-09T08:36:14.6292496+00:00"
     },
@@ -64397,7 +64418,8 @@
       "rating": 1,
       "scryfallId": "59fd3f8a-a13b-4a0a-bb27-b9246949ea7b",
       "effects": [
-        "Wipe"
+        "Wipe",
+        "Burn"
       ],
       "reviewedAt": "2026-10-11T19:39:26.9886809+00:00"
     },
@@ -66964,7 +66986,8 @@
       "rating": 2,
       "scryfallId": "11ad2b1a-668e-4c7d-8158-b25897be22c8",
       "effects": [
-        "Tokens"
+        "Tokens",
+        "Burn"
       ],
       "reviewedAt": "2026-10-09T10:58:46.1192747+00:00"
     },
@@ -68687,7 +68710,9 @@
       "name": "Perennial Behemoth",
       "rating": 1,
       "scryfallId": "61eac235-faf7-4e4c-94a9-9a5a041c4701",
-      "effects": [],
+      "effects": [
+        "Burn"
+      ],
       "reviewedAt": "2026-10-10T19:25:31.5829066+00:00"
     },
     "2fadf4aa-1b7e-4e72-ad20-809a59ddccf8": {
@@ -70217,7 +70242,9 @@
       "name": "Plasma Jockey",
       "rating": 1,
       "scryfallId": "741ed811-cbcd-4178-a874-dc79d2a5d6f1",
-      "effects": [],
+      "effects": [
+        "Burn"
+      ],
       "reviewedAt": "2026-10-16T15:25:37.8777299+00:00"
     },
     "b3ff8da4-f2cc-41c3-8950-9cc531854b78": {
@@ -75209,7 +75236,8 @@
       "rating": 2,
       "scryfallId": "3e89c925-c191-4af4-bfd1-ee66572d13a7",
       "effects": [
-        "Disenchant"
+        "Disenchant",
+        "Burn"
       ],
       "reviewedAt": "2026-10-06T14:14:29.5501075+00:00"
     },
@@ -77655,7 +77683,9 @@
       "name": "Riveteers Decoy",
       "rating": 1,
       "scryfallId": "2d21701b-6a99-4e1c-82b2-0219f170b09f",
-      "effects": [],
+      "effects": [
+        "Burn"
+      ],
       "reviewedAt": "2026-10-10T19:54:35.5862301+00:00"
     },
     "c756d786-9aff-4d2e-9c06-6ae01d5fca2e": {
@@ -79762,7 +79792,8 @@
       "rating": 2,
       "scryfallId": "0a98990e-52f1-4a56-bede-a87d9c8e1ecb",
       "effects": [
-        "Tokens"
+        "Tokens",
+        "Burn"
       ],
       "reviewedAt": "2026-10-08T10:25:18.9613321+00:00"
     },
@@ -79855,7 +79886,8 @@
       "scryfallId": "8f529a2e-5102-492e-84ab-68541d83b5a3",
       "effects": [
         "Tokens",
-        "Removal"
+        "Removal",
+        "Burn"
       ],
       "reviewedAt": "2026-09-11T21:40:43.3674484+00:00"
     },
@@ -81660,7 +81692,9 @@
       "name": "Scrapwork Cohort",
       "rating": 1,
       "scryfallId": "91b0f17e-603a-4840-b2c3-381ec6f102f3",
-      "effects": [],
+      "effects": [
+        "Burn"
+      ],
       "reviewedAt": "2026-10-10T19:03:56.5342476+00:00"
     },
     "5906b378-c7a7-44fd-a63b-55a347d97854": {
@@ -81668,7 +81702,8 @@
       "rating": 1,
       "scryfallId": "2d78d844-72e8-481b-a700-f92571b2d347",
       "effects": [
-        "Filter"
+        "Filter",
+        "Burn"
       ],
       "reviewedAt": "2026-10-10T19:27:38.1923508+00:00"
     },
@@ -81676,7 +81711,9 @@
       "name": "Scrapwork Rager",
       "rating": 1,
       "scryfallId": "9d1f2544-bb56-44a8-af25-ae0e6bc69abb",
-      "effects": [],
+      "effects": [
+        "Burn"
+      ],
       "reviewedAt": "2026-10-11T19:47:34.7100453+00:00"
     },
     "172e7250-94a4-466f-9438-159174925012": {
@@ -85980,7 +86017,8 @@
       "rating": 1,
       "scryfallId": "ab2f2c6b-335f-4c95-9ef2-02f7b3efc7b7",
       "effects": [
-        "Buff"
+        "Buff",
+        "Burn"
       ],
       "reviewedAt": "2026-10-10T19:55:07.992054+00:00"
     },
@@ -88826,7 +88864,8 @@
       "rating": 1,
       "scryfallId": "248d71f9-89ef-492e-a854-a890f7d91ef8",
       "effects": [
-        "Ramp"
+        "Ramp",
+        "Burn"
       ],
       "reviewedAt": "2026-10-10T19:27:59.8819941+00:00"
     },
@@ -95825,6 +95864,7 @@
       "rating": 1,
       "scryfallId": "29996447-ef4e-47b4-ba29-be6cd3572b76",
       "effects": [
+        "Burn",
         "Mill"
       ],
       "reviewedAt": "2026-10-10T19:13:43.6555336+00:00"
@@ -96001,6 +96041,7 @@
       "scryfallId": "31215674-0bcd-46f1-b8a1-5415f8b674d1",
       "effects": [
         "Removal",
+        "Burn",
         "Sacrifice"
       ],
       "reviewedAt": "2026-10-16T14:54:58.7664171+00:00"
@@ -97020,7 +97061,8 @@
       "rating": 1,
       "scryfallId": "594df270-02d0-438b-a758-c32d71e8d4ff",
       "effects": [
-        "Tokens"
+        "Tokens",
+        "Burn"
       ],
       "reviewedAt": "2026-09-12T09:24:08.2515098+00:00"
     },
@@ -99764,7 +99806,9 @@
       "name": "Tocasia's Onulet",
       "rating": 1,
       "scryfallId": "e4abf2fb-f78a-4e75-b46f-524d3d7405db",
-      "effects": [],
+      "effects": [
+        "Burn"
+      ],
       "reviewedAt": "2026-10-11T19:32:57.0364497+00:00"
     },
     "25c983e0-a8c9-4784-91a4-8fe04c6df882": {
@@ -107940,7 +107984,9 @@
       "name": "Wave of Rats",
       "rating": 2,
       "scryfallId": "154dc126-67ca-4759-a424-37f0eb52e1fa",
-      "effects": [],
+      "effects": [
+        "Burn"
+      ],
       "reviewedAt": "2026-10-11T19:13:29.6935715+00:00"
     },
     "24f7143c-d43a-4120-baa0-0235b15d8186": {
@@ -111798,7 +111844,8 @@
       "rating": 1,
       "scryfallId": "1b735943-847c-4f5a-8377-b46fc0f46761",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Burn"
       ],
       "reviewedAt": "2026-10-10T19:32:54.746234+00:00"
     },
