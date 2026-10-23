@@ -2690,8 +2690,7 @@
         "Disenchant",
         "Buff",
         "Burn"
-      ],
-      "reviewedAt": "2026-10-11T19:15:48.2042778+00:00"
+      ]
     },
     "65424bea-fd53-4f85-9757-0b91a6d40ba4": {
       "name": "Cabaretti Courtyard",
@@ -4513,8 +4512,7 @@
       "scryfallId": "7cb2b582-1c45-4bb2-8aef-59a71a5a9e94",
       "effects": [
         "Burn"
-      ],
-      "reviewedAt": "2026-10-09T14:24:01.1183745+00:00"
+      ]
     },
     "f6d24565-5b32-4eff-b2e0-6e2c25516ff0": {
       "name": "Deathcap Glade",
@@ -4943,8 +4941,7 @@
       "effects": [
         "Tokens",
         "Burn"
-      ],
-      "reviewedAt": "2026-09-10T15:31:54.2402343+00:00"
+      ]
     },
     "052838cb-dcf0-46f5-82b1-c3ed863b42b7": {
       "name": "Devastation",
@@ -6461,8 +6458,7 @@
         "Tokens",
         "Filter",
         "Burn"
-      ],
-      "reviewedAt": "2026-10-10T19:24:59.1589996+00:00"
+      ]
     },
     "437b2dab-15e0-4b9a-a204-58622d37a3b3": {
       "name": "Fact or Fiction",
@@ -15817,8 +15813,7 @@
       "effects": [
         "Tokens",
         "Burn"
-      ],
-      "reviewedAt": "2026-10-06T14:45:59.3491129+00:00"
+      ]
     },
     "c7031047-5109-482f-b2e9-14800b9279bf": {
       "name": "Riders of the Mark",
@@ -15973,8 +15968,7 @@
       "effects": [
         "Burn",
         "ManaFixing"
-      ],
-      "reviewedAt": "2026-10-16T14:59:20.0347546+00:00"
+      ]
     },
     "f18d8939-7ee8-4a44-a1c8-6ae3a08f52fd": {
       "name": "Road // Ruin",
@@ -16304,8 +16298,7 @@
       "scryfallId": "43bacd07-fdaf-4ce4-bf7a-dda55a99d460",
       "effects": [
         "Burn"
-      ],
-      "reviewedAt": "2026-09-11T20:06:33.8506873+00:00"
+      ]
     },
     "65385311-1158-4e94-892a-683997706ca8": {
       "name": "Sabotender",
@@ -20910,8 +20903,7 @@
       "effects": [
         "CardAdvantage",
         "Burn"
-      ],
-      "reviewedAt": "2026-10-16T15:25:31.2603623+00:00"
+      ]
     },
     "72deedab-7c17-4505-aeca-4bc8596d80a5": {
       "name": "Tribute to the World Tree",

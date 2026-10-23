@@ -13140,8 +13140,7 @@
       "effects": [
         "Tokens",
         "Burn"
-      ],
-      "reviewedAt": "2026-10-11T19:32:53.9124772+00:00"
+      ]
     },
     "e0e6938b-7abf-4f69-a3d6-82a58912bff4": {
       "name": "Caldaia Strongarm",
@@ -13507,8 +13506,7 @@
       "effects": [
         "RemovePermanent",
         "Burn"
-      ],
-      "reviewedAt": "2026-10-16T14:48:44.1169007+00:00"
+      ]
     },
     "4493828f-144f-49cf-9fd2-61de86e632ec": {
       "name": "Canopy Baloth",
@@ -16065,8 +16063,7 @@
         "CardAdvantage",
         "Burn",
         "Sacrifice"
-      ],
-      "reviewedAt": "2026-10-10T19:52:20.008781+00:00"
+      ]
     },
     "c7a360f5-725e-4864-93cc-87f96f95975e": {
       "name": "Chthonian Nightmare",
@@ -17668,8 +17665,7 @@
       "scryfallId": "171edf80-ffc1-4894-9be5-c3e93a96f734",
       "effects": [
         "Burn"
-      ],
-      "reviewedAt": "2026-10-11T19:28:02.5567028+00:00"
+      ]
     },
     "541b7b2f-7bb0-4858-8dc5-6e50de443c33": {
       "name": "Combat Medic",
@@ -23493,8 +23489,7 @@
       "effects": [
         "Tokens",
         "Burn"
-      ],
-      "reviewedAt": "2026-10-11T19:40:44.1358835+00:00"
+      ]
     },
     "daa90a75-c600-41bd-9311-ec21cf51480b": {
       "name": "Detonate",
@@ -27359,8 +27354,7 @@
       "effects": [
         "Tokens",
         "Burn"
-      ],
-      "reviewedAt": "2026-09-08T12:21:20.408265+00:00"
+      ]
     },
     "d7ae0009-3747-4f3a-a613-3e640b0219a0": {
       "name": "Echo Inspector",
@@ -30245,8 +30239,7 @@
         "Discard",
         "CardAdvantage",
         "Burn"
-      ],
-      "reviewedAt": "2026-09-25T07:44:34.116416+00:00"
+      ]
     },
     "e34f8aae-bf55-4bba-9524-c841591bb14b": {
       "name": "Eunuchs' Intrigues",
@@ -38107,8 +38100,7 @@
       "scryfallId": "4bfd6449-31a1-4572-8f9c-3f6f4670dc9d",
       "effects": [
         "Burn"
-      ],
-      "reviewedAt": "2026-10-10T19:29:44.2481377+00:00"
+      ]
     },
     "9c298c7b-9c63-4a66-a0fc-977491b623c7": {
       "name": "Gisa's Favorite Shovel",
@@ -43378,8 +43370,7 @@
       "scryfallId": "266dd649-b767-4e40-8ccc-06d9f8db9be3",
       "effects": [
         "Burn"
-      ],
-      "reviewedAt": "2026-10-10T19:33:01.6801458+00:00"
+      ]
     },
     "4080f7e3-06d3-4d3d-9929-4e826cb66713": {
       "name": "Herald of Eternal Dawn",
@@ -43715,8 +43706,7 @@
       "scryfallId": "0c9d6f62-3946-48c8-9c51-21c577bff160",
       "effects": [
         "Burn"
-      ],
-      "reviewedAt": "2026-10-16T14:34:43.5593297+00:00"
+      ]
     },
     "f7f78825-10d6-441a-ae26-51b77cc271cd": {
       "name": "Hexplate Wallbreaker",
@@ -55411,8 +55401,7 @@
       "effects": [
         "Removal",
         "Burn"
-      ],
-      "reviewedAt": "2026-10-10T19:44:45.0719399+00:00"
+      ]
     },
     "f77dfcb6-72b0-4d50-8177-6f6c57a034b9": {
       "name": "Lone Wolf",
@@ -60757,8 +60746,7 @@
       "scryfallId": "b30457c3-57df-4720-8b45-962f16316d17",
       "effects": [
         "Burn"
-      ],
-      "reviewedAt": "2026-10-10T19:08:19.2671845+00:00"
+      ]
     },
     "3684edb5-bbf1-4ed7-b5b7-f24b452dbd64": {
       "name": "Mishra's Onslaught",
@@ -63263,8 +63251,7 @@
         "Removal",
         "Filter",
         "Burn"
-      ],
-      "reviewedAt": "2026-10-09T08:36:14.6292496+00:00"
+      ]
     },
     "38b4798d-47cc-4ffd-8b0b-e90b5da2ee2d": {
       "name": "Naiad of Hidden Coves",
@@ -64429,8 +64416,7 @@
       "effects": [
         "Wipe",
         "Burn"
-      ],
-      "reviewedAt": "2026-10-11T19:39:26.9886809+00:00"
+      ]
     },
     "4cdb9f80-d08f-4986-99c8-573166d66082": {
       "name": "Night Market",
@@ -66997,8 +66983,7 @@
       "effects": [
         "Tokens",
         "Burn"
-      ],
-      "reviewedAt": "2026-10-09T10:58:46.1192747+00:00"
+      ]
     },
     "8e8875dc-72a4-47a4-bb99-ca817c177b82": {
       "name": "Orthodoxy Enforcer",
@@ -68721,8 +68706,7 @@
       "scryfallId": "61eac235-faf7-4e4c-94a9-9a5a041c4701",
       "effects": [
         "Burn"
-      ],
-      "reviewedAt": "2026-10-10T19:25:31.5829066+00:00"
+      ]
     },
     "2fadf4aa-1b7e-4e72-ad20-809a59ddccf8": {
       "name": "Peri Brown",
@@ -70253,8 +70237,7 @@
       "scryfallId": "741ed811-cbcd-4178-a874-dc79d2a5d6f1",
       "effects": [
         "Burn"
-      ],
-      "reviewedAt": "2026-10-16T15:25:37.8777299+00:00"
+      ]
     },
     "b3ff8da4-f2cc-41c3-8950-9cc531854b78": {
       "name": "Plasmancer",
@@ -75251,8 +75234,7 @@
       "effects": [
         "Disenchant",
         "Burn"
-      ],
-      "reviewedAt": "2026-10-06T14:14:29.5501075+00:00"
+      ]
     },
     "94c9aea7-564d-4fc8-ae14-7b22cba18b95": {
       "name": "Red Tiger Mechan",
@@ -77700,8 +77682,7 @@
       "scryfallId": "2d21701b-6a99-4e1c-82b2-0219f170b09f",
       "effects": [
         "Burn"
-      ],
-      "reviewedAt": "2026-10-10T19:54:35.5862301+00:00"
+      ]
     },
     "c756d786-9aff-4d2e-9c06-6ae01d5fca2e": {
       "name": "Riveteers Initiate",
@@ -79809,8 +79790,7 @@
       "effects": [
         "Tokens",
         "Burn"
-      ],
-      "reviewedAt": "2026-10-08T10:25:18.9613321+00:00"
+      ]
     },
     "d5cdfa86-a234-4ddd-bfa0-4a3bc51eebce": {
       "name": "Saiba Trespassers",
@@ -79903,8 +79883,7 @@
         "Tokens",
         "Removal",
         "Burn"
-      ],
-      "reviewedAt": "2026-09-11T21:40:43.3674484+00:00"
+      ]
     },
     "c01a090a-11e4-469e-aded-74203c06fef4": {
       "name": "Salvage",
@@ -81709,8 +81688,7 @@
       "scryfallId": "91b0f17e-603a-4840-b2c3-381ec6f102f3",
       "effects": [
         "Burn"
-      ],
-      "reviewedAt": "2026-10-10T19:03:56.5342476+00:00"
+      ]
     },
     "5906b378-c7a7-44fd-a63b-55a347d97854": {
       "name": "Scrapwork Mutt",
@@ -81719,8 +81697,7 @@
       "effects": [
         "Filter",
         "Burn"
-      ],
-      "reviewedAt": "2026-10-10T19:27:38.1923508+00:00"
+      ]
     },
     "552867ec-5741-4e34-813f-4aaf185661f7": {
       "name": "Scrapwork Rager",
@@ -81728,8 +81705,7 @@
       "scryfallId": "9d1f2544-bb56-44a8-af25-ae0e6bc69abb",
       "effects": [
         "Burn"
-      ],
-      "reviewedAt": "2026-10-11T19:47:34.7100453+00:00"
+      ]
     },
     "172e7250-94a4-466f-9438-159174925012": {
       "name": "Scrapyard Steelbreaker",
@@ -86034,8 +86010,7 @@
       "effects": [
         "Buff",
         "Burn"
-      ],
-      "reviewedAt": "2026-10-10T19:55:07.992054+00:00"
+      ]
     },
     "06d219ff-0083-4c2a-b5b3-2b84bb58f57e": {
       "name": "Skrelv's Hive",
@@ -88881,8 +88856,7 @@
       "effects": [
         "Ramp",
         "Burn"
-      ],
-      "reviewedAt": "2026-10-10T19:27:59.8819941+00:00"
+      ]
     },
     "83133f51-bfbd-4db5-9be0-f660e3b66435": {
       "name": "Spellbook",
@@ -95881,8 +95855,7 @@
       "effects": [
         "Burn",
         "Mill"
-      ],
-      "reviewedAt": "2026-10-10T19:13:43.6555336+00:00"
+      ]
     },
     "03c1e376-1410-4321-90fe-a6997e8db85a": {
       "name": "Terisiare's Devastation",
@@ -96058,8 +96031,7 @@
         "Removal",
         "Burn",
         "Sacrifice"
-      ],
-      "reviewedAt": "2026-10-16T14:54:58.7664171+00:00"
+      ]
     },
     "12be58f4-1c12-4bca-8069-1f049cd8a90c": {
       "name": "Terror Tide",
@@ -97078,8 +97050,7 @@
       "effects": [
         "Tokens",
         "Burn"
-      ],
-      "reviewedAt": "2026-09-12T09:24:08.2515098+00:00"
+      ]
     },
     "4d23b22b-31a5-4eec-b894-2dd5a7138c5a": {
       "name": "The Kami War // O-Kagachi Made Manifest",
@@ -99823,8 +99794,7 @@
       "scryfallId": "e4abf2fb-f78a-4e75-b46f-524d3d7405db",
       "effects": [
         "Burn"
-      ],
-      "reviewedAt": "2026-10-11T19:32:57.0364497+00:00"
+      ]
     },
     "25c983e0-a8c9-4784-91a4-8fe04c6df882": {
       "name": "Tocasia's Welcome",
@@ -108001,8 +107971,7 @@
       "scryfallId": "154dc126-67ca-4759-a424-37f0eb52e1fa",
       "effects": [
         "Burn"
-      ],
-      "reviewedAt": "2026-10-11T19:13:29.6935715+00:00"
+      ]
     },
     "24f7143c-d43a-4120-baa0-0235b15d8186": {
       "name": "Wave of Reckoning",
@@ -111864,8 +111833,7 @@
       "effects": [
         "CardAdvantage",
         "Burn"
-      ],
-      "reviewedAt": "2026-10-10T19:32:54.746234+00:00"
+      ]
     },
     "d46c3fb6-f1c7-4a96-ae42-5bce17fc7c1d": {
       "name": "Ziatora, the Incinerator",
