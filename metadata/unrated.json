@@ -8307,7 +8307,9 @@
       "name": "Benevolent Offering",
       "rating": 0,
       "scryfallId": "2a1603aa-bf6f-4a9d-b370-22f2286d0d36",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "b9000917-4f09-42f4-ae85-fc1ac7571d93": {
       "name": "Benthic Biomancer",
@@ -58043,6 +58045,7 @@
       "rating": 0,
       "scryfallId": "772bf1a3-ab2d-4fe6-830b-1c5ef8f5dc07",
       "effects": [
+        "Tokens",
         "Buff"
       ]
     },
@@ -96869,7 +96872,9 @@
       "name": "Sylvan Offering",
       "rating": 0,
       "scryfallId": "584ffe37-cc49-410d-b8a6-06d20d43b36d",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "52b88034-bf0f-4d29-b776-40ce421f1107": {
       "name": "Sylvan Primordial",
@@ -110875,6 +110880,7 @@
       "rating": 0,
       "scryfallId": "dc6040b6-cf02-4f7e-a275-177c3a6415aa",
       "effects": [
+        "Tokens",
         "Mill"
       ]
     },
