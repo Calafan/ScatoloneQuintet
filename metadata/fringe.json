@@ -5154,8 +5154,7 @@
         "Ramp",
         "Filter",
         "Burn"
-      ],
-      "reviewedAt": "2026-09-23T21:34:18.4816178+00:00"
+      ]
     },
     "dcd5ab1b-adc5-486e-a1e0-636af6ee9470": {
       "name": "Ashnod the Uncaring",
@@ -64919,8 +64918,7 @@
       "name": "Nogi, Draco-Zealot",
       "rating": 1,
       "scryfallId": "6e1ca513-2151-4daa-b442-c52c7838a863",
-      "effects": [],
-      "reviewedAt": "2026-10-11T19:31:56.2681104+00:00"
+      "effects": []
     },
     "1f7e85cf-afee-4041-9436-1fb69b4ec292": {
       "name": "Noise Marine",
@@ -80614,8 +80612,7 @@
       "name": "Sarkhan, Soul Aflame",
       "rating": 1,
       "scryfallId": "18484227-b96a-40fb-9788-656d00705d80",
-      "effects": [],
-      "reviewedAt": "2026-10-09T08:34:40.1304978+00:00"
+      "effects": []
     },
     "b563a578-86ce-41a5-a83e-c70c6a4960e2": {
       "name": "Sarpadian Simulacrum",
@@ -86875,8 +86872,7 @@
       "scryfallId": "9c442742-902c-49ae-813e-38a21ff8a78f",
       "effects": [
         "Removal"
-      ],
-      "reviewedAt": "2026-09-25T12:21:03.946518+00:00"
+      ]
     },
     "a6b28298-9624-49d7-ad73-fcd1fd3556d2": {
       "name": "Slip On the Ring",
@@ -96721,8 +96717,7 @@
       "effects": [
         "Tokens",
         "Tutor"
-      ],
-      "reviewedAt": "2026-09-29T14:32:36.1281235+00:00"
+      ]
     },
     "835c195a-8c35-4076-896d-8d2972cac270": {
       "name": "The End",
@@ -99973,8 +99968,7 @@
       "scryfallId": "079d9bfa-f039-47a9-9b6e-41879028d2da",
       "effects": [
         "Regrowth"
-      ],
-      "reviewedAt": "2026-09-11T10:36:15.8574679+00:00"
+      ]
     },
     "e4a68bb3-5a79-4764-8223-acddd16fb660": {
       "name": "Tome Anima",
