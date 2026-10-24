@@ -28135,9 +28135,7 @@
       "name": "Elite Instructor",
       "rating": 1,
       "scryfallId": "821cd2dd-aa03-4c55-b9e4-98e0284889d3",
-      "effects": [
-        "Filter"
-      ]
+      "effects": []
     },
     "649300e2-c491-435d-92d5-f1b88f0e2e2e": {
       "name": "Elite Javelineer",
@@ -33556,9 +33554,7 @@
       "name": "Fissure Wizard",
       "rating": 1,
       "scryfallId": "847b3e34-ed8e-4853-a50a-555953c82ff5",
-      "effects": [
-        "Filter"
-      ]
+      "effects": []
     },
     "fc05e582-e760-4fe2-ba43-e9d8e63f3f85": {
       "name": "Fists of the Anvil",
@@ -46132,9 +46128,7 @@
       "name": "Immersturm Raider",
       "rating": 1,
       "scryfallId": "77da4de2-4d34-40e5-8fc0-850aef05356b",
-      "effects": [
-        "Filter"
-      ]
+      "effects": []
     },
     "354a7376-fb4b-424d-8964-93727302dccb": {
       "name": "Immersturm Skullcairn",
@@ -58429,9 +58423,7 @@
       "name": "Master of Winds",
       "rating": 1,
       "scryfallId": "0caaf92a-3d9d-4c52-acff-cf960ec55e47",
-      "effects": [
-        "Filter"
-      ]
+      "effects": []
     },
     "cdf89ad2-ce08-4708-88c2-8acdc861526d": {
       "name": "Master of the Hunt",
@@ -70340,9 +70332,7 @@
       "name": "Plundering Predator",
       "rating": 1,
       "scryfallId": "f48b3f46-0e62-4f44-8064-857cd3040659",
-      "effects": [
-        "Filter"
-      ]
+      "effects": []
     },
     "f474d421-5fd0-4d76-95cb-4824a2381a29": {
       "name": "Poet's Quill",
@@ -73215,8 +73205,7 @@
       "rating": 1,
       "scryfallId": "4ba72399-c827-43f3-b072-08597dbafb2d",
       "effects": [
-        "Removal",
-        "Filter"
+        "Removal"
       ]
     },
     "9307f7e9-bcd9-41f9-88f8-0fb9700a6b12": {
@@ -77243,9 +77232,7 @@
       "name": "Riptide Survivor",
       "rating": 1,
       "scryfallId": "7515187f-4821-400d-b78f-cec173df6b84",
-      "effects": [
-        "Filter"
-      ]
+      "effects": []
     },
     "cb7e076c-a695-4c79-9f20-498370c81380": {
       "name": "Riptide Turtle",
@@ -78599,7 +78586,6 @@
       "rating": 1,
       "scryfallId": "c82be2ca-8350-4cf5-83b6-e8b60a9e21c6",
       "effects": [
-        "Filter",
         "Buff"
       ]
     },
@@ -81732,9 +81718,7 @@
       "name": "Screeching Drake",
       "rating": 1,
       "scryfallId": "6c16faac-b093-425b-b1e9-f71602d2f6dd",
-      "effects": [
-        "Filter"
-      ]
+      "effects": []
     },
     "58bbd316-e22c-4c23-8024-364122d1e9a2": {
       "name": "Screeching Harpy",
@@ -82787,7 +82771,9 @@
       "name": "Selhoff Entomber",
       "rating": 1,
       "scryfallId": "f2b5131e-95f4-403e-83ca-1981dad2aaa0",
-      "effects": []
+      "effects": [
+        "Filter"
+      ]
     },
     "95b20721-1af9-4f3f-a39b-7cd1d4ce0b20": {
       "name": "Selvala, Eager Trailblazer",
@@ -84359,9 +84345,7 @@
       "name": "Shipwreck Sifters",
       "rating": 1,
       "scryfallId": "2d08f061-5ef8-46fa-a547-4389cd6ffe10",
-      "effects": [
-        "Filter"
-      ]
+      "effects": []
     },
     "4b9f6a6e-c168-4732-b454-2272d56636da": {
       "name": "Shire Scarecrow",
@@ -88006,7 +87990,6 @@
       "scryfallId": "7f647096-f6b8-439a-948f-c49a851aa3b1",
       "effects": [
         "Ramp",
-        "Filter",
         "Burn"
       ]
     },
@@ -105957,9 +105940,7 @@
       "name": "Vodalian Merchant",
       "rating": 1,
       "scryfallId": "922768fa-b765-4c5e-8f2b-ec7f2c4bbd46",
-      "effects": [
-        "Filter"
-      ]
+      "effects": []
     },
     "3823afcf-6b15-46a9-ba49-3a9a39f8114e": {
       "name": "Vodalian Mindsinger",

@@ -12760,6 +12760,7 @@
       "rating": 3,
       "scryfallId": "26a11412-d2ff-4f6b-9763-3c1179e7bf14",
       "effects": [
+        "Filter",
         "Protection"
       ]
     },
@@ -19544,7 +19545,6 @@
       "rating": 4,
       "scryfallId": "aefc721d-7c0b-4b3a-8131-f466bf3e7949",
       "effects": [
-        "Filter",
         "Mill"
       ]
     },

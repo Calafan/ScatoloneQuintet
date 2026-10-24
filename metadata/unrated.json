@@ -20,7 +20,6 @@
       "rating": 0,
       "scryfallId": "ab96b656-100e-491a-a8c9-94dbb9482c4d",
       "effects": [
-        "Filter",
         "ManaFixing"
       ]
     },
@@ -8500,9 +8499,7 @@
       "name": "Big Wheel",
       "rating": 0,
       "scryfallId": "e21f21d0-d2a4-4617-bda1-72b683fe3011",
-      "effects": [
-        "Filter"
-      ]
+      "effects": []
     },
     "fa85f9e6-69ff-4669-b70a-440aa7b16c97": {
       "name": "Bilbo Baggins, Burglar // Take a Glance",
@@ -14690,8 +14687,7 @@
       "scryfallId": "42fbd61d-e1a6-465d-b1a3-f5ee0869d3af",
       "effects": [
         "Tokens",
-        "RemovePermanent",
-        "Filter"
+        "RemovePermanent"
       ]
     },
     "41797e0c-94bb-42a1-81ed-ed8c6af79e80": {
@@ -25054,7 +25050,6 @@
       "rating": 0,
       "scryfallId": "960c7335-331d-488b-be68-2ad1c1c695dc",
       "effects": [
-        "Filter",
         "Pacify"
       ]
     },
@@ -25207,7 +25202,6 @@
       "rating": 0,
       "scryfallId": "989da63a-2cbd-41a9-9bbb-99f4ad1c6a25",
       "effects": [
-        "Filter",
         "Buff",
         "Regrowth"
       ]
@@ -30275,9 +30269,7 @@
       "name": "Esgaroth Garrison",
       "rating": 0,
       "scryfallId": "573f67b0-6ce8-4857-a703-4a5728640736",
-      "effects": [
-        "Filter"
-      ]
+      "effects": []
     },
     "1b162dd3-3be6-406d-bf86-f7cc9eff098d": {
       "name": "Eshki, Temur's Roar",
@@ -50542,8 +50534,7 @@
       "rating": 0,
       "scryfallId": "63008d1f-aaa6-4183-9952-5e86f5246408",
       "effects": [
-        "Tokens",
-        "Filter"
+        "Tokens"
       ]
     },
     "4beec1a6-a9c6-471f-b6fa-c754a42ad227": {
@@ -52512,9 +52503,7 @@
       "name": "Keldon Raider",
       "rating": 0,
       "scryfallId": "884c47fa-7060-48da-995c-e4037640a208",
-      "effects": [
-        "Filter"
-      ]
+      "effects": []
     },
     "b44d3fe8-b1e2-4abb-ab82-7a516a1db1e5": {
       "name": "Keldon Warcaller",
@@ -54958,9 +54947,7 @@
       "name": "Lake-town Lookout",
       "rating": 0,
       "scryfallId": "178c4cf6-6b11-40e4-9673-c560d6818a6b",
-      "effects": [
-        "Filter"
-      ]
+      "effects": []
     },
     "dba1d231-6b03-44ad-ab8c-be0c8fe1b6db": {
       "name": "Lake-town Mariners // Gone Fishing",
@@ -57344,9 +57331,7 @@
       "name": "Long Lake Nuisance",
       "rating": 0,
       "scryfallId": "cd5af94d-6321-4834-8e5f-e5d0261b3ef3",
-      "effects": [
-        "Filter"
-      ]
+      "effects": []
     },
     "a8f53018-c496-41f3-bc3f-3c4703b9e4e1": {
       "name": "Long Road Home",
@@ -58436,8 +58421,7 @@
       "rating": 0,
       "scryfallId": "f54197b8-6279-43ee-9340-69bd22cf3775",
       "effects": [
-        "Tokens",
-        "Filter"
+        "Tokens"
       ]
     },
     "73413bd5-8c40-4d45-8f05-c20c39ee4017": {
@@ -65611,7 +65595,8 @@
       "rating": 0,
       "scryfallId": "2ba07e86-fdef-4f51-808e-7780883eefe3",
       "effects": [
-        "Tokens"
+        "Tokens",
+        "Filter"
       ]
     },
     "b48a149c-aead-43b2-a99e-c964d6d28aa0": {
@@ -67301,9 +67286,7 @@
       "name": "Noggle Ransacker",
       "rating": 0,
       "scryfallId": "aa7514c5-27cd-46eb-ac85-4b1468a8064e",
-      "effects": [
-        "Filter"
-      ]
+      "effects": []
     },
     "a2f33166-6cfc-4dc5-8edc-088bf40f06b5": {
       "name": "Noggle Robber",
@@ -70992,9 +70975,7 @@
       "name": "Patient Instructor",
       "rating": 0,
       "scryfallId": "e4800508-8bb9-41bb-8712-b55fba7a80a5",
-      "effects": [
-        "Filter"
-      ]
+      "effects": []
     },
     "df9fe645-6f7b-44a0-ab69-b68cb7e525cd": {
       "name": "Patient Rebuilding",
@@ -77831,9 +77812,7 @@
       "name": "Red Room Recruit",
       "rating": 0,
       "scryfallId": "f52a5ba3-a618-4f52-9d33-ba85345eb627",
-      "effects": [
-        "Filter"
-      ]
+      "effects": []
     },
     "82e61db8-4625-488f-8a5f-66ace9bbf34a": {
       "name": "Red Sun's Zenith",
@@ -81046,9 +81025,7 @@
       "name": "Rowdy Crew",
       "rating": 0,
       "scryfallId": "8d0556f8-4099-4015-8e27-a070f10c30f3",
-      "effects": [
-        "Filter"
-      ]
+      "effects": []
     },
     "b92c2da9-eaa4-404b-8114-5527eec6390e": {
       "name": "Roxxon Brutes",
@@ -81081,7 +81058,6 @@
       "scryfallId": "afe61957-a9bb-42b0-98e8-b5fa418cbaff",
       "effects": [
         "Ramp",
-        "Filter",
         "Burn"
       ]
     },
@@ -84444,7 +84420,6 @@
       "rating": 0,
       "scryfallId": "1b36b3d1-2e58-4036-9d91-5875ad667346",
       "effects": [
-        "Filter",
         "Pacify"
       ]
     },
@@ -87902,8 +87877,7 @@
       "rating": 0,
       "scryfallId": "c71b74fb-fb0c-4953-b536-7a3f283c6918",
       "effects": [
-        "Ramp",
-        "Filter"
+        "Ramp"
       ]
     },
     "3ce1f550-d044-4cb1-991b-e98449f74507": {
@@ -88965,9 +88939,7 @@
       "name": "Sky-Eel School",
       "rating": 0,
       "scryfallId": "49a7ca31-8269-4133-b8f6-d5c3d0ecdd9a",
-      "effects": [
-        "Filter"
-      ]
+      "effects": []
     },
     "13d34f21-f0ce-4e59-ac3e-6635bf7292d3": {
       "name": "Skybind",
@@ -90252,7 +90224,8 @@
       "rating": 0,
       "scryfallId": "5142bbb6-194c-4b12-b11a-1a21c9fe81a6",
       "effects": [
-        "RemovePermanent"
+        "RemovePermanent",
+        "Filter"
       ]
     },
     "c99834dc-755f-407c-ad0e-550f8ae12198": {
@@ -94011,7 +93984,6 @@
       "rating": 0,
       "scryfallId": "01ca65e2-898e-4150-a6bf-e61b183fd98a",
       "effects": [
-        "Filter",
         "ManaFixing"
       ]
     },
@@ -99416,8 +99388,7 @@
       "rating": 0,
       "scryfallId": "1b54a4c5-511f-439f-86d0-e84a30275462",
       "effects": [
-        "Wipe",
-        "Filter"
+        "Wipe"
       ]
     },
     "eff0a1ad-ecc6-416f-a4ae-96b26cd8a905": {
@@ -99764,7 +99735,6 @@
       "scryfallId": "68f4893d-e9a5-4f89-ade3-9ab78a834ad5",
       "effects": [
         "Tokens",
-        "Filter",
         "Reanimate"
       ]
     },
@@ -99838,7 +99808,6 @@
       "effects": [
         "Removal",
         "RemovePermanent",
-        "Filter",
         "Burn"
       ]
     },
@@ -107285,9 +107254,7 @@
       "name": "Viashino Racketeer",
       "rating": 0,
       "scryfallId": "bf4c2d22-9c36-42cc-854d-f96410bb5cf1",
-      "effects": [
-        "Filter"
-      ]
+      "effects": []
     },
     "6560517d-41c0-4c9c-b9d5-3ecfcb2b99fd": {
       "name": "Viashino Sandsprinter",
@@ -112067,8 +112034,7 @@
       "rating": 0,
       "scryfallId": "280eb666-e918-4640-9c43-19bc71af06b6",
       "effects": [
-        "Disenchant",
-        "Filter"
+        "Disenchant"
       ]
     },
     "97f11aed-7a5c-4a14-8c2c-5c230c1f05b4": {
