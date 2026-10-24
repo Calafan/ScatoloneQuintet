@@ -8298,9 +8298,7 @@
       "name": "Bellowing Crier",
       "rating": 1,
       "scryfallId": "ca2215dd-6300-49cf-b9b2-3a840b786c31",
-      "effects": [
-        "Filter"
-      ],
+      "effects": [],
       "reviewedAt": "2026-09-12T09:47:06.6147225+00:00"
     },
     "37331d0e-edda-4791-8bcc-fb457f984877": {
@@ -23162,8 +23160,7 @@
       "rating": 1,
       "scryfallId": "37684797-7503-460d-9f74-047b1ab2fac3",
       "effects": [
-        "Bounce",
-        "Filter"
+        "Bounce"
       ],
       "reviewedAt": "2026-09-23T10:44:53.2316454+00:00"
     },
@@ -24069,9 +24066,7 @@
       "name": "Discerning Peddler",
       "rating": 1,
       "scryfallId": "73b359bf-afd8-439d-a4d2-985db1ad368c",
-      "effects": [
-        "Filter"
-      ],
+      "effects": [],
       "reviewedAt": "2026-09-23T12:31:00.287442+00:00"
     },
     "1896c513-ec48-4c8f-9acb-30bc6357fce2": {
@@ -35320,7 +35315,6 @@
       "scryfallId": "c4c603c9-f2ed-419b-8704-6fe306f158fa",
       "effects": [
         "Tokens",
-        "Filter",
         "Buff"
       ],
       "reviewedAt": "2026-09-10T15:11:59.6405119+00:00"
@@ -45696,9 +45690,7 @@
       "name": "Icewind Elemental",
       "rating": 1,
       "scryfallId": "c2bfdfb6-aa0b-4bd7-89ba-6435da730e5e",
-      "effects": [
-        "Filter"
-      ],
+      "effects": [],
       "reviewedAt": "2026-09-23T10:30:44.194392+00:00"
     },
     "9ad12c75-e97d-404a-bfa9-26ff1d0bb506": {
@@ -47736,7 +47728,6 @@
       "rating": 1,
       "scryfallId": "b3e0fc49-f765-4bd1-a2b9-23e703388b50",
       "effects": [
-        "Filter",
         "Tutor",
         "ManaFixing"
       ],
@@ -50716,9 +50707,7 @@
       "name": "Katara, Seeking Revenge",
       "rating": 1,
       "scryfallId": "a1c3f58b-9323-44ea-93f0-64d5992c5674",
-      "effects": [
-        "Filter"
-      ],
+      "effects": [],
       "reviewedAt": "2026-09-11T14:57:02.9424523+00:00"
     },
     "234fb291-0b62-4092-9071-81311c71bd53": {
@@ -58668,9 +58657,7 @@
       "name": "Mechanical Mobster",
       "rating": 1,
       "scryfallId": "540e334b-5c75-499e-860c-38bd260792d5",
-      "effects": [
-        "Filter"
-      ],
+      "effects": [],
       "reviewedAt": "2026-09-11T21:22:22.8613023+00:00"
     },
     "c912a43b-8994-434e-84c0-f4cf58abbd42": {
@@ -59262,9 +59249,7 @@
       "name": "Merfolk Traders",
       "rating": 1,
       "scryfallId": "ebacbf23-4b69-481c-aaf7-5de7b4a6db6f",
-      "effects": [
-        "Filter"
-      ],
+      "effects": [],
       "reviewedAt": "2026-09-08T10:30:55.3481527+00:00"
     },
     "218d9277-c179-4de3-9c7f-79b5a6d4fa38": {
@@ -61122,9 +61107,7 @@
       "name": "Mob Lookout",
       "rating": 1,
       "scryfallId": "3a9d6068-dd7b-4cbe-a9d6-5f716d8d1917",
-      "effects": [
-        "Filter"
-      ],
+      "effects": [],
       "reviewedAt": "2026-09-11T21:22:24.650999+00:00"
     },
     "90e8fb2c-6473-42c3-92f4-f46a744920fa": {
@@ -67471,9 +67454,7 @@
       "name": "Owl Familiar",
       "rating": 1,
       "scryfallId": "195a94de-8a30-408f-897b-b27845f102ad",
-      "effects": [
-        "Filter"
-      ],
+      "effects": [],
       "reviewedAt": "2026-09-08T10:46:13.4519384+00:00"
     },
     "0fab815f-bccf-40ef-95e9-ba64b137fb8c": {
@@ -71978,9 +71959,7 @@
       "name": "Psionic Snoop",
       "rating": 1,
       "scryfallId": "b1e04834-7335-4b25-bedf-b7739c5c3aad",
-      "effects": [
-        "Filter"
-      ],
+      "effects": [],
       "reviewedAt": "2026-10-16T14:55:13.8538272+00:00"
     },
     "d7c4da85-d1a5-4a27-812d-65d8ee1494dd": {
@@ -72843,9 +72822,7 @@
       "name": "Quicksilver Fisher",
       "rating": 1,
       "scryfallId": "05ae222b-5fe0-4110-8a45-f47a6bff63f7",
-      "effects": [
-        "Filter"
-      ],
+      "effects": [],
       "reviewedAt": "2026-10-08T14:00:27.2403921+00:00"
     },
     "0e7cf14a-6149-4ba9-b3f5-c5faf9f772bc": {
@@ -73068,8 +73045,7 @@
       "rating": 1,
       "scryfallId": "50bae2ba-a6a0-4a6a-96e9-0e0372e55108",
       "effects": [
-        "Ramp",
-        "Filter"
+        "Ramp"
       ],
       "reviewedAt": "2026-09-11T12:25:49.3667497+00:00"
     },
@@ -78118,9 +78094,7 @@
       "name": "Roiling Dragonstorm",
       "rating": 1,
       "scryfallId": "31cd0d01-8d3f-4a00-acfd-a43a93e14e7d",
-      "effects": [
-        "Filter"
-      ],
+      "effects": [],
       "reviewedAt": "2026-09-11T21:40:20.8314916+00:00"
     },
     "34f83b7a-45a7-40a8-abcb-31d7aae4cea1": {
@@ -84964,9 +84938,7 @@
       "name": "Sidequest: Card Collection // Magicked Card",
       "rating": 1,
       "scryfallId": "8ac3d2c9-5978-4cfb-a746-c901decff093",
-      "effects": [
-        "Filter"
-      ],
+      "effects": [],
       "reviewedAt": "2026-09-11T19:58:11.5335015+00:00"
     },
     "bd7c328e-0380-46f8-bb85-7bf4e201b7ac": {
@@ -95720,9 +95692,7 @@
       "name": "Temur Tawnyback",
       "rating": 1,
       "scryfallId": "3cdb383f-bc04-46d1-aa3a-7459d57f1fec",
-      "effects": [
-        "Filter"
-      ],
+      "effects": [],
       "reviewedAt": "2026-09-10T07:21:40.0072478+00:00"
     },
     "b07bf08b-d9ec-429f-be6d-a7afa27c60c4": {
@@ -103881,9 +103851,7 @@
       "name": "Uthros Scanship",
       "rating": 1,
       "scryfallId": "1f93887f-35c5-472f-83d0-54227b3bd1d2",
-      "effects": [
-        "Filter"
-      ],
+      "effects": [],
       "reviewedAt": "2026-09-11T19:42:53.9001352+00:00"
     },
     "df08ac72-010f-42f8-beb3-6d645c638e1e": {

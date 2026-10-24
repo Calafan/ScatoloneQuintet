@@ -3197,7 +3197,6 @@
       "rating": 3,
       "scryfallId": "51f94c92-cf88-4770-8ab8-874cd6634510",
       "effects": [
-        "Filter",
         "ManaFixing"
       ],
       "reviewedAt": "2026-09-29T14:26:56.2439041+00:00"
@@ -6738,9 +6737,7 @@
       "name": "Fear of Missing Out",
       "rating": 4,
       "scryfallId": "45b924a5-6533-4ca6-bd2e-32debdfb6c08",
-      "effects": [
-        "Filter"
-      ],
+      "effects": [],
       "reviewedAt": "2026-09-23T14:42:46.31118+00:00"
     },
     "75ae9b87-7137-47a0-b3e1-8915ccd0edf1": {
@@ -10422,8 +10419,7 @@
       "rating": 3,
       "scryfallId": "0fab2dc4-0a3b-42ff-a11d-75fd102f431f",
       "effects": [
-        "Tokens",
-        "Filter"
+        "Tokens"
       ],
       "reviewedAt": "2026-09-23T10:02:34.2735832+00:00"
     },
@@ -18843,7 +18839,6 @@
       "scryfallId": "a469904f-f144-4e70-b689-c7869e40bcb2",
       "effects": [
         "Removal",
-        "Filter",
         "Burn"
       ],
       "reviewedAt": "2026-09-11T20:07:44.717134+00:00"
@@ -23110,9 +23105,7 @@
       "name": "Yuyan Archers",
       "rating": 3,
       "scryfallId": "99244462-a996-4a5b-91fb-947045647d6d",
-      "effects": [
-        "Filter"
-      ],
+      "effects": [],
       "reviewedAt": "2026-09-10T16:01:13.5720425+00:00"
     },
     "fdd46004-eaba-4024-8687-39b23dc6a58c": {
