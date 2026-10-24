@@ -3198,8 +3198,7 @@
       "scryfallId": "51f94c92-cf88-4770-8ab8-874cd6634510",
       "effects": [
         "ManaFixing"
-      ],
-      "reviewedAt": "2026-09-29T14:26:56.2439041+00:00"
+      ]
     },
     "54c3d8ba-ee7c-4f15-8ee3-e5daf860b428": {
       "name": "Charnel Serenade",
@@ -6737,8 +6736,7 @@
       "name": "Fear of Missing Out",
       "rating": 4,
       "scryfallId": "45b924a5-6533-4ca6-bd2e-32debdfb6c08",
-      "effects": [],
-      "reviewedAt": "2026-09-23T14:42:46.31118+00:00"
+      "effects": []
     },
     "75ae9b87-7137-47a0-b3e1-8915ccd0edf1": {
       "name": "Fearless Fledgling",
@@ -10420,8 +10418,7 @@
       "scryfallId": "0fab2dc4-0a3b-42ff-a11d-75fd102f431f",
       "effects": [
         "Tokens"
-      ],
-      "reviewedAt": "2026-09-23T10:02:34.2735832+00:00"
+      ]
     },
     "4eb428ab-f5b0-46ca-98dd-b3466a91ef97": {
       "name": "Kishla Village",
@@ -18841,8 +18838,7 @@
       "effects": [
         "Removal",
         "Burn"
-      ],
-      "reviewedAt": "2026-09-11T20:07:44.717134+00:00"
+      ]
     },
     "06f11ff8-cc99-411d-b00b-464ba4b7b87d": {
       "name": "Summon: Magus Sisters",
@@ -23105,8 +23101,7 @@
       "name": "Yuyan Archers",
       "rating": 3,
       "scryfallId": "99244462-a996-4a5b-91fb-947045647d6d",
-      "effects": [],
-      "reviewedAt": "2026-09-10T16:01:13.5720425+00:00"
+      "effects": []
     },
     "fdd46004-eaba-4024-8687-39b23dc6a58c": {
       "name": "Zagoth Triome",
