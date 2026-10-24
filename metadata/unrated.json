@@ -6873,9 +6873,7 @@
       "name": "Ballyrush Banneret",
       "rating": 0,
       "scryfallId": "a029814e-d84d-43e5-b483-e918871b3333",
-      "effects": [
-        "Ramp"
-      ]
+      "effects": []
     },
     "1221bef9-5947-4c32-a74b-b60279bb79bf": {
       "name": "Baloth Cage Trap",
@@ -7268,7 +7266,6 @@
       "rating": 0,
       "scryfallId": "0eb58292-72f2-4344-b5ec-db6c8999cb01",
       "effects": [
-        "Ramp",
         "Filter"
       ]
     },
@@ -11505,9 +11502,7 @@
       "name": "Bosk Banneret",
       "rating": 0,
       "scryfallId": "203f41a7-ecf5-4757-9162-01ffd2a42ee9",
-      "effects": [
-        "Ramp"
-      ]
+      "effects": []
     },
     "14079f05-fbc1-401c-9008-da678656b4c6": {
       "name": "Bot Bashing Time",
@@ -12160,9 +12155,7 @@
       "name": "Brighthearth Banneret",
       "rating": 0,
       "scryfallId": "cb44df5b-6c89-46ae-b068-5056b8c4c189",
-      "effects": [
-        "Ramp"
-      ]
+      "effects": []
     },
     "909ff4a8-8bdd-4478-bd43-ce5175a02d68": {
       "name": "Brightling",
@@ -24451,7 +24444,6 @@
       "rating": 0,
       "scryfallId": "7b7e00b4-d2f5-4c89-8a1b-e22b7bba111b",
       "effects": [
-        "Ramp",
         "CardAdvantage"
       ]
     },
@@ -26105,9 +26097,7 @@
       "name": "Dragonlord's Servant",
       "rating": 0,
       "scryfallId": "03a4e477-22d4-49b4-8e36-160bb4810e2b",
-      "effects": [
-        "Ramp"
-      ]
+      "effects": []
     },
     "b6fb79c3-cd32-4045-8177-e52841eea65b": {
       "name": "Dragonmaster Outcast",
@@ -31495,7 +31485,6 @@
       "rating": 0,
       "scryfallId": "927596bc-4c9f-404a-97f2-89db53826f6b",
       "effects": [
-        "Ramp",
         "Tutor"
       ]
     },
@@ -35918,9 +35907,7 @@
       "name": "Frogtosser Banneret",
       "rating": 0,
       "scryfallId": "78543dac-7367-429f-88a5-83cb803193ef",
-      "effects": [
-        "Ramp"
-      ]
+      "effects": []
     },
     "31b27775-196b-4022-bff5-25b34290ff7f": {
       "name": "From Beyond",
@@ -45028,9 +45015,7 @@
       "name": "Herald of War",
       "rating": 0,
       "scryfallId": "18f7c44c-a21f-4b61-8f08-122a75accb00",
-      "effects": [
-        "Ramp"
-      ]
+      "effects": []
     },
     "9cdbe247-9dd3-4894-8e65-43d879c19321": {
       "name": "Herald of the Dreadhorde",
@@ -53143,9 +53128,7 @@
       "name": "Kinjalli's Caller",
       "rating": 0,
       "scryfallId": "625211d4-c89c-4aee-a0b0-4bfabd3509ad",
-      "effects": [
-        "Ramp"
-      ]
+      "effects": []
     },
     "b9243163-b726-432e-830f-86132aa7f34a": {
       "name": "Kinjalli's Sunwing",
@@ -53759,9 +53742,7 @@
       "name": "Knight of the Stampede",
       "rating": 0,
       "scryfallId": "e81565a4-cbbe-4820-8473-15ceda42d553",
-      "effects": [
-        "Ramp"
-      ]
+      "effects": []
     },
     "524d81fb-33f5-4e77-ae41-477b91e67be4": {
       "name": "Knight of the Tusk",
@@ -54640,7 +54621,9 @@
       "name": "Kruphix, God of Horizons",
       "rating": 0,
       "scryfallId": "1babedec-caf1-4a4b-a151-062ca460cbb6",
-      "effects": []
+      "effects": [
+        "Ramp"
+      ]
     },
     "93f817c7-2a3d-4346-94c1-3ba8bafb485d": {
       "name": "Kujar Seedsculptor",
@@ -63533,9 +63516,7 @@
       "name": "Moon-Boy, Dino Rider",
       "rating": 0,
       "scryfallId": "c3ee8468-3780-4887-8586-eaf418a95a21",
-      "effects": [
-        "Ramp"
-      ]
+      "effects": []
     },
     "a8e69725-cd57-4340-83b1-498bc0bd77b8": {
       "name": "Moon-Eating Dog",
@@ -68772,7 +68753,9 @@
       "name": "Omnath, Locus of Mana",
       "rating": 0,
       "scryfallId": "4ce5b167-df7a-499e-8dcc-7aec2e28b382",
-      "effects": []
+      "effects": [
+        "Ramp"
+      ]
     },
     "1816eede-c5bd-49df-958f-a3af64cb2932": {
       "name": "Omnath, Locus of Rage",
@@ -69873,9 +69856,7 @@
       "name": "Otepec Huntmaster",
       "rating": 0,
       "scryfallId": "00a87f71-8dbe-44e1-b69b-a03f6ab62055",
-      "effects": [
-        "Ramp"
-      ]
+      "effects": []
     },
     "4ee401bf-dc86-41a9-84f9-57aa0a314d08": {
       "name": "Othelm, Sigardian Outcast",
@@ -93894,9 +93875,7 @@
       "name": "Stinkdrinker Daredevil",
       "rating": 0,
       "scryfallId": "1527b360-2aa5-4680-89f0-4c9095afa3ef",
-      "effects": [
-        "Ramp"
-      ]
+      "effects": []
     },
     "e005bc76-4985-4ec6-b9f6-cf6d0d9f5df4": {
       "name": "Stinkweed Imp",
@@ -94402,9 +94381,7 @@
       "name": "Stonybrook Banneret",
       "rating": 0,
       "scryfallId": "0cff0e96-0b03-40f8-8596-961b3c553802",
-      "effects": [
-        "Ramp"
-      ]
+      "effects": []
     },
     "7ef67bae-4af3-47b9-95d2-08f3c5a0b39d": {
       "name": "Stonybrook Schoolmaster",
@@ -99415,7 +99392,6 @@
       "rating": 0,
       "scryfallId": "743ee254-07f1-4d13-9ec7-6cb6358b9303",
       "effects": [
-        "Ramp",
         "Buff"
       ]
     },
@@ -100002,7 +99978,6 @@
       "rating": 0,
       "scryfallId": "10d42b35-844f-4a64-9981-c6118d45e826",
       "effects": [
-        "Ramp",
         "CardAdvantage",
         "Cheat"
       ]
@@ -100012,7 +99987,6 @@
       "rating": 0,
       "scryfallId": "2395b07a-d237-4e48-9723-b9a50e9fffc2",
       "effects": [
-        "Ramp",
         "Steal",
         "Mill"
       ]
@@ -105249,7 +105223,6 @@
       "rating": 0,
       "scryfallId": "53d56953-cac5-4bd4-bec9-d442d70d7e96",
       "effects": [
-        "Ramp",
         "CardAdvantage"
       ]
     },
@@ -109685,10 +109658,7 @@
       "name": "Wanted Scoundrels",
       "rating": 0,
       "scryfallId": "6704e4c9-3b5e-4ba5-a5bc-6d684e2983e9",
-      "effects": [
-        "Ramp",
-        "ManaFixing"
-      ]
+      "effects": []
     },
     "4792a05e-b557-4132-8303-235feefe0d99": {
       "name": "War Behemoth",

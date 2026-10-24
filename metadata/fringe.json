@@ -21490,9 +21490,7 @@
       "name": "Daru Warchief",
       "rating": 1,
       "scryfallId": "2630d3b5-8f3a-4aad-a45e-22a7979429f3",
-      "effects": [
-        "Ramp"
-      ]
+      "effects": []
     },
     "211dca11-b633-4deb-9d51-210fd3843995": {
       "name": "Dashing Bloodsucker",
@@ -25446,9 +25444,7 @@
       "name": "Dragonspeaker Shaman",
       "rating": 1,
       "scryfallId": "49f5fa96-dcfb-4d29-bea9-7dd99e8c43d8",
-      "effects": [
-        "Ramp"
-      ]
+      "effects": []
     },
     "d9410a82-1b7f-4f3a-a0fd-53099d7594ec": {
       "name": "Dragonstalker",
@@ -39642,9 +39638,7 @@
       "name": "Goblin Warchief",
       "rating": 1,
       "scryfallId": "00e4415d-1c71-41bc-84f2-2eee6367c49b",
-      "effects": [
-        "Ramp"
-      ]
+      "effects": []
     },
     "c1161505-1623-4475-a88e-2e48072cc2f1": {
       "name": "Goblin Warrens",
@@ -52597,9 +52591,7 @@
       "name": "Krosan Warchief",
       "rating": 1,
       "scryfallId": "0bfc9b24-6dbe-42df-a2c7-cb4845afb50f",
-      "effects": [
-        "Ramp"
-      ]
+      "effects": []
     },
     "1729317d-ccfb-4f27-84c6-20b36b2826c9": {
       "name": "Krosan Wayfarer",
@@ -90696,9 +90688,7 @@
       "name": "Starnheim Aspirant",
       "rating": 1,
       "scryfallId": "170914cc-3c3d-4929-a45d-836a5b8a4090",
-      "effects": [
-        "Ramp"
-      ]
+      "effects": []
     },
     "01317d6c-8c11-40e1-8f7b-d36050973ada": {
       "name": "Starnheim Courser",
@@ -102711,9 +102701,7 @@
       "name": "Undead Warchief",
       "rating": 1,
       "scryfallId": "01482b0c-d05b-4356-9144-e044159f4dcb",
-      "effects": [
-        "Ramp"
-      ]
+      "effects": []
     },
     "127f5b7e-79bc-4fe0-b9d4-1a267a6a4d46": {
       "name": "Undercellar Myconid",
@@ -103483,7 +103471,9 @@
       "name": "Upwelling",
       "rating": 1,
       "scryfallId": "21ab4600-1f71-48fa-a291-f5c5628c7395",
-      "effects": []
+      "effects": [
+        "Ramp"
+      ]
     },
     "537162d5-a2c2-4ad4-9fae-d2ec7a269dcc": {
       "name": "Ur-Drago",

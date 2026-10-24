@@ -10873,6 +10873,7 @@
       "scryfallId": "0542d0d7-5b0f-4093-b74d-6a60f174aeb5",
       "effects": [
         "Removal",
+        "Ramp",
         "Burn"
       ]
     },
