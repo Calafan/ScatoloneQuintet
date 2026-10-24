@@ -1838,6 +1838,7 @@
       "rating": 0,
       "scryfallId": "791fdd9a-0ab6-4db9-84f9-859d2d862518",
       "effects": [
+        "CardAdvantage",
         "Buff"
       ]
     },
@@ -4481,9 +4482,7 @@
       "name": "Ardent Plea",
       "rating": 0,
       "scryfallId": "013e68be-daf9-409b-aab8-caf51f1cada3",
-      "effects": [
-        "CardAdvantage"
-      ]
+      "effects": []
     },
     "9275108c-7eaf-4edd-aa6d-e5263d5ac7fd": {
       "name": "Ardent Recruit",
@@ -8853,8 +8852,7 @@
       "rating": 0,
       "scryfallId": "3005cc7f-f7a6-47ff-bad6-0b1b93ff2b66",
       "effects": [
-        "Removal",
-        "CardAdvantage"
+        "Removal"
       ]
     },
     "c880fbdc-bdd9-4f80-81d4-e3e1124f76ca": {
@@ -9988,15 +9986,15 @@
       "name": "Bloodbraid Challenger",
       "rating": 0,
       "scryfallId": "4b39d43d-2a02-4edb-915a-6a7c002c945f",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "3f0c9466-5ab9-4205-a84f-b4b27b5a678e": {
       "name": "Bloodbraid Elf",
       "rating": 0,
       "scryfallId": "0893ba16-13d9-43d5-b5fd-74262744c270",
-      "effects": [
-        "CardAdvantage"
-      ]
+      "effects": []
     },
     "7aef2a40-ae18-46d6-9873-0e5056345b81": {
       "name": "Bloodbriar",
@@ -13925,9 +13923,7 @@
       "name": "Captured Sunlight",
       "rating": 0,
       "scryfallId": "fcafc9eb-efa3-4f6c-a2ca-aec8692fddc1",
-      "effects": [
-        "CardAdvantage"
-      ]
+      "effects": []
     },
     "da164485-c985-42fa-819e-42f0d33237c5": {
       "name": "Captured by the Consulate",
@@ -23193,9 +23189,7 @@
       "name": "Demonic Dread",
       "rating": 0,
       "scryfallId": "fb81132e-ab33-435f-ade4-af4416d36044",
-      "effects": [
-        "CardAdvantage"
-      ]
+      "effects": []
     },
     "47a9df32-7588-4430-a40e-56a9041e0360": {
       "name": "Demonic Lore",
@@ -23304,8 +23298,7 @@
       "rating": 0,
       "scryfallId": "0d6df801-abe1-4c49-84c9-c2737bb4fbf2",
       "effects": [
-        "Bounce",
-        "CardAdvantage"
+        "Bounce"
       ]
     },
     "0f8de7f0-c61d-415d-b4db-4959374343da": {
@@ -29792,9 +29785,7 @@
       "name": "Enigma Sphinx",
       "rating": 0,
       "scryfallId": "25109db4-1f03-415b-b3f3-52984bcd39c2",
-      "effects": [
-        "CardAdvantage"
-      ]
+      "effects": []
     },
     "558fd7a9-9b39-4c82-b909-5febf55dc010": {
       "name": "Enkira, Hostile Scavenger",
@@ -29836,9 +29827,7 @@
       "name": "Enlisted Wurm",
       "rating": 0,
       "scryfallId": "1af3eae1-daf0-482f-80ce-db185d16fb88",
-      "effects": [
-        "CardAdvantage"
-      ]
+      "effects": []
     },
     "97e1fcdf-04e8-40cf-b04a-8505d9b7cecc": {
       "name": "Ennis, Debate Moderator",
@@ -30710,9 +30699,7 @@
       "name": "Etherium-Horn Sorcerer",
       "rating": 0,
       "scryfallId": "130db905-d2e4-4be9-a4ae-a8aae01a3147",
-      "effects": [
-        "CardAdvantage"
-      ]
+      "effects": []
     },
     "ca2a7669-4932-4a78-8a6c-8558b7c05ba5": {
       "name": "Ethersworn Adjudicator",
@@ -30867,7 +30854,9 @@
       "name": "Evermind",
       "rating": 0,
       "scryfallId": "0186a93c-000a-4b8f-983d-e1471185dc1f",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "9af1b6c4-295f-41d2-b3a0-0863798330d4": {
       "name": "Evernight Shade",
@@ -52218,9 +52207,7 @@
       "name": "Kathari Remnant",
       "rating": 0,
       "scryfallId": "0f4fa5b2-0d16-4149-993c-364dc4d2c962",
-      "effects": [
-        "CardAdvantage"
-      ]
+      "effects": []
     },
     "fb51bafe-5a70-4910-a42e-ef75d9dd2f0a": {
       "name": "Kathari Screecher",
@@ -55501,7 +55488,7 @@
       "rating": 0,
       "scryfallId": "4ade8ca9-6702-4f51-af29-3722ee920469",
       "effects": [
-        "Filter"
+        "CardAdvantage"
       ]
     },
     "d4bcbce9-9739-4828-9980-e21490b44346": {
@@ -63828,7 +63815,9 @@
       "name": "Moriok Replica",
       "rating": 0,
       "scryfallId": "480311ae-b9af-4fb7-881b-35566598cf07",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "9364b5bc-3e78-4b9d-9993-0081bbe2eef6": {
       "name": "Moriok Rigger",
@@ -86202,9 +86191,7 @@
       "name": "Shardless Agent",
       "rating": 0,
       "scryfallId": "27424714-b656-41b8-b19f-022e472afc7f",
-      "effects": [
-        "CardAdvantage"
-      ]
+      "effects": []
     },
     "a27445db-33f2-4571-98b5-83206b797484": {
       "name": "Shared Animosity",
@@ -94581,9 +94568,7 @@
       "name": "Stormcaller's Boon",
       "rating": 0,
       "scryfallId": "15931d65-9b4e-4506-8f1d-714d06f9c2f3",
-      "effects": [
-        "CardAdvantage"
-      ]
+      "effects": []
     },
     "fccc57f6-2555-4ab3-b85a-83b524abe892": {
       "name": "Stormchaser Chimera",
@@ -99092,6 +99077,7 @@
       "rating": 0,
       "scryfallId": "d7c6614c-cc2b-4e5b-9c0d-ce8e4b2d8ea7",
       "effects": [
+        "CardAdvantage",
         "Burn",
         "Steal"
       ]
@@ -107880,7 +107866,6 @@
       "rating": 0,
       "scryfallId": "1b58856a-f88e-4625-8636-62b5c717b956",
       "effects": [
-        "CardAdvantage",
         "Buff"
       ]
     },
@@ -112989,6 +112974,7 @@
       "scryfallId": "20203edb-1363-4ed3-8c5b-b1d96ff2b7c0",
       "effects": [
         "Removal",
+        "CardAdvantage",
         "Regrowth"
       ]
     },
