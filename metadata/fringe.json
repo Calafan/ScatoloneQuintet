@@ -17983,6 +17983,7 @@
       "rating": 1,
       "scryfallId": "38e31fa6-a445-47c6-a73f-135087f6d760",
       "effects": [
+        "Tokens",
         "Buff"
       ],
       "reviewedAt": "2026-09-23T10:22:28.751929+00:00"
@@ -101608,6 +101609,7 @@
       "rating": 1,
       "scryfallId": "69edb35e-6e87-4529-a449-6f635f24466a",
       "effects": [
+        "Tokens",
         "CardAdvantage"
       ],
       "reviewedAt": "2026-09-29T09:27:01.5436065+00:00"

@@ -17344,6 +17344,7 @@
       "rating": 4,
       "scryfallId": "8e4ad023-6672-4f6f-838a-7f923ef44a80",
       "effects": [
+        "Tokens",
         "CardAdvantage"
       ],
       "reviewedAt": "2026-10-10T19:37:38.4755339+00:00"
