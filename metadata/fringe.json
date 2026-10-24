@@ -5151,6 +5151,7 @@
       "scryfallId": "10661bc7-fe73-4595-b294-21379196f26a",
       "effects": [
         "Wipe",
+        "Ramp",
         "Filter",
         "Burn"
       ],
@@ -64926,9 +64927,7 @@
       "name": "Nogi, Draco-Zealot",
       "rating": 1,
       "scryfallId": "6e1ca513-2151-4daa-b442-c52c7838a863",
-      "effects": [
-        "Ramp"
-      ],
+      "effects": [],
       "reviewedAt": "2026-10-11T19:31:56.2681104+00:00"
     },
     "1f7e85cf-afee-4041-9436-1fb69b4ec292": {
@@ -80623,9 +80622,7 @@
       "name": "Sarkhan, Soul Aflame",
       "rating": 1,
       "scryfallId": "18484227-b96a-40fb-9788-656d00705d80",
-      "effects": [
-        "Ramp"
-      ],
+      "effects": [],
       "reviewedAt": "2026-10-09T08:34:40.1304978+00:00"
     },
     "b563a578-86ce-41a5-a83e-c70c6a4960e2": {
@@ -86885,8 +86882,7 @@
       "rating": 1,
       "scryfallId": "9c442742-902c-49ae-813e-38a21ff8a78f",
       "effects": [
-        "Removal",
-        "Ramp"
+        "Removal"
       ],
       "reviewedAt": "2026-09-25T12:21:03.946518+00:00"
     },
@@ -96734,7 +96730,6 @@
       "scryfallId": "ac5c90a9-697a-4bff-a738-0cebfb238bff",
       "effects": [
         "Tokens",
-        "Ramp",
         "Tutor"
       ],
       "reviewedAt": "2026-09-29T14:32:36.1281235+00:00"
@@ -99987,7 +99982,6 @@
       "rating": 1,
       "scryfallId": "079d9bfa-f039-47a9-9b6e-41879028d2da",
       "effects": [
-        "Ramp",
         "Regrowth"
       ],
       "reviewedAt": "2026-09-11T10:36:15.8574679+00:00"
