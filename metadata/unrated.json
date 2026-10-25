@@ -647,7 +647,9 @@
       "name": "Adarkar Valkyrie",
       "rating": 0,
       "scryfallId": "4453bc99-835a-4cfa-a64c-f55434ad4897",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "dd66b8ab-14a9-455b-98f6-5356df72a522": {
       "name": "Adarkar Windform",
@@ -8337,9 +8339,7 @@
       "name": "Benthicore",
       "rating": 0,
       "scryfallId": "f240d225-9fbf-438a-93c3-5fef325035e8",
-      "effects": [
-        "Protection"
-      ]
+      "effects": []
     },
     "30ca8e92-5955-46a1-86c1-094a873f518f": {
       "name": "Beorn the Fierce",
@@ -40718,7 +40718,9 @@
       "name": "Graceful Reprieve",
       "rating": 0,
       "scryfallId": "38748fbe-0d3e-4697-b9c4-d93a4ac59f9a",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "40e0665d-57b8-4c19-9fb8-b3155d7bbb94": {
       "name": "Graduation Day",
@@ -46903,7 +46905,6 @@
       "scryfallId": "06431087-23a2-4953-bdae-6ec2024057b3",
       "effects": [
         "Ramp",
-        "Protection",
         "Sacrifice"
       ]
     },
@@ -101954,7 +101955,8 @@
       "rating": 0,
       "scryfallId": "0ee24937-a282-4cf4-8daa-114e68285094",
       "effects": [
-        "Buff"
+        "Buff",
+        "Protection"
       ]
     },
     "234f1c4b-dd0c-4c4e-b3c1-3b9ccfc42226": {
@@ -105492,7 +105494,9 @@
       "name": "Unsettled Mariner",
       "rating": 0,
       "scryfallId": "9634bcc5-77bc-4a87-99e2-33f09fca13d1",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "fb901095-2ea4-4b9e-ad5a-2892894dc4c3": {
       "name": "Unstable Footing",
@@ -106971,7 +106975,9 @@
       "name": "Verdant Rebirth",
       "rating": 0,
       "scryfallId": "993f4343-8f0a-4c50-b6fd-49f1f11d96f0",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "6ee71432-a44d-495e-86ea-d495d891c331": {
       "name": "Verdant Sun's Avatar",

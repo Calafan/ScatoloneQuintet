@@ -15383,7 +15383,9 @@
       "name": "Reidane, God of the Worthy // Valkmira, Protector's Shield",
       "rating": 3,
       "scryfallId": "2dca37fb-e794-4027-bc4d-11677e67dfa7",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "436b5989-9b8c-4e03-a82e-046837c891ca": {
       "name": "Reign of Chaos",
