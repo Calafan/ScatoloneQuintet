@@ -2649,7 +2649,8 @@
       "rating": 1,
       "scryfallId": "0ce50742-3eef-417e-8042-046969e9ea01",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Cheat"
       ],
       "reviewedAt": "2026-09-23T10:49:58.3345318+00:00"
     },
@@ -19069,7 +19070,9 @@
       "name": "Covert Technician",
       "rating": 1,
       "scryfallId": "2f268152-304a-4db8-a3f9-dd9d0f3319a1",
-      "effects": [],
+      "effects": [
+        "Cheat"
+      ],
       "reviewedAt": "2026-10-16T14:31:39.1550037+00:00"
     },
     "56204530-7ab5-4610-9570-fba2673725ad": {
@@ -30979,7 +30982,8 @@
       "rating": 1,
       "scryfallId": "8ce43e1a-04a8-48fc-a9c0-4dbb0aaf1a7b",
       "effects": [
-        "Regrowth"
+        "Regrowth",
+        "Cheat"
       ],
       "reviewedAt": "2026-09-23T21:43:13.3650337+00:00"
     },

@@ -657,7 +657,8 @@
       "rating": 4,
       "scryfallId": "35372b69-6086-44e0-9f7c-681e362e5142",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Cheat"
       ],
       "reviewedAt": "2026-09-11T15:00:04.5609635+00:00"
     },
@@ -1656,7 +1657,8 @@
       "scryfallId": "d1ee8ead-df6a-4c02-83f7-2902d97132b8",
       "effects": [
         "CardAdvantage",
-        "Steal"
+        "Steal",
+        "Cheat"
       ],
       "reviewedAt": "2026-10-16T09:56:40.1453182+00:00"
     },
@@ -8543,7 +8545,8 @@
       "rating": 3,
       "scryfallId": "1f013b42-05d5-43f5-b20b-177ca52c0587",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Cheat"
       ],
       "reviewedAt": "2026-09-11T21:21:20.7639532+00:00"
     },
@@ -19967,7 +19970,8 @@
       "rating": 3,
       "scryfallId": "455bd5f0-0f4d-48d3-97d1-5b9320cddca8",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Cheat"
       ],
       "reviewedAt": "2026-09-12T16:32:29.8278806+00:00"
     },
@@ -21673,7 +21677,8 @@
       "scryfallId": "0a44bbbf-2c38-4ecb-99a0-b944983f7e51",
       "effects": [
         "CardAdvantage",
-        "Steal"
+        "Steal",
+        "Cheat"
       ],
       "reviewedAt": "2026-09-25T10:10:44.7398655+00:00"
     },
