@@ -1148,7 +1148,9 @@
       "name": "Aether Vial",
       "rating": 0,
       "scryfallId": "0f1f4f24-f62b-4f52-8168-62b5b9971162",
-      "effects": []
+      "effects": [
+        "Cheat"
+      ]
     },
     "97e7778f-971c-4425-8f6d-f4ff3fae000f": {
       "name": "Aether Web",
@@ -10774,7 +10776,8 @@
       "scryfallId": "1e6e80ec-68a4-4cfb-a712-2ea0d26dc6a1",
       "effects": [
         "CardAdvantage",
-        "Burn"
+        "Burn",
+        "Cheat"
       ]
     },
     "45ddfa35-7b3c-4916-b231-dc721b7b56d9": {
@@ -47492,7 +47495,9 @@
       "name": "Identity Echo",
       "rating": 0,
       "scryfallId": "3ab341a1-525d-4493-b4d1-a4c025649205",
-      "effects": []
+      "effects": [
+        "Cheat"
+      ]
     },
     "a200daec-983c-4ea6-ae98-1c963b50fbb1": {
       "name": "Identity Thief",
@@ -49059,7 +49064,8 @@
       "scryfallId": "5913d004-0ef6-4dce-8f74-a8fbfc794d43",
       "effects": [
         "CardAdvantage",
-        "Steal"
+        "Steal",
+        "Cheat"
       ]
     },
     "623d9db1-a3af-4a1c-9643-975de364e073": {
@@ -50394,7 +50400,8 @@
       "rating": 0,
       "scryfallId": "55cd03d9-2535-4cf3-a8b2-1418e1190f4a",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Cheat"
       ]
     },
     "bf0e9e00-fba5-448a-9052-ae730aea4bf8": {
@@ -58444,7 +58451,9 @@
       "name": "Madcap Experiment",
       "rating": 0,
       "scryfallId": "05768b87-d2df-42fc-bf63-e471d31b32e3",
-      "effects": []
+      "effects": [
+        "Cheat"
+      ]
     },
     "4a9dc9ef-a603-467a-aeed-32cc111394b0": {
       "name": "Madcap Skills",
@@ -66997,7 +67006,8 @@
       "rating": 0,
       "scryfallId": "e969d1f3-9595-498b-81cb-6cf4df2cad5d",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Cheat"
       ]
     },
     "5e2aff26-c9f0-4e4b-bc5e-b2cb46e04293": {
@@ -76771,7 +76781,9 @@
       "name": "Raph & Mikey, Troublemakers",
       "rating": 0,
       "scryfallId": "20882daf-a2ae-40ec-a363-8d564a2f3b2a",
-      "effects": []
+      "effects": [
+        "Cheat"
+      ]
     },
     "7991aff6-0b85-41a3-bc31-09811d6fa353": {
       "name": "Raph's Bravado",
@@ -86585,7 +86597,9 @@
       "name": "Shifting Shadow",
       "rating": 0,
       "scryfallId": "802211eb-f9d5-484c-952f-be73ba0b9191",
-      "effects": []
+      "effects": [
+        "Cheat"
+      ]
     },
     "40ed32a6-ad56-48c7-aecf-b4238c34c212": {
       "name": "Shiko and Narset, Unified",

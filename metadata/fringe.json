@@ -5659,7 +5659,8 @@
       "rating": 1,
       "scryfallId": "71df4a44-189b-4d8d-adc7-1ea4b0f8c622",
       "effects": [
-        "Sacrifice"
+        "Sacrifice",
+        "Cheat"
       ]
     },
     "40b0b93d-4075-42d6-bcd8-b2f9910cc7d2": {
@@ -25890,7 +25891,8 @@
       "rating": 1,
       "scryfallId": "c11f5d27-37f3-430a-833c-84e249b5e744",
       "effects": [
-        "Sacrifice"
+        "Sacrifice",
+        "Cheat"
       ]
     },
     "1ecb3349-ccb8-4b54-bd81-8d649d6f96f0": {
@@ -29918,7 +29920,8 @@
       "rating": 1,
       "scryfallId": "46d43696-3c63-4c55-bc61-e1560c8b8201",
       "effects": [
-        "Ramp"
+        "Ramp",
+        "Cheat"
       ]
     },
     "9d22960b-babc-4cf3-b228-d32e13bc6014": {
@@ -33395,7 +33398,9 @@
       "name": "Fireflux Squad",
       "rating": 2,
       "scryfallId": "4bcff20b-06f7-4228-a99c-6ff46e73e353",
-      "effects": []
+      "effects": [
+        "Cheat"
+      ]
     },
     "6b151418-092f-4a43-8b21-3de64ea80cab": {
       "name": "Firefly",
@@ -36697,7 +36702,9 @@
       "name": "Gamekeeper",
       "rating": 1,
       "scryfallId": "1cf7ce74-ffb8-4903-8927-76995b7dd566",
-      "effects": []
+      "effects": [
+        "Cheat"
+      ]
     },
     "a3112971-3af4-46e8-b2d6-a8759b39d0d1": {
       "name": "Ganax, Astral Hunter",
@@ -48893,7 +48900,8 @@
       "scryfallId": "0760a892-207d-4f0a-b895-3930608c78e8",
       "effects": [
         "Ramp",
-        "CardAdvantage"
+        "CardAdvantage",
+        "Cheat"
       ]
     },
     "64ee02f1-afdb-474b-a893-31538ad7219a": {
@@ -60214,7 +60222,8 @@
       "rating": 1,
       "scryfallId": "125bd2cb-703b-49d7-b37f-15450be99ed3",
       "effects": [
-        "Tokens"
+        "Tokens",
+        "Cheat"
       ]
     },
     "d91b3c6f-f8a1-4859-90ca-22cd79517552": {
