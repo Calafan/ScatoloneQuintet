@@ -99,7 +99,7 @@ General rules:
 
 | Effect | What it is, and what it is not |
 |---|---|
-| **Tokens** | Puts CREATURE bodies on your side, however worded — earthbend, manifest, cloak, living weapon, an animated land, artifact or enchantment, a token copy of a creature or creature SPELL. A noncreature card counts for one body; a CREATURE only for three at once or a repeating effect. A Treasure, Clue or Food is a resource, not a body. |
+| **Tokens** | Puts CREATURE bodies on your side, however worded — earthbend, manifest, cloak, living weapon, an animated land, artifact, enchantment or token, a token copy of a creature or creature SPELL. A noncreature card counts for one body; a CREATURE only for three at once or a repeating effect. A Treasure, Clue or Food is a resource, not a body. |
 | **Removal** | Answers ONE creature: destroy, exile, damage however counted, fight, an edict (one each, a punisher), INTO a library, made a Treasure, or ANY toughness malus ("+2/-1"). Not YOUR OWN, a creature TYPE, a BLINK, a GRAVEYARD card, "-2/-0" (Pacify), "each creature" (Wipe), a token's 1-point ping, or what only touches its blocker. |
 | **Counter** | Answers a spell on the stack — countered, or taken off it to its owner's hand, to exile or into the library — or an activated or triggered ability. Not one of your own spells, nor one aimed at the card itself. |
 | **RemovePermanent** | Answers ANY permanent — "destroy/exile target (nonland) permanent", a token, the O-ring family, and a kill narrowed only by COLOUR ("target red permanent") or by what it is NOT ("noncreature"). The breadth is the point, even if you would usually aim it at a creature. Not your own, nor a blink. |
