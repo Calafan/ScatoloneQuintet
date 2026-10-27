@@ -30759,9 +30759,7 @@
       "name": "Emperor Mihail II",
       "rating": 1,
       "scryfallId": "715284eb-8384-4ad8-910c-8378e954a2b1",
-      "effects": [
-        "Tokens"
-      ]
+      "effects": []
     },
     "6832f9e2-294a-44a2-8af9-eb16ccfdfc36": {
       "name": "Empowered Autogenerator",
@@ -67950,9 +67948,7 @@
       "name": "Necroduality",
       "rating": 1,
       "scryfallId": "9b674053-1f0f-436d-b106-f91f41cf3959",
-      "effects": [
-        "Tokens"
-      ]
+      "effects": []
     },
     "ff58459a-0015-4012-86c0-580da4e02676": {
       "name": "Necrogen Communion",
@@ -105701,9 +105697,7 @@
       "name": "Timothar, Baron of Bats",
       "rating": 1,
       "scryfallId": "a148447f-e3bd-4a49-a802-4d489f3c50d9",
-      "effects": [
-        "Tokens"
-      ]
+      "effects": []
     },
     "19dc29a7-8ccc-4e54-829b-86cc102b082d": {
       "name": "Tin Street Gossip",
@@ -116322,9 +116316,7 @@
       "name": "Wirewood Hivemaster",
       "rating": 1,
       "scryfallId": "ea55b4fc-366f-4906-9eaa-9085f6a22612",
-      "effects": [
-        "Tokens"
-      ]
+      "effects": []
     },
     "1275653f-de4e-4fe9-aad8-88555fa11680": {
       "name": "Wirewood Lodge",

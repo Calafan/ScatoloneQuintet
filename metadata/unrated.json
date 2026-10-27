@@ -8166,7 +8166,6 @@
       "rating": 0,
       "scryfallId": "9e308f77-206b-4c9d-bfba-f4c476ea574a",
       "effects": [
-        "Tokens",
         "Buff"
       ]
     },
@@ -21312,9 +21311,7 @@
       "name": "Deeproot Waters",
       "rating": 0,
       "scryfallId": "24bec3b7-5dfc-4b48-ae8f-5bf49470d030",
-      "effects": [
-        "Tokens"
-      ]
+      "effects": []
     },
     "b301b371-e99e-43cc-af7f-dbd7b2abe5f8": {
       "name": "Deeptread Merrow",
@@ -22894,9 +22891,7 @@
       "name": "Diregraf Colossus",
       "rating": 0,
       "scryfallId": "9039e8f6-5513-4307-a1b5-07209dc8e1c8",
-      "effects": [
-        "Tokens"
-      ]
+      "effects": []
     },
     "f28a67d8-05ec-4d72-aa17-670ce1136f5c": {
       "name": "Diregraf Escort",
@@ -26273,9 +26268,7 @@
       "name": "Edgar Markov",
       "rating": 0,
       "scryfallId": "8d94b8ec-ecda-43c8-a60e-1ba33e6a54a4",
-      "effects": [
-        "Tokens"
-      ]
+      "effects": []
     },
     "cab2bc93-f38b-4301-ac42-05765615586b": {
       "name": "Edgar, Ancient Bloodlord",
@@ -44985,7 +44978,9 @@
       "name": "Impromptu Raid",
       "rating": 0,
       "scryfallId": "f2171e1c-fd36-43a6-ade3-c3aba8915139",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "fd4f0315-567a-4cc5-bc7e-88a9d2cee910": {
       "name": "Improvisation Capstone",
@@ -45057,7 +45052,6 @@
       "rating": 0,
       "scryfallId": "7c6e803a-451c-4aa6-97a2-400077f32c47",
       "effects": [
-        "Tokens",
         "Burn"
       ]
     },
@@ -49426,6 +49420,7 @@
       "rating": 0,
       "scryfallId": "c808a8ec-895c-4777-9e11-e83ce34eddef",
       "effects": [
+        "Burn",
         "Cheat"
       ]
     },
@@ -51637,9 +51632,7 @@
       "name": "Lathliss, Dragon Queen",
       "rating": 0,
       "scryfallId": "54a4c37d-5eeb-42c9-9688-c2ed0d5044cd",
-      "effects": [
-        "Tokens"
-      ]
+      "effects": []
     },
     "6dd71453-63ec-4f4c-87d2-34d207398b9a": {
       "name": "Lathnu Hellion",
@@ -54490,9 +54483,7 @@
       "name": "Lys Alana Huntmaster",
       "rating": 0,
       "scryfallId": "8d21f992-f982-415e-9d77-d11d8c931741",
-      "effects": [
-        "Tokens"
-      ]
+      "effects": []
     },
     "b5058b5c-0359-42ec-ba9e-ae1371bb9c22": {
       "name": "Lys Alana Informant",
@@ -54642,9 +54633,7 @@
       "name": "Madame Hydra",
       "rating": 0,
       "scryfallId": "e94ccedb-1d27-4098-8823-d8d99b30387c",
-      "effects": [
-        "Tokens"
-      ]
+      "effects": []
     },
     "7274f6ed-310d-4b65-8083-eedb8e885a33": {
       "name": "Madame Hydra, Reanimated",
@@ -60968,6 +60957,7 @@
         "Removal",
         "Disenchant",
         "Filter",
+        "Burn",
         "Tutor",
         "Cheat"
       ]
@@ -65847,9 +65837,7 @@
       "name": "Oyobi, Who Split the Heavens",
       "rating": 0,
       "scryfallId": "313bd276-2f69-447e-a2b1-240cf839614a",
-      "effects": [
-        "Tokens"
-      ]
+      "effects": []
     },
     "b2c14195-2747-490e-99ef-5b71048ff51a": {
       "name": "Pacification Array",
@@ -69749,9 +69737,7 @@
       "name": "Prowess of the Fair",
       "rating": 0,
       "scryfallId": "099badba-1c8a-4a74-80e9-133f2bafb94d",
-      "effects": [
-        "Tokens"
-      ]
+      "effects": []
     },
     "603ef53f-6191-4229-b85f-adad6f4503ce": {
       "name": "Prowler's Helm",
@@ -106221,9 +106207,7 @@
       "name": "Worthy Knight",
       "rating": 0,
       "scryfallId": "4b2bde2d-e5df-407e-993c-85880dbb6045",
-      "effects": [
-        "Tokens"
-      ]
+      "effects": []
     },
     "b09206a4-8b73-4125-8b79-53f6fd511b16": {
       "name": "Wound Reflection",
