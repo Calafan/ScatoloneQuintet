@@ -5789,8 +5789,7 @@
       "scryfallId": "a9ebdd18-7f07-417c-8f30-470c1f14dfae",
       "effects": [
         "Filter",
-        "Buff",
-        "Pacify"
+        "Buff"
       ],
       "reviewedAt": "2026-09-23T13:34:34.1249479+00:00"
     },
@@ -10457,9 +10456,7 @@
       "name": "Blinding Light",
       "rating": 1,
       "scryfallId": "99b2192a-78a5-4579-94ce-cccf773a809d",
-      "effects": [
-        "Pacify"
-      ],
+      "effects": [],
       "reviewedAt": "2026-09-08T09:14:08.8293107+00:00"
     },
     "02a7d95a-0a45-4aa3-b5b8-01c0b36462d8": {
@@ -21629,8 +21626,7 @@
       "scryfallId": "5f51c853-949d-44e9-a3a2-02e1ce69a147",
       "effects": [
         "Buff",
-        "Protection",
-        "Pacify"
+        "Protection"
       ],
       "reviewedAt": "2026-09-11T19:49:40.0842165+00:00"
     },
@@ -33562,9 +33558,7 @@
       "name": "Falling Star",
       "rating": 1,
       "scryfallId": "f2b9983e-20d4-4d12-9e2c-ec6d9a345787",
-      "effects": [
-        "Pacify"
-      ],
+      "effects": [],
       "reviewedAt": "2026-09-04T15:00:27.3469611+00:00"
     },
     "4ea19457-97ef-4ac8-b67c-41be1109ca73": {
@@ -34198,7 +34192,9 @@
       "name": "Fear of Falling",
       "rating": 1,
       "scryfallId": "0e814e48-cd9d-428f-90e2-74d97cb9c8f1",
-      "effects": [],
+      "effects": [
+        "Pacify"
+      ],
       "reviewedAt": "2026-09-12T10:00:46.7314453+00:00"
     },
     "fb2600a8-0ba6-4888-ac8a-f206469d4c71": {
@@ -105376,9 +105372,7 @@
       "name": "Tidal Surge",
       "rating": 1,
       "scryfallId": "a027c31d-c662-4ce1-a0d1-a32e62f6a724",
-      "effects": [
-        "Pacify"
-      ],
+      "effects": [],
       "reviewedAt": "2026-09-08T10:33:01.4254895+00:00"
     },
     "e7866ce6-d507-4221-bb19-d3e6fd7b57d8": {
@@ -108773,8 +108767,7 @@
       "rating": 1,
       "scryfallId": "b64e4475-f1c6-4d85-b42f-6d84d06855bb",
       "effects": [
-        "CardAdvantage",
-        "Pacify"
+        "CardAdvantage"
       ],
       "reviewedAt": "2026-09-11T10:46:06.0389236+00:00"
     },
@@ -116151,8 +116144,7 @@
       "rating": 1,
       "scryfallId": "fb846366-2105-4999-8af1-a11687f42e17",
       "effects": [
-        "Removal",
-        "Pacify"
+        "Removal"
       ],
       "reviewedAt": "2026-09-04T14:30:52.3073539+00:00"
     },
@@ -116824,9 +116816,7 @@
       "name": "Word of Binding",
       "rating": 1,
       "scryfallId": "ee30efdb-f1f1-497f-80a6-ec961db67c1d",
-      "effects": [
-        "Pacify"
-      ],
+      "effects": [],
       "reviewedAt": "2026-09-04T14:46:29.6149552+00:00"
     },
     "8b391f24-992f-4cc0-ac4d-31456983fc03": {
