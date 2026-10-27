@@ -5937,9 +5937,7 @@
       "name": "Astral Slide",
       "rating": 1,
       "scryfallId": "d14993b6-ed8d-4b9b-b54c-2837b343a61e",
-      "effects": [
-        "Removal"
-      ]
+      "effects": []
     },
     "ef8ac291-3789-4147-a11f-c62fd8566dbe": {
       "name": "Astral Steel",
@@ -69890,6 +69888,7 @@
       "rating": 2,
       "scryfallId": "58561356-4a97-467b-88e5-412e633715fb",
       "effects": [
+        "RemovePermanent",
         "CardAdvantage"
       ]
     },

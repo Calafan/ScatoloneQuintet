@@ -14423,7 +14423,9 @@
       "name": "Chaos Warp",
       "rating": 0,
       "scryfallId": "042431bc-0b21-4920-802f-6dd02e4c8721",
-      "effects": []
+      "effects": [
+        "RemovePermanent"
+      ]
     },
     "be6cb3e6-7492-4e30-83a9-9bc413e50cdc": {
       "name": "Chaotic Backlash",
@@ -53271,7 +53273,9 @@
       "name": "Living Inferno",
       "rating": 0,
       "scryfallId": "1c4b8143-2742-4262-b18f-2825bf8cea6f",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "fd15e02a-dd1e-42ee-8c69-a3e5bcb5ede6": {
       "name": "Living Laser",
