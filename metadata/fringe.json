@@ -3875,8 +3875,7 @@
         "Disenchant",
         "Burn",
         "Cheat"
-      ],
-      "reviewedAt": "2026-09-23T10:30:03.8261189+00:00"
+      ]
     },
     "09ac5adf-f722-417e-b0fc-7ed0d8c9abd6": {
       "name": "Apathy",
@@ -7062,8 +7061,7 @@
       "scryfallId": "8b5a7f24-63df-40fa-9200-c862544b0ffa",
       "effects": [
         "Protection"
-      ],
-      "reviewedAt": "2026-09-29T09:24:57.8471474+00:00"
+      ]
     },
     "670df8be-21cd-49d8-92e3-d7cc38b256d6": {
       "name": "Back for More",
@@ -9792,8 +9790,7 @@
       "name": "Bishop of Wings",
       "rating": 1,
       "scryfallId": "ca42da05-330d-4050-a580-dc00f6faff24",
-      "effects": [],
-      "reviewedAt": "2026-10-20T19:15:25.0035507+00:00"
+      "effects": []
     },
     "47e77918-13ec-47ce-9256-5a3b5bf8d315": {
       "name": "Bison Whistle",
@@ -24004,8 +24001,7 @@
       "name": "Deeproot Pilgrimage",
       "rating": 1,
       "scryfallId": "e2449311-a705-4a31-a345-a36d436ae561",
-      "effects": [],
-      "reviewedAt": "2026-10-06T14:49:56.9190126+00:00"
+      "effects": []
     },
     "4a6887e3-7a65-4f24-be71-183b00a0ad56": {
       "name": "Deepwood Denizen",
@@ -55490,8 +55486,7 @@
       "name": "Knightfisher",
       "rating": 1,
       "scryfallId": "c7fb7f4f-2153-4527-8f11-adbf508d3533",
-      "effects": [],
-      "reviewedAt": "2026-09-12T16:29:14.7071491+00:00"
+      "effects": []
     },
     "22f008b3-c263-4dcc-855f-403da9ca4cd9": {
       "name": "Knighthood",
@@ -63698,8 +63693,7 @@
       "name": "Miirym, Sentinel Wyrm",
       "rating": 1,
       "scryfallId": "a934590b-5c70-4f07-af67-fbe817a99531",
-      "effects": [],
-      "reviewedAt": "2026-10-11T19:08:49.0618145+00:00"
+      "effects": []
     },
     "61bebdfa-5df0-4952-abf9-dc5e0e4f57ea": {
       "name": "Mijae Djinn",
@@ -81975,8 +81969,7 @@
       "effects": [
         "Removal",
         "Burn"
-      ],
-      "reviewedAt": "2026-10-26T21:53:39.7807881+00:00"
+      ]
     },
     "e01fe9e9-a76c-4909-924c-a0cba403f975": {
       "name": "Ring of Gix",
@@ -83050,8 +83043,7 @@
       "name": "Rohgahh, Kher Keep Overlord",
       "rating": 1,
       "scryfallId": "84e87400-cc3f-4476-b177-2c36a65f277b",
-      "effects": [],
-      "reviewedAt": "2026-10-23T09:11:36.4540917+00:00"
+      "effects": []
     },
     "8e638c52-e7b9-445b-adcf-77b58e06c2ba": {
       "name": "Rohirrim Chargers",
@@ -109990,8 +109982,7 @@
       "name": "Urtet, Remnant of Memnarch",
       "rating": 1,
       "scryfallId": "7aa01ab4-26b0-49dc-8514-b3850d355a21",
-      "effects": [],
-      "reviewedAt": "2026-10-09T08:31:02.2586626+00:00"
+      "effects": []
     },
     "0e353a41-b523-4c22-9bda-d10460ba99c7": {
       "name": "Uruk-hai Berserker",
@@ -118609,8 +118600,7 @@
       "effects": [
         "Burn",
         "Tutor"
-      ],
-      "reviewedAt": "2026-09-08T09:37:34.3900919+00:00"
+      ]
     },
     "4431ec11-9bd7-4750-8bc7-378beba06201": {
       "name": "Zodiac Dog",
