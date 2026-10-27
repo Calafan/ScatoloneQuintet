@@ -16478,7 +16478,6 @@
       "rating": 2,
       "scryfallId": "11f9b98e-48a1-491e-bdab-6e94e4ec747a",
       "effects": [
-        "Tokens",
         "Removal",
         "Filter",
         "Sacrifice"
@@ -32887,6 +32886,7 @@
       "rating": 2,
       "scryfallId": "444b75d9-f7c7-4a13-9318-02d7bbd80c9c",
       "effects": [
+        "Tokens",
         "Burn"
       ],
       "reviewedAt": "2026-10-20T18:36:19.6310965+00:00"
@@ -43238,7 +43238,6 @@
       "rating": 1,
       "scryfallId": "958cef68-8417-40c1-8943-c816a3c8a2fd",
       "effects": [
-        "Tokens",
         "Reanimate",
         "Burn"
       ],
@@ -74049,9 +74048,7 @@
       "name": "Pia Nalaar, Chief Mechanic",
       "rating": 1,
       "scryfallId": "f4b46b1f-0cfe-42cc-aac5-e6912b2f9fd2",
-      "effects": [
-        "Tokens"
-      ],
+      "effects": [],
       "reviewedAt": "2026-10-26T20:26:10.530688+00:00"
     },
     "65d4ebdb-8757-4e5e-9411-d78597e20d57": {
