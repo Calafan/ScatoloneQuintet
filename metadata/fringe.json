@@ -6183,7 +6183,7 @@
       "rating": 1,
       "scryfallId": "816cb69f-8c9f-4a1e-90d4-8c304501876c",
       "effects": [
-        "Removal"
+        "RemovePermanent"
       ],
       "reviewedAt": "2026-10-23T07:14:30.8060475+00:00"
     },
@@ -67873,7 +67873,6 @@
       "rating": 1,
       "scryfallId": "8a08f237-fc13-475f-860f-011dfa4a1a67",
       "effects": [
-        "Removal",
         "Burn"
       ],
       "reviewedAt": "2026-10-26T21:45:07.4389205+00:00"
