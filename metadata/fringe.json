@@ -11489,7 +11489,9 @@
       "name": "Bone Sabres",
       "rating": 1,
       "scryfallId": "73d9374d-72b8-4397-9c46-be9216fab911",
-      "effects": []
+      "effects": [
+        "Buff"
+      ]
     },
     "690ba846-964e-44ba-8637-9a1ce62f5931": {
       "name": "Bone Shaman",
@@ -39899,6 +39901,7 @@
       "rating": 1,
       "scryfallId": "f2bde2d6-7c2a-4566-a45a-ccdbbed039b7",
       "effects": [
+        "Buff",
         "Regrowth"
       ]
     },
@@ -109254,7 +109257,9 @@
       "name": "Unexpected Fangs",
       "rating": 2,
       "scryfallId": "aa6494ad-a35e-4b09-8623-7740f3c20b0b",
-      "effects": []
+      "effects": [
+        "Buff"
+      ]
     },
     "498c10c9-253d-4b15-b48c-1509381b17e8": {
       "name": "Unexpected Windfall",

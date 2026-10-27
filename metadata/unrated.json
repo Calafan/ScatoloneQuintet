@@ -4344,7 +4344,9 @@
       "name": "Armory of Iroas",
       "rating": 0,
       "scryfallId": "7ac44e4b-25ba-4b32-ad56-c87c202c310a",
-      "effects": []
+      "effects": [
+        "Buff"
+      ]
     },
     "75d667ec-86f4-4850-a3b6-e7a9fc7053b0": {
       "name": "Army of the Damned",
@@ -8303,7 +8305,9 @@
       "name": "Blade of the Bloodchief",
       "rating": 0,
       "scryfallId": "7e4b42e5-0e60-4148-907e-456d9f3043be",
-      "effects": []
+      "effects": [
+        "Buff"
+      ]
     },
     "b7894010-fdba-498e-97de-22bd70332439": {
       "name": "Blade of the Sixth Pride",
@@ -19082,7 +19086,9 @@
       "name": "Curse of Predation",
       "rating": 0,
       "scryfallId": "d28f824e-8cd4-4915-a46f-6e3c646c6378",
-      "effects": []
+      "effects": [
+        "Buff"
+      ]
     },
     "dc66dbed-f979-4ad1-b5f9-08538886167f": {
       "name": "Curse of Shallow Graves",
@@ -19096,7 +19102,9 @@
       "name": "Curse of Stalked Prey",
       "rating": 0,
       "scryfallId": "11a18883-8990-40a0-bcb2-e01d0e82bfad",
-      "effects": []
+      "effects": [
+        "Buff"
+      ]
     },
     "ffe3ad06-50d8-4ca3-a1f7-aa31dc2c486e": {
       "name": "Curse of Thirst",
@@ -19615,7 +19623,9 @@
       "name": "Dance of the Skywise",
       "rating": 0,
       "scryfallId": "c548d140-3d81-4b33-9985-87703d316a83",
-      "effects": []
+      "effects": [
+        "Buff"
+      ]
     },
     "caeb508a-c1fd-45b5-a14e-e0ac7321c9a9": {
       "name": "Dance with Devils",
@@ -24493,7 +24503,9 @@
       "name": "Dragonshift",
       "rating": 0,
       "scryfallId": "6c046e4e-810c-4123-bb1a-4f97e0cd43d1",
-      "effects": []
+      "effects": [
+        "Buff"
+      ]
     },
     "63398c02-6fb1-481d-9d9f-81063532fbc0": {
       "name": "Dragonskull Summit",
@@ -38341,7 +38353,9 @@
       "name": "Grave Strength",
       "rating": 0,
       "scryfallId": "72bc4463-69f6-4039-987d-e5db2ef256d5",
-      "effects": []
+      "effects": [
+        "Buff"
+      ]
     },
     "f3abd4d1-a975-4e85-8684-aa0fce029670": {
       "name": "Grave Titan",
@@ -48741,9 +48755,7 @@
       "name": "Kaseto, Orochi Archmage",
       "rating": 0,
       "scryfallId": "ee333196-20e2-4414-8bb4-5cae6b88893e",
-      "effects": [
-        "Buff"
-      ]
+      "effects": []
     },
     "dac9bbfc-62e9-42a9-8ad6-2530ba47b990": {
       "name": "Kashi-Tribe Elite",
@@ -74894,13 +74906,17 @@
       "name": "Ring of Evos Isle",
       "rating": 0,
       "scryfallId": "a7c740a8-1bbc-4ec8-a72c-01aee9e48f3d",
-      "effects": []
+      "effects": [
+        "Buff"
+      ]
     },
     "d4344e5e-148b-4df9-88e4-ca91afcc32e0": {
       "name": "Ring of Kalonia",
       "rating": 0,
       "scryfallId": "2082e04f-f972-424e-a724-7a5975215538",
-      "effects": []
+      "effects": [
+        "Buff"
+      ]
     },
     "677c3616-295f-493a-8b60-1e22b0224cfa": {
       "name": "Ring of Three Wishes",
@@ -74914,19 +74930,25 @@
       "name": "Ring of Thune",
       "rating": 0,
       "scryfallId": "1ee2e94f-5b06-4df0-ba87-4499b1ee4dba",
-      "effects": []
+      "effects": [
+        "Buff"
+      ]
     },
     "412f57e8-76af-4636-bab0-e0940300ee2e": {
       "name": "Ring of Valkas",
       "rating": 0,
       "scryfallId": "546e9fc1-03ff-4ae5-9488-51bf2e627486",
-      "effects": []
+      "effects": [
+        "Buff"
+      ]
     },
     "ceddad0d-94ad-459a-b109-f979ffc26283": {
       "name": "Ring of Xathrid",
       "rating": 0,
       "scryfallId": "47e2aa59-63dc-4e28-8cdc-2ca868ff8f59",
-      "effects": []
+      "effects": [
+        "Buff"
+      ]
     },
     "bbf9494c-c4bb-4d36-98fe-8387846b342e": {
       "name": "Rings of Brighthearth",

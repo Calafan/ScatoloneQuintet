@@ -24034,6 +24034,7 @@
       "rating": 3,
       "scryfallId": "ca5297a5-bcaa-41fd-a397-e44dc4e00ba3",
       "effects": [
+        "Tokens",
         "Filter"
       ]
     },
