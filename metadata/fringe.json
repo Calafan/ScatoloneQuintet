@@ -44701,7 +44701,7 @@
       "rating": 1,
       "scryfallId": "5e185e5c-b6f9-4d36-a6b1-d7315de38fca",
       "effects": [
-        "Buff"
+        "Tokens"
       ],
       "reviewedAt": "2026-10-23T10:05:15.3899635+00:00"
     },
@@ -100662,7 +100662,9 @@
       "name": "Tarrian's Soulcleaver",
       "rating": 1,
       "scryfallId": "99413817-1218-4947-b12f-9a952b095a89",
-      "effects": [],
+      "effects": [
+        "Buff"
+      ],
       "reviewedAt": "2026-10-09T14:16:02.3083893+00:00"
     },
     "863a148c-596a-492b-b68e-3e1cbfcb140f": {
@@ -103323,7 +103325,6 @@
       "rating": 1,
       "scryfallId": "366c4cdb-c6f2-4ee8-b5fb-acb59a9931bf",
       "effects": [
-        "Buff",
         "Sacrifice"
       ],
       "reviewedAt": "2026-10-26T21:35:33.9755038+00:00"
@@ -110724,7 +110725,6 @@
       "scryfallId": "144cd9eb-9b15-40ce-8a48-919e72dbaa67",
       "effects": [
         "Tokens",
-        "Buff",
         "Mill"
       ],
       "reviewedAt": "2026-09-12T09:45:47.9196834+00:00"
