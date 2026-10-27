@@ -2450,8 +2450,7 @@
       "scryfallId": "dafbeae0-17e3-4a29-bd02-9f45b549b990",
       "effects": [
         "Discard",
-        "Burn",
-        "Pacify"
+        "Burn"
       ]
     },
     "f7fa6ac0-70db-4586-b881-5a19db644dfb": {
@@ -2806,9 +2805,7 @@
       "name": "Angelic Benediction",
       "rating": 0,
       "scryfallId": "dd1b9071-7dde-4128-8b18-1d7b07904638",
-      "effects": [
-        "Pacify"
-      ]
+      "effects": []
     },
     "ffc56a2e-f3bd-493b-9b7b-5f04fad69382": {
       "name": "Angelic Captain",
@@ -3245,8 +3242,7 @@
       "rating": 0,
       "scryfallId": "2c25b8ef-6331-49df-9457-b8b4e44da2c9",
       "effects": [
-        "Buff",
-        "Pacify"
+        "Buff"
       ]
     },
     "cea09261-41a2-43e5-bf43-c4097e6615c6": {
@@ -10049,9 +10045,7 @@
       "name": "Bond of Discipline",
       "rating": 0,
       "scryfallId": "bb7c78bb-9f2a-47a4-adc4-b497bb38f46f",
-      "effects": [
-        "Pacify"
-      ]
+      "effects": []
     },
     "e9c9e730-3b73-48e3-845b-1b7f2d16050c": {
       "name": "Bond of Flourishing",
@@ -24663,8 +24657,7 @@
       "rating": 0,
       "scryfallId": "ed5d7539-e27c-46b6-8029-744c3b5fbfd8",
       "effects": [
-        "Wipe",
-        "Pacify"
+        "Wipe"
       ]
     },
     "ebdd0027-3340-459e-a598-dd416e76744f": {
@@ -26948,9 +26941,7 @@
       "name": "Elven Raft-Steerer",
       "rating": 0,
       "scryfallId": "c141695c-c108-41d5-85cb-1f7485d9d533",
-      "effects": [
-        "Pacify"
-      ]
+      "effects": []
     },
     "a91e0154-14a9-4681-8236-04db231592a4": {
       "name": "Elvenking's Halls",
@@ -36384,8 +36375,7 @@
       "rating": 0,
       "scryfallId": "a5f66474-05bb-4235-b8b4-c2e6452118fc",
       "effects": [
-        "Buff",
-        "Pacify"
+        "Buff"
       ]
     },
     "21570481-190e-4cfa-a5fd-a0642e2af569": {
@@ -41597,9 +41587,7 @@
       "name": "Heavy Infantry",
       "rating": 0,
       "scryfallId": "2b904b1c-bf35-4bc1-8022-7f632160733d",
-      "effects": [
-        "Pacify"
-      ]
+      "effects": []
     },
     "f1f45310-d665-400d-934f-e48e7858ce8c": {
       "name": "Heavy Mattock",
@@ -46207,9 +46195,7 @@
       "name": "Intrusive Packbeast",
       "rating": 0,
       "scryfallId": "49266f3c-4b43-4175-8bac-16789ba6f4b9",
-      "effects": [
-        "Pacify"
-      ]
+      "effects": []
     },
     "0390a3dc-386c-402f-a89c-b94867bfb0a2": {
       "name": "Inundate",
@@ -46849,9 +46835,7 @@
       "name": "Ivory Giant",
       "rating": 0,
       "scryfallId": "72eb30d9-a826-4f29-ae2a-6873997674a7",
-      "effects": [
-        "Pacify"
-      ]
+      "effects": []
     },
     "10ae7744-5f98-4d6f-993a-ffb2a34b23e7": {
       "name": "Ivorytusk Fortress",
@@ -48519,8 +48503,7 @@
       "rating": 0,
       "scryfallId": "5e4223df-c9fc-410a-913a-17bbfd054b57",
       "effects": [
-        "Buff",
-        "Pacify"
+        "Buff"
       ]
     },
     "c8e0b90c-edfb-4024-9ed5-398966f4ac72": {
@@ -49988,9 +49971,7 @@
       "name": "Kitsune Dawnblade",
       "rating": 0,
       "scryfallId": "b09ab22e-aa22-4d6b-87c6-970563486f21",
-      "effects": [
-        "Pacify"
-      ]
+      "effects": []
     },
     "2281ab3f-fad7-4b42-9621-5c35fec4c0f6": {
       "name": "Kitsune Diviner",
@@ -52308,9 +52289,7 @@
       "name": "Leonin Snarecaster",
       "rating": 0,
       "scryfallId": "ade9b739-122c-4659-b1b2-ea0510d96dbc",
-      "effects": [
-        "Pacify"
-      ]
+      "effects": []
     },
     "fa19c9d7-fe93-4e93-a5ef-9af9c6cd1a5e": {
       "name": "Leonin Squire",
@@ -62120,9 +62099,7 @@
       "name": "Niblis of the Mist",
       "rating": 0,
       "scryfallId": "08aea6e3-c8a8-4964-b95d-4c639da55de1",
-      "effects": [
-        "Pacify"
-      ]
+      "effects": []
     },
     "3ea7a555-d6fa-4cc9-9348-784e6f9a8cfc": {
       "name": "Niblis of the Urn",
@@ -63035,8 +63012,7 @@
       "rating": 0,
       "scryfallId": "497e1713-dd2d-4f25-8c8c-0c515eec7040",
       "effects": [
-        "Burn",
-        "Pacify"
+        "Burn"
       ]
     },
     "162aed84-f87f-4bd4-9cac-5008766bdfb7": {
@@ -83121,8 +83097,7 @@
       "rating": 0,
       "scryfallId": "deadb6d8-3eea-4261-a07c-8536df89e85c",
       "effects": [
-        "Buff",
-        "Pacify"
+        "Buff"
       ]
     },
     "49701c15-c6f7-4b72-9e89-d34148e5c675": {
@@ -84820,9 +84795,7 @@
       "name": "Somnomancer",
       "rating": 0,
       "scryfallId": "eaf51122-fd7c-40b5-b759-65e21c28e3d6",
-      "effects": [
-        "Pacify"
-      ]
+      "effects": []
     },
     "9fe1f3ef-2c30-4ccc-9a67-5349e98e2502": {
       "name": "Song of Freyalise",
@@ -88963,8 +88936,7 @@
       "rating": 0,
       "scryfallId": "31bee242-ce53-4c87-8410-1cdacdc56eaf",
       "effects": [
-        "Buff",
-        "Pacify"
+        "Buff"
       ]
     },
     "36ab41b7-bcfb-4618-bbfb-70d608dba15a": {
@@ -89385,9 +89357,7 @@
       "name": "Subjugator Angel",
       "rating": 0,
       "scryfallId": "af01371c-cd09-4882-9caf-04426dd4c965",
-      "effects": [
-        "Pacify"
-      ]
+      "effects": []
     },
     "b5479c97-df19-49c7-b305-7a0336fd1cb3": {
       "name": "Sublime Archangel",
@@ -92259,9 +92229,7 @@
       "name": "Tempest Caller",
       "rating": 0,
       "scryfallId": "64d0f22d-0448-4039-b6f3-75d12e10f48c",
-      "effects": [
-        "Pacify"
-      ]
+      "effects": []
     },
     "b94c233e-11d3-4556-a1da-bd193e58b663": {
       "name": "Tempest Djinn",
@@ -92273,9 +92241,7 @@
       "name": "Tempest Owl",
       "rating": 0,
       "scryfallId": "d173dda8-de9f-4148-b5be-85d1a4c4faf6",
-      "effects": [
-        "Pacify"
-      ]
+      "effects": []
     },
     "12401ad1-b5c9-43dc-9389-04aaf5db8b26": {
       "name": "Tempestra, Dame of Games",
@@ -92671,9 +92637,7 @@
       "name": "Terashi's Cry",
       "rating": 0,
       "scryfallId": "7176139f-8a9a-4ee4-a56d-672fd09390e4",
-      "effects": [
-        "Pacify"
-      ]
+      "effects": []
     },
     "d4738552-3a5e-43c5-a975-8b77618bacaf": {
       "name": "Terashi's Grasp",
@@ -95427,9 +95391,7 @@
       "name": "Timbermare",
       "rating": 0,
       "scryfallId": "2d604bac-58b7-4479-8ab8-2e0680746e0e",
-      "effects": [
-        "Pacify"
-      ]
+      "effects": []
     },
     "e53532db-5b14-429e-8437-a369c5b8632b": {
       "name": "Timbermaw Larva",
@@ -103679,7 +103641,8 @@
       "rating": 0,
       "scryfallId": "ad66392c-f117-4dfd-8ea1-86291e7e4ce5",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Pacify"
       ]
     },
     "00fdcc19-88ed-46c3-91f0-095806228105": {

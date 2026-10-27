@@ -11076,7 +11076,9 @@
       "name": "Blue Dragon",
       "rating": 1,
       "scryfallId": "98dea71b-2778-4374-8ea2-7fa82f0f6110",
-      "effects": []
+      "effects": [
+        "Pacify"
+      ]
     },
     "79e91e8a-cee7-411b-b0a3-d3383c0d4a43": {
       "name": "Blue Mana Battery",
@@ -12684,9 +12686,7 @@
       "name": "Brightmare",
       "rating": 1,
       "scryfallId": "0fc18921-59f5-413f-a221-dc47d31b2ec8",
-      "effects": [
-        "Pacify"
-      ]
+      "effects": []
     },
     "31a0c9a2-c9bd-47f7-872b-a43fb64d873c": {
       "name": "Brightspear Zealot",
@@ -55183,9 +55183,7 @@
       "name": "Kitesail Cleric",
       "rating": 1,
       "scryfallId": "16626f84-00d3-4ec9-b62c-19fff380cd3a",
-      "effects": [
-        "Pacify"
-      ]
+      "effects": []
     },
     "462269c7-ca16-4aa7-bf52-f7fcda25a05b": {
       "name": "Kitesail Skirmisher",
@@ -60913,9 +60911,7 @@
       "name": "Makindi Ox",
       "rating": 1,
       "scryfallId": "fd0d164a-bce2-4474-abe0-b735eb6c9442",
-      "effects": [
-        "Pacify"
-      ]
+      "effects": []
     },
     "342e08f9-d4d0-4408-8621-66e087058616": {
       "name": "Makindi Stampede // Makindi Mesas",
@@ -90150,9 +90146,7 @@
       "name": "Shrieking Mogg",
       "rating": 1,
       "scryfallId": "0ce46919-d312-490c-8942-39fbb2d375bf",
-      "effects": [
-        "Pacify"
-      ]
+      "effects": []
     },
     "f6adfb5f-a21c-4e86-bd16-a9c1e355af34": {
       "name": "Shrieking Specter",
