@@ -19633,9 +19633,7 @@
       "name": "Conspicuous Snoop",
       "rating": 1,
       "scryfallId": "5d878dab-5ed2-4ef3-b2c7-472290892854",
-      "effects": [
-        "CardAdvantage"
-      ]
+      "effects": []
     },
     "775d284d-0884-4ae3-a1b5-2b2a50a895b4": {
       "name": "Conspiracy",
@@ -30769,8 +30767,7 @@
       "rating": 1,
       "scryfallId": "715284eb-8384-4ad8-910c-8378e954a2b1",
       "effects": [
-        "Tokens",
-        "CardAdvantage"
+        "Tokens"
       ]
     },
     "6832f9e2-294a-44a2-8af9-eb16ccfdfc36": {
@@ -55760,9 +55757,7 @@
       "name": "Korlessa, Scale Singer",
       "rating": 1,
       "scryfallId": "fe2d08ac-6c24-4158-87a1-c59d1cd447a8",
-      "effects": [
-        "CardAdvantage"
-      ]
+      "effects": []
     },
     "d2d477a5-f055-4d47-a852-26e8239f2a01": {
       "name": "Kormus Bell",
