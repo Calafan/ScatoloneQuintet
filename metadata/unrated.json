@@ -597,7 +597,9 @@
       "name": "Adaptive Automaton",
       "rating": 0,
       "scryfallId": "79e42ead-df6e-4181-ae2b-a2abfc3f1d7c",
-      "effects": []
+      "effects": [
+        "Buff"
+      ]
     },
     "0a56e2ad-684d-45a7-9145-479d1505bba2": {
       "name": "Adaptive Snapjaw",
@@ -2425,7 +2427,8 @@
       "rating": 0,
       "scryfallId": "3aa29fe8-1687-486f-b4df-c04977869ab1",
       "effects": [
-        "Tokens"
+        "Tokens",
+        "Buff"
       ]
     },
     "c37537ae-616a-41e4-890c-f4b9475dbf31": {
@@ -9242,7 +9245,9 @@
       "name": "Bloodline Bidding",
       "rating": 0,
       "scryfallId": "877d9b75-ad2f-45a6-94d8-68e80d7db789",
-      "effects": []
+      "effects": [
+        "Reanimate"
+      ]
     },
     "434e82b5-abd4-41ac-a5b1-2dd01c667374": {
       "name": "Bloodline Keeper // Lord of Lineage",
@@ -14851,7 +14856,8 @@
       "rating": 0,
       "scryfallId": "b3c2d68d-690b-41e7-99ed-2d20c7e0a9b4",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Buff"
       ]
     },
     "c3779271-1186-4754-8b8d-0ee18e585bb6": {
@@ -23649,7 +23655,9 @@
       "name": "Door of Destinies",
       "rating": 0,
       "scryfallId": "ac4800be-5f77-42f5-914c-2a8e647e3af5",
-      "effects": []
+      "effects": [
+        "Buff"
+      ]
     },
     "b919cca5-88c0-4104-b54e-49644fbf78a5": {
       "name": "Door to Nothingness",
@@ -31294,7 +31302,8 @@
       "rating": 0,
       "scryfallId": "ec0ebb6b-d35a-47db-8071-7fef2a46c17b",
       "effects": [
-        "Ramp"
+        "Ramp",
+        "ManaFixing"
       ]
     },
     "bf5765e0-def0-4ddf-9cd7-083feae71660": {
@@ -38220,7 +38229,9 @@
       "name": "Great Ugly-Looking Goblin // Clap! Snap!",
       "rating": 0,
       "scryfallId": "c87f6004-e1cf-42b2-9647-322bc4939339",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "b193a6df-da22-4e3c-a086-5b02c604089e": {
       "name": "Great-Horn Krushok",
@@ -45176,9 +45187,7 @@
       "name": "Initiate's Companion",
       "rating": 0,
       "scryfallId": "0046b802-bc71-44af-8925-666684d5fc87",
-      "effects": [
-        "Ramp"
-      ]
+      "effects": []
     },
     "a138ca33-6ea4-468e-9cfb-c908ee62c516": {
       "name": "Ink Dissolver",
@@ -45865,8 +45874,7 @@
       "rating": 0,
       "scryfallId": "2f80394b-2f7e-40a7-8203-720bcf39d71b",
       "effects": [
-        "Tokens",
-        "Buff"
+        "Tokens"
       ]
     },
     "cd6e9465-f4eb-482d-9c49-3a16b52c997c": {
@@ -49687,9 +49695,7 @@
       "name": "Knight of Wundagore",
       "rating": 0,
       "scryfallId": "f3003766-9383-44e0-8b51-35ccbed137ed",
-      "effects": [
-        "Buff"
-      ]
+      "effects": []
     },
     "4e92c705-19c2-42df-ad12-808d272c505e": {
       "name": "Knight of the Holy Nimbus",
@@ -53050,7 +53056,9 @@
       "name": "Lonesome Unicorn // Rider in Need",
       "rating": 0,
       "scryfallId": "99083707-2152-42c0-b5c3-b4f97ec20190",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "a833fdf1-db0c-4846-8452-d3b2059c2355": {
       "name": "Long Lake Nuisance",
@@ -53417,7 +53425,9 @@
       "name": "Lovestruck Beast // Heart's Desire",
       "rating": 0,
       "scryfallId": "4ccdef9c-1e85-4358-8059-8972479f7556",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "720879dc-7593-41c0-ab3d-936069f26930": {
       "name": "Lovisa Coldeyes",
@@ -62943,6 +62953,7 @@
       "rating": 0,
       "scryfallId": "8a665794-513f-4f78-92c9-1844ec27c79c",
       "effects": [
+        "Tokens",
         "Buff"
       ]
     },
@@ -63190,7 +63201,9 @@
       "name": "Obelisk of Urd",
       "rating": 0,
       "scryfallId": "ed7865a7-8fe2-4b5d-a625-91585d1b7d4a",
-      "effects": []
+      "effects": [
+        "Buff"
+      ]
     },
     "e690461b-2925-4484-b6fa-69ca1166f5a2": {
       "name": "Oblivion Crown",
@@ -65260,7 +65273,9 @@
       "name": "Pain 101",
       "rating": 0,
       "scryfallId": "a1c70bf2-b2bd-4585-ba50-304f4dad8e62",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "7d972a9b-86c4-4538-868b-4c64f0c80b1a": {
       "name": "Pain Kami",
@@ -70417,7 +70432,9 @@
       "name": "Radiant Destiny",
       "rating": 0,
       "scryfallId": "9d44584d-e501-40aa-b3f2-a6155e2ee6e7",
-      "effects": []
+      "effects": [
+        "Buff"
+      ]
     },
     "cfc8372f-13b6-4628-84c7-066881b287f5": {
       "name": "Radiant Flames",
@@ -75737,6 +75754,7 @@
       "rating": 0,
       "scryfallId": "1e53cd8b-18f8-4950-84d4-7aafa26c7ae4",
       "effects": [
+        "Buff",
         "Protection"
       ]
     },
@@ -91803,7 +91821,6 @@
       "rating": 0,
       "scryfallId": "05c4b07f-c6ed-4a92-aab3-54ee6adfb793",
       "effects": [
-        "Ramp",
         "ManaFixing"
       ]
     },
@@ -98981,7 +98998,8 @@
       "rating": 0,
       "scryfallId": "60b7a85f-3a30-4ece-9bbb-61f3c4b796b8",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Buff"
       ]
     },
     "fc7c0197-bfa1-43b8-87c8-f134192b14c0": {

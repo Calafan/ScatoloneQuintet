@@ -4004,7 +4004,8 @@
       "rating": 3,
       "scryfallId": "8aa4eacb-48d8-49a1-90dd-042f3f1f75bb",
       "effects": [
-        "Ramp"
+        "Ramp",
+        "ManaFixing"
       ]
     },
     "a3a56b02-7290-4352-a862-f2de608f2a86": {
@@ -10674,7 +10675,9 @@
       "name": "Infuse with Vitality",
       "rating": 3,
       "scryfallId": "840600a9-3e78-48a6-b75b-860446b82c1b",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "da93264e-4e04-401a-9809-e4e1056cf604": {
       "name": "Inkshield",

@@ -8982,7 +8982,9 @@
       "name": "Belbe's Portal",
       "rating": 1,
       "scryfallId": "fb4eeea1-693e-475c-a209-8a0464df8081",
-      "effects": []
+      "effects": [
+        "Cheat"
+      ]
     },
     "f1c303d8-6d77-4bc6-82d1-2a409a6f2cfd": {
       "name": "Belbe, Corrupted Observer",
@@ -45870,7 +45872,9 @@
       "name": "Haunting Voyage",
       "rating": 1,
       "scryfallId": "2ac5bca0-35fe-47be-a78c-d5eac68a3bfa",
-      "effects": []
+      "effects": [
+        "Reanimate"
+      ]
     },
     "cbd2d38b-6402-44b7-ba27-d854268e31d0": {
       "name": "Haunting Wind",
@@ -51019,7 +51023,9 @@
       "name": "Instruments of War",
       "rating": 1,
       "scryfallId": "9526bea2-8d47-4a82-a617-6c57c7abc69a",
-      "effects": []
+      "effects": [
+        "Buff"
+      ]
     },
     "0d3e843e-eeb4-421e-b55d-ceb21f51a080": {
       "name": "Insubordination",
@@ -79099,7 +79105,9 @@
       "name": "Rally the Ranks",
       "rating": 1,
       "scryfallId": "03595195-3be2-4d18-b5c0-43b2dcc1c0f5",
-      "effects": []
+      "effects": [
+        "Buff"
+      ]
     },
     "555927b3-bbc8-48b7-9a04-e8ebaabccf3e": {
       "name": "Rally the Troops",
