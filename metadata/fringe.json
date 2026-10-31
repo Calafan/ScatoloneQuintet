@@ -7706,7 +7706,8 @@
       "scryfallId": "a14c16c0-4053-46b0-8fa6-be8b4a7a1c8a",
       "effects": [
         "Buff"
-      ]
+      ],
+      "reviewedAt": "2026-10-30T10:05:23.7948425+00:00"
     },
     "1b62e88f-d544-4c01-a5a2-1c185a3c9c1e": {
       "name": "Banon, the Returners' Leader",
@@ -25467,7 +25468,8 @@
       "effects": [
         "Tokens",
         "Sacrifice"
-      ]
+      ],
+      "reviewedAt": "2026-10-30T10:05:36.091243+00:00"
     },
     "c0112586-3826-452e-9e44-7e6edd197f78": {
       "name": "Devouring Tendrils",
@@ -36235,7 +36237,8 @@
       "scryfallId": "cc8443a6-282f-4218-9dc8-144b5570d891",
       "effects": [
         "Redirect"
-      ]
+      ],
+      "reviewedAt": "2026-10-30T10:04:55.35959+00:00"
     },
     "1b3d7411-7a25-4353-83c0-d09525a4fa08": {
       "name": "Flamekin Herald",
@@ -38437,7 +38440,8 @@
       "scryfallId": "9f7f7c5c-592b-4d22-968b-e5162b024b6e",
       "effects": [
         "Reanimate"
-      ]
+      ],
+      "reviewedAt": "2026-10-30T10:05:33.8672045+00:00"
     },
     "466cf331-2d9c-4ebc-84f6-30c890e1b637": {
       "name": "Frontier Seeker",
@@ -49726,7 +49730,8 @@
       "effects": [
         "Tokens",
         "Buff"
-      ]
+      ],
+      "reviewedAt": "2026-10-30T10:05:32.8254501+00:00"
     },
     "d70d4686-2c35-4149-aed1-7e3b9e022702": {
       "name": "Imodane, the Pyrohammer",
@@ -67062,7 +67067,8 @@
       "scryfallId": "380f16d6-ad43-4e0d-9645-6abde6248182",
       "effects": [
         "Pacify"
-      ]
+      ],
+      "reviewedAt": "2026-10-30T10:05:07.6894755+00:00"
     },
     "d5fca77c-377f-41b4-a9e9-e91a89d351cc": {
       "name": "Mox Jasper",
@@ -73266,7 +73272,8 @@
       "effects": [
         "Ramp",
         "Buff"
-      ]
+      ],
+      "reviewedAt": "2026-10-30T10:05:26.7365279+00:00"
     },
     "6cf995e9-115a-4659-bace-9fbe75898b48": {
       "name": "Patchwork Beastie",
@@ -79589,7 +79596,8 @@
       "scryfallId": "7f4c0959-a107-4d61-9e51-256b2955f6ba",
       "effects": [
         "Tokens"
-      ]
+      ],
+      "reviewedAt": "2026-10-30T10:05:31.5764648+00:00"
     },
     "4f95664f-6113-41e6-a99e-12bfc9d1710a": {
       "name": "Ratchet, Field Medic // Ratchet, Rescue Racer",
@@ -81451,7 +81459,8 @@
       "effects": [
         "Tokens",
         "Buff"
-      ]
+      ],
+      "reviewedAt": "2026-10-30T10:05:02.8824958+00:00"
     },
     "54ea46ea-7c83-44a9-85b0-eff9745c6ffa": {
       "name": "Renewing Dawn",
@@ -82692,7 +82701,8 @@
       "scryfallId": "312f7072-3bf8-449f-bfb7-93727ef26c66",
       "effects": [
         "Tokens"
-      ]
+      ],
+      "reviewedAt": "2026-10-30T10:04:57.8993384+00:00"
     },
     "57f6a8c2-9d84-4640-9b92-8b8611e05773": {
       "name": "Rilsa Rael, Kingpin",
