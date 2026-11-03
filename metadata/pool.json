@@ -1088,8 +1088,8 @@
         "Tokens",
         "Bounce",
         "Discard",
-        "Steal",
-        "Cheat"
+        "CardAdvantage",
+        "Steal"
       ]
     },
     "9ea87566-43da-4ebd-a904-ae8b8830c3a2": {
@@ -4941,8 +4941,7 @@
       "scryfallId": "47287f15-c480-4c93-8f04-10f57a089c2e",
       "effects": [
         "CardAdvantage",
-        "Steal",
-        "Cheat"
+        "Steal"
       ]
     },
     "4d877c28-5276-4ea6-91c6-eeed890ca545": {
@@ -8677,8 +8676,7 @@
       "rating": 3,
       "scryfallId": "556dfe7a-43e8-4801-ad79-89ab2148eca6",
       "effects": [
-        "Filter",
-        "Cheat"
+        "CardAdvantage"
       ]
     },
     "71ff4603-9f7a-459e-b5b3-9b39583f1dc7": {
@@ -24227,8 +24225,7 @@
       "effects": [
         "Tokens",
         "CardAdvantage",
-        "Tutor",
-        "Cheat"
+        "Tutor"
       ]
     },
     "b12cbda1-ac09-49eb-96b3-a4df27bc37ea": {

@@ -1066,9 +1066,7 @@
       "name": "Aether Vial",
       "rating": 0,
       "scryfallId": "741c479b-5e92-4837-9673-9bc72aa11d26",
-      "effects": [
-        "Cheat"
-      ]
+      "effects": []
     },
     "97e7778f-971c-4425-8f6d-f4ff3fae000f": {
       "name": "Aether Web",
@@ -1230,8 +1228,7 @@
       "rating": 0,
       "scryfallId": "884f6948-3e03-48c6-8be2-6f2539386c9d",
       "effects": [
-        "Filter",
-        "Cheat"
+        "Filter"
       ]
     },
     "3819daab-fe35-4f99-9282-47bd05c7fcd6": {
@@ -9808,8 +9805,7 @@
       "scryfallId": "d2124603-d20e-40eb-97f0-a66323397ac2",
       "effects": [
         "CardAdvantage",
-        "Burn",
-        "Cheat"
+        "Burn"
       ]
     },
     "45ddfa35-7b3c-4916-b231-dc721b7b56d9": {
@@ -14256,8 +14252,7 @@
       "scryfallId": "62ff0730-6dd9-42d2-be0d-655d04adf229",
       "effects": [
         "CardAdvantage",
-        "Steal",
-        "Cheat"
+        "Steal"
       ]
     },
     "07a0cba9-8768-4fd9-a3d5-b0f83b4bf8e8": {
@@ -14731,8 +14726,7 @@
       "rating": 0,
       "scryfallId": "e064174b-8f07-4fea-9eef-c3b5d0220b1a",
       "effects": [
-        "Tutor",
-        "Cheat"
+        "Tutor"
       ]
     },
     "61495793-b0c7-40a5-ad3e-9df8e2b8096b": {
@@ -21582,8 +21576,7 @@
       "rating": 0,
       "scryfallId": "a3aa54d9-9f01-46e4-b4bd-f8bc57b44ac1",
       "effects": [
-        "Filter",
-        "Cheat"
+        "CardAdvantage"
       ]
     },
     "135cb4af-f4b6-455b-8fea-84fcef78ee03": {
@@ -23290,8 +23283,7 @@
       "rating": 0,
       "scryfallId": "3e3b0949-17e1-4f12-8999-d4638d32dd3e",
       "effects": [
-        "CardAdvantage",
-        "Cheat"
+        "CardAdvantage"
       ]
     },
     "699610c9-c991-4faf-b712-d015ef0799ad": {
@@ -23578,8 +23570,7 @@
       "scryfallId": "9b99894b-c774-45c2-9ee9-4d6a8e7522f5",
       "effects": [
         "CardAdvantage",
-        "Steal",
-        "Cheat"
+        "Steal"
       ]
     },
     "4a01db2e-cd43-4b1a-a480-169018f82501": {
@@ -25763,8 +25754,7 @@
       "rating": 0,
       "scryfallId": "b38b9bd6-1dd7-4bbc-8a82-ce391c1172e1",
       "effects": [
-        "Filter",
-        "Cheat"
+        "CardAdvantage"
       ]
     },
     "c2b659ef-68f6-452c-94b5-2872f4e7b069": {
@@ -26996,8 +26986,7 @@
       "rating": 0,
       "scryfallId": "6473a93f-879f-4f44-8650-ee05a647c763",
       "effects": [
-        "CardAdvantage",
-        "Cheat"
+        "CardAdvantage"
       ]
     },
     "2afd64dd-94b3-4bc6-8411-465b3e07f3c9": {
@@ -27871,8 +27860,7 @@
       "rating": 0,
       "scryfallId": "42f0b68a-de4b-4c0c-98ac-a812017f88a7",
       "effects": [
-        "CardAdvantage",
-        "Cheat"
+        "CardAdvantage"
       ]
     },
     "4bdfc580-de51-445b-b170-8c6832e44704": {
@@ -28233,8 +28221,7 @@
       "scryfallId": "1d3d8bb4-0430-45bb-930d-5d6db6521945",
       "effects": [
         "CardAdvantage",
-        "Steal",
-        "Cheat"
+        "Steal"
       ]
     },
     "7cd7102d-6413-4f46-9434-9130aefa2f88": {
@@ -28582,9 +28569,7 @@
       "name": "Evershrike",
       "rating": 0,
       "scryfallId": "499d1789-f7b0-47a1-962e-4c75b23befd5",
-      "effects": [
-        "Cheat"
-      ]
+      "effects": []
     },
     "b5bc4adf-9105-4901-989c-63612314af5c": {
       "name": "Evershrike's Gift",
@@ -31412,7 +31397,9 @@
       "name": "Fist of Suns",
       "rating": 0,
       "scryfallId": "9997c580-596b-43d5-b4a0-9acc8fc2ef26",
-      "effects": []
+      "effects": [
+        "Cheat"
+      ]
     },
     "81641cf1-2dcf-4cd3-ab92-7f5e8e20cb84": {
       "name": "Fistful of Force",
@@ -33898,8 +33885,7 @@
       "rating": 0,
       "scryfallId": "fc1a696b-642a-419f-bd43-09af39a9401b",
       "effects": [
-        "CardAdvantage",
-        "Cheat"
+        "CardAdvantage"
       ]
     },
     "e326b5a1-f8ce-471b-8663-ec1ba649b24f": {
@@ -34841,9 +34827,7 @@
       "name": "Getaway Barrel",
       "rating": 0,
       "scryfallId": "e4819aa6-5d28-4a37-942d-89523e30c4e1",
-      "effects": [
-        "Cheat"
-      ]
+      "effects": []
     },
     "ef809e99-34a2-4471-8269-f56bf8037686": {
       "name": "Geth's Grimoire",
@@ -36402,8 +36386,7 @@
       "scryfallId": "d78f2105-030f-4951-aa02-0d4db3d34f59",
       "effects": [
         "CardAdvantage",
-        "Buff",
-        "Cheat"
+        "Buff"
       ]
     },
     "a73757e5-3430-42ed-8d1a-922c414c7f21": {
@@ -38321,8 +38304,7 @@
       "rating": 0,
       "scryfallId": "02335747-54e3-4827-ae19-4e362863da9b",
       "effects": [
-        "Tutor",
-        "Cheat"
+        "Tutor"
       ]
     },
     "c63a17b8-d183-48c7-bb04-edbfffba1e03": {
@@ -39477,7 +39459,7 @@
       "scryfallId": "8e622878-0aea-4401-873e-d34bf05ee98d",
       "effects": [
         "Removal",
-        "Cheat"
+        "Filter"
       ]
     },
     "38a3e144-93ad-497b-9b29-7040b6f337e1": {
@@ -41375,8 +41357,7 @@
       "rating": 0,
       "scryfallId": "984a037b-63c0-497d-b3b1-15726ef11a60",
       "effects": [
-        "CardAdvantage",
-        "Cheat"
+        "CardAdvantage"
       ]
     },
     "4c27ba61-6812-4dd7-8efc-65435a8df7b5": {
@@ -43956,9 +43937,7 @@
       "name": "Identity Echo",
       "rating": 0,
       "scryfallId": "e600b33b-8916-43dd-95d3-d7cbf874933d",
-      "effects": [
-        "Cheat"
-      ]
+      "effects": []
     },
     "a200daec-983c-4ea6-ae98-1c963b50fbb1": {
       "name": "Identity Thief",
@@ -44541,7 +44520,7 @@
       "rating": 0,
       "scryfallId": "d01fe6e9-49ee-4708-833e-75cd5a9f167c",
       "effects": [
-        "Cheat"
+        "CardAdvantage"
       ]
     },
     "4f02aa99-481c-4089-8f7c-cfe7eaa7dda0": {
@@ -45410,8 +45389,7 @@
       "scryfallId": "9763bd56-fa4b-4907-ad15-c3f040c5fc0a",
       "effects": [
         "CardAdvantage",
-        "Steal",
-        "Cheat"
+        "Steal"
       ]
     },
     "623d9db1-a3af-4a1c-9643-975de364e073": {
@@ -45635,8 +45613,7 @@
       "rating": 0,
       "scryfallId": "394e4fe9-2bb0-4a5c-bf10-b72b519d5226",
       "effects": [
-        "CardAdvantage",
-        "Cheat"
+        "CardAdvantage"
       ]
     },
     "3018c0ef-876a-4254-9513-42f351e1da3e": {
@@ -46680,8 +46657,7 @@
       "rating": 0,
       "scryfallId": "55cd03d9-2535-4cf3-a8b2-1418e1190f4a",
       "effects": [
-        "CardAdvantage",
-        "Cheat"
+        "CardAdvantage"
       ]
     },
     "bf0e9e00-fba5-448a-9052-ae730aea4bf8": {
@@ -47285,7 +47261,9 @@
       "name": "Jodah, Archmage Eternal",
       "rating": 0,
       "scryfallId": "1ee86efa-248e-4251-b734-f8ad3e8a0344",
-      "effects": []
+      "effects": [
+        "Cheat"
+      ]
     },
     "1102524d-7287-496f-a18a-5fdae6d4c271": {
       "name": "Join Shields",
@@ -48023,8 +48001,7 @@
       "rating": 0,
       "scryfallId": "88cf0311-d7e3-40bb-85fa-3cca973c5e44",
       "effects": [
-        "CardAdvantage",
-        "Cheat"
+        "CardAdvantage"
       ]
     },
     "da6e24a4-8adc-41a1-b5eb-3e31dc1250c9": {
@@ -48927,8 +48904,7 @@
       "rating": 0,
       "scryfallId": "c808a8ec-895c-4777-9e11-e83ce34eddef",
       "effects": [
-        "Burn",
-        "Cheat"
+        "Burn"
       ]
     },
     "c17f0e65-e5a3-4113-b782-0b192ab52046": {
@@ -49221,9 +49197,7 @@
       "name": "Kinscaer Sentry",
       "rating": 0,
       "scryfallId": "333bf101-14e8-4753-99bc-9174f42c4122",
-      "effects": [
-        "Cheat"
-      ]
+      "effects": []
     },
     "02b41d0e-82e7-4307-8cc4-8175ff78ea1f": {
       "name": "Kiora of Fire and Ashes",
@@ -53211,8 +53185,7 @@
       "scryfallId": "75b83fe5-fd00-4532-bc67-07836abfc99c",
       "effects": [
         "CardAdvantage",
-        "Steal",
-        "Cheat"
+        "Steal"
       ]
     },
     "e60a9e8d-0be4-4d08-a03a-af9f9e2be65b": {
@@ -53829,7 +53802,7 @@
       "rating": 0,
       "scryfallId": "e864c824-89a1-41f6-9481-83b2284471e0",
       "effects": [
-        "Cheat"
+        "CardAdvantage"
       ]
     },
     "c8f8fbf0-4f51-4a5c-82f9-99917513df6d": {
@@ -54113,9 +54086,7 @@
       "name": "Madcap Experiment",
       "rating": 0,
       "scryfallId": "05768b87-d2df-42fc-bf63-e471d31b32e3",
-      "effects": [
-        "Cheat"
-      ]
+      "effects": []
     },
     "4a9dc9ef-a603-467a-aeed-32cc111394b0": {
       "name": "Madcap Skills",
@@ -57510,8 +57481,7 @@
       "rating": 0,
       "scryfallId": "0a7f0fdf-1d4b-4458-a19c-274611e8a59a",
       "effects": [
-        "CardAdvantage",
-        "Cheat"
+        "CardAdvantage"
       ]
     },
     "d4b5e09b-9ca2-4b51-a4f8-080741810df8": {
@@ -57520,8 +57490,7 @@
       "scryfallId": "b3d6522a-b9a0-4185-b5ba-c20fa1b772eb",
       "effects": [
         "CardAdvantage",
-        "Steal",
-        "Cheat"
+        "Steal"
       ]
     },
     "028dcef2-3de9-4dde-ba17-f9e077b3190d": {
@@ -58524,7 +58493,7 @@
       "rating": 0,
       "scryfallId": "248757d9-f590-4f90-98a5-3df947b2bff6",
       "effects": [
-        "Cheat"
+        "CardAdvantage"
       ]
     },
     "ba944437-0b55-47cb-92dc-2477ce6726c3": {
@@ -59877,8 +59846,7 @@
       "rating": 0,
       "scryfallId": "170926b9-4bfa-4a9b-a297-db1672bc48d9",
       "effects": [
-        "Filter",
-        "Cheat"
+        "CardAdvantage"
       ]
     },
     "53fb8118-f332-407b-add8-1b329e420226": {
@@ -60518,8 +60486,7 @@
       "rating": 0,
       "scryfallId": "f210adb7-b389-4672-a3eb-0ced9bfe190c",
       "effects": [
-        "CardAdvantage",
-        "Cheat"
+        "CardAdvantage"
       ]
     },
     "16acd858-dba6-401e-bbfb-cabdd6d0120e": {
@@ -61527,7 +61494,7 @@
       "rating": 0,
       "scryfallId": "3aa6fc02-ef76-426b-accd-6c0ef88b2a5e",
       "effects": [
-        "Filter"
+        "CardAdvantage"
       ]
     },
     "b20860da-2e71-414a-a512-1cce7ba64079": {
@@ -61535,8 +61502,7 @@
       "rating": 0,
       "scryfallId": "169b6c86-60f2-462b-877f-481354ef2d20",
       "effects": [
-        "CardAdvantage",
-        "Cheat"
+        "CardAdvantage"
       ]
     },
     "5303b3f6-970c-47d8-977e-2d6679206ba5": {
@@ -61545,8 +61511,7 @@
       "scryfallId": "89c21b09-8869-4d94-bf29-29c8d1c69d4f",
       "effects": [
         "CardAdvantage",
-        "Burn",
-        "Cheat"
+        "Burn"
       ]
     },
     "581eedc4-efe4-4ae4-baf2-88071e7e6f6d": {
@@ -61566,9 +61531,9 @@
       "effects": [
         "Wipe",
         "Discard",
+        "CardAdvantage",
         "Burn",
-        "Steal",
-        "Cheat"
+        "Steal"
       ]
     },
     "05e9b55e-6329-48ec-b7d7-24c6b9692244": {
@@ -62156,8 +62121,7 @@
       "rating": 0,
       "scryfallId": "e969d1f3-9595-498b-81cb-6cf4df2cad5d",
       "effects": [
-        "CardAdvantage",
-        "Cheat"
+        "CardAdvantage"
       ]
     },
     "5e2aff26-c9f0-4e4b-bc5e-b2cb46e04293": {
@@ -64266,8 +64230,7 @@
       "rating": 0,
       "scryfallId": "43fcc4a5-3ab0-4344-85af-d80aae293b75",
       "effects": [
-        "CardAdvantage",
-        "Cheat"
+        "CardAdvantage"
       ]
     },
     "1b065a17-14a4-433f-a6c8-2c8212f505c7": {
@@ -64582,8 +64545,7 @@
       "scryfallId": "85e61a72-5184-417d-8cda-f6b723ba00c4",
       "effects": [
         "CardAdvantage",
-        "Pacify",
-        "Cheat"
+        "Pacify"
       ]
     },
     "d4e4614d-8247-4fc5-8883-e37204939aa4": {
@@ -68966,8 +68928,7 @@
       "rating": 0,
       "scryfallId": "3d978332-95bf-4f86-9e67-06f10983c267",
       "effects": [
-        "Tutor",
-        "Cheat"
+        "Tutor"
       ]
     },
     "6e32b958-70d3-4f3d-b10e-d6c8cb27dd93": {
@@ -71330,7 +71291,7 @@
       "rating": 0,
       "scryfallId": "8795fba4-0ff3-4c04-a81c-60408608a00c",
       "effects": [
-        "Cheat"
+        "CardAdvantage"
       ]
     },
     "7991aff6-0b85-41a3-bc31-09811d6fa353": {
@@ -78633,8 +78594,7 @@
       "rating": 0,
       "scryfallId": "3689a7f1-9713-412e-a030-9cba463c170e",
       "effects": [
-        "Filter",
-        "Cheat"
+        "Filter"
       ]
     },
     "728045bf-0959-44ff-8de9-16ec35fd248f": {
@@ -80430,9 +80390,7 @@
       "name": "Shifting Shadow",
       "rating": 0,
       "scryfallId": "925b26d3-ed73-4264-a5a9-b54d05760044",
-      "effects": [
-        "Cheat"
-      ]
+      "effects": []
     },
     "af24dc1c-6726-4788-8be8-609ee19ad2c8": {
       "name": "Shimatsu the Bloodcloaked",
@@ -87416,6 +87374,7 @@
       "rating": 0,
       "scryfallId": "53203dfc-5ad5-4c17-9802-ca2f874d327a",
       "effects": [
+        "CardAdvantage",
         "Steal"
       ]
     },
@@ -88811,8 +88770,7 @@
       "rating": 0,
       "scryfallId": "72ce4a96-9cb2-4032-9291-7fa0849aeab9",
       "effects": [
-        "Filter",
-        "Cheat"
+        "Filter"
       ]
     },
     "4db00a5e-7dbe-4387-90e9-c21ec1daa448": {
@@ -92116,9 +92074,9 @@
       "scryfallId": "9ee1eea2-961f-445d-b035-6baed454f289",
       "effects": [
         "Ramp",
+        "CardAdvantage",
         "Burn",
-        "Regrowth",
-        "Cheat"
+        "Regrowth"
       ]
     },
     "a9a84fbb-0972-4a3d-bdae-a3b01219b35d": {
@@ -98510,7 +98468,8 @@
       "rating": 0,
       "scryfallId": "9e7fb3c0-5159-4d1f-8490-ce4c9a60f567",
       "effects": [
-        "Ramp"
+        "Ramp",
+        "CardAdvantage"
       ]
     },
     "492dafd8-0393-4151-845c-d9ca10bda03e": {
@@ -99082,7 +99041,7 @@
       "rating": 0,
       "scryfallId": "476b6a4d-cc05-4e98-8a45-a5c6582ec514",
       "effects": [
-        "Cheat"
+        "Filter"
       ]
     },
     "0b331f27-0d78-4d22-b546-36c5dec37606": {
@@ -100309,8 +100268,7 @@
       "scryfallId": "0610e69b-8b7c-40e4-bb10-28ee4411f861",
       "effects": [
         "CardAdvantage",
-        "Steal",
-        "Cheat"
+        "Steal"
       ]
     },
     "6dc7f837-158f-4ccf-86a5-a07a20891ec5": {
@@ -100907,8 +100865,7 @@
       "scryfallId": "784c4711-223d-4b95-a163-87e57f87b8db",
       "effects": [
         "Removal",
-        "Filter",
-        "Cheat"
+        "Filter"
       ]
     },
     "32412a41-2929-4417-90bc-21c5659eeb72": {
@@ -101735,8 +101692,7 @@
       "rating": 0,
       "scryfallId": "8b893d46-25f0-4c6a-b9a3-ff25277be918",
       "effects": [
-        "Filter",
-        "Cheat"
+        "Filter"
       ]
     },
     "282d6e61-3240-4f1e-9c2d-8ddb59b03af4": {
@@ -102020,8 +101976,7 @@
       "rating": 0,
       "scryfallId": "43cf33cc-c1ac-4196-aa82-b27083694f64",
       "effects": [
-        "CardAdvantage",
-        "Cheat"
+        "CardAdvantage"
       ]
     },
     "b14d3226-adc2-4bdd-9e69-fefdc946ac04": {
@@ -104850,8 +104805,7 @@
       "rating": 0,
       "scryfallId": "a706d4bb-0b44-4e43-b340-7de799c086b8",
       "effects": [
-        "Tutor",
-        "Cheat"
+        "Tutor"
       ]
     },
     "c9fe1383-1331-4a58-a45a-3320250221a9": {
@@ -105509,8 +105463,7 @@
       "rating": 0,
       "scryfallId": "fb51b2a8-035c-44e6-92db-2e2385066470",
       "effects": [
-        "CardAdvantage",
-        "Cheat"
+        "CardAdvantage"
       ]
     },
     "785e451d-87b6-4772-97e5-d2744818e0fd": {

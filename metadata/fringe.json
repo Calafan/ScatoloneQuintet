@@ -6225,8 +6225,7 @@
       "rating": 1,
       "scryfallId": "ec593c8a-b5ef-45a1-ac19-45937a876038",
       "effects": [
-        "Sacrifice",
-        "Cheat"
+        "Sacrifice"
       ]
     },
     "40b0b93d-4075-42d6-bcd8-b2f9910cc7d2": {
@@ -27901,8 +27900,7 @@
       "rating": 1,
       "scryfallId": "f6b04ec8-68c9-468c-b137-707db994af68",
       "effects": [
-        "Sacrifice",
-        "Cheat"
+        "Sacrifice"
       ]
     },
     "1ecb3349-ccb8-4b54-bd81-8d649d6f96f0": {
@@ -32207,7 +32205,7 @@
       "scryfallId": "f6cd7465-9dd0-473c-ac5e-dd9e2f22f5f6",
       "effects": [
         "Ramp",
-        "Cheat"
+        "CardAdvantage"
       ]
     },
     "ddf38a32-302a-4658-9eaf-b813ebe275c9": {
@@ -35203,7 +35201,7 @@
       "rating": 2,
       "scryfallId": "82c35cce-5b13-4870-8710-1b05af2c5c40",
       "effects": [
-        "Cheat"
+        "CardAdvantage"
       ]
     },
     "f319b671-0388-48e8-ba98-04161a3e7f1a": {
@@ -35304,8 +35302,7 @@
       "scryfallId": "6cd9d800-6d31-42e2-87d2-772db0ff95ed",
       "effects": [
         "Sacrifice",
-        "Tutor",
-        "Cheat"
+        "Tutor"
       ]
     },
     "b5d64271-4478-4c55-8c71-ba8f02b47fac": {
@@ -35916,9 +35913,7 @@
       "name": "Fireflux Squad",
       "rating": 2,
       "scryfallId": "4bcff20b-06f7-4228-a99c-6ff46e73e353",
-      "effects": [
-        "Cheat"
-      ]
+      "effects": []
     },
     "6b151418-092f-4a43-8b21-3de64ea80cab": {
       "name": "Firefly",
@@ -39414,9 +39409,7 @@
       "name": "Gamekeeper",
       "rating": 1,
       "scryfallId": "b6006c21-28b5-4550-8b4e-ac631f39cdf7",
-      "effects": [
-        "Cheat"
-      ]
+      "effects": []
     },
     "a3112971-3af4-46e8-b2d6-a8759b39d0d1": {
       "name": "Ganax, Astral Hunter",
@@ -52631,8 +52624,7 @@
       "scryfallId": "d7148d24-373e-4485-860b-c3429c2337f2",
       "effects": [
         "Ramp",
-        "CardAdvantage",
-        "Cheat"
+        "CardAdvantage"
       ]
     },
     "64ee02f1-afdb-474b-a893-31538ad7219a": {
@@ -55638,8 +55630,7 @@
       "scryfallId": "63cda4a0-0dff-4edb-ae67-a2b7e2971350",
       "effects": [
         "Ramp",
-        "Filter",
-        "Cheat"
+        "CardAdvantage"
       ]
     },
     "92c0346d-c375-4851-9806-5d3b9b83425f": {
@@ -62527,7 +62518,9 @@
       "name": "Marshland Bloodcaster",
       "rating": 1,
       "scryfallId": "024ab7f9-1891-4c71-9fcf-cf124b1c6d10",
-      "effects": []
+      "effects": [
+        "Cheat"
+      ]
     },
     "5b7ccdd2-40aa-4619-a147-0792dc02b2e5": {
       "name": "Martha Jones",
@@ -64802,8 +64795,7 @@
       "rating": 1,
       "scryfallId": "4eec1d87-1007-44a1-a45d-0623816de681",
       "effects": [
-        "Tokens",
-        "Cheat"
+        "Tokens"
       ]
     },
     "d91b3c6f-f8a1-4859-90ca-22cd79517552": {
@@ -85065,8 +85057,7 @@
       "rating": 1,
       "scryfallId": "07b7c952-5ab7-4546-8369-4d213bf868bf",
       "effects": [
-        "Tutor",
-        "Cheat"
+        "Tutor"
       ]
     },
     "bb1963f9-261c-4d3f-a401-90aaced77e7f": {
@@ -100237,8 +100228,7 @@
       "scryfallId": "a7054d48-5ed3-43a1-85e5-9f306b081b4f",
       "effects": [
         "Ramp",
-        "Filter",
-        "Cheat"
+        "Filter"
       ]
     },
     "fb7adbee-a3b0-42bf-988f-9d4faf6bd006": {
@@ -102455,7 +102445,7 @@
       "rating": 1,
       "scryfallId": "5b5c2555-c707-4814-933a-c275b9ebc0a3",
       "effects": [
-        "Cheat"
+        "CardAdvantage"
       ]
     },
     "c65dc9cb-3aad-4d15-a8c0-c0c142058d45": {
@@ -109240,8 +109230,7 @@
       "rating": 2,
       "scryfallId": "61bd69ea-1e9e-46b0-b1a1-ed7fdbe3deb6",
       "effects": [
-        "Filter",
-        "Cheat"
+        "Filter"
       ]
     },
     "fb4a044b-f25d-47ff-b272-754e577ce50a": {
@@ -111034,9 +111023,7 @@
       "name": "Urza Assembles the Titans",
       "rating": 1,
       "scryfallId": "10a544d7-ead7-42fd-a35a-c1b672771d5b",
-      "effects": [
-        "Cheat"
-      ]
+      "effects": []
     },
     "e5fa232a-c8f2-4532-88bf-60d1223181b0": {
       "name": "Urza's Armor",
@@ -117246,7 +117233,7 @@
       "rating": 1,
       "scryfallId": "5dd13a6c-23d3-44ce-a628-cb1c19d777c4",
       "effects": [
-        "Filter"
+        "CardAdvantage"
       ]
     },
     "594827de-e85f-4aac-b0e6-d92878f0f26c": {
@@ -119937,7 +119924,7 @@
       "rating": 1,
       "scryfallId": "be645675-d263-42c4-9e71-f98cf4c2aab5",
       "effects": [
-        "Cheat"
+        "CardAdvantage"
       ]
     },
     "e90f298f-c54b-4fe8-82db-5b9153a57712": {
