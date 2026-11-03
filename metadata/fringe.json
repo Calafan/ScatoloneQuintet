@@ -14923,6 +14923,7 @@
       "rating": 2,
       "scryfallId": "0957c90f-e10d-40f8-a4be-9e9ef623dd43",
       "effects": [
+        "CardAdvantage",
         "Buff"
       ],
       "reviewedAt": "2026-09-10T15:49:41.6627084+00:00"
