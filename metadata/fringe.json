@@ -99126,7 +99126,9 @@
       "name": "Subira, Tulzidi Caravanner",
       "rating": 1,
       "scryfallId": "034b8d6d-95ea-434a-967a-e6675a7ce88a",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "eb56141a-eb43-40e9-8ff1-e0ef5424f6a4": {
       "name": "Subjugate the Hobbits",

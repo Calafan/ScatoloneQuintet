@@ -7542,7 +7542,9 @@
       "name": "Benefactor's Draught",
       "rating": 0,
       "scryfallId": "e40f3dfb-3c5d-468a-9e0e-610ad3e11787",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "ee414d20-b18e-4bed-97fc-3c7535089ec1": {
       "name": "Benevolent Ancestor",
@@ -13992,6 +13994,7 @@
       "rating": 0,
       "scryfallId": "25335fee-d320-4622-bcf4-292400dee52b",
       "effects": [
+        "Wipe",
         "Burn"
       ]
     },
@@ -19274,6 +19277,7 @@
       "rating": 0,
       "scryfallId": "48a7ac34-ec4a-4571-abb1-bff1fb67c78f",
       "effects": [
+        "Wipe",
         "Burn"
       ]
     },
@@ -47993,6 +47997,7 @@
       "rating": 0,
       "scryfallId": "5e4223df-c9fc-410a-913a-17bbfd054b57",
       "effects": [
+        "CardAdvantage",
         "Buff"
       ]
     },
@@ -70425,6 +70430,7 @@
       "scryfallId": "94454128-92f1-475d-abc4-c235f501eeb6",
       "effects": [
         "Removal",
+        "Wipe",
         "Burn"
       ]
     },
