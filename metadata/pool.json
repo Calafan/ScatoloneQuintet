@@ -15657,7 +15657,8 @@
       "scryfallId": "0ebaf0bf-7aa2-469d-bdbb-0fbf6741eede",
       "effects": [
         "CardAdvantage",
-        "Filter"
+        "Filter",
+        "Cheat"
       ],
       "reviewedAt": "2026-09-29T13:47:12.2204635+00:00"
     },

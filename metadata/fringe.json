@@ -3913,8 +3913,8 @@
       "scryfallId": "9dc52b53-3e4f-4d7d-851f-86c6e0ac67b2",
       "effects": [
         "Disenchant",
-        "Burn",
-        "Cheat"
+        "Filter",
+        "Burn"
       ],
       "reviewedAt": "2026-10-27T15:03:20.9628428+00:00"
     },
@@ -5392,8 +5392,7 @@
       "rating": 1,
       "scryfallId": "9b3603aa-58a2-41d4-a58f-2b3306876e35",
       "effects": [
-        "Filter",
-        "Cheat"
+        "Filter"
       ],
       "reviewedAt": "2026-09-25T10:23:52.6470539+00:00"
     },
@@ -6592,6 +6591,7 @@
       "scryfallId": "fe29e909-50e9-4f04-b1a3-2cc5d7e3efe8",
       "effects": [
         "Tokens",
+        "Ramp",
         "Burn"
       ],
       "reviewedAt": "2026-09-11T13:22:44.3385704+00:00"
@@ -15816,7 +15816,8 @@
       "rating": 1,
       "scryfallId": "09abb6df-2aa1-4999-b550-db2892faa8c7",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Cheat"
       ],
       "reviewedAt": "2026-10-23T08:58:17.2518026+00:00"
     },
