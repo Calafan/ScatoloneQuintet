@@ -7929,6 +7929,7 @@
       "rating": 1,
       "scryfallId": "37d6343a-c514-4ca6-a415-62d1a473ae20",
       "effects": [
+        "Ramp",
         "CardAdvantage"
       ]
     },
@@ -100048,9 +100049,7 @@
       "name": "Surprise Deployment",
       "rating": 1,
       "scryfallId": "9a26148b-b981-4af5-995b-52b1426737e3",
-      "effects": [
-        "Cheat"
-      ]
+      "effects": []
     },
     "65c5e120-7a3d-475f-9bb2-8ddb5062e4ba": {
       "name": "Surrounded by Orcs",
@@ -102442,7 +102441,9 @@
       "name": "Temporal Aperture",
       "rating": 1,
       "scryfallId": "5b5c2555-c707-4814-933a-c275b9ebc0a3",
-      "effects": []
+      "effects": [
+        "Cheat"
+      ]
     },
     "c65dc9cb-3aad-4d15-a8c0-c0c142058d45": {
       "name": "Temporal Cascade",

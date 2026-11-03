@@ -14150,7 +14150,7 @@
       "rating": 3,
       "scryfallId": "e21827eb-fa49-4784-a86b-aef164a5018e",
       "effects": [
-        "Filter",
+        "CardAdvantage",
         "Protection"
       ]
     },

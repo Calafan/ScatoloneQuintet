@@ -1124,8 +1124,7 @@
       "rating": 0,
       "scryfallId": "5debdea2-538f-405b-87b0-3789dba95e8e",
       "effects": [
-        "Filter",
-        "Cheat"
+        "Filter"
       ]
     },
     "0cd99210-8d34-4112-8e41-7e8c5d2a95b9": {
@@ -1942,9 +1941,7 @@
       "name": "Akuta, Born of Ash",
       "rating": 0,
       "scryfallId": "08730b49-e51e-4868-9cc8-4ddc4a1dce4c",
-      "effects": [
-        "LandDestruction"
-      ]
+      "effects": []
     },
     "640fa591-ba79-4148-86a6-9de994a9e67c": {
       "name": "Alabaster Kirin",
@@ -23292,7 +23289,8 @@
       "rating": 0,
       "scryfallId": "3e3b0949-17e1-4f12-8999-d4638d32dd3e",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Cheat"
       ]
     },
     "699610c9-c991-4faf-b712-d015ef0799ad": {
@@ -33899,7 +33897,8 @@
       "rating": 0,
       "scryfallId": "fc1a696b-642a-419f-bd43-09af39a9401b",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Cheat"
       ]
     },
     "e326b5a1-f8ce-471b-8663-ec1ba649b24f": {
@@ -44070,9 +44069,7 @@
       "name": "Ilharg, the Raze-Boar",
       "rating": 0,
       "scryfallId": "c0109b60-09aa-4a03-92e7-0c651d976d51",
-      "effects": [
-        "Cheat"
-      ]
+      "effects": []
     },
     "84e8ca5e-730e-468b-943c-7c6358ade95c": {
       "name": "Ill-Gotten Inheritance",
@@ -45637,7 +45634,8 @@
       "rating": 0,
       "scryfallId": "394e4fe9-2bb0-4a5c-bf10-b72b519d5226",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Cheat"
       ]
     },
     "3018c0ef-876a-4254-9513-42f351e1da3e": {
@@ -60382,8 +60380,7 @@
         "Disenchant",
         "Filter",
         "Burn",
-        "Tutor",
-        "Cheat"
+        "Tutor"
       ]
     },
     "a554aa2c-d947-4fc6-929d-d5891f467615": {
@@ -64266,7 +64263,8 @@
       "rating": 0,
       "scryfallId": "43fcc4a5-3ab0-4344-85af-d80aae293b75",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Cheat"
       ]
     },
     "1b065a17-14a4-433f-a6c8-2c8212f505c7": {
@@ -89849,8 +89847,7 @@
       "rating": 0,
       "scryfallId": "f62db9d7-3cc7-49cb-bffc-d2f9c286aa36",
       "effects": [
-        "Reanimate",
-        "Cheat"
+        "Reanimate"
       ]
     },
     "44240b1e-c104-4eb4-8ab9-0d56607ba241": {
@@ -105509,7 +105506,8 @@
       "rating": 0,
       "scryfallId": "fb51b2a8-035c-44e6-92db-2e2385066470",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Cheat"
       ]
     },
     "785e451d-87b6-4772-97e5-d2744818e0fd": {
