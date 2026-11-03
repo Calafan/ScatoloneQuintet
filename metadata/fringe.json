@@ -12267,8 +12267,7 @@
       "effects": [
         "Ramp",
         "Filter"
-      ],
-      "reviewedAt": "2026-10-09T12:52:37.7984212+00:00"
+      ]
     },
     "db4f67a9-6b47-4abe-9367-718da9e0609e": {
       "name": "Bramble Wurm",
@@ -23151,8 +23150,7 @@
       "scryfallId": "f5b7d3df-4e9b-422b-a88c-43650a67a9c6",
       "effects": [
         "Cheat"
-      ],
-      "reviewedAt": "2026-10-29T18:39:39.9422293+00:00"
+      ]
     },
     "63a0f0a2-bafc-4cd0-a4ed-42ce58cd3e9b": {
       "name": "Darksteel Splicer",
@@ -24743,8 +24741,7 @@
       "scryfallId": "265aac73-bcbb-4332-940b-96e1e312bbf8",
       "effects": [
         "Cheat"
-      ],
-      "reviewedAt": "2026-10-29T18:44:22.6388678+00:00"
+      ]
     },
     "2e55fc03-779c-4a71-beb7-aa0ade738c24": {
       "name": "Demon of Loathing",
@@ -29528,8 +29525,7 @@
         "CardAdvantage",
         "Reanimate",
         "Sacrifice"
-      ],
-      "reviewedAt": "2026-10-15T08:06:53.194663+00:00"
+      ]
     },
     "3c345e24-1726-45ac-91ca-e348d1e7acfe": {
       "name": "Eddymurk Crab",
@@ -29795,8 +29791,7 @@
       "scryfallId": "dfdabdda-bd46-4ea2-8b37-5d7f6cec6aff",
       "effects": [
         "CardAdvantage"
-      ],
-      "reviewedAt": "2026-09-23T10:45:23.6106816+00:00"
+      ]
     },
     "dcbb6b0e-2219-4ba4-9720-3e58b59b4328": {
       "name": "Eladamri, Lord of Leaves",
@@ -33342,8 +33337,7 @@
       "scryfallId": "905fa4ed-e496-43d8-9c4a-38e85d9b7651",
       "effects": [
         "Regrowth"
-      ],
-      "reviewedAt": "2026-09-23T21:43:13.3650337+00:00"
+      ]
     },
     "7270b5b6-a571-4e6d-91de-03f7cc035b3c": {
       "name": "Eye of Malcator",
@@ -40856,8 +40850,7 @@
       "scryfallId": "1eb81329-fb7a-4347-b96c-9960a5c48e87",
       "effects": [
         "CardAdvantage"
-      ],
-      "reviewedAt": "2026-10-15T08:06:53.194663+00:00"
+      ]
     },
     "27e83bae-0ffe-4cc7-a6c0-cbca25f2ba4e": {
       "name": "Gilraen, Dúnedain Protector",
@@ -45367,8 +45360,7 @@
       "scryfallId": "24a0babe-8da4-4c95-9cdf-626a5c5e2e5c",
       "effects": [
         "CardAdvantage"
-      ],
-      "reviewedAt": "2026-10-20T18:40:02.5043127+00:00"
+      ]
     },
     "d818f863-17ee-4387-94bf-d7e6e8ab590c": {
       "name": "Hansk, Slayer Zealot",
@@ -49396,8 +49388,7 @@
       "scryfallId": "5a9472e0-1a6d-47f7-91eb-9bdb000e1f1b",
       "effects": [
         "CardAdvantage"
-      ],
-      "reviewedAt": "2026-10-20T19:05:15.4831166+00:00"
+      ]
     },
     "52a61983-53e2-440f-af03-cebe57b102f2": {
       "name": "Ignoble Soldier",
@@ -50234,8 +50225,7 @@
       "effects": [
         "Filter",
         "Sacrifice"
-      ],
-      "reviewedAt": "2026-10-11T19:17:47.181021+00:00"
+      ]
     },
     "864c7575-4589-416c-b143-310d5ef238c5": {
       "name": "Inertia Bubble",
@@ -53186,8 +53176,7 @@
       "name": "Jhoira, Ageless Innovator",
       "rating": 1,
       "scryfallId": "dd911900-1f5f-4420-96b8-1e4fe67e59f6",
-      "effects": [],
-      "reviewedAt": "2026-10-10T19:36:27.6285644+00:00"
+      "effects": []
     },
     "e1a48505-acbe-4eb4-8e83-3c76cf7a8829": {
       "name": "Jhovall Queen",
@@ -56386,8 +56375,7 @@
       "effects": [
         "CardAdvantage",
         "Steal"
-      ],
-      "reviewedAt": "2026-10-15T08:06:53.194663+00:00"
+      ]
     },
     "0659a5b0-9807-4e4c-8af3-b6e233051ad6": {
       "name": "Kotori, Pilot Prodigy",
@@ -56848,8 +56836,7 @@
       "effects": [
         "CardAdvantage",
         "Sacrifice"
-      ],
-      "reviewedAt": "2026-09-23T12:55:09.8671672+00:00"
+      ]
     },
     "849e54f9-7662-4186-859c-e4f52afbccac": {
       "name": "Kyoshi Battle Fan",
@@ -72781,8 +72768,7 @@
       "scryfallId": "a24fd14b-cfd1-43db-b155-3187a1063d92",
       "effects": [
         "CardAdvantage"
-      ],
-      "reviewedAt": "2026-09-23T12:29:19.0453426+00:00"
+      ]
     },
     "fd8722e1-9c41-4037-ab7e-47e2aa9858a0": {
       "name": "Paladin en-Vec",
@@ -77692,8 +77678,7 @@
       "name": "Push the Limit",
       "rating": 1,
       "scryfallId": "21de84a2-2654-4e1a-a569-bf385bb43685",
-      "effects": [],
-      "reviewedAt": "2026-09-10T13:15:41.064937+00:00"
+      "effects": []
     },
     "8c4545f8-10b6-4a62-9bce-8c9ffa8b8471": {
       "name": "Putrefaction",
@@ -103574,8 +103559,7 @@
       "scryfallId": "27d701aa-df93-4f0e-b1e3-d081487eb456",
       "effects": [
         "Tutor"
-      ],
-      "reviewedAt": "2026-09-23T10:43:04.3690485+00:00"
+      ]
     },
     "df4ef2f8-2591-4be3-b905-4f9ff9c538ea": {
       "name": "The Crystal's Chosen",
@@ -103688,8 +103672,7 @@
       "scryfallId": "2534caaa-a793-415f-977f-1d0fac3642ab",
       "effects": [
         "Filter"
-      ],
-      "reviewedAt": "2026-10-10T19:51:23.527778+00:00"
+      ]
     },
     "8110fe69-c66c-4e2c-86ee-dcc8dc9a13d1": {
       "name": "The Dross Pits",
@@ -104778,8 +104761,7 @@
       "scryfallId": "f1499f49-793b-4265-9ad0-883a431941ab",
       "effects": [
         "CardAdvantage"
-      ],
-      "reviewedAt": "2026-10-15T08:06:53.194663+00:00"
+      ]
     },
     "771bf51d-cb32-4240-936c-f9d1e0c90cf0": {
       "name": "The Terror of Serpent's Pass",
@@ -106150,8 +106132,7 @@
       "scryfallId": "d98f51ec-8eae-434a-ab62-85bdb6586fa2",
       "effects": [
         "Filter"
-      ],
-      "reviewedAt": "2026-10-06T14:40:47.5673661+00:00"
+      ]
     },
     "7716ad72-9e96-4915-bc1e-e12b4d0f6f9c": {
       "name": "Thunderous Orator",
@@ -110962,8 +110943,7 @@
       "scryfallId": "f54ecbf1-83df-4486-bd6a-7d1f173b6863",
       "effects": [
         "CardAdvantage"
-      ],
-      "reviewedAt": "2026-10-26T20:47:06.040031+00:00"
+      ]
     },
     "c0b7e989-8194-484c-93aa-a44df0764a77": {
       "name": "Ureni's Rebuff",
@@ -118498,8 +118478,7 @@
       "effects": [
         "CardAdvantage",
         "Steal"
-      ],
-      "reviewedAt": "2026-10-16T14:24:41.549526+00:00"
+      ]
     },
     "a8de92c4-84cb-40e7-8e34-428380726ed4": {
       "name": "Xanthic Statue",

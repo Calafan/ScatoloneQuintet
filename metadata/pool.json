@@ -1864,8 +1864,7 @@
       "effects": [
         "CardAdvantage",
         "Steal"
-      ],
-      "reviewedAt": "2026-10-26T21:59:40.1335224+00:00"
+      ]
     },
     "623903de-3c04-4745-9af3-d7ec9fb2574d": {
       "name": "Bite Down",
@@ -5762,8 +5761,7 @@
       "scryfallId": "8ebd8813-4aaf-48bf-9243-3ec4099b8372",
       "effects": [
         "CardAdvantage"
-      ],
-      "reviewedAt": "2026-10-09T09:40:02.8012787+00:00"
+      ]
     },
     "d04c6375-25dd-4882-b8b3-a3b0d3081f32": {
       "name": "Doppelgang",
@@ -9561,8 +9559,7 @@
       "scryfallId": "46b6cc5d-7a37-4e8b-a1a5-9a573056610c",
       "effects": [
         "CardAdvantage"
-      ],
-      "reviewedAt": "2026-09-11T21:21:20.7639532+00:00"
+      ]
     },
     "e7dfe47f-41fc-4071-9ad3-96cd8d9be52e": {
       "name": "Gylwain, Casting Director",
@@ -11474,8 +11471,7 @@
         "CardAdvantage",
         "Burn",
         "Steal"
-      ],
-      "reviewedAt": "2026-10-15T08:06:53.194663+00:00"
+      ]
     },
     "7af69a44-e958-42e5-9d65-75e53a601e96": {
       "name": "Kellan, Daring Traveler // Journey On",
@@ -13959,8 +13955,7 @@
       "effects": [
         "CardAdvantage",
         "Steal"
-      ],
-      "reviewedAt": "2026-11-03T10:55:33.6227233+00:00"
+      ]
     },
     "09a1ab1b-d9f0-4a2a-a448-3190f85006e4": {
       "name": "Natural Affinity",
@@ -15656,8 +15651,7 @@
       "effects": [
         "CardAdvantage",
         "Filter"
-      ],
-      "reviewedAt": "2026-11-03T10:15:24.4644735+00:00"
+      ]
     },
     "9e769a65-7aa5-484d-9493-badb485b5964": {
       "name": "Plargg and Nassari",
@@ -16533,8 +16527,7 @@
         "Removal",
         "Ramp",
         "CardAdvantage"
-      ],
-      "reviewedAt": "2026-09-23T12:36:22.3664741+00:00"
+      ]
     },
     "7d3f542a-de64-4de8-9de0-0e25004467f1": {
       "name": "Rally at the Hornburg",
@@ -22020,8 +22013,7 @@
       "scryfallId": "dc6c9196-6d28-4cc2-9748-60e9632a502b",
       "effects": [
         "CardAdvantage"
-      ],
-      "reviewedAt": "2026-09-12T16:32:29.8278806+00:00"
+      ]
     },
     "8c89ba89-9bb3-4609-873c-6f5a961733ce": {
       "name": "The Irencrag",
@@ -23811,8 +23803,7 @@
       "effects": [
         "CardAdvantage",
         "Steal"
-      ],
-      "reviewedAt": "2026-10-26T21:59:34.9421939+00:00"
+      ]
     },
     "4ba1f2c5-6456-4809-a563-fd5bd311869a": {
       "name": "Valiant Endeavor",
