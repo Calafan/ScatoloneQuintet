@@ -14256,7 +14256,8 @@
       "scryfallId": "62ff0730-6dd9-42d2-be0d-655d04adf229",
       "effects": [
         "CardAdvantage",
-        "Steal"
+        "Steal",
+        "Cheat"
       ]
     },
     "07a0cba9-8768-4fd9-a3d5-b0f83b4bf8e8": {
@@ -57519,7 +57520,8 @@
       "scryfallId": "b3d6522a-b9a0-4185-b5ba-c20fa1b772eb",
       "effects": [
         "CardAdvantage",
-        "Steal"
+        "Steal",
+        "Cheat"
       ]
     },
     "028dcef2-3de9-4dde-ba17-f9e077b3190d": {
@@ -61565,7 +61567,8 @@
         "Wipe",
         "Discard",
         "Burn",
-        "Steal"
+        "Steal",
+        "Cheat"
       ]
     },
     "05e9b55e-6329-48ec-b7d7-24c6b9692244": {
