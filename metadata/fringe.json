@@ -2679,9 +2679,7 @@
       "name": "Aluren",
       "rating": 1,
       "scryfallId": "268403bc-733d-446e-a7c1-abc957c42bc2",
-      "effects": [
-        "Cheat"
-      ],
+      "effects": [],
       "reviewedAt": "2026-09-08T09:59:09.4590628+00:00"
     },
     "85eefda9-4aab-467d-a08c-be026cb8ff42": {
@@ -5233,8 +5231,7 @@
       "rating": 1,
       "scryfallId": "2bf63241-9091-42f5-b997-9ce5aa3484f1",
       "effects": [
-        "Filter",
-        "Cheat"
+        "CardAdvantage"
       ],
       "reviewedAt": "2026-10-20T18:28:33.9393582+00:00"
     },
@@ -5816,8 +5813,7 @@
       "rating": 1,
       "scryfallId": "77a2d9f6-0750-403d-879f-e3a98c36c3bb",
       "effects": [
-        "Burn",
-        "Cheat"
+        "Burn"
       ],
       "reviewedAt": "2026-10-23T06:19:46.0475361+00:00"
     },
@@ -6069,7 +6065,7 @@
       "scryfallId": "f6aa473b-85cd-431d-844b-218368fe955e",
       "effects": [
         "Tokens",
-        "Cheat"
+        "CardAdvantage"
       ],
       "reviewedAt": "2026-10-20T19:00:55.8824143+00:00"
     },
@@ -12271,8 +12267,7 @@
       "scryfallId": "475d7e9a-759d-4523-a5cd-2a6e0d1b14ea",
       "effects": [
         "Ramp",
-        "Filter",
-        "Cheat"
+        "Filter"
       ],
       "reviewedAt": "2026-10-09T12:52:37.7984212+00:00"
     },
@@ -13152,9 +13147,7 @@
       "name": "Broodcaller Scourge",
       "rating": 1,
       "scryfallId": "6fc0a74b-0b8a-4c70-87f2-f9f2625d5ff2",
-      "effects": [
-        "Cheat"
-      ],
+      "effects": [],
       "reviewedAt": "2026-10-15T08:06:53.194663+00:00"
     },
     "c90da077-de8c-4402-abfc-b63dd15853da": {
@@ -14417,7 +14410,7 @@
       "rating": 1,
       "scryfallId": "a742bc7c-7f0d-4dff-b229-f16d54fe1347",
       "effects": [
-        "Cheat"
+        "CardAdvantage"
       ],
       "reviewedAt": "2026-10-15T08:06:53.194663+00:00"
     },
@@ -15824,8 +15817,7 @@
       "rating": 1,
       "scryfallId": "09abb6df-2aa1-4999-b550-db2892faa8c7",
       "effects": [
-        "CardAdvantage",
-        "Cheat"
+        "CardAdvantage"
       ],
       "reviewedAt": "2026-10-23T08:58:17.2518026+00:00"
     },
@@ -17004,8 +16996,7 @@
       "rating": 2,
       "scryfallId": "a128e6d1-b90f-45a1-b587-f8c29bd0ec8c",
       "effects": [
-        "CardAdvantage",
-        "Cheat"
+        "CardAdvantage"
       ],
       "reviewedAt": "2026-10-15T08:06:53.194663+00:00"
     },
@@ -19864,7 +19855,9 @@
       "name": "Conspiracy Unraveler",
       "rating": 1,
       "scryfallId": "88e791fc-bf9f-49b6-b5f2-a24d4b3e360e",
-      "effects": [],
+      "effects": [
+        "Cheat"
+      ],
       "reviewedAt": "2026-09-23T21:48:23.7306175+00:00"
     },
     "2a263e61-303f-449d-a431-c26cabdc68e0": {
@@ -20730,9 +20723,7 @@
       "name": "Covert Technician",
       "rating": 1,
       "scryfallId": "dbae9991-43a2-4afb-a882-fff6b0d89d12",
-      "effects": [
-        "Cheat"
-      ],
+      "effects": [],
       "reviewedAt": "2026-10-16T14:31:39.1550037+00:00"
     },
     "4c495e94-3194-47c7-8129-dd0a0f915daa": {
@@ -22818,7 +22809,7 @@
       "rating": 1,
       "scryfallId": "9638d43d-6864-49ac-af99-6de02bc64259",
       "effects": [
-        "Cheat"
+        "CardAdvantage"
       ],
       "reviewedAt": "2026-10-06T18:23:02.9842688+00:00"
     },
@@ -23159,7 +23150,9 @@
       "name": "Darksteel Monolith",
       "rating": 1,
       "scryfallId": "f5b7d3df-4e9b-422b-a88c-43650a67a9c6",
-      "effects": [],
+      "effects": [
+        "Cheat"
+      ],
       "reviewedAt": "2026-10-29T18:39:39.9422293+00:00"
     },
     "63a0f0a2-bafc-4cd0-a4ed-42ce58cd3e9b": {
@@ -24749,7 +24742,9 @@
       "name": "Demon of Fate's Design",
       "rating": 1,
       "scryfallId": "265aac73-bcbb-4332-940b-96e1e312bbf8",
-      "effects": [],
+      "effects": [
+        "Cheat"
+      ],
       "reviewedAt": "2026-10-29T18:44:22.6388678+00:00"
     },
     "2e55fc03-779c-4a71-beb7-aa0ade738c24": {
@@ -28458,8 +28453,7 @@
       "scryfallId": "230e997e-3736-4afd-8571-1cc1b1d6ed96",
       "effects": [
         "CardAdvantage",
-        "Buff",
-        "Cheat"
+        "Buff"
       ],
       "reviewedAt": "2026-10-26T21:01:08.4318219+00:00"
     },
@@ -29535,8 +29529,7 @@
       "effects": [
         "CardAdvantage",
         "Reanimate",
-        "Sacrifice",
-        "Cheat"
+        "Sacrifice"
       ],
       "reviewedAt": "2026-10-15T08:06:53.194663+00:00"
     },
@@ -29803,8 +29796,7 @@
       "rating": 1,
       "scryfallId": "dfdabdda-bd46-4ea2-8b37-5d7f6cec6aff",
       "effects": [
-        "CardAdvantage",
-        "Cheat"
+        "CardAdvantage"
       ],
       "reviewedAt": "2026-09-23T10:45:23.6106816+00:00"
     },
@@ -33351,8 +33343,7 @@
       "rating": 1,
       "scryfallId": "905fa4ed-e496-43d8-9c4a-38e85d9b7651",
       "effects": [
-        "Regrowth",
-        "Cheat"
+        "Regrowth"
       ],
       "reviewedAt": "2026-09-23T21:43:13.3650337+00:00"
     },
@@ -40871,8 +40862,7 @@
       "rating": 1,
       "scryfallId": "1eb81329-fb7a-4347-b96c-9960a5c48e87",
       "effects": [
-        "Filter",
-        "Cheat"
+        "CardAdvantage"
       ],
       "reviewedAt": "2026-10-15T08:06:53.194663+00:00"
     },
@@ -45383,8 +45373,7 @@
       "rating": 1,
       "scryfallId": "24a0babe-8da4-4c95-9cdf-626a5c5e2e5c",
       "effects": [
-        "CardAdvantage",
-        "Cheat"
+        "CardAdvantage"
       ],
       "reviewedAt": "2026-10-20T18:40:02.5043127+00:00"
     },
@@ -47034,7 +47023,7 @@
       "rating": 1,
       "scryfallId": "81940498-a5bf-4bcd-b06d-8816887b2a2b",
       "effects": [
-        "Cheat"
+        "CardAdvantage"
       ],
       "reviewedAt": "2026-10-06T14:40:12.9348024+00:00"
     },
@@ -49413,8 +49402,7 @@
       "rating": 2,
       "scryfallId": "5a9472e0-1a6d-47f7-91eb-9bdb000e1f1b",
       "effects": [
-        "CardAdvantage",
-        "Cheat"
+        "CardAdvantage"
       ],
       "reviewedAt": "2026-10-20T19:05:15.4831166+00:00"
     },
@@ -50252,8 +50240,7 @@
       "scryfallId": "81f1416c-48bd-4168-aacd-a9b0a3afb8bc",
       "effects": [
         "Filter",
-        "Sacrifice",
-        "Cheat"
+        "Sacrifice"
       ],
       "reviewedAt": "2026-10-11T19:17:47.181021+00:00"
     },
@@ -53207,9 +53194,7 @@
       "name": "Jhoira, Ageless Innovator",
       "rating": 1,
       "scryfallId": "dd911900-1f5f-4420-96b8-1e4fe67e59f6",
-      "effects": [
-        "Cheat"
-      ],
+      "effects": [],
       "reviewedAt": "2026-10-10T19:36:27.6285644+00:00"
     },
     "e1a48505-acbe-4eb4-8e83-3c76cf7a8829": {
@@ -56409,8 +56394,7 @@
       "scryfallId": "d3736f17-f80b-4b2c-b919-2c963bc14682",
       "effects": [
         "CardAdvantage",
-        "Steal",
-        "Cheat"
+        "Steal"
       ],
       "reviewedAt": "2026-10-15T08:06:53.194663+00:00"
     },
@@ -56872,8 +56856,7 @@
       "scryfallId": "00faa272-91ad-407b-9175-8fa1d02585b8",
       "effects": [
         "CardAdvantage",
-        "Sacrifice",
-        "Cheat"
+        "Sacrifice"
       ],
       "reviewedAt": "2026-09-23T12:55:09.8671672+00:00"
     },
@@ -58399,7 +58382,9 @@
       "name": "Leyline of Mutation",
       "rating": 1,
       "scryfallId": "2359b670-41f0-4ec7-8db9-3f87f7577bc3",
-      "effects": [],
+      "effects": [
+        "Cheat"
+      ],
       "reviewedAt": "2026-09-25T08:32:31.635137+00:00"
     },
     "f69574dd-097f-4908-9cab-344b0eb39c62": {
@@ -61461,7 +61446,7 @@
       "rating": 1,
       "scryfallId": "eaadb067-4a77-4d6e-931d-447bd0c06594",
       "effects": [
-        "Cheat"
+        "CardAdvantage"
       ],
       "reviewedAt": "2026-10-10T18:56:24.2345905+00:00"
     },
@@ -62630,8 +62615,7 @@
       "rating": 1,
       "scryfallId": "8fdb30c1-0551-48b7-8bcb-d7e0dbb6690a",
       "effects": [
-        "CardAdvantage",
-        "Cheat"
+        "CardAdvantage"
       ],
       "reviewedAt": "2026-09-23T13:04:18.2804818+00:00"
     },
@@ -68455,8 +68439,7 @@
       "rating": 1,
       "scryfallId": "1397d904-c51d-451e-8505-7f3118acc1f6",
       "effects": [
-        "Tutor",
-        "Cheat"
+        "Tutor"
       ],
       "reviewedAt": "2026-09-10T13:40:12.5045713+00:00"
     },
@@ -68782,7 +68765,7 @@
       "rating": 1,
       "scryfallId": "e5431f73-9a70-47dc-b5d4-7f43e41b878e",
       "effects": [
-        "Cheat"
+        "CardAdvantage"
       ],
       "reviewedAt": "2026-10-29T19:28:29.7808927+00:00"
     },
@@ -69658,7 +69641,9 @@
       "name": "Nissa, Worldsoul Speaker",
       "rating": 1,
       "scryfallId": "a471b306-4941-4e46-a0cb-d92895c16f8a",
-      "effects": [],
+      "effects": [
+        "Cheat"
+      ],
       "reviewedAt": "2026-09-11T13:21:07.3148959+00:00"
     },
     "46570366-5e58-40b7-b725-833321a3b7b1": {
@@ -72318,7 +72303,7 @@
       "rating": 1,
       "scryfallId": "01eb9702-55c5-41b2-8bef-63d33dafa599",
       "effects": [
-        "Cheat"
+        "CardAdvantage"
       ],
       "reviewedAt": "2026-10-23T09:48:19.5352636+00:00"
     },
@@ -72608,8 +72593,7 @@
       "rating": 2,
       "scryfallId": "be177b66-dab3-47ef-bcdf-8d99eb57e19f",
       "effects": [
-        "Filter",
-        "Cheat"
+        "CardAdvantage"
       ],
       "reviewedAt": "2026-10-23T11:56:45.2943101+00:00"
     },
@@ -72804,8 +72788,7 @@
       "rating": 1,
       "scryfallId": "a24fd14b-cfd1-43db-b155-3187a1063d92",
       "effects": [
-        "CardAdvantage",
-        "Cheat"
+        "CardAdvantage"
       ],
       "reviewedAt": "2026-09-23T12:29:19.0453426+00:00"
     },
@@ -77717,9 +77700,7 @@
       "name": "Push the Limit",
       "rating": 1,
       "scryfallId": "21de84a2-2654-4e1a-a569-bf385bb43685",
-      "effects": [
-        "Reanimate"
-      ],
+      "effects": [],
       "reviewedAt": "2026-09-10T13:15:41.064937+00:00"
     },
     "8c4545f8-10b6-4a62-9bce-8c9ffa8b8471": {
@@ -83619,8 +83600,7 @@
       "rating": 1,
       "scryfallId": "b6cf8b35-2a81-40fd-b383-becb81bef806",
       "effects": [
-        "Tutor",
-        "Cheat"
+        "Tutor"
       ],
       "reviewedAt": "2026-10-23T09:30:21.3399302+00:00"
     },
@@ -86511,8 +86491,7 @@
       "scryfallId": "5a470690-a05d-4311-963c-50cbf779846d",
       "effects": [
         "Ramp",
-        "CardAdvantage",
-        "Cheat"
+        "CardAdvantage"
       ],
       "reviewedAt": "2026-10-11T19:46:14.2620187+00:00"
     },
@@ -91211,7 +91190,7 @@
       "rating": 1,
       "scryfallId": "145daf0b-55a3-45a9-b653-e6e4a461d629",
       "effects": [
-        "Cheat"
+        "CardAdvantage"
       ],
       "reviewedAt": "2026-10-09T12:41:43.0390568+00:00"
     },
@@ -103604,8 +103583,7 @@
       "rating": 1,
       "scryfallId": "27d701aa-df93-4f0e-b1e3-d081487eb456",
       "effects": [
-        "Tutor",
-        "Cheat"
+        "Tutor"
       ],
       "reviewedAt": "2026-09-23T10:43:04.3690485+00:00"
     },
@@ -103719,8 +103697,7 @@
       "rating": 1,
       "scryfallId": "2534caaa-a793-415f-977f-1d0fac3642ab",
       "effects": [
-        "Filter",
-        "Cheat"
+        "Filter"
       ],
       "reviewedAt": "2026-10-10T19:51:23.527778+00:00"
     },
@@ -104465,7 +104442,7 @@
       "scryfallId": "65015afb-cfdb-4373-a0db-0ca5e95c49a1",
       "effects": [
         "Disenchant",
-        "Cheat"
+        "CardAdvantage"
       ],
       "reviewedAt": "2026-09-29T14:55:59.3541998+00:00"
     },
@@ -104810,8 +104787,7 @@
       "rating": 1,
       "scryfallId": "f1499f49-793b-4265-9ad0-883a431941ab",
       "effects": [
-        "CardAdvantage",
-        "Cheat"
+        "CardAdvantage"
       ],
       "reviewedAt": "2026-10-15T08:06:53.194663+00:00"
     },
@@ -106183,8 +106159,7 @@
       "rating": 1,
       "scryfallId": "d98f51ec-8eae-434a-ab62-85bdb6586fa2",
       "effects": [
-        "Filter",
-        "Cheat"
+        "Filter"
       ],
       "reviewedAt": "2026-10-06T14:40:47.5673661+00:00"
     },
@@ -110997,7 +110972,7 @@
       "rating": 1,
       "scryfallId": "f54ecbf1-83df-4486-bd6a-7d1f173b6863",
       "effects": [
-        "Filter"
+        "CardAdvantage"
       ],
       "reviewedAt": "2026-10-26T20:47:06.040031+00:00"
     },
@@ -115824,8 +115799,7 @@
       "rating": 1,
       "scryfallId": "3b3c609e-f7c9-4fe5-84d9-4f4c76020a4b",
       "effects": [
-        "Filter",
-        "Cheat"
+        "CardAdvantage"
       ],
       "reviewedAt": "2026-10-15T08:06:53.194663+00:00"
     },
@@ -117341,7 +117315,7 @@
       "rating": 1,
       "scryfallId": "94dc35e4-a492-4019-afcd-cbef6f59a512",
       "effects": [
-        "Cheat"
+        "Reanimate"
       ],
       "reviewedAt": "2026-10-26T21:11:37.9283189+00:00"
     },
@@ -118536,8 +118510,7 @@
       "scryfallId": "2154df0d-9d35-4a67-aeff-c9f224b969a2",
       "effects": [
         "CardAdvantage",
-        "Steal",
-        "Cheat"
+        "Steal"
       ],
       "reviewedAt": "2026-10-16T14:24:41.549526+00:00"
     },

@@ -1863,8 +1863,7 @@
       "scryfallId": "d1ee8ead-df6a-4c02-83f7-2902d97132b8",
       "effects": [
         "CardAdvantage",
-        "Steal",
-        "Cheat"
+        "Steal"
       ],
       "reviewedAt": "2026-10-26T21:59:40.1335224+00:00"
     },
@@ -5693,8 +5692,7 @@
       "rating": 3,
       "scryfallId": "1db1ae7b-ed48-409f-8d50-07c7e8c6c128",
       "effects": [
-        "CardAdvantage",
-        "Cheat"
+        "CardAdvantage"
       ],
       "reviewedAt": "2026-10-06T18:38:29.2819066+00:00"
     },
@@ -5764,8 +5762,7 @@
       "rating": 4,
       "scryfallId": "8ebd8813-4aaf-48bf-9243-3ec4099b8372",
       "effects": [
-        "Filter",
-        "Cheat"
+        "CardAdvantage"
       ],
       "reviewedAt": "2026-10-09T09:40:02.8012787+00:00"
     },
@@ -6743,8 +6740,7 @@
       "scryfallId": "95c14c4d-6c16-4826-8d93-d89ad04aee09",
       "effects": [
         "CardAdvantage",
-        "Steal",
-        "Cheat"
+        "Steal"
       ],
       "reviewedAt": "2026-10-09T08:44:16.7276477+00:00"
     },
@@ -9483,8 +9479,7 @@
       "scryfallId": "00f40514-d37d-423f-aa0c-1875300f43a8",
       "effects": [
         "CardAdvantage",
-        "Steal",
-        "Cheat"
+        "Steal"
       ],
       "reviewedAt": "2026-10-16T09:56:53.0804691+00:00"
     },
@@ -9567,8 +9562,7 @@
       "rating": 3,
       "scryfallId": "46b6cc5d-7a37-4e8b-a1a5-9a573056610c",
       "effects": [
-        "CardAdvantage",
-        "Cheat"
+        "CardAdvantage"
       ],
       "reviewedAt": "2026-09-11T21:21:20.7639532+00:00"
     },
@@ -11481,8 +11475,7 @@
       "effects": [
         "CardAdvantage",
         "Burn",
-        "Steal",
-        "Cheat"
+        "Steal"
       ],
       "reviewedAt": "2026-10-15T08:06:53.194663+00:00"
     },
@@ -13967,8 +13960,7 @@
       "scryfallId": "2893b070-a610-4273-beb2-7609a2da0499",
       "effects": [
         "CardAdvantage",
-        "Steal",
-        "Cheat"
+        "Steal"
       ],
       "reviewedAt": "2026-11-03T10:55:33.6227233+00:00"
     },
@@ -14559,8 +14551,7 @@
       "scryfallId": "0cbc43a3-8cba-4988-9de1-c89aedd79ada",
       "effects": [
         "Ramp",
-        "CardAdvantage",
-        "Cheat"
+        "CardAdvantage"
       ],
       "reviewedAt": "2026-10-06T18:37:05.3038416+00:00"
     },
@@ -15666,8 +15657,7 @@
       "scryfallId": "0ebaf0bf-7aa2-469d-bdbb-0fbf6741eede",
       "effects": [
         "CardAdvantage",
-        "Filter",
-        "Cheat"
+        "Filter"
       ],
       "reviewedAt": "2026-11-03T10:15:24.4644735+00:00"
     },
@@ -15676,8 +15666,8 @@
       "rating": 5,
       "scryfallId": "179a0525-a142-46f6-9b5b-06a2fbb25556",
       "effects": [
-        "Steal",
-        "Cheat"
+        "CardAdvantage",
+        "Steal"
       ],
       "reviewedAt": "2026-10-06T13:55:35.8522986+00:00"
     },
@@ -16544,8 +16534,7 @@
       "effects": [
         "Removal",
         "Ramp",
-        "CardAdvantage",
-        "Cheat"
+        "CardAdvantage"
       ],
       "reviewedAt": "2026-09-23T12:36:22.3664741+00:00"
     },
@@ -22032,8 +22021,7 @@
       "rating": 3,
       "scryfallId": "dc6c9196-6d28-4cc2-9748-60e9632a502b",
       "effects": [
-        "CardAdvantage",
-        "Cheat"
+        "CardAdvantage"
       ],
       "reviewedAt": "2026-09-12T16:32:29.8278806+00:00"
     },
@@ -23824,8 +23812,7 @@
       "scryfallId": "7740ff55-67bb-409e-90f7-2c2c8b8c770a",
       "effects": [
         "CardAdvantage",
-        "Steal",
-        "Cheat"
+        "Steal"
       ],
       "reviewedAt": "2026-10-26T21:59:34.9421939+00:00"
     },
@@ -24378,9 +24365,9 @@
       "scryfallId": "e24b5289-d3b5-4b4d-bb37-69bf2c3b48bc",
       "effects": [
         "Removal",
+        "CardAdvantage",
         "Buff",
-        "ManaFixing",
-        "Cheat"
+        "ManaFixing"
       ],
       "reviewedAt": "2026-10-09T13:20:54.7841194+00:00"
     },
@@ -24483,8 +24470,8 @@
       "rating": 5,
       "scryfallId": "df67ec01-9d4c-4ae1-9c8a-f94d649c81bc",
       "effects": [
-        "Steal",
-        "Cheat"
+        "CardAdvantage",
+        "Steal"
       ],
       "reviewedAt": "2026-10-11T19:42:07.110792+00:00"
     },
