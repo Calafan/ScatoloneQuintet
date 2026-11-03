@@ -5393,8 +5393,7 @@
       "scryfallId": "9b3603aa-58a2-41d4-a58f-2b3306876e35",
       "effects": [
         "Filter"
-      ],
-      "reviewedAt": "2026-09-25T10:23:52.6470539+00:00"
+      ]
     },
     "2d4aedc5-31c5-4281-98e1-b0c2233c3c8a": {
       "name": "Artifact Blast",
@@ -6593,8 +6592,7 @@
         "Tokens",
         "Ramp",
         "Burn"
-      ],
-      "reviewedAt": "2026-09-11T13:22:44.3385704+00:00"
+      ]
     },
     "ecb81888-589b-4486-a444-e0c26384854e": {
       "name": "Avatar Destiny",
