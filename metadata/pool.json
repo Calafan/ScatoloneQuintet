@@ -3798,7 +3798,8 @@
       "scryfallId": "557470dc-c594-4b26-81b9-356bedb0c215",
       "effects": [
         "ManaFixing"
-      ]
+      ],
+      "reviewedAt": "2026-11-03T10:58:12.2025994+00:00"
     },
     "446db5a4-21b0-44c1-b12b-d365313dd67a": {
       "name": "Clifftop Lookout",
@@ -6173,7 +6174,8 @@
       "scryfallId": "34d92077-d7b2-4996-848f-fd4917e2fb42",
       "effects": [
         "Buff"
-      ]
+      ],
+      "reviewedAt": "2026-11-03T11:10:03.8002915+00:00"
     },
     "1a6fce11-e77c-41f1-9ff7-9a93b18071db": {
       "name": "Ebondeath, Dracolich",
@@ -8840,7 +8842,8 @@
       "name": "Giant Cindermaw",
       "rating": 4,
       "scryfallId": "1349465f-d29f-4d4b-a653-f4388574c336",
-      "effects": []
+      "effects": [],
+      "reviewedAt": "2026-11-03T11:01:13.7113012+00:00"
     },
     "1bd70be6-752c-4ecb-a3e8-2bacec4b94fc": {
       "name": "Gift of Estates",
@@ -10711,7 +10714,8 @@
       "effects": [
         "Tokens",
         "CardAdvantage"
-      ]
+      ],
+      "reviewedAt": "2026-11-03T10:56:45.7293886+00:00"
     },
     "a5e28749-18ea-4a2b-b7d9-905cf2913d4e": {
       "name": "Inscription of Abundance",
@@ -12671,7 +12675,8 @@
       "scryfallId": "51eb4a44-a5c8-49ed-b440-2462626bb638",
       "effects": [
         "ManaFixing"
-      ]
+      ],
+      "reviewedAt": "2026-11-03T11:00:11.1445431+00:00"
     },
     "3d268e48-3004-4384-bf52-e63243fb5e02": {
       "name": "Magda, Brazen Outlaw",
@@ -13962,7 +13967,8 @@
         "CardAdvantage",
         "Steal",
         "Cheat"
-      ]
+      ],
+      "reviewedAt": "2026-11-03T10:55:33.6227233+00:00"
     },
     "09a1ab1b-d9f0-4a2a-a448-3190f85006e4": {
       "name": "Natural Affinity",
@@ -15624,7 +15630,8 @@
       "effects": [
         "Ramp",
         "Filter"
-      ]
+      ],
+      "reviewedAt": "2026-11-03T11:10:10.155695+00:00"
     },
     "6128679e-7e54-41e4-ab6e-25aeeffed49f": {
       "name": "Planar Disruption",
@@ -15659,7 +15666,8 @@
         "CardAdvantage",
         "Filter",
         "Cheat"
-      ]
+      ],
+      "reviewedAt": "2026-11-03T10:15:24.4644735+00:00"
     },
     "9e769a65-7aa5-484d-9493-badb485b5964": {
       "name": "Plargg and Nassari",
@@ -18418,7 +18426,8 @@
       "scryfallId": "d97f31e1-bcaf-4316-a2de-49e2cf7566ec",
       "effects": [
         "ManaFixing"
-      ]
+      ],
+      "reviewedAt": "2026-11-03T10:56:47.8426994+00:00"
     },
     "72c4c682-df97-4408-997b-e849f54aba39": {
       "name": "Seal from Existence",
@@ -19339,7 +19348,8 @@
       "scryfallId": "743c5111-9e94-4f08-9c01-92411e8a2317",
       "effects": [
         "CardAdvantage"
-      ]
+      ],
+      "reviewedAt": "2026-11-03T10:56:29.4083456+00:00"
     },
     "fcc38b0b-d54a-4ecf-96f7-e09709227735": {
       "name": "Sister of Silence",
@@ -21680,7 +21690,8 @@
       "scryfallId": "31079fcb-49bf-41a2-a9b4-07c96f93399d",
       "effects": [
         "Tokens"
-      ]
+      ],
+      "reviewedAt": "2026-11-03T10:57:27.5670333+00:00"
     },
     "6257c2fd-005f-41e3-8a72-af76df1eb134": {
       "name": "Terminate",
@@ -23743,7 +23754,8 @@
         "Wipe",
         "Tutor",
         "LandDestruction"
-      ]
+      ],
+      "reviewedAt": "2026-11-03T10:54:41.7273814+00:00"
     },
     "a6eb06dc-a62d-4fdb-b336-e304d8d68c92": {
       "name": "Usher of the Fallen",
@@ -25091,7 +25103,8 @@
       "scryfallId": "27851834-688f-4929-967d-dfa015194f7f",
       "effects": [
         "Burn"
-      ]
+      ],
+      "reviewedAt": "2026-11-03T11:00:18.1106826+00:00"
     },
     "b166b670-febc-4821-855e-f8d465644c03": {
       "name": "Worn Powerstone",
