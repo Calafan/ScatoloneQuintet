@@ -35676,7 +35676,8 @@
       "effects": [
         "CardAdvantage",
         "Sacrifice",
-        "Steal"
+        "Steal",
+        "Cheat"
       ],
       "reviewedAt": "2026-10-16T09:51:39.5403145+00:00"
     },
@@ -98652,7 +98653,8 @@
       "scryfallId": "a8c971d0-9ac4-4b34-ae19-1152c1c9dac1",
       "effects": [
         "CardAdvantage",
-        "Steal"
+        "Steal",
+        "Cheat"
       ],
       "reviewedAt": "2026-10-16T09:50:26.5666342+00:00"
     },

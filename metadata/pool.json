@@ -4424,7 +4424,8 @@
       "scryfallId": "a8e1f698-1c04-4f31-aeaa-b796c5eb5070",
       "effects": [
         "CardAdvantage",
-        "Steal"
+        "Steal",
+        "Cheat"
       ],
       "reviewedAt": "2026-10-06T14:53:55.9453606+00:00"
     },
@@ -7254,7 +7255,8 @@
       "scryfallId": "900c9dfd-ece1-4b09-a801-0fa05e1994b9",
       "effects": [
         "CardAdvantage",
-        "Steal"
+        "Steal",
+        "Cheat"
       ],
       "reviewedAt": "2026-10-20T19:47:52.9926479+00:00"
     },
@@ -9482,7 +9484,8 @@
       "scryfallId": "00f40514-d37d-423f-aa0c-1875300f43a8",
       "effects": [
         "CardAdvantage",
-        "Steal"
+        "Steal",
+        "Cheat"
       ],
       "reviewedAt": "2026-10-16T09:56:53.0804691+00:00"
     },
