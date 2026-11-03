@@ -2890,8 +2890,7 @@
       "rating": 1,
       "scryfallId": "1ac0e78b-0fdd-44f9-8b7b-c4f28a32782e",
       "effects": [
-        "CardAdvantage",
-        "Cheat"
+        "CardAdvantage"
       ],
       "reviewedAt": "2026-09-23T10:49:58.3345318+00:00"
     },
@@ -111776,8 +111775,7 @@
       "scryfallId": "0a0acee2-f6dc-4e92-937b-01e2c07adc55",
       "effects": [
         "Filter",
-        "Pacify",
-        "Cheat"
+        "Pacify"
       ],
       "reviewedAt": "2026-10-16T09:54:36.313775+00:00"
     },
