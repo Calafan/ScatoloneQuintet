@@ -5409,8 +5409,7 @@
       "rating": 1,
       "scryfallId": "9b3603aa-58a2-41d4-a58f-2b3306876e35",
       "effects": [
-        "CardAdvantage",
-        "Burn"
+        "CardAdvantage"
       ],
       "reviewedAt": "2026-11-03T10:15:54.4115953+00:00"
     },
@@ -46777,7 +46776,9 @@
       "name": "Hellkite Courser",
       "rating": 1,
       "scryfallId": "db45122e-b5ef-487b-8ea9-59ea066d3c88",
-      "effects": [],
+      "effects": [
+        "Burn"
+      ],
       "reviewedAt": "2026-10-20T18:40:15.5727091+00:00"
     },
     "c3ea33f4-17ac-41a4-8320-361b6f8aba0d": {
@@ -50190,6 +50191,7 @@
       "rating": 1,
       "scryfallId": "0f33284f-bdb1-4982-8636-8f2e12896053",
       "effects": [
+        "Removal",
         "Steal"
       ],
       "reviewedAt": "2026-10-16T14:17:15.8685945+00:00"
@@ -71983,9 +71985,7 @@
       "name": "Orcish Mine",
       "rating": 1,
       "scryfallId": "3a630875-b43d-4591-992c-117e1212fa34",
-      "effects": [
-        "Burn"
-      ],
+      "effects": [],
       "reviewedAt": "2026-09-05T10:31:34.6409942+00:00"
     },
     "0b16a650-68b0-44dc-a9e1-15b7966e0b18": {
@@ -103153,6 +103153,7 @@
       "scryfallId": "1d18dc06-16f0-4a3b-8d52-dbf4aa2c393d",
       "effects": [
         "Wipe",
+        "Burn",
         "Cheat"
       ],
       "reviewedAt": "2026-10-26T20:55:52.1524336+00:00"
@@ -112572,7 +112573,9 @@
       "name": "Vengeful Tracker",
       "rating": 1,
       "scryfallId": "a247c9a0-0c65-47bc-92fd-bebe95cd35a3",
-      "effects": [],
+      "effects": [
+        "Burn"
+      ],
       "reviewedAt": "2026-09-23T14:43:02.3733301+00:00"
     },
     "ad6442c2-7aa2-4c24-8133-f679a3499bde": {
