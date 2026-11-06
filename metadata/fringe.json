@@ -1762,6 +1762,7 @@
       "scryfallId": "7641f4d9-4614-41c8-87f5-4845bd78e9b3",
       "effects": [
         "CardAdvantage",
+        "Filter",
         "Buff"
       ],
       "reviewedAt": "2026-10-16T14:57:37.6307624+00:00"
@@ -2541,9 +2542,7 @@
       "name": "Alpharael, Dreaming Acolyte",
       "rating": 1,
       "scryfallId": "349a2211-2b23-418d-a1ef-1c72ad2e171d",
-      "effects": [
-        "Filter"
-      ],
+      "effects": [],
       "reviewedAt": "2026-09-10T07:24:21.8008579+00:00"
     },
     "ed43f1f9-ef96-47bc-8a54-e59154319f9d": {
@@ -5087,6 +5086,7 @@
       "rating": 1,
       "scryfallId": "15bcbfae-89cd-4fa4-978c-ad1332e81e18",
       "effects": [
+        "CardAdvantage",
         "Filter",
         "Buff"
       ],
@@ -8525,8 +8525,7 @@
       "scryfallId": "620ed5b7-8874-40d0-9245-98876bdec153",
       "effects": [
         "Wipe",
-        "CardAdvantage",
-        "Filter"
+        "CardAdvantage"
       ],
       "reviewedAt": "2026-11-05T10:23:42.5367543+00:00"
     },
@@ -9918,7 +9917,8 @@
       "rating": 1,
       "scryfallId": "32d4a2b1-5f39-49a2-b067-e74d2dc31b30",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Filter"
       ],
       "reviewedAt": "2026-09-11T13:47:06.9221242+00:00"
     },
@@ -13477,6 +13477,7 @@
       "scryfallId": "6c4f6b81-53d0-49fb-b404-c2ad67de7493",
       "effects": [
         "CardAdvantage",
+        "Filter",
         "ManaFixing"
       ],
       "reviewedAt": "2026-09-23T10:22:37.4209137+00:00"
@@ -14096,7 +14097,8 @@
       "rating": 1,
       "scryfallId": "9738d616-b38f-4968-89d6-805ae368e2d4",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Filter"
       ],
       "reviewedAt": "2026-11-03T19:03:16.2917733+00:00"
     },
@@ -16475,6 +16477,7 @@
       "rating": 1,
       "scryfallId": "98392aac-2c1c-4cff-ad14-0e2f51439012",
       "effects": [
+        "CardAdvantage",
         "Filter",
         "Regrowth"
       ],
@@ -21676,9 +21679,7 @@
       "name": "Cruel Fate",
       "rating": 1,
       "scryfallId": "44bea0d4-946e-4cb8-b6f1-50231d52bfbe",
-      "effects": [
-        "Filter"
-      ],
+      "effects": [],
       "reviewedAt": "2026-09-29T08:57:42.5926624+00:00"
     },
     "4c27b7cd-dcbf-45a7-9e15-a6d8dfd3a087": {
@@ -51747,7 +51748,6 @@
       "rating": 1,
       "scryfallId": "50180fda-6d67-41e9-8b2b-2e7c5876b8ab",
       "effects": [
-        "Filter",
         "Protection"
       ],
       "reviewedAt": "2026-10-16T12:57:01.463236+00:00"
@@ -59530,7 +59530,9 @@
       "name": "Living Lectern",
       "rating": 1,
       "scryfallId": "169afcaf-7ebf-4590-9e51-2a1a5eb3ac76",
-      "effects": [],
+      "effects": [
+        "Filter"
+      ],
       "reviewedAt": "2026-10-06T18:34:49.6731111+00:00"
     },
     "1f4738db-be2e-4d02-ad0c-1b74dd6bbfdc": {
@@ -64006,9 +64008,7 @@
       "name": "Merfolk Traders",
       "rating": 1,
       "scryfallId": "ebacbf23-4b69-481c-aaf7-5de7b4a6db6f",
-      "effects": [
-        "Filter"
-      ],
+      "effects": [],
       "reviewedAt": "2026-10-26T21:57:24.958834+00:00"
     },
     "218d9277-c179-4de3-9c7f-79b5a6d4fa38": {
@@ -72837,9 +72837,7 @@
       "name": "Owl Familiar",
       "rating": 1,
       "scryfallId": "d9587bcb-0ece-4b36-85dc-76899e403b08",
-      "effects": [
-        "Filter"
-      ],
+      "effects": [],
       "reviewedAt": "2026-10-26T21:57:09.1012347+00:00"
     },
     "0fab815f-bccf-40ef-95e9-ba64b137fb8c": {
@@ -76504,9 +76502,7 @@
       "name": "Precognition",
       "rating": 1,
       "scryfallId": "76a0e317-5a76-4eac-a903-b0e3f0a45873",
-      "effects": [
-        "Filter"
-      ],
+      "effects": [],
       "reviewedAt": "2026-09-08T10:28:35.1607748+00:00"
     },
     "5e3d2b03-4c44-49a3-ab11-871ca9c372f7": {
@@ -85341,6 +85337,7 @@
       "scryfallId": "70a25a3a-c12a-49d3-8a91-a108dfa9d3c5",
       "effects": [
         "CardAdvantage",
+        "Filter",
         "ManaFixing"
       ],
       "reviewedAt": "2026-09-29T09:35:01.2999452+00:00"
@@ -85928,7 +85925,8 @@
       "effects": [
         "Tokens",
         "Ramp",
-        "CardAdvantage"
+        "CardAdvantage",
+        "Filter"
       ],
       "reviewedAt": "2026-10-10T19:45:36.9359182+00:00"
     },
@@ -86823,7 +86821,8 @@
       "rating": 1,
       "scryfallId": "d96761b2-eb9c-4963-a496-ba53a01f4b17",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Filter"
       ],
       "reviewedAt": "2026-10-23T06:20:07.0820963+00:00"
     },
@@ -88485,9 +88484,7 @@
       "name": "Sealed Fate",
       "rating": 1,
       "scryfallId": "36cf9da8-f078-4f6e-8077-bb24a7ed487f",
-      "effects": [
-        "Filter"
-      ],
+      "effects": [],
       "reviewedAt": "2026-09-29T08:57:34.0645378+00:00"
     },
     "dfd5939e-a71a-4e16-9b93-752162be4ccd": {
@@ -91186,6 +91183,7 @@
       "rating": 1,
       "scryfallId": "d5bf8cf0-419a-4dc9-9342-aad55c1af05a",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ],
       "reviewedAt": "2026-09-23T15:06:51.5745519+00:00"
@@ -96756,6 +96754,7 @@
       "rating": 1,
       "scryfallId": "73ebd7f0-a54d-43a8-a5ee-9d6835308794",
       "effects": [
+        "Filter",
         "Buff"
       ],
       "reviewedAt": "2026-10-15T08:14:37.948965+00:00"
@@ -96821,9 +96820,7 @@
       "name": "Splitskin Doll",
       "rating": 1,
       "scryfallId": "0453be94-e59b-48f1-a488-7a9fd96a627e",
-      "effects": [
-        "Filter"
-      ],
+      "effects": [],
       "reviewedAt": "2026-09-23T13:38:45.2300206+00:00"
     },
     "178828a5-c202-4503-9755-fc6bb2390209": {
@@ -100513,7 +100510,9 @@
       "name": "Survivor of Korlis",
       "rating": 1,
       "scryfallId": "817bcc8d-a5b7-448c-a3eb-825dc65944ec",
-      "effects": [],
+      "effects": [
+        "Filter"
+      ],
       "reviewedAt": "2026-10-10T19:36:43.900858+00:00"
     },
     "fa08400f-b7ca-4c5c-b7ca-a6583b783878": {
@@ -101443,6 +101442,7 @@
       "rating": 1,
       "scryfallId": "347d883c-84ab-4547-813b-f4385366fbce",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ],
       "reviewedAt": "2026-10-23T09:21:47.3121492+00:00"
@@ -110315,7 +110315,9 @@
       "name": "Unassuming Sage",
       "rating": 1,
       "scryfallId": "a66fbaeb-1624-43b3-83e2-a37ce7588a5a",
-      "effects": [],
+      "effects": [
+        "Filter"
+      ],
       "reviewedAt": "2026-10-08T10:28:43.5396031+00:00"
     },
     "871c4b27-990a-4947-b962-8a6d0bfd85ad": {
@@ -111463,9 +111465,7 @@
       "name": "Urza Assembles the Titans",
       "rating": 1,
       "scryfallId": "10a544d7-ead7-42fd-a35a-c1b672771d5b",
-      "effects": [
-        "Filter"
-      ],
+      "effects": [],
       "reviewedAt": "2026-11-03T15:38:57.9778083+00:00"
     },
     "e5fa232a-c8f2-4532-88bf-60d1223181b0": {
@@ -116180,7 +116180,8 @@
       "rating": 1,
       "scryfallId": "976fd9d9-a9b5-40b6-ad38-4b3b263e1ebc",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Filter"
       ],
       "reviewedAt": "2026-10-22T14:39:50.1981725+00:00"
     },
@@ -118280,6 +118281,7 @@
       "rating": 1,
       "scryfallId": "64dd6309-110d-44a0-a227-34a20e33ebdc",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ],
       "reviewedAt": "2026-09-25T09:27:18.9231557+00:00"

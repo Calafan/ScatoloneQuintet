@@ -3091,9 +3091,7 @@
       "name": "Candy Trail",
       "rating": 3,
       "scryfallId": "1a860925-d912-49e5-9ddc-41ab26916bb3",
-      "effects": [
-        "Filter"
-      ],
+      "effects": [],
       "reviewedAt": "2026-10-16T12:57:05.8529716+00:00"
     },
     "d5b80895-621a-40df-bf48-6c7295658f21": {
@@ -15176,6 +15174,7 @@
       "scryfallId": "6efb6a69-562c-4d95-858d-b067444cfd7e",
       "effects": [
         "CardAdvantage",
+        "Filter",
         "Burn"
       ],
       "reviewedAt": "2026-10-06T14:55:26.9188759+00:00"
@@ -20042,6 +20041,7 @@
       "rating": 4,
       "scryfallId": "4ceac5b5-05eb-4f00-9477-3db490be24dd",
       "effects": [
+        "Filter",
         "Buff"
       ],
       "reviewedAt": "2026-10-09T14:05:37.4436768+00:00"
@@ -20445,9 +20445,7 @@
       "name": "Steamcore Scholar",
       "rating": 3,
       "scryfallId": "6bbf7394-9b17-45f8-a25b-d865e8452b2c",
-      "effects": [
-        "Filter"
-      ],
+      "effects": [],
       "reviewedAt": "2026-09-23T14:29:11.9574536+00:00"
     },
     "7ff8940f-d798-41eb-b82e-a1eba2163fe7": {
@@ -21819,7 +21817,8 @@
       "rating": 4,
       "scryfallId": "9c249aa6-c65c-4572-8e2e-c3899638ecce",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Filter"
       ],
       "reviewedAt": "2026-09-29T09:33:14.5925662+00:00"
     },
@@ -23093,7 +23092,8 @@
       "rating": 3,
       "scryfallId": "890b11b4-777a-4f1e-8c4d-21c5ebbfb0a2",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Filter"
       ],
       "reviewedAt": "2026-09-11T21:44:49.3284729+00:00"
     },
@@ -25058,7 +25058,8 @@
       "rating": 3,
       "scryfallId": "64d9367c-f50c-4568-aa63-6760c44ecaeb",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Filter"
       ],
       "reviewedAt": "2026-09-29T09:20:42.4523909+00:00"
     },
