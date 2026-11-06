@@ -3594,7 +3594,7 @@
       "scryfallId": "8b796a56-1611-4835-ac5b-48b4e9263685",
       "effects": [
         "Tokens",
-        "Regrowth"
+        "Reanimate"
       ],
       "reviewedAt": "2026-10-29T18:36:11.6870115+00:00"
     },
@@ -58304,7 +58304,8 @@
       "scryfallId": "283d04a5-3639-42de-b940-ffa7e609e527",
       "effects": [
         "Tokens",
-        "Filter"
+        "Filter",
+        "Reanimate"
       ],
       "reviewedAt": "2026-09-12T09:36:06.3978053+00:00"
     },
@@ -58657,7 +58658,8 @@
       "rating": 1,
       "scryfallId": "f22f4c5a-fe42-4511-be96-78e0e807e704",
       "effects": [
-        "Tokens"
+        "Tokens",
+        "Reanimate"
       ],
       "reviewedAt": "2026-10-09T09:13:35.0682354+00:00"
     },
@@ -64593,9 +64595,7 @@
       "name": "Mimeoplasm, Revered One",
       "rating": 1,
       "scryfallId": "34e4c342-dc22-4e9c-81fc-a691ae9e21c1",
-      "effects": [
-        "Reanimate"
-      ],
+      "effects": [],
       "reviewedAt": "2026-09-11T10:47:25.5025228+00:00"
     },
     "ba8156cd-2e78-4763-b61d-8bc85b2f3657": {
@@ -68267,6 +68267,7 @@
         "Tokens",
         "Removal",
         "Filter",
+        "Reanimate",
         "Burn"
       ],
       "reviewedAt": "2026-10-26T21:58:42.5923108+00:00"
@@ -72325,6 +72326,7 @@
       "rating": 1,
       "scryfallId": "5815fe6e-e26b-4918-a090-55d6442722c1",
       "effects": [
+        "Reanimate",
         "Buff",
         "Sacrifice"
       ],
@@ -85571,7 +85573,8 @@
       "rating": 1,
       "scryfallId": "99450143-6ab5-463d-9e04-e8e6703a8b92",
       "effects": [
-        "Filter"
+        "Filter",
+        "Reanimate"
       ],
       "reviewedAt": "2026-09-10T13:39:37.4414597+00:00"
     },
@@ -94943,7 +94946,7 @@
       "scryfallId": "e99d6fc0-dcf2-4b25-81c2-02c230a36246",
       "effects": [
         "Removal",
-        "Reanimate"
+        "Steal"
       ],
       "reviewedAt": "2026-09-10T07:28:15.3800071+00:00"
     },
@@ -112159,6 +112162,7 @@
       "scryfallId": "fc513659-ea88-4d04-82bd-5bb2e740d957",
       "effects": [
         "Tokens",
+        "Reanimate",
         "Cheat"
       ],
       "reviewedAt": "2026-09-23T10:24:55.2151112+00:00"

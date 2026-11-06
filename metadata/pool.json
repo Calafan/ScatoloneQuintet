@@ -4836,6 +4836,7 @@
       "rating": 3,
       "scryfallId": "845e5663-2959-44ae-b4c6-d6ea41f01d6e",
       "effects": [
+        "Reanimate",
         "Cheat"
       ],
       "reviewedAt": "2026-10-22T18:03:22.7225664+00:00"
@@ -9297,6 +9298,7 @@
       "rating": 3,
       "scryfallId": "83e8c09e-c195-4137-a6c1-45abdcaed10e",
       "effects": [
+        "Reanimate",
         "Steal",
         "Mill"
       ],
