@@ -44603,9 +44603,7 @@
       "name": "Incandescent Soulstoke",
       "rating": 0,
       "scryfallId": "c8829b3c-5267-44c6-b709-c2dfc683b0a8",
-      "effects": [
-        "Burn"
-      ]
+      "effects": []
     },
     "d45a4924-daa0-4ac3-afd7-b66f636ce870": {
       "name": "Incendiary Command",
