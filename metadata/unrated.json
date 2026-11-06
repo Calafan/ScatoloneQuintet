@@ -1532,7 +1532,8 @@
       "rating": 0,
       "scryfallId": "a5e1a7dd-8c49-4435-935c-bcc78704082b",
       "effects": [
-        "Tokens"
+        "Tokens",
+        "Buff"
       ]
     },
     "90249526-1875-450a-882d-bf6f6bfd37a6": {
@@ -2632,9 +2633,7 @@
       "name": "Angel of Flight Alabaster",
       "rating": 0,
       "scryfallId": "8dfe629f-485c-4619-9713-32d2ae406e63",
-      "effects": [
-        "Regrowth"
-      ]
+      "effects": []
     },
     "c6a606af-ea08-4cd9-bfd9-60d76e232e85": {
       "name": "Angel of Glory's Rise",
@@ -2743,7 +2742,9 @@
       "name": "Angel's Tomb",
       "rating": 0,
       "scryfallId": "28226303-7e67-4b88-adae-2386aff033ec",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "efbc9b9c-2b8c-4121-b232-350c80f12a2a": {
       "name": "Angelheart Vial",
@@ -5041,8 +5042,7 @@
       "rating": 0,
       "scryfallId": "fe84b3c0-bca2-42d3-a82c-540644e59625",
       "effects": [
-        "Ramp",
-        "Regrowth"
+        "Ramp"
       ]
     },
     "e01b3d52-297d-42e3-9de9-4f45c2359bcc": {
@@ -5620,9 +5620,7 @@
       "name": "Avengers Quinjet",
       "rating": 0,
       "scryfallId": "c090d4b3-b108-4596-9d6d-738eb5e2249c",
-      "effects": [
-        "Regrowth"
-      ]
+      "effects": []
     },
     "c5fc8e7c-a87e-4586-a13c-d30e0a3aafbf": {
       "name": "Avengers Tower",
@@ -6450,9 +6448,7 @@
       "name": "Bant Sureblade",
       "rating": 0,
       "scryfallId": "162feb2b-e641-4338-bcf1-1f7e7a11bb9d",
-      "effects": [
-        "Buff"
-      ]
+      "effects": []
     },
     "1ecd7248-ff28-4e12-b72a-0cb279ec7561": {
       "name": "Bar the Door",
@@ -6687,9 +6683,7 @@
       "name": "Barrow Witches",
       "rating": 0,
       "scryfallId": "45707c22-fce8-4dbd-9d19-73f08c68f449",
-      "effects": [
-        "Regrowth"
-      ]
+      "effects": []
     },
     "33d42811-686d-4aca-bb3b-086de453ddaf": {
       "name": "Bartered Cow",
@@ -9591,9 +9585,7 @@
       "name": "Body of Jukai",
       "rating": 0,
       "scryfallId": "f43fe8e0-23ab-4fe7-8a48-1902be142c6a",
-      "effects": [
-        "Regrowth"
-      ]
+      "effects": []
     },
     "8a0e35ac-6c03-4922-b3b4-e419419fe3d7": {
       "name": "Bofur, Reliable Guardian // Concerted Care",
@@ -9678,9 +9670,7 @@
       "name": "Boggart Birth Rite",
       "rating": 0,
       "scryfallId": "1bb4916d-ab50-45c9-bf7e-e7a7e761aef4",
-      "effects": [
-        "Regrowth"
-      ]
+      "effects": []
     },
     "880793a2-84b0-4ae1-9bb8-6e942e3dc723": {
       "name": "Boggart Brute",
@@ -10332,7 +10322,9 @@
       "name": "Boreas Charger",
       "rating": 0,
       "scryfallId": "5cd3b85b-7d8d-402e-829a-6080fd4eb7a1",
-      "effects": []
+      "effects": [
+        "Ramp"
+      ]
     },
     "cf5bf1ef-e40b-4fb5-8148-d4ca7a307501": {
       "name": "Boros Battleshaper",
@@ -11363,9 +11355,7 @@
       "name": "Bristlebane Outrider",
       "rating": 0,
       "scryfallId": "38b17a3c-4457-47e3-986e-ff0b94c41b1a",
-      "effects": [
-        "Buff"
-      ]
+      "effects": []
     },
     "f4aed3d2-04f5-49a4-a6be-d3cf097903f8": {
       "name": "Bristling Boar",
@@ -11950,8 +11940,7 @@
       "rating": 0,
       "scryfallId": "935e52a1-a651-4d88-99a8-7de074a01576",
       "effects": [
-        "Buff",
-        "Regrowth"
+        "Buff"
       ]
     },
     "13ec2390-e08a-4645-99e9-bac7e41917bb": {
@@ -14035,7 +14024,8 @@
       "rating": 0,
       "scryfallId": "05659715-3002-4bd0-919e-664814c1ca57",
       "effects": [
-        "Removal"
+        "Removal",
+        "Burn"
       ]
     },
     "f72d2074-2f32-4b56-a172-947bf6104fae": {
@@ -14625,7 +14615,9 @@
       "name": "Chimeric Coils",
       "rating": 0,
       "scryfallId": "9cbe14e2-89f2-4458-a84f-08ed3c6ae3d7",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "3fd23519-ef40-4c84-9407-2626d0c0d792": {
       "name": "Chimeric Egg",
@@ -17666,9 +17658,7 @@
       "name": "Cranial Archive",
       "rating": 0,
       "scryfallId": "1284b15f-2a70-48d6-89d3-e787af3f07eb",
-      "effects": [
-        "CardAdvantage"
-      ]
+      "effects": []
     },
     "33528049-6ef7-4ace-89e1-b83993492193": {
       "name": "Cranial Extraction",
@@ -17773,9 +17763,7 @@
       "name": "Crawling Filth",
       "rating": 0,
       "scryfallId": "9c735bda-5454-4177-a23a-f9f00b7480d2",
-      "effects": [
-        "Regrowth"
-      ]
+      "effects": []
     },
     "98441834-7da0-4d9f-88a4-a342a9b2a4c3": {
       "name": "Crawling Sensation",
@@ -19357,7 +19345,8 @@
       "rating": 0,
       "scryfallId": "f65bcf62-48c3-4e4d-b129-8e03b3635326",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Burn"
       ]
     },
     "d57a8f0b-7989-4db5-8756-6f2690097252": {
@@ -20597,6 +20586,7 @@
       "scryfallId": "f2a8f518-c0b5-4e15-aab2-49b5ef29fb41",
       "effects": [
         "Removal",
+        "Burn",
         "ManaFixing"
       ]
     },
@@ -20733,9 +20723,7 @@
       "name": "Deathknell Kami",
       "rating": 0,
       "scryfallId": "09535c14-ae50-4528-b9db-7eacee14e3fa",
-      "effects": [
-        "Regrowth"
-      ]
+      "effects": []
     },
     "990dde55-8ee3-41ad-874b-60864ec28ff4": {
       "name": "Deathless Ancient",
@@ -20983,9 +20971,7 @@
       "name": "Decoy Ploy",
       "rating": 0,
       "scryfallId": "d8719b74-48ef-4f68-b59a-949edd644ddc",
-      "effects": [
-        "Regrowth"
-      ]
+      "effects": []
     },
     "d4e0749a-e179-4c19-8536-bf8f1a198549": {
       "name": "Dedicated Commons",
@@ -23360,6 +23346,7 @@
       "rating": 0,
       "scryfallId": "989da63a-2cbd-41a9-9bbb-99f4ad1c6a25",
       "effects": [
+        "Tokens",
         "Buff",
         "Regrowth"
       ]
@@ -23511,6 +23498,7 @@
       "rating": 0,
       "scryfallId": "3271b821-8efc-49e2-96fd-c48e2b2585c6",
       "effects": [
+        "Tokens",
         "Buff"
       ]
     },
@@ -24661,9 +24649,7 @@
       "name": "Dreamcatcher",
       "rating": 0,
       "scryfallId": "b90ab82e-84d7-462a-b3c2-abaccfb46dd3",
-      "effects": [
-        "CardAdvantage"
-      ]
+      "effects": []
     },
     "db2af2b0-a5aa-4e4a-b5bc-52a5ac3968fc": {
       "name": "Dreampod Druid",
@@ -26250,9 +26236,7 @@
       "name": "Elder Pine of Jukai",
       "rating": 0,
       "scryfallId": "51c3e47b-a788-46b7-bf15-1216692e637a",
-      "effects": [
-        "Regrowth"
-      ]
+      "effects": []
     },
     "0431b67e-ce09-4009-ba5b-9fd41e6f1df4": {
       "name": "Elder of Laurels",
@@ -26300,7 +26284,9 @@
       "name": "Eldrazi Displacer",
       "rating": 0,
       "scryfallId": "f0bb1a5c-0f59-4951-827f-fe9df968232d",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "cddb3ec4-01a2-4f4d-a690-3486c73c3df8": {
       "name": "Eldrazi Mimic",
@@ -26387,7 +26373,8 @@
       "rating": 0,
       "scryfallId": "ef42b5b2-6504-486c-aaa0-9d5e4769ba1d",
       "effects": [
-        "Removal"
+        "Removal",
+        "Burn"
       ]
     },
     "c2459c41-82b4-4ca2-b634-11b55ddb63d9": {
@@ -26647,7 +26634,8 @@
       "scryfallId": "fd5b1633-c41d-42b1-af1b-4a872077ffbd",
       "effects": [
         "Tokens",
-        "Wipe"
+        "Wipe",
+        "Buff"
       ]
     },
     "b876101b-7b18-48d7-9c8c-aaa6b1b5c199": {
@@ -28092,9 +28080,7 @@
       "name": "Esper Stormblade",
       "rating": 0,
       "scryfallId": "e60ac6f0-fdec-4e2c-86c6-02d36c7bbaf5",
-      "effects": [
-        "Buff"
-      ]
+      "effects": []
     },
     "c9a188f9-2e65-4a66-826f-0150f25730af": {
       "name": "Esperzoa",
@@ -29515,6 +29501,7 @@
       "rating": 0,
       "scryfallId": "799ed076-4724-47bb-94a0-11b42a9826eb",
       "effects": [
+        "Reanimate",
         "Protection"
       ]
     },
@@ -32663,16 +32650,15 @@
       "rating": 0,
       "scryfallId": "06127297-fdaa-45bf-a82e-4fc61315e0e2",
       "effects": [
-        "Removal"
+        "Removal",
+        "Burn"
       ]
     },
     "c918baa5-0e7c-4df2-8567-64a7fbef4df8": {
       "name": "Forked-Branch Garami",
       "rating": 0,
       "scryfallId": "0ff39ae5-a241-4607-903e-201f56c675f9",
-      "effects": [
-        "Regrowth"
-      ]
+      "effects": []
     },
     "92680de3-6ee2-4b73-b0f5-38383482dcca": {
       "name": "Forlorn Pseudamma",
@@ -34148,7 +34134,8 @@
       "effects": [
         "Tokens",
         "Removal",
-        "CardAdvantage"
+        "CardAdvantage",
+        "Buff"
       ]
     },
     "298a7e1a-b254-442e-bc1d-2a3e5296d849": {
@@ -35229,9 +35216,7 @@
       "name": "Ghoulraiser",
       "rating": 0,
       "scryfallId": "52c537d1-2d57-4a87-9dac-594d40d95633",
-      "effects": [
-        "Regrowth"
-      ]
+      "effects": []
     },
     "dbc34afa-16bc-41f2-b74d-29bf2bfe24a9": {
       "name": "Ghoulsteed",
@@ -35382,9 +35367,7 @@
       "name": "Gibbering Kami",
       "rating": 0,
       "scryfallId": "9a3e988f-314c-4e83-b279-c2a736933e64",
-      "effects": [
-        "Regrowth"
-      ]
+      "effects": []
     },
     "813c19f5-3580-488d-9eee-c7a563def532": {
       "name": "Gideon Blackblade",
@@ -35515,7 +35498,8 @@
       "rating": 0,
       "scryfallId": "187e887c-c39d-4d25-a506-cdc95fc70316",
       "effects": [
-        "Tokens"
+        "Tokens",
+        "Buff"
       ]
     },
     "5843bf12-27db-4e7d-81ee-98874bea72c7": {
@@ -37600,7 +37584,8 @@
       "rating": 0,
       "scryfallId": "3027e6c5-eed3-44e7-bb12-67569721af99",
       "effects": [
-        "Reanimate"
+        "Reanimate",
+        "Burn"
       ]
     },
     "5ed23ed2-be2f-4958-affe-429f58e9dca5": {
@@ -38508,9 +38493,7 @@
       "name": "Grim Captain's Call",
       "rating": 0,
       "scryfallId": "0055934f-1567-4207-aaad-d32d0fe1cdba",
-      "effects": [
-        "Regrowth"
-      ]
+      "effects": []
     },
     "3b78f940-f840-4d4d-a09b-147202963367": {
       "name": "Grim Contest",
@@ -38800,9 +38783,7 @@
       "name": "Grixis Grimblade",
       "rating": 0,
       "scryfallId": "9dbcb812-15ad-4878-9968-cfa65a352703",
-      "effects": [
-        "Buff"
-      ]
+      "effects": []
     },
     "c231698b-c584-4047-9668-5322e4b0065b": {
       "name": "Grixis Illusionist",
@@ -39072,8 +39053,7 @@
       "rating": 0,
       "scryfallId": "1f51adf8-8234-4dae-aedf-7633310d5111",
       "effects": [
-        "Tokens",
-        "Regrowth"
+        "Tokens"
       ]
     },
     "ffbf8459-fda2-4c1d-9841-c001c37d2141": {
@@ -39104,6 +39084,7 @@
       "scryfallId": "3f7f31fb-af96-4c8c-80fa-219ebd7c3d4d",
       "effects": [
         "Reanimate",
+        "Burn",
         "Steal"
       ]
     },
@@ -40268,9 +40249,7 @@
       "name": "Harbinger of Spring",
       "rating": 0,
       "scryfallId": "19fd23b5-5e57-44dc-8248-c4b9eb71c4f3",
-      "effects": [
-        "Regrowth"
-      ]
+      "effects": []
     },
     "3256029f-6558-4fcc-9fa1-74ceba3e5c92": {
       "name": "Harbinger of the Hunt",
@@ -40524,7 +40503,9 @@
       "name": "Harvest Season",
       "rating": 0,
       "scryfallId": "bb18e745-a925-477f-a50f-3ec7fba22d88",
-      "effects": []
+      "effects": [
+        "Ramp"
+      ]
     },
     "28c44f88-1d47-4894-86ce-4089bd761360": {
       "name": "Harvester Troll",
@@ -40835,8 +40816,7 @@
       "rating": 0,
       "scryfallId": "1ccf0f8d-f988-45ec-b75b-d97206326cfb",
       "effects": [
-        "Discard",
-        "Regrowth"
+        "Discard"
       ]
     },
     "0523e271-5e0b-4e4b-9eac-86f915d18952": {
@@ -43384,9 +43364,7 @@
       "name": "Hundred-Talon Kami",
       "rating": 0,
       "scryfallId": "a7b2892a-5c16-4624-9a47-6a47f10e2466",
-      "effects": [
-        "Regrowth"
-      ]
+      "effects": []
     },
     "fbfaf009-8276-4687-a3db-5a71dc13f174": {
       "name": "Hundred-Talon Strike",
@@ -44081,7 +44059,9 @@
       "name": "Illness in the Ranks",
       "rating": 0,
       "scryfallId": "989a68c1-3b76-4c2d-9db3-23c45be3f9ff",
-      "effects": []
+      "effects": [
+        "Wipe"
+      ]
     },
     "0440f85f-8128-4399-9a3d-51f39e196c96": {
       "name": "Illuminated Folio",
@@ -44612,9 +44592,7 @@
       "name": "Iname, Life Aspect",
       "rating": 0,
       "scryfallId": "be027e3c-8891-46f0-bca7-d28a94ca281a",
-      "effects": [
-        "Regrowth"
-      ]
+      "effects": []
     },
     "934bd9f9-937b-4c6b-a849-012ae6bd3321": {
       "name": "Incandescent Soulstoke",
@@ -47517,9 +47495,7 @@
       "name": "Jund Hackblade",
       "rating": 0,
       "scryfallId": "61e3b73a-598b-4854-b811-2fd40fbce2d0",
-      "effects": [
-        "Buff"
-      ]
+      "effects": []
     },
     "f39f33ac-074d-442d-ae4c-1d694ee315f3": {
       "name": "Jund Panorama",
@@ -47809,7 +47785,6 @@
       "rating": 0,
       "scryfallId": "79826f7f-e46b-489d-8fcb-1712d36e8f60",
       "effects": [
-        "Ramp",
         "ManaFixing"
       ]
     },
@@ -47898,9 +47873,7 @@
       "name": "Kami of Empty Graves",
       "rating": 0,
       "scryfallId": "30502f07-760c-46d1-8b4a-d4bd4a23201f",
-      "effects": [
-        "Regrowth"
-      ]
+      "effects": []
     },
     "49984248-4800-4f46-933a-fedd970ae910": {
       "name": "Kami of False Hope",
@@ -47918,9 +47891,7 @@
       "name": "Kami of Lunacy",
       "rating": 0,
       "scryfallId": "4baef070-d265-4c6d-9b4b-3cafbd3b34c3",
-      "effects": [
-        "Regrowth"
-      ]
+      "effects": []
     },
     "575d08b2-3150-47d2-8f83-e8bb1f184c0f": {
       "name": "Kami of Old Stone",
@@ -47954,9 +47925,7 @@
       "name": "Kami of the Honored Dead",
       "rating": 0,
       "scryfallId": "46e53299-f480-4769-bfc6-86fb19964280",
-      "effects": [
-        "Regrowth"
-      ]
+      "effects": []
     },
     "96e68c7a-f187-4aa6-998c-238e7c833809": {
       "name": "Kami of the Hunt",
@@ -47974,17 +47943,13 @@
       "name": "Kami of the Palace Fields",
       "rating": 0,
       "scryfallId": "690980ce-bbdc-4d52-b34e-2bad11e436a1",
-      "effects": [
-        "Regrowth"
-      ]
+      "effects": []
     },
     "e2770ebf-24e3-4787-956b-ca01aaa50a6f": {
       "name": "Kami of the Tended Garden",
       "rating": 0,
       "scryfallId": "bdedd830-9200-4e8b-84b4-00dc58cace35",
-      "effects": [
-        "Regrowth"
-      ]
+      "effects": []
     },
     "c42e3df9-b9e1-4b36-bc9d-05351f87d707": {
       "name": "Kami of the Waning Moon",
@@ -49840,9 +49805,7 @@
       "name": "Kodama of the Center Tree",
       "rating": 0,
       "scryfallId": "6b9264c5-1ecd-48cc-a12d-d4bd8050cfae",
-      "effects": [
-        "Regrowth"
-      ]
+      "effects": []
     },
     "15d8f129-2518-45f4-9f34-a4fcd4d859af": {
       "name": "Kodama of the North Tree",
@@ -53994,6 +53957,7 @@
       "effects": [
         "Reanimate",
         "Buff",
+        "Burn",
         "Steal"
       ]
     },
@@ -58958,8 +58922,7 @@
       "rating": 0,
       "scryfallId": "d9d39ff1-402c-4218-ad42-276a22c087a7",
       "effects": [
-        "Protection",
-        "Regrowth"
+        "Protection"
       ]
     },
     "2c306e87-e3c8-4066-9be5-570e2f2d6bad": {
@@ -59082,9 +59045,7 @@
       "name": "Morcant's Loyalist",
       "rating": 0,
       "scryfallId": "175c6b1c-8790-41a2-ae15-5031206c410f",
-      "effects": [
-        "Regrowth"
-      ]
+      "effects": []
     },
     "c02ed1b7-1f8d-4196-a9b6-65e1b5a763d7": {
       "name": "Mordant Dragon",
@@ -60024,8 +59985,7 @@
       "rating": 0,
       "scryfallId": "60678391-44b2-4525-94dc-ffc5a433b79b",
       "effects": [
-        "Ramp",
-        "Regrowth"
+        "Ramp"
       ]
     },
     "b6a50858-a013-4703-a9d7-5b69ef9bd9ae": {
@@ -60655,9 +60615,7 @@
       "name": "Naya Hushblade",
       "rating": 0,
       "scryfallId": "5eed1b7f-0672-4066-9e21-c5252f6dc482",
-      "effects": [
-        "Buff"
-      ]
+      "effects": []
     },
     "71e28800-c42c-48c0-95e5-0296be54a4e8": {
       "name": "Naya Panorama",
@@ -61784,9 +61742,7 @@
       "name": "Nightsoil Kami",
       "rating": 0,
       "scryfallId": "5902f863-171e-4bb2-9d48-2c679d41f1a9",
-      "effects": [
-        "Regrowth"
-      ]
+      "effects": []
     },
     "b94591b8-2e99-4983-8f36-9b52207bfd2e": {
       "name": "Nightveil Predator",
@@ -63606,6 +63562,7 @@
       "effects": [
         "Tokens",
         "CardAdvantage",
+        "Buff",
         "Pacify"
       ]
     },
@@ -63799,7 +63756,9 @@
       "name": "Omnibian",
       "rating": 0,
       "scryfallId": "12a5a212-395c-427e-81b8-893745274068",
-      "effects": []
+      "effects": [
+        "Buff"
+      ]
     },
     "8dad1fa8-3533-4e3c-b9b3-fcd57b20a33d": {
       "name": "Omnipresence",
@@ -67224,6 +67183,7 @@
       "rating": 0,
       "scryfallId": "b03cf0bb-3207-4e8e-bb3f-e3e4367aa86e",
       "effects": [
+        "Tokens",
         "Buff"
       ]
     },
@@ -67753,7 +67713,8 @@
       "rating": 0,
       "scryfallId": "d5f8b46e-1ad3-4c6e-aa63-376f2d222d46",
       "effects": [
-        "Reanimate"
+        "Reanimate",
+        "Burn"
       ]
     },
     "0859d16e-2a1f-4b48-8687-99af8a8bdb38": {
@@ -68840,9 +68801,7 @@
       "name": "Promised Kannushi",
       "rating": 0,
       "scryfallId": "7aac4236-9573-4cff-88d9-711a56da4346",
-      "effects": [
-        "Regrowth"
-      ]
+      "effects": []
     },
     "d17a9750-a89f-4ad1-9c15-7ccffc554ee5": {
       "name": "Propeller Pioneer",
@@ -69509,6 +69468,7 @@
       "scryfallId": "6ff839e1-6f76-4a24-a87c-d4589b1abf66",
       "effects": [
         "Reanimate",
+        "Burn",
         "Steal"
       ]
     },
@@ -69632,8 +69592,7 @@
       "rating": 0,
       "scryfallId": "4f142dea-4751-453f-93a5-c8fdaba8a1b3",
       "effects": [
-        "Removal",
-        "Regrowth"
+        "Removal"
       ]
     },
     "1bc9a89c-7831-4c08-8934-896286d63e7c": {
@@ -72675,9 +72634,7 @@
       "name": "Relic of Progenitus",
       "rating": 0,
       "scryfallId": "90c41192-64ef-43aa-9af0-75f0d3f56688",
-      "effects": [
-        "CardAdvantage"
-      ]
+      "effects": []
     },
     "97e088a3-65eb-42f5-85b8-6aeb770a3f56": {
       "name": "Relief Captain",
@@ -73890,6 +73847,7 @@
       "rating": 0,
       "scryfallId": "8e54dc4a-3fd6-4895-8497-3a19e4e9a3d8",
       "effects": [
+        "Tokens",
         "Filter"
       ]
     },
@@ -75053,8 +75011,7 @@
       "rating": 0,
       "scryfallId": "23e5502b-acae-4320-ac01-4d711cb2c49a",
       "effects": [
-        "LandDestruction",
-        "Regrowth"
+        "LandDestruction"
       ]
     },
     "54b3ccdc-e5b0-44d9-bc81-a296fc5dc005": {
@@ -75405,7 +75362,10 @@
       "name": "Ruin in Their Wake",
       "rating": 0,
       "scryfallId": "5a0ff591-e4d9-4b62-ac9c-7962fd815226",
-      "effects": []
+      "effects": [
+        "Ramp",
+        "ManaFixing"
+      ]
     },
     "3394ce74-c352-4ae1-a7bb-f6ef8ac1c810": {
       "name": "Ruination Guide",
@@ -76502,6 +76462,7 @@
       "effects": [
         "Removal",
         "Buff",
+        "Burn",
         "Tutor"
       ]
     },
@@ -76997,7 +76958,9 @@
       "name": "Saskia the Unyielding",
       "rating": 0,
       "scryfallId": "5b483db6-b614-4af1-820a-42a4ee0c8707",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "aa321138-b1a7-4b8e-a2ca-b9ce65704e92": {
       "name": "Satyr Enchanter",
@@ -78122,8 +78085,7 @@
       "rating": 0,
       "scryfallId": "d8d9bf4e-3bb1-4154-b1ff-a3d8a2810c1b",
       "effects": [
-        "Removal",
-        "Regrowth"
+        "Removal"
       ]
     },
     "72ccdcef-5c84-45ba-bda3-3dc014e1585c": {
@@ -82231,7 +82193,8 @@
       "rating": 0,
       "scryfallId": "be941a2e-4eb0-45b3-9da0-834053907a65",
       "effects": [
-        "Removal"
+        "Removal",
+        "Burn"
       ]
     },
     "e2ce99b9-7098-4de1-95bf-609bd448848d": {
@@ -83326,7 +83289,9 @@
       "name": "Slumbering Tora",
       "rating": 0,
       "scryfallId": "e32ac983-a909-4342-882e-f3b7e2e064d8",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "d04bce9a-822b-4a52-8826-b503ef5f5b2e": {
       "name": "Slumbering Trudge",
@@ -84126,7 +84091,8 @@
       "scryfallId": "27bb371f-d49f-41bd-bbe0-d5e1e2067e36",
       "effects": [
         "Tokens",
-        "Removal"
+        "Removal",
+        "Buff"
       ]
     },
     "1f1f1ae7-dd00-4825-832e-3a049cf8ce73": {
@@ -84628,7 +84594,9 @@
       "name": "Spaceshift",
       "rating": 0,
       "scryfallId": "5c618451-5cf5-4cdc-b957-733960e6001e",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "557cc9a7-c8cc-4823-b108-2dfe648c789d": {
       "name": "Spare from Evil",
@@ -88386,7 +88354,9 @@
       "name": "Stuffy Doll",
       "rating": 0,
       "scryfallId": "14ca7425-a499-4864-b955-369ef2577849",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "f5bdf226-7a83-469b-bc49-87af388d9020": {
       "name": "Stun Sniper",
@@ -90082,7 +90052,8 @@
       "rating": 0,
       "scryfallId": "0483c869-38dc-4b0b-82f3-dd08a1ab985f",
       "effects": [
-        "RemovePermanent"
+        "RemovePermanent",
+        "Ramp"
       ]
     },
     "29a90fda-541e-4923-b3ed-e2b35d02c74b": {
@@ -93041,8 +93012,7 @@
       "rating": 0,
       "scryfallId": "0a3029b8-01e2-4419-817e-318f23d6ce04",
       "effects": [
-        "Burn",
-        "Regrowth"
+        "Burn"
       ]
     },
     "68b51d58-7566-4a26-8c31-8da32799bea7": {
@@ -93394,7 +93364,8 @@
       "rating": 0,
       "scryfallId": "eba0e921-b81a-4803-8e1b-f7ae556c1e6f",
       "effects": [
-        "Steal"
+        "Steal",
+        "Mill"
       ]
     },
     "4bae4e34-fcf4-4aee-8da2-5b3ee41a595a": {
@@ -93589,9 +93560,7 @@
       "name": "Thousand-legged Kami",
       "rating": 0,
       "scryfallId": "5c88355e-dff0-4d51-a33c-08e14d6217d4",
-      "effects": [
-        "Regrowth"
-      ]
+      "effects": []
     },
     "e05e70cd-7af3-428e-82e3-73418914d727": {
       "name": "Thraben Doomsayer",
@@ -93722,9 +93691,7 @@
       "name": "Thrash of Raptors",
       "rating": 0,
       "scryfallId": "2a03b859-811c-45ff-8d8a-9e87e4bbf113",
-      "effects": [
-        "Buff"
-      ]
+      "effects": []
     },
     "8ac09649-3b6c-40fa-81f8-583384c9e0bb": {
       "name": "Thrasher Brute",
@@ -95117,9 +95084,7 @@
       "name": "Torii Watchward",
       "rating": 0,
       "scryfallId": "b8ec0916-f320-4fad-9ec5-99aeecfda0e3",
-      "effects": [
-        "Regrowth"
-      ]
+      "effects": []
     },
     "30a0a6c2-1fbb-4784-ab96-22611d57e62c": {
       "name": "Torment of Hailfire",
@@ -96613,7 +96578,9 @@
       "name": "Tunnel Vision",
       "rating": 0,
       "scryfallId": "ae3eba31-02eb-449a-8a36-899ada5664bc",
-      "effects": []
+      "effects": [
+        "Mill"
+      ]
     },
     "78cd6d20-033f-471f-a86e-59ec8307ae1f": {
       "name": "Tunneling Geopede",
@@ -96933,7 +96900,8 @@
       "rating": 0,
       "scryfallId": "5bd58ec4-34a9-4fc2-b057-438492e2e06e",
       "effects": [
-        "Removal"
+        "Removal",
+        "Burn"
       ]
     },
     "a2193302-402a-4cf0-8014-5facecad647b": {
@@ -99354,9 +99322,7 @@
       "name": "Venerable Kumo",
       "rating": 0,
       "scryfallId": "308566ed-18cc-4e3b-b5ab-d5b17795f2f1",
-      "effects": [
-        "Regrowth"
-      ]
+      "effects": []
     },
     "359c6272-fcb5-4d3f-a4b5-4209e354a044": {
       "name": "Venerable Lammasu",
@@ -100313,9 +100279,7 @@
       "name": "Vine Kami",
       "rating": 0,
       "scryfallId": "fa5241c8-7f50-413e-9ac0-9ab0ad5c884c",
-      "effects": [
-        "Regrowth"
-      ]
+      "effects": []
     },
     "499c7ee3-08a3-4f40-809a-3f7087ab9b24": {
       "name": "Vine Mare",
@@ -100570,7 +100534,9 @@
       "name": "Virulent Plague",
       "rating": 0,
       "scryfallId": "3c5f82b6-53d9-43ce-8a17-c680c443e586",
-      "effects": []
+      "effects": [
+        "Wipe"
+      ]
     },
     "767c896d-4ff6-4cd4-b3a4-80179e84e1cd": {
       "name": "Virulent Sliver",
@@ -100837,7 +100803,8 @@
       "effects": [
         "Removal",
         "Disenchant",
-        "CardAdvantage"
+        "CardAdvantage",
+        "Buff"
       ]
     },
     "34fe53c2-8909-4786-b5c0-331de997ff81": {
@@ -100900,9 +100867,7 @@
       "name": "Vizier of Deferment",
       "rating": 0,
       "scryfallId": "2684f2e5-e3f9-4277-94a1-aba6913ac53b",
-      "effects": [
-        "Removal"
-      ]
+      "effects": []
     },
     "55bceb83-bbba-477f-98ce-6e0a80b91080": {
       "name": "Vizier of Many Faces",
@@ -103323,7 +103288,8 @@
       "rating": 0,
       "scryfallId": "9e5ec47c-47a2-4eda-b81a-4a07f04e5989",
       "effects": [
-        "Reanimate"
+        "Reanimate",
+        "Burn"
       ]
     },
     "70e165a1-494a-4728-8d7e-1a9f306414db": {
@@ -105078,9 +105044,7 @@
       "name": "Wort, Boggart Auntie",
       "rating": 0,
       "scryfallId": "a08a1377-dede-47c8-8447-c9df125f3b14",
-      "effects": [
-        "Regrowth"
-      ]
+      "effects": []
     },
     "d6b67c7e-3b24-4f60-8e3a-c6ca45229d7f": {
       "name": "Wort, the Raidmother",

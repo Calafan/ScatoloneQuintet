@@ -5696,8 +5696,7 @@
       "scryfallId": "1958d96e-ec44-48ab-80b1-5b01a24ac7b8",
       "effects": [
         "Counter",
-        "Bounce",
-        "Tutor"
+        "Bounce"
       ]
     },
     "231f8edb-4ea1-44be-8794-b76a31462dfc": {
@@ -5925,9 +5924,7 @@
       "name": "Dream Strix",
       "rating": 3,
       "scryfallId": "31d82f7a-64f1-463f-bb6b-936c3e49bf2b",
-      "effects": [
-        "Tutor"
-      ]
+      "effects": []
     },
     "3c958b5f-680b-45fc-8c3d-27b23677436e": {
       "name": "Dream-Thief's Bandana",
@@ -7157,9 +7154,7 @@
       "name": "Eyetwitch",
       "rating": 3,
       "scryfallId": "1f4d1bb6-cb8f-4d01-9879-0b3a0585cbf4",
-      "effects": [
-        "Tutor"
-      ]
+      "effects": []
     },
     "3017ac79-37f1-4cc1-8efd-4add027618a2": {
       "name": "Ezio Auditore da Firenze",
@@ -7730,6 +7725,7 @@
       "scryfallId": "f98f4538-5b5b-475d-b98f-49d01dae6f04",
       "effects": [
         "Removal",
+        "Burn",
         "Pacify"
       ]
     },
@@ -19978,8 +19974,7 @@
       "rating": 3,
       "scryfallId": "ab7c80d3-3e0c-4510-9ed0-bb9fe39d838f",
       "effects": [
-        "Buff",
-        "Tutor"
+        "Buff"
       ]
     },
     "6a290adf-7b75-451e-bb79-9c13e10b38aa": {
@@ -21671,7 +21666,9 @@
       "name": "Tasha's Hideous Laughter",
       "rating": 4,
       "scryfallId": "c4932113-904f-427a-9566-509cc008f3ef",
-      "effects": []
+      "effects": [
+        "Mill"
+      ]
     },
     "66837faa-fbde-456d-b00f-eb17fbdd04aa": {
       "name": "Tax Collector",

@@ -490,9 +490,7 @@
       "name": "Academic Dispute",
       "rating": 1,
       "scryfallId": "4620cc3b-e401-4096-b310-fed080806344",
-      "effects": [
-        "Tutor"
-      ]
+      "effects": []
     },
     "400b2e17-ee48-4e22-a8a6-a607c215d1a2": {
       "name": "Academic Probation",
@@ -4115,7 +4113,8 @@
       "rating": 1,
       "scryfallId": "6d7cc1f6-9897-4de4-8e94-40cbe2d962a2",
       "effects": [
-        "Reanimate"
+        "Reanimate",
+        "Burn"
       ]
     },
     "40d6e1ff-995b-42fc-8146-8d5e5f1adcd9": {
@@ -4313,7 +4312,8 @@
       "rating": 1,
       "scryfallId": "62982dab-4c27-45b3-9740-38fec3df7226",
       "effects": [
-        "Removal"
+        "Removal",
+        "Burn"
       ]
     },
     "9376ccf6-1b18-44e9-8f9d-c5ad38927e2f": {
@@ -4423,9 +4423,7 @@
       "name": "Arcane Subtraction",
       "rating": 1,
       "scryfallId": "68cdb00c-ea86-4b72-8f62-570820edfa1b",
-      "effects": [
-        "Tutor"
-      ]
+      "effects": []
     },
     "0b633017-bfdf-47cd-a60f-c93816b47e9c": {
       "name": "Arcane Teachings",
@@ -17241,7 +17239,9 @@
       "name": "Chimeric Staff",
       "rating": 1,
       "scryfallId": "a27c228b-8339-49d1-af0c-05e7d7ba4c9d",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "119d9671-61ba-4629-89b1-f94bdec5cb74": {
       "name": "Chimil, the Inner Sun",
@@ -21006,9 +21006,7 @@
       "name": "Cram Session",
       "rating": 1,
       "scryfallId": "c59a249f-35ed-447a-845b-32ba5a53124e",
-      "effects": [
-        "Tutor"
-      ]
+      "effects": []
     },
     "1e847d69-e527-4bb9-a624-17c25ac4fed4": {
       "name": "Cramped Vents // Access Maze",
@@ -21196,7 +21194,6 @@
       "scryfallId": "eab58d87-bf01-45dc-8958-e2b3375f914b",
       "effects": [
         "Removal",
-        "Ramp",
         "Filter",
         "Burn",
         "ManaFixing"
@@ -21699,8 +21696,7 @@
       "rating": 1,
       "scryfallId": "245aba23-2abb-4084-b4cb-d06e46de2108",
       "effects": [
-        "Removal",
-        "Regrowth"
+        "Removal"
       ]
     },
     "2e68e3f7-b168-4541-b8a0-791a8a6ebde8": {
@@ -23288,7 +23284,6 @@
       "rating": 1,
       "scryfallId": "fb988572-1e1d-4b1d-8dc7-78bda966554e",
       "effects": [
-        "Ramp",
         "ManaFixing"
       ]
     },
@@ -23539,7 +23534,8 @@
       "rating": 1,
       "scryfallId": "baabadd3-3fc1-4c9a-ad3b-c79d60fb3390",
       "effects": [
-        "Reanimate"
+        "Reanimate",
+        "Burn"
       ]
     },
     "0146f430-da82-48d3-a576-c2b05101797f": {
@@ -30172,7 +30168,6 @@
       "scryfallId": "4331a7a6-e98e-4517-b0f9-ace379426a94",
       "effects": [
         "Tokens",
-        "Ramp",
         "ManaFixing"
       ]
     },
@@ -31805,8 +31800,7 @@
       "rating": 1,
       "scryfallId": "543c64ff-2c51-4a63-a940-dc8645717c85",
       "effects": [
-        "Buff",
-        "Tutor"
+        "Buff"
       ]
     },
     "c9db5293-4866-46ec-9ae8-059d27bd50fc": {
@@ -35418,8 +35412,7 @@
       "rating": 1,
       "scryfallId": "f235060a-eb49-4a73-bb5f-01228c3c4070",
       "effects": [
-        "Ramp",
-        "Tutor"
+        "Ramp"
       ]
     },
     "6dcc62f8-2fd9-473b-9e6a-2dd7e610f855": {
@@ -36205,8 +36198,7 @@
       "rating": 1,
       "scryfallId": "091eb13d-9318-4b12-9f94-6276b11981d1",
       "effects": [
-        "Buff",
-        "Tutor"
+        "Buff"
       ]
     },
     "8f5aed57-d0f3-4fa8-826c-0d94fa143f08": {
@@ -36770,7 +36762,7 @@
       "rating": 1,
       "scryfallId": "59e19bac-176c-4e37-bfc8-27c00de7c37f",
       "effects": [
-        "Removal"
+        "Protection"
       ]
     },
     "3e2ae59a-40a1-46ca-8f24-3231ebd4e4eb": {
@@ -40235,9 +40227,7 @@
       "name": "Gerrard Capashen",
       "rating": 1,
       "scryfallId": "ccca800f-e850-4bec-95d0-70280b51b7a7",
-      "effects": [
-        "Pacify"
-      ]
+      "effects": []
     },
     "12ef651c-5a86-49c4-a512-292e9d135a76": {
       "name": "Gerrard's Battle Cry",
@@ -41664,17 +41654,13 @@
       "name": "Glittering Lion",
       "rating": 1,
       "scryfallId": "ab4be296-33a6-46b1-9748-5b0d335f40ee",
-      "effects": [
-        "Protection"
-      ]
+      "effects": []
     },
     "890ffe31-642f-46e3-9f09-c744351653b5": {
       "name": "Glittering Lynx",
       "rating": 1,
       "scryfallId": "a3f26c7e-c525-4191-a542-b81343ae95bb",
-      "effects": [
-        "Protection"
-      ]
+      "effects": []
     },
     "184c763c-b52a-471c-bd87-d01729ebe5e4": {
       "name": "Glittermonger",
@@ -44832,7 +44818,7 @@
       "rating": 1,
       "scryfallId": "d6fb3163-12ca-4a7f-a0c7-b8ddfc9408a0",
       "effects": [
-        "Tutor"
+        "Buff"
       ]
     },
     "aceac269-5100-428a-a4a3-bac57031e30b": {
@@ -47814,9 +47800,7 @@
       "name": "Hobbling Zombie",
       "rating": 1,
       "scryfallId": "68284193-a38e-40d2-8d15-92d223756751",
-      "effects": [
-        "Tokens"
-      ]
+      "effects": []
     },
     "43fea418-db6f-4953-89d1-6873b2ca41a8": {
       "name": "Hobgoblin Bandit Lord",
@@ -48824,8 +48808,7 @@
       "rating": 1,
       "scryfallId": "8ff0f47f-75cb-42b0-ba4d-78522cad9861",
       "effects": [
-        "Tokens",
-        "Tutor"
+        "Tokens"
       ]
     },
     "698c9882-4117-4919-8a19-b1cbffc16692": {
@@ -60215,9 +60198,7 @@
       "name": "Lord of the Undead",
       "rating": 1,
       "scryfallId": "0a7f50f4-37a0-476e-8655-edba228aafd6",
-      "effects": [
-        "Regrowth"
-      ]
+      "effects": []
     },
     "3ec271d8-8264-4574-8c4c-e57b35872b1e": {
       "name": "Lore Drakkis",
@@ -65505,8 +65486,7 @@
       "rating": 1,
       "scryfallId": "2be66eaf-222b-4c40-a9fa-aad56b9218e0",
       "effects": [
-        "Burn",
-        "Regrowth"
+        "Burn"
       ]
     },
     "e282eb5b-f9e6-4fb3-9edf-44e23359357d": {
@@ -66939,7 +66919,9 @@
       "name": "Mordenkainen's Polymorph",
       "rating": 1,
       "scryfallId": "b6551442-d74c-4f16-a9de-0cfdc88208a5",
-      "effects": []
+      "effects": [
+        "Buff"
+      ]
     },
     "492108b7-f831-4739-925f-c3a419859c52": {
       "name": "Mordor Muster",
@@ -67169,7 +67151,6 @@
       "rating": 1,
       "scryfallId": "1fd66433-b0e9-453d-9a27-ea0efb158dac",
       "effects": [
-        "Ramp",
         "ManaFixing"
       ]
     },
@@ -72654,9 +72635,7 @@
       "name": "Overgrown Arch",
       "rating": 1,
       "scryfallId": "a71dddf5-8f72-4018-9cc8-5f63a17f1ee5",
-      "effects": [
-        "Tutor"
-      ]
+      "effects": []
     },
     "4d52c4a5-e5c8-4fb4-be50-78d5482dd1ae": {
       "name": "Overgrown Estate",
@@ -75912,8 +75891,7 @@
       "rating": 1,
       "scryfallId": "e7006f43-0b10-4693-b06f-e7cf86ab4129",
       "effects": [
-        "Buff",
-        "Tutor"
+        "Buff"
       ]
     },
     "9780d975-acbe-40c6-b444-1e1e6b772788": {
@@ -76114,9 +76092,7 @@
       "name": "Pop Quiz",
       "rating": 1,
       "scryfallId": "d16892d8-9d10-45de-ab79-0e645c4b5588",
-      "effects": [
-        "Tutor"
-      ]
+      "effects": []
     },
     "bc2d0702-b140-4b78-8a8f-3a6d19073b59": {
       "name": "Poppet Stitcher // Poppet Factory",
@@ -77207,9 +77183,7 @@
       "name": "Professor of Symbology",
       "rating": 1,
       "scryfallId": "f427cf73-9f5e-4ef5-bc4f-29ffbfda9d57",
-      "effects": [
-        "Tutor"
-      ]
+      "effects": []
     },
     "b749e9e4-0f2a-4157-8cca-facd6b48157f": {
       "name": "Proft's Eidetic Memory",
@@ -81981,7 +81955,9 @@
       "name": "Reptilian Reflection",
       "rating": 1,
       "scryfallId": "7871b4dd-9085-4a3f-a1ae-9a292f73689b",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "a43ecf8b-5dc9-4ac4-ae1f-b663aa8c9d7b": {
       "name": "Repudiate // Replicate",
@@ -82354,9 +82330,7 @@
       "name": "Retriever Phoenix",
       "rating": 1,
       "scryfallId": "4dd6cb53-3c82-4ac3-be1e-311322729198",
-      "effects": [
-        "Tutor"
-      ]
+      "effects": []
     },
     "058dae67-807e-4542-ae51-f2b1216ffaed": {
       "name": "Retrofitted Transmogrant",
@@ -83338,8 +83312,7 @@
       "rating": 1,
       "scryfallId": "bbf97a71-485e-4d47-98de-bdf6f6dae0c2",
       "effects": [
-        "Removal",
-        "Tutor"
+        "Removal"
       ]
     },
     "d9d33dcd-3352-478e-afc4-40f2ff369c39": {
@@ -86636,7 +86609,9 @@
       "name": "Sanguine Statuette",
       "rating": 1,
       "scryfallId": "706fafd4-443f-4e16-972e-86c16f22670a",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "be2ab552-df82-49a0-8f0b-ee66de34e1a7": {
       "name": "Sanitation Automaton",
@@ -90180,7 +90155,6 @@
       "rating": 1,
       "scryfallId": "044bbf15-e71d-4f47-bac3-bba8021118bd",
       "effects": [
-        "Ramp",
         "ManaFixing"
       ]
     },
@@ -92984,7 +92958,6 @@
       "rating": 1,
       "scryfallId": "e588cc41-4b86-4e93-94e8-dd765b27ab63",
       "effects": [
-        "Ramp",
         "ManaFixing"
       ]
     },
@@ -97862,7 +97835,9 @@
       "name": "Startling Development",
       "rating": 1,
       "scryfallId": "a12680db-957f-48c1-9062-2edd9115ba26",
-      "effects": []
+      "effects": [
+        "Buff"
+      ]
     },
     "2ca969eb-3d79-4d1f-8d9d-7b8204ad166a": {
       "name": "Starving Revenant",
@@ -99341,9 +99316,7 @@
       "name": "Strongarm Thug",
       "rating": 1,
       "scryfallId": "20aa9108-470c-484d-908a-c31cf6935765",
-      "effects": [
-        "Regrowth"
-      ]
+      "effects": []
     },
     "ba5a2689-3578-4b1a-99d6-6b6d2356330e": {
       "name": "Strongbox Raider",
@@ -99475,7 +99448,6 @@
       "rating": 1,
       "scryfallId": "ef7cd813-0781-4fd7-8748-2716e1eeb4b9",
       "effects": [
-        "Tutor",
         "Pacify"
       ]
     },
@@ -100120,7 +100092,6 @@
       "rating": 1,
       "scryfallId": "70e888f9-c583-478a-9ef0-2e89db8a8dbb",
       "effects": [
-        "Ramp",
         "ManaFixing"
       ]
     },
@@ -103419,7 +103390,9 @@
       "name": "Testament of Faith",
       "rating": 1,
       "scryfallId": "f399b371-fed0-42b8-8f95-5d76fdbe193d",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "909e1bff-237a-4259-9c0f-419185681782": {
       "name": "Tethered Griffin",
