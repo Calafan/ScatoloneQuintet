@@ -15751,6 +15751,7 @@
       "scryfallId": "8dadcae0-f2b2-487c-bb93-0a2c073044c0",
       "effects": [
         "Reanimate",
+        "Burn",
         "Cheat"
       ]
     },
@@ -90852,6 +90853,7 @@
       "rating": 1,
       "scryfallId": "538ffe1e-c312-4797-99dd-9bf5f896bdc3",
       "effects": [
+        "Burn",
         "Cheat"
       ]
     },
@@ -98010,9 +98012,7 @@
       "name": "Steam Vines",
       "rating": 1,
       "scryfallId": "d3936053-b2ed-49b8-ab69-fe47a972cfe4",
-      "effects": [
-        "Burn"
-      ]
+      "effects": []
     },
     "8cbc0fa4-4f62-47e1-90dc-c21d2682a493": {
       "name": "Steamclaw",

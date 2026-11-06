@@ -2933,6 +2933,7 @@
       "rating": 0,
       "scryfallId": "a4d76d03-4fcf-42f8-8c2e-ad6b03d58677",
       "effects": [
+        "Removal",
         "Discard",
         "Burn",
         "Steal"
@@ -18375,7 +18376,6 @@
       "rating": 0,
       "scryfallId": "6a892711-a1a4-4402-957f-92077d00320d",
       "effects": [
-        "Burn",
         "LandDestruction"
       ]
     },
@@ -44603,7 +44603,9 @@
       "name": "Incandescent Soulstoke",
       "rating": 0,
       "scryfallId": "c8829b3c-5267-44c6-b709-c2dfc683b0a8",
-      "effects": []
+      "effects": [
+        "Burn"
+      ]
     },
     "d45a4924-daa0-4ac3-afd7-b66f636ce870": {
       "name": "Incendiary Command",
@@ -56222,6 +56224,7 @@
       "rating": 0,
       "scryfallId": "21157461-5435-4879-80a9-100afc5bbf4c",
       "effects": [
+        "Burn",
         "Cheat"
       ]
     },
@@ -56309,7 +56312,6 @@
       "rating": 0,
       "scryfallId": "1d94a1d1-6d24-46e1-9568-42e1a810ad31",
       "effects": [
-        "Burn",
         "LandDestruction"
       ]
     },
@@ -65981,7 +65983,6 @@
       "rating": 0,
       "scryfallId": "ed0a00f7-aee0-4ab2-bab6-bc0949176a7a",
       "effects": [
-        "Burn",
         "LandDestruction"
       ]
     },
@@ -67489,7 +67490,6 @@
       "rating": 0,
       "scryfallId": "cb86eeec-d50f-4823-86bd-35437926a6e4",
       "effects": [
-        "Burn",
         "LandDestruction"
       ]
     },
@@ -74805,9 +74805,7 @@
       "name": "Roiling Terrain",
       "rating": 0,
       "scryfallId": "87d3a425-01d1-4001-92f9-8e297dd862b7",
-      "effects": [
-        "Burn"
-      ]
+      "effects": []
     },
     "77fef82d-e8d0-444b-8d76-68e9b533f38b": {
       "name": "Roiling Waters",
@@ -83036,6 +83034,7 @@
       "rating": 0,
       "scryfallId": "6fc177ec-dcd5-409d-a278-d84c3e6d28fa",
       "effects": [
+        "Removal",
         "Steal"
       ]
     },
@@ -89793,7 +89792,8 @@
       "rating": 0,
       "scryfallId": "f62db9d7-3cc7-49cb-bffc-d2f9c286aa36",
       "effects": [
-        "Reanimate"
+        "Reanimate",
+        "Burn"
       ]
     },
     "44240b1e-c104-4eb4-8ab9-0d56607ba241": {
@@ -93910,6 +93910,7 @@
       "rating": 0,
       "scryfallId": "6da09e6a-2965-4855-bd41-41b41ba188fb",
       "effects": [
+        "Burn",
         "Cheat"
       ]
     },
