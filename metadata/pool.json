@@ -3668,8 +3668,7 @@
       "scryfallId": "e41c15fb-01a1-446e-9e88-71e8e95d9bce",
       "effects": [
         "LandDestruction"
-      ],
-      "reviewedAt": "2026-09-08T09:34:15.3407182+00:00"
+      ]
     },
     "837c5d0e-0a33-4f9d-ae25-68a687bdf640": {
       "name": "Chrome Host Seedshark",
@@ -10493,8 +10492,7 @@
       "scryfallId": "14b4dd4d-c617-4603-8a87-761ec6fc6883",
       "effects": [
         "LandDestruction"
-      ],
-      "reviewedAt": "2026-09-05T12:05:12.0043326+00:00"
+      ]
     },
     "1dc2c213-72f6-4112-96a8-bf6ad553c707": {
       "name": "Icingdeath, Frost Tyrant",
@@ -20461,8 +20459,7 @@
       "status": "Banned",
       "effects": [
         "LandDestruction"
-      ],
-      "reviewedAt": "2026-10-20T09:13:38.6953946+00:00"
+      ]
     },
     "319d5cf8-ab72-401e-b04e-c13a7a6c1aac": {
       "name": "Stern Dismissal",

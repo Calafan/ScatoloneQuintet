@@ -46779,8 +46779,7 @@
       "scryfallId": "db45122e-b5ef-487b-8ea9-59ea066d3c88",
       "effects": [
         "Burn"
-      ],
-      "reviewedAt": "2026-10-20T18:40:15.5727091+00:00"
+      ]
     },
     "c3ea33f4-17ac-41a4-8320-361b6f8aba0d": {
       "name": "Hellkite Punisher",
@@ -50194,8 +50193,7 @@
       "effects": [
         "Removal",
         "Steal"
-      ],
-      "reviewedAt": "2026-10-16T14:17:15.8685945+00:00"
+      ]
     },
     "c8689a83-cefa-4ef3-8ec1-58b4c64e332b": {
       "name": "In the Darkness Bind Them",
@@ -71986,8 +71984,7 @@
       "name": "Orcish Mine",
       "rating": 1,
       "scryfallId": "3a630875-b43d-4591-992c-117e1212fa34",
-      "effects": [],
-      "reviewedAt": "2026-09-05T10:31:34.6409942+00:00"
+      "effects": []
     },
     "0b16a650-68b0-44dc-a9e1-15b7966e0b18": {
       "name": "Orcish Oriflamme",
@@ -103155,8 +103152,7 @@
         "Wipe",
         "Burn",
         "Cheat"
-      ],
-      "reviewedAt": "2026-10-26T20:55:52.1524336+00:00"
+      ]
     },
     "56edd306-8676-49c4-b3c3-5ff840536c3a": {
       "name": "Termination Facilitator",
