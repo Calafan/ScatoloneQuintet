@@ -22794,6 +22794,7 @@
       "effects": [
         "Removal",
         "Filter",
+        "Reanimate",
         "Cheat"
       ]
     },
@@ -52057,7 +52058,9 @@
       "name": "Iridescent Drake",
       "rating": 1,
       "scryfallId": "70cbc36d-3391-4086-9b81-fb1ef0b83046",
-      "effects": []
+      "effects": [
+        "Reanimate"
+      ]
     },
     "3270265f-fa9f-4ef0-a1a3-a68fc2349bf1": {
       "name": "Iridescent Hornbeetle",
@@ -70097,7 +70100,9 @@
       "name": "Nomad Mythmaker",
       "rating": 1,
       "scryfallId": "9a5694fe-57d2-4359-857a-63213d986747",
-      "effects": []
+      "effects": [
+        "Reanimate"
+      ]
     },
     "4034bec6-e3c7-4d3f-81df-7c903977a606": {
       "name": "Nomad Stadium",
@@ -87673,6 +87678,7 @@
       "rating": 2,
       "scryfallId": "aa254a86-3c30-408d-9c14-befd472f9740",
       "effects": [
+        "Reanimate",
         "Regrowth"
       ]
     },
@@ -101169,7 +101175,6 @@
       "rating": 1,
       "scryfallId": "45f2ab6e-019e-4e72-be06-9c8cd97d54d4",
       "effects": [
-        "Reanimate",
         "Protection"
       ]
     },

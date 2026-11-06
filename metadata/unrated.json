@@ -19501,6 +19501,7 @@
         "Tokens",
         "Removal",
         "Disenchant",
+        "Reanimate",
         "Sacrifice"
       ]
     },
@@ -60330,6 +60331,7 @@
       "scryfallId": "9a226eae-1c77-45a9-9115-f846b76681a3",
       "effects": [
         "Tokens",
+        "Reanimate",
         "Cheat"
       ]
     },
@@ -62446,7 +62448,6 @@
       "scryfallId": "dbca168e-095f-4fbc-88f8-3048d83caf94",
       "effects": [
         "Bounce",
-        "Reanimate",
         "Protection"
       ]
     },
@@ -68706,7 +68707,7 @@
       "scryfallId": "1d94ff37-f04e-48ee-8253-d62ab07f0632",
       "effects": [
         "Removal",
-        "Reanimate",
+        "Steal",
         "ManaFixing"
       ]
     },
@@ -82127,7 +82128,7 @@
       "rating": 0,
       "scryfallId": "d214d25b-96c3-4479-88f0-3996805d6e6f",
       "effects": [
-        "Reanimate"
+        "Steal"
       ]
     },
     "25d35e3e-ece8-4c94-9dbc-d076a52fca0d": {
@@ -100016,6 +100017,7 @@
       "rating": 0,
       "scryfallId": "60178b2b-a049-4254-b754-b56910cece84",
       "effects": [
+        "Reanimate",
         "Regrowth"
       ]
     },
