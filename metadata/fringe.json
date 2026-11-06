@@ -18788,7 +18788,6 @@
       "rating": 1,
       "scryfallId": "1ad7692d-5a51-493f-a322-7b615446ea8e",
       "effects": [
-        "Ramp",
         "ManaFixing"
       ],
       "reviewedAt": "2026-09-04T15:06:42.2754635+00:00"
@@ -25961,6 +25960,7 @@
       "rating": 1,
       "scryfallId": "6e29bae1-0643-4781-9edc-50a8e6d1a3a1",
       "effects": [
+        "Tokens",
         "ManaFixing"
       ],
       "reviewedAt": "2026-11-03T18:37:26.5849245+00:00"
@@ -27051,8 +27051,7 @@
       "rating": 2,
       "scryfallId": "8c927707-abb5-4a9d-ac53-25df182d6e9b",
       "effects": [
-        "Tokens",
-        "Burn"
+        "Tokens"
       ],
       "reviewedAt": "2026-11-05T10:21:28.3154875+00:00"
     },
@@ -30018,9 +30017,7 @@
       "name": "Elderfang Ritualist",
       "rating": 1,
       "scryfallId": "57348f93-8764-4b1a-b02e-4e7881337fa2",
-      "effects": [
-        "Regrowth"
-      ],
+      "effects": [],
       "reviewedAt": "2026-11-05T10:23:51.0478956+00:00"
     },
     "4741d842-12e6-4a8c-96b1-9e68c7074874": {
@@ -30042,7 +30039,8 @@
       "scryfallId": "78ee2013-29dc-4879-9d59-1b492996d297",
       "effects": [
         "Tokens",
-        "Removal"
+        "Removal",
+        "Protection"
       ],
       "reviewedAt": "2026-09-12T10:21:11.6616374+00:00"
     },
@@ -36230,6 +36228,7 @@
       "rating": 1,
       "scryfallId": "a59f4e5c-fdc7-485f-aadb-2a71b3701dcc",
       "effects": [
+        "CardAdvantage",
         "Burn"
       ],
       "reviewedAt": "2026-10-20T19:48:23.8334444+00:00"
@@ -39492,9 +39491,7 @@
       "name": "Gallifrey Stands",
       "rating": 1,
       "scryfallId": "dd1f865e-759e-4303-81b5-74a558d270ec",
-      "effects": [
-        "Regrowth"
-      ],
+      "effects": [],
       "reviewedAt": "2026-10-15T12:10:34.570738+00:00"
     },
     "4a4418fa-7574-4027-aa09-4ca789be15ba": {
@@ -55874,6 +55871,7 @@
       "rating": 1,
       "scryfallId": "56b2b413-e00f-440d-9d27-92eb069b8c71",
       "effects": [
+        "Buff",
         "Burn"
       ],
       "reviewedAt": "2026-10-20T18:43:33.8066994+00:00"
@@ -65021,7 +65019,7 @@
       "rating": 1,
       "scryfallId": "0556f0d9-50d2-4c67-8522-de366d96500a",
       "effects": [
-        "Pacify"
+        "RemovePermanent"
       ],
       "reviewedAt": "2026-11-05T14:53:05.8034486+00:00"
     },
@@ -65248,9 +65246,7 @@
       "name": "Mirkwood Elk",
       "rating": 1,
       "scryfallId": "1cf84c03-a131-451b-99ee-64330c1f2e26",
-      "effects": [
-        "Regrowth"
-      ],
+      "effects": [],
       "reviewedAt": "2026-10-09T10:56:00.3514559+00:00"
     },
     "07fb2903-b239-43d0-864b-c4437b7a5230": {
@@ -66724,7 +66720,8 @@
       "rating": 1,
       "scryfallId": "2da97319-de80-4d71-82fc-715109cf8e2c",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Burn"
       ],
       "reviewedAt": "2026-10-09T10:40:45.747857+00:00"
     },
@@ -67419,9 +67416,7 @@
       "name": "Mtenda Griffin",
       "rating": 1,
       "scryfallId": "162dd988-0beb-48e4-9eaa-a08ddb835648",
-      "effects": [
-        "Regrowth"
-      ],
+      "effects": [],
       "reviewedAt": "2026-09-08T09:16:49.1327932+00:00"
     },
     "0edf5bac-36a9-4f35-afd1-73f7e1aab51b": {
@@ -67469,9 +67464,7 @@
       "name": "Mudflat Village",
       "rating": 1,
       "scryfallId": "53ec4ad3-9cf0-4f1b-a9db-d63feee594ab",
-      "effects": [
-        "Regrowth"
-      ],
+      "effects": [],
       "reviewedAt": "2026-09-23T21:46:37.9001782+00:00"
     },
     "ce5ca56a-fce8-4e19-807f-7b8638fe4bcf": {
@@ -73008,7 +73001,8 @@
       "rating": 1,
       "scryfallId": "c5b3d118-ba4b-4a93-92a2-cd763de49d29",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Burn"
       ],
       "reviewedAt": "2026-11-05T10:14:12.0568215+00:00"
     },
@@ -73119,8 +73113,7 @@
       "rating": 1,
       "scryfallId": "2e13b103-202f-41d7-a855-a6807e5fb4b7",
       "effects": [
-        "Buff",
-        "Protection"
+        "Buff"
       ],
       "reviewedAt": "2026-11-05T11:33:46.2984454+00:00"
     },
@@ -93971,7 +93964,8 @@
       "rating": 1,
       "scryfallId": "13253f8d-1897-41e8-a904-9e57ac7eff0a",
       "effects": [
-        "Steal"
+        "Steal",
+        "Mill"
       ],
       "reviewedAt": "2026-10-06T14:46:13.2784379+00:00"
     },
@@ -95556,8 +95550,7 @@
       "rating": 1,
       "scryfallId": "bf2d8dab-71f3-4da7-a4b1-ed3309a4c756",
       "effects": [
-        "Tokens",
-        "Regrowth"
+        "Tokens"
       ],
       "reviewedAt": "2026-09-23T10:18:55.848855+00:00"
     },
@@ -98511,7 +98504,8 @@
       "rating": 2,
       "scryfallId": "f53f39e9-f07e-444f-8420-4545e56253e5",
       "effects": [
-        "Ramp"
+        "Ramp",
+        "ManaFixing"
       ],
       "reviewedAt": "2026-11-05T15:03:54.5328793+00:00"
     },
@@ -99716,7 +99710,9 @@
       "name": "Suit Up",
       "rating": 1,
       "scryfallId": "50870bfd-7779-4a1c-b18f-57fac7e193b1",
-      "effects": [],
+      "effects": [
+        "Buff"
+      ],
       "reviewedAt": "2026-10-23T11:49:02.1584057+00:00"
     },
     "558513bb-a76d-434a-98fc-3707a5d8886a": {
@@ -107634,9 +107630,7 @@
       "name": "Tombstone, Career Criminal",
       "rating": 1,
       "scryfallId": "313189ef-fe6e-4511-9386-920a88a49a88",
-      "effects": [
-        "Regrowth"
-      ],
+      "effects": [],
       "reviewedAt": "2026-10-26T22:00:30.2706724+00:00"
     },
     "e4a68bb3-5a79-4764-8223-acddd16fb660": {
@@ -113800,7 +113794,7 @@
       "rating": 1,
       "scryfallId": "de108ae1-7201-4849-9f68-92edff66649c",
       "effects": [
-        "Buff"
+        "CardAdvantage"
       ],
       "reviewedAt": "2026-11-03T18:55:21.0360369+00:00"
     },
