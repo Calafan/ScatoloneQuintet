@@ -4604,7 +4604,8 @@
       "rating": 1,
       "scryfallId": "0cf81c9d-ddb2-470e-8a4a-590049713e95",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Filter"
       ]
     },
     "ae1df2ad-f34c-4569-92f2-98be776c612d": {
@@ -101373,9 +101374,7 @@
       "name": "Tahngarth's Glare",
       "rating": 1,
       "scryfallId": "442a4331-99ce-405e-b261-19b7f3375ddf",
-      "effects": [
-        "Filter"
-      ]
+      "effects": []
     },
     "5b0cb089-087d-4b91-9e63-8186dc737a00": {
       "name": "Tahngarth's Rage",
@@ -103804,7 +103803,8 @@
       "rating": 1,
       "scryfallId": "8eae4481-977f-4bb7-bb1a-ab7100e6ba47",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Filter"
       ]
     },
     "f0435065-a8ca-4b4d-a7da-0ef41749118f": {
@@ -105685,6 +105685,7 @@
       "rating": 1,
       "scryfallId": "0ff1f608-203e-4413-8753-37fc49731c87",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -105693,6 +105694,7 @@
       "rating": 1,
       "scryfallId": "2422973d-36ee-4b8c-9a47-fcd160aa9f63",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },

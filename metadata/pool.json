@@ -14461,7 +14461,8 @@
       "scryfallId": "bdf894d4-1a06-4952-a481-22786ab87a73",
       "effects": [
         "Ramp",
-        "CardAdvantage"
+        "CardAdvantage",
+        "Filter"
       ]
     },
     "4d1b655f-05b8-4b82-9cb9-67660f570a9b": {
@@ -22442,6 +22443,7 @@
       "rating": 4,
       "scryfallId": "1ea179e9-9c0d-46c1-9ee8-60be68e1f79c",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },

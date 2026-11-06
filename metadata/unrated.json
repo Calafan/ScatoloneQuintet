@@ -14422,6 +14422,7 @@
       "rating": 0,
       "scryfallId": "98291778-2ec2-47e2-ac99-5f8cfbb3cf24",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -34323,7 +34324,8 @@
       "scryfallId": "81dfbfe1-143a-4637-b683-a34cfc51993d",
       "effects": [
         "Ramp",
-        "CardAdvantage"
+        "CardAdvantage",
+        "Filter"
       ]
     },
     "85e1556d-c4da-4979-a5db-4ce3842c7797": {
@@ -34682,7 +34684,9 @@
       "name": "Genesis Storm",
       "rating": 0,
       "scryfallId": "066578ed-ffaf-473d-87b8-e614035748b6",
-      "effects": []
+      "effects": [
+        "Filter"
+      ]
     },
     "e2487868-f386-438e-a73f-b494f6d35fac": {
       "name": "Genesis Wave",
@@ -39444,7 +39448,7 @@
       "scryfallId": "8e622878-0aea-4401-873e-d34bf05ee98d",
       "effects": [
         "Removal",
-        "Filter"
+        "CardAdvantage"
       ]
     },
     "38a3e144-93ad-497b-9b29-7040b6f337e1": {
@@ -59712,6 +59716,7 @@
       "rating": 0,
       "scryfallId": "71cb4a6b-b500-4b28-bcdb-ec4188242f39",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -60103,6 +60108,7 @@
       "rating": 0,
       "scryfallId": "d169f469-10d5-4ae8-88fe-12a8e20ab01b",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -87430,7 +87436,9 @@
       "name": "Stone Docent",
       "rating": 0,
       "scryfallId": "c2abfffb-bf36-44af-9a27-6e109e4d77dd",
-      "effects": []
+      "effects": [
+        "Filter"
+      ]
     },
     "7cfb32af-ac59-4459-ac9e-2762488e9180": {
       "name": "Stone Golem",
@@ -93069,6 +93077,7 @@
       "rating": 0,
       "scryfallId": "c3949f8c-d1c5-45c2-80ed-a57f4f9af86e",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -93468,7 +93477,6 @@
       "rating": 0,
       "scryfallId": "b6f8df33-a955-403c-aafc-85e5589c5041",
       "effects": [
-        "Filter",
         "Sacrifice"
       ]
     },
@@ -95414,6 +95422,7 @@
       "rating": 0,
       "scryfallId": "a0f0353c-f1e0-49db-9edc-eea9090de872",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -98434,6 +98443,7 @@
       "rating": 0,
       "scryfallId": "d6bead8b-a67f-4451-9d44-038f8688093f",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },
@@ -100829,7 +100839,8 @@
       "rating": 0,
       "scryfallId": "37f2571b-6756-462c-9e71-3121fa458160",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Filter"
       ]
     },
     "5e2b30d2-81e9-40cd-86dd-3ec5dd06ced0": {
