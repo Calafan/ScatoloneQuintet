@@ -18789,8 +18789,7 @@
       "scryfallId": "1ad7692d-5a51-493f-a322-7b615446ea8e",
       "effects": [
         "ManaFixing"
-      ],
-      "reviewedAt": "2026-09-04T15:06:42.2754635+00:00"
+      ]
     },
     "49f1dd11-aa10-442d-aaca-dd94d1ca108a": {
       "name": "Coalborn Entity",
@@ -25958,8 +25957,7 @@
       "effects": [
         "Tokens",
         "ManaFixing"
-      ],
-      "reviewedAt": "2026-11-03T18:37:26.5849245+00:00"
+      ]
     },
     "d558b465-75c6-450e-b1f2-5843ad67de71": {
       "name": "Dire Wolf Prowler",
@@ -30013,8 +30011,7 @@
       "name": "Elderfang Ritualist",
       "rating": 1,
       "scryfallId": "57348f93-8764-4b1a-b02e-4e7881337fa2",
-      "effects": [],
-      "reviewedAt": "2026-11-05T10:23:51.0478956+00:00"
+      "effects": []
     },
     "4741d842-12e6-4a8c-96b1-9e68c7074874": {
       "name": "Elderfang Venom",
@@ -30037,8 +30034,7 @@
         "Tokens",
         "Removal",
         "Protection"
-      ],
-      "reviewedAt": "2026-09-12T10:21:11.6616374+00:00"
+      ]
     },
     "db432387-58d3-4473-9442-b5b586dbea38": {
       "name": "Eldrazi Linebreaker",
@@ -36222,8 +36218,7 @@
       "effects": [
         "CardAdvantage",
         "Burn"
-      ],
-      "reviewedAt": "2026-10-20T19:48:23.8334444+00:00"
+      ]
     },
     "cbbea4e2-4b36-4965-89b6-00d2a564f146": {
       "name": "First-Time Flyer",
@@ -39483,8 +39478,7 @@
       "name": "Gallifrey Stands",
       "rating": 1,
       "scryfallId": "dd1f865e-759e-4303-81b5-74a558d270ec",
-      "effects": [],
-      "reviewedAt": "2026-10-15T12:10:34.570738+00:00"
+      "effects": []
     },
     "4a4418fa-7574-4027-aa09-4ca789be15ba": {
       "name": "Gallowbraid",
@@ -55856,8 +55850,7 @@
       "effects": [
         "Buff",
         "Burn"
-      ],
-      "reviewedAt": "2026-10-20T18:43:33.8066994+00:00"
+      ]
     },
     "e4f4c41b-2533-497f-96bb-7083ef597268": {
       "name": "Kinzu of the Bleak Coven",
@@ -65227,8 +65220,7 @@
       "name": "Mirkwood Elk",
       "rating": 1,
       "scryfallId": "1cf84c03-a131-451b-99ee-64330c1f2e26",
-      "effects": [],
-      "reviewedAt": "2026-10-09T10:56:00.3514559+00:00"
+      "effects": []
     },
     "07fb2903-b239-43d0-864b-c4437b7a5230": {
       "name": "Mirkwood Spider",
@@ -66702,8 +66694,7 @@
       "effects": [
         "CardAdvantage",
         "Burn"
-      ],
-      "reviewedAt": "2026-10-09T10:40:45.747857+00:00"
+      ]
     },
     "c48df45c-3513-4d56-aed6-30c2f3a759cd": {
       "name": "Monumental Henge",
@@ -67397,8 +67388,7 @@
       "name": "Mtenda Griffin",
       "rating": 1,
       "scryfallId": "162dd988-0beb-48e4-9eaa-a08ddb835648",
-      "effects": [],
-      "reviewedAt": "2026-09-08T09:16:49.1327932+00:00"
+      "effects": []
     },
     "0edf5bac-36a9-4f35-afd1-73f7e1aab51b": {
       "name": "Mtenda Herder",
@@ -67445,8 +67435,7 @@
       "name": "Mudflat Village",
       "rating": 1,
       "scryfallId": "53ec4ad3-9cf0-4f1b-a9db-d63feee594ab",
-      "effects": [],
-      "reviewedAt": "2026-09-23T21:46:37.9001782+00:00"
+      "effects": []
     },
     "ce5ca56a-fce8-4e19-807f-7b8638fe4bcf": {
       "name": "Mudhole",
@@ -72982,8 +72971,7 @@
       "effects": [
         "CardAdvantage",
         "Burn"
-      ],
-      "reviewedAt": "2026-11-05T10:14:12.0568215+00:00"
+      ]
     },
     "e02fff6b-9ee4-474f-97fc-d70d4bc8001b": {
       "name": "Pactdoll Terror",
@@ -93939,8 +93927,7 @@
       "effects": [
         "Steal",
         "Mill"
-      ],
-      "reviewedAt": "2026-10-06T14:46:13.2784379+00:00"
+      ]
     },
     "feb5e9a9-500a-4f20-881d-c97d052953ce": {
       "name": "Snag",
@@ -95524,8 +95511,7 @@
       "scryfallId": "bf2d8dab-71f3-4da7-a4b1-ed3309a4c756",
       "effects": [
         "Tokens"
-      ],
-      "reviewedAt": "2026-09-23T10:18:55.848855+00:00"
+      ]
     },
     "f0357833-80b5-40ba-874a-bd22ea6e4e46": {
       "name": "Spawning Kraken",
@@ -99684,8 +99670,7 @@
       "scryfallId": "50870bfd-7779-4a1c-b18f-57fac7e193b1",
       "effects": [
         "Buff"
-      ],
-      "reviewedAt": "2026-10-23T11:49:02.1584057+00:00"
+      ]
     },
     "558513bb-a76d-434a-98fc-3707a5d8886a": {
       "name": "Suki, Kyoshi Captain",
@@ -107603,8 +107588,7 @@
       "name": "Tombstone, Career Criminal",
       "rating": 1,
       "scryfallId": "313189ef-fe6e-4511-9386-920a88a49a88",
-      "effects": [],
-      "reviewedAt": "2026-10-26T22:00:30.2706724+00:00"
+      "effects": []
     },
     "e4a68bb3-5a79-4764-8223-acddd16fb660": {
       "name": "Tome Anima",
