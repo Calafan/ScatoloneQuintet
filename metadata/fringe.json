@@ -1764,8 +1764,7 @@
         "CardAdvantage",
         "Filter",
         "Buff"
-      ],
-      "reviewedAt": "2026-10-16T14:57:37.6307624+00:00"
+      ]
     },
     "c3974ec7-7af0-4b65-baf6-4c1c4fe8a5c4": {
       "name": "Ajani, Strength of the Pride",
@@ -9920,8 +9919,7 @@
       "effects": [
         "CardAdvantage",
         "Filter"
-      ],
-      "reviewedAt": "2026-09-11T13:47:06.9221242+00:00"
+      ]
     },
     "ff387264-31da-4f6b-88c6-2843f56acbda": {
       "name": "Bite Down on Crime",
@@ -13480,8 +13478,7 @@
         "CardAdvantage",
         "Filter",
         "ManaFixing"
-      ],
-      "reviewedAt": "2026-09-23T10:22:37.4209137+00:00"
+      ]
     },
     "814adb99-6100-4c36-96d9-763bc20dca5d": {
       "name": "Builder's Bane",
@@ -14100,8 +14097,7 @@
       "effects": [
         "CardAdvantage",
         "Filter"
-      ],
-      "reviewedAt": "2026-11-03T19:03:16.2917733+00:00"
+      ]
     },
     "36d8b701-f5dc-42c0-9869-268f8149cbd1": {
       "name": "Cabaretti Charm",
@@ -85928,8 +85924,7 @@
         "Ramp",
         "CardAdvantage",
         "Filter"
-      ],
-      "reviewedAt": "2026-10-10T19:45:36.9359182+00:00"
+      ]
     },
     "20f602b3-814f-406c-b7eb-2d1fc98f8cf1": {
       "name": "Saheeli, Radiant Creator",
@@ -86824,8 +86819,7 @@
       "effects": [
         "CardAdvantage",
         "Filter"
-      ],
-      "reviewedAt": "2026-10-23T06:20:07.0820963+00:00"
+      ]
     },
     "30f058f8-5777-4c25-b881-8f1d0ce17d3a": {
       "name": "Sarkhan's Resolve",
@@ -96821,8 +96815,7 @@
       "name": "Splitskin Doll",
       "rating": 1,
       "scryfallId": "0453be94-e59b-48f1-a488-7a9fd96a627e",
-      "effects": [],
-      "reviewedAt": "2026-09-23T13:38:45.2300206+00:00"
+      "effects": []
     },
     "178828a5-c202-4503-9755-fc6bb2390209": {
       "name": "Splitting the Powerstone",
@@ -116184,8 +116177,7 @@
       "effects": [
         "CardAdvantage",
         "Filter"
-      ],
-      "reviewedAt": "2026-10-22T14:39:50.1981725+00:00"
+      ]
     },
     "73d0b29a-5b7a-4835-9bd4-5d00e685b851": {
       "name": "Weatherseed Elf",
