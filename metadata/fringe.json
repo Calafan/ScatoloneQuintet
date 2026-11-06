@@ -67034,8 +67034,10 @@
       "rating": 1,
       "scryfallId": "9693e59b-032d-4ddc-a7d1-88a0f52dcc6c",
       "effects": [
+        "Ramp",
         "Buff"
-      ]
+      ],
+      "reviewedAt": "2026-11-06T08:38:13.5217167+00:00"
     },
     "19f233b2-8be6-4172-abf9-b132fc3393d9": {
       "name": "Morphling",
