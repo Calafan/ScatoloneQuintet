@@ -54496,6 +54496,7 @@
       "rating": 0,
       "scryfallId": "3a66dce4-3582-44f0-bb5d-3d94044b32e9",
       "effects": [
+        "CardAdvantage",
         "Regrowth"
       ]
     },
@@ -58271,6 +58272,7 @@
       "rating": 0,
       "scryfallId": "6b5e28e8-1e6d-4e7f-bc85-427bb39ae14b",
       "effects": [
+        "CardAdvantage",
         "Regrowth"
       ]
     },
@@ -65754,6 +65756,7 @@
       "rating": 0,
       "scryfallId": "23af6033-4930-48e4-821d-14cbbe1754b4",
       "effects": [
+        "CardAdvantage",
         "Regrowth"
       ]
     },
@@ -100640,6 +100643,7 @@
       "rating": 0,
       "scryfallId": "5604cee1-a2ea-48ed-88f4-6878bd053fc8",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },

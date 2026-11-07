@@ -64867,7 +64867,9 @@
       "name": "Mind's Desire",
       "rating": 1,
       "scryfallId": "3c7474e1-cfae-4867-a11a-d5cf9ff7ea5f",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "63fd2a57-7a47-4e07-947c-f4e9da7ee538": {
       "name": "Mind's Eye",
@@ -119424,6 +119426,7 @@
       "rating": 2,
       "scryfallId": "6d3e3c3a-d351-4d91-8884-312d4b6f540d",
       "effects": [
+        "CardAdvantage",
         "Regrowth"
       ]
     },
