@@ -7277,7 +7277,7 @@
       "rating": 4,
       "scryfallId": "a743a3b6-3278-4644-a2d5-acf495c273ed",
       "effects": [
-        "Filter"
+        "CardAdvantage"
       ],
       "reviewedAt": "2026-11-05T13:35:43.2825738+00:00"
     },
@@ -14964,6 +14964,7 @@
       "rating": 4,
       "scryfallId": "7d8238dd-858f-466c-96de-986bd66861d7",
       "effects": [
+        "CardAdvantage",
         "Regrowth"
       ],
       "reviewedAt": "2026-09-23T10:34:24.2029741+00:00"
@@ -18804,6 +18805,7 @@
       "rating": 4,
       "scryfallId": "ce295f1e-fb31-4275-a5d3-8c6f29afff40",
       "effects": [
+        "CardAdvantage",
         "Regrowth"
       ],
       "reviewedAt": "2026-10-23T07:16:29.9138871+00:00"
@@ -23810,6 +23812,7 @@
         "Removal",
         "Wipe",
         "Ramp",
+        "CardAdvantage",
         "Burn",
         "ManaFixing",
         "Regrowth"
