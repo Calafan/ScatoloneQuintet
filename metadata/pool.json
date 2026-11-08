@@ -389,7 +389,10 @@
       "name": "Alchemist's Retrieval",
       "rating": 4,
       "scryfallId": "edbf9d4f-6027-40b8-81c1-7f001a9119dd",
-      "effects": []
+      "effects": [
+        "Bounce",
+        "Protection"
+      ]
     },
     "683a06b6-af77-440f-81b9-8958597a7324": {
       "name": "Alert Heedbonder",
@@ -7607,7 +7610,9 @@
       "name": "Fierce Retribution",
       "rating": 3,
       "scryfallId": "9597b163-5c6b-4f64-b1f1-5f1fa2e23e5d",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "026f4a4b-eedd-44e1-9d37-ca4fb8d6db98": {
       "name": "Fiery Islet",

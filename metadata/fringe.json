@@ -5776,7 +5776,6 @@
       "rating": 1,
       "scryfallId": "a5e6b864-58e7-43b9-9d79-1d0361340960",
       "effects": [
-        "Bounce",
         "CardAdvantage"
       ]
     },
@@ -6327,7 +6326,9 @@
       "name": "Aura Extraction",
       "rating": 1,
       "scryfallId": "55d16883-5e98-4dd2-92dd-0ba92f1099cb",
-      "effects": []
+      "effects": [
+        "Bounce"
+      ]
     },
     "128304af-4555-4276-bf26-638017beb3ff": {
       "name": "Aura Flux",
@@ -25748,7 +25749,10 @@
       "name": "Dig Up",
       "rating": 1,
       "scryfallId": "8f14c947-2452-4fd6-8f1a-391cf5898100",
-      "effects": []
+      "effects": [
+        "Tutor",
+        "ManaFixing"
+      ]
     },
     "144e3d90-8ed8-4c21-941d-fc59cec042a2": {
       "name": "Dig Up the Body",
@@ -31346,7 +31350,6 @@
       "rating": 1,
       "scryfallId": "b76843b0-0e71-473b-8c9b-6a8bc30255da",
       "effects": [
-        "Bounce",
         "Regrowth"
       ]
     },
@@ -50523,9 +50526,7 @@
       "name": "Infernal Caretaker",
       "rating": 1,
       "scryfallId": "8a028a30-6242-4d87-9501-d1826ecb69b0",
-      "effects": [
-        "Bounce"
-      ]
+      "effects": []
     },
     "4372205f-45e6-49c7-b1fd-13a41e20d4de": {
       "name": "Infernal Contract",
@@ -60044,7 +60045,9 @@
       "name": "Looming Hoverguard",
       "rating": 1,
       "scryfallId": "29de2f4c-81a6-42c7-94d1-f9109c3331ff",
-      "effects": []
+      "effects": [
+        "Bounce"
+      ]
     },
     "3ce8560d-dc68-4551-81c9-3a7b8d8da9a1": {
       "name": "Looming Shade",
@@ -60850,7 +60853,9 @@
       "name": "Lunar Rejection",
       "rating": 1,
       "scryfallId": "0f66511c-355f-4e8a-96fc-3afc7a315231",
-      "effects": []
+      "effects": [
+        "Bounce"
+      ]
     },
     "34c65c7f-33ab-4f91-84ce-d0c8f4fc5832": {
       "name": "Lunatic Pandora",
@@ -64188,6 +64193,7 @@
       "rating": 1,
       "scryfallId": "a0f0c20c-184e-4d27-ae8b-933abb6fee0c",
       "effects": [
+        "Bounce",
         "Ramp"
       ]
     },
@@ -73342,7 +73348,9 @@
       "name": "Parasitic Grasp",
       "rating": 1,
       "scryfallId": "0713adf7-1770-4d5b-80f7-d6cbd24f7890",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "ff3de07d-86c3-49e1-9de0-97c85301ff93": {
       "name": "Parasitic Impetus",
@@ -83753,7 +83761,9 @@
       "name": "Roaming Ghostlight",
       "rating": 1,
       "scryfallId": "8cbac0e4-f79f-476d-b410-d19ab3696606",
-      "effects": []
+      "effects": [
+        "Bounce"
+      ]
     },
     "3640c29b-1534-4952-b297-619ade948431": {
       "name": "Roaming Throne",
@@ -86664,7 +86674,6 @@
       "rating": 1,
       "scryfallId": "a9f50964-1b57-426a-ac46-c90c045c7e40",
       "effects": [
-        "Bounce",
         "Disenchant"
       ]
     },
@@ -88358,7 +88367,9 @@
       "name": "Sea God's Scorn",
       "rating": 1,
       "scryfallId": "9504dc26-f5d8-4b9d-9eb1-51a12b893beb",
-      "effects": []
+      "effects": [
+        "Bounce"
+      ]
     },
     "788a1d3f-8d73-4ecd-97ac-77906a873cfe": {
       "name": "Sea Hag // Aquatic Ingress",
@@ -90513,6 +90524,7 @@
       "rating": 1,
       "scryfallId": "191d1ab9-cd9e-4351-9acd-d7a57b963253",
       "effects": [
+        "Bounce",
         "Pacify"
       ]
     },
@@ -102899,7 +102911,9 @@
       "name": "Temporal Spring",
       "rating": 2,
       "scryfallId": "b584dfd1-a56c-406e-8504-47ea136dc102",
-      "effects": []
+      "effects": [
+        "Bounce"
+      ]
     },
     "4f9c66f9-f5d4-499d-9325-e779e6612bca": {
       "name": "Temporary Insanity",

@@ -6383,7 +6383,9 @@
       "name": "Banishment Decree",
       "rating": 0,
       "scryfallId": "2c5f605c-9d16-493e-bc44-0e15bdf8c0bf",
-      "effects": []
+      "effects": [
+        "Bounce"
+      ]
     },
     "10a66403-606d-4814-9583-50cdcd6976e0": {
       "name": "Bankrupt in Blood",
@@ -6458,7 +6460,9 @@
       "name": "Baral's Expertise",
       "rating": 0,
       "scryfallId": "d273f5b7-b3a3-485a-acc8-34e10a504646",
-      "effects": []
+      "effects": [
+        "Bounce"
+      ]
     },
     "baf80db7-2ca8-4bfc-b5b6-25ed51878dd7": {
       "name": "Baral, Chief of Compliance",
@@ -23056,7 +23060,6 @@
       "rating": 0,
       "scryfallId": "b7796925-fe69-4019-82ab-7cb75760b045",
       "effects": [
-        "Bounce",
         "Regrowth"
       ]
     },
@@ -23809,6 +23812,7 @@
       "rating": 0,
       "scryfallId": "6328e6b5-9dfb-4fd4-99ee-a1ffc2c707da",
       "effects": [
+        "Bounce",
         "Tutor"
       ]
     },
@@ -37451,7 +37455,9 @@
       "name": "Gone Missing",
       "rating": 0,
       "scryfallId": "e88ae6bf-9c58-4543-ba66-19ea41d01e9b",
-      "effects": []
+      "effects": [
+        "Bounce"
+      ]
     },
     "69428825-3c40-486d-b051-14e97a598ce6": {
       "name": "Gonti's Aether Heart",
@@ -37866,7 +37872,6 @@
       "rating": 0,
       "scryfallId": "0f0a08a8-bbb9-4816-b03c-af4d729fce45",
       "effects": [
-        "Bounce",
         "Regrowth"
       ]
     },
@@ -50940,7 +50945,9 @@
       "name": "Lashweed Lurker",
       "rating": 0,
       "scryfallId": "a13f9a76-3370-4809-88ff-c300bca31c9e",
-      "effects": []
+      "effects": [
+        "Bounce"
+      ]
     },
     "066ba81e-b32d-4808-97ab-0b5f52d557e4": {
       "name": "Lashwrithe",
@@ -57600,7 +57607,6 @@
       "rating": 0,
       "scryfallId": "eee9dce2-3d2c-4ac4-a61e-3e352b6d4557",
       "effects": [
-        "Bounce",
         "Regrowth"
       ]
     },
@@ -60548,7 +60554,6 @@
       "scryfallId": "47748c3a-c60a-4f2e-9eb8-2675c067bb9c",
       "effects": [
         "Removal",
-        "Bounce",
         "Pacify",
         "Regrowth"
       ]
@@ -61229,7 +61234,9 @@
       "name": "Nevermaker",
       "rating": 0,
       "scryfallId": "e1fa77d1-cd61-4ef8-a71f-7c92b1f3b074",
-      "effects": []
+      "effects": [
+        "Bounce"
+      ]
     },
     "0a1f4892-c9fa-4c60-a41e-7986cdd59096": {
       "name": "Nevermore",
@@ -62376,7 +62383,6 @@
       "rating": 0,
       "scryfallId": "dbca168e-095f-4fbc-88f8-3048d83caf94",
       "effects": [
-        "Bounce",
         "Protection"
       ]
     },
@@ -67208,6 +67214,7 @@
       "rating": 0,
       "scryfallId": "c4effc17-0d0e-423a-b5f2-597ea6c71f67",
       "effects": [
+        "Bounce",
         "Filter"
       ]
     },
@@ -68216,6 +68223,7 @@
       "rating": 0,
       "scryfallId": "40d2c5b9-cef9-4763-8e65-e3b1418c0ad3",
       "effects": [
+        "Bounce",
         "Tutor"
       ]
     },
@@ -69244,7 +69252,6 @@
       "rating": 0,
       "scryfallId": "c0c8057f-b45b-4f67-90cd-c808b5e9cbfa",
       "effects": [
-        "Bounce",
         "Regrowth"
       ]
     },
@@ -72836,7 +72843,9 @@
       "name": "Repulsor Bots",
       "rating": 0,
       "scryfallId": "a9982511-0486-4d23-9932-78dc52f846f3",
-      "effects": []
+      "effects": [
+        "Bounce"
+      ]
     },
     "053a90b8-61b1-4390-afc0-c5eaef0138a9": {
       "name": "Repulsor Rays",
@@ -73503,7 +73512,6 @@
       "rating": 0,
       "scryfallId": "8b0aa3c8-9e11-4917-956b-35b77a100761",
       "effects": [
-        "Bounce",
         "Regrowth"
       ]
     },
@@ -79398,7 +79406,9 @@
       "name": "Set Adrift",
       "rating": 0,
       "scryfallId": "cdad122d-a872-449f-9a7c-0f054b711d11",
-      "effects": []
+      "effects": [
+        "Bounce"
+      ]
     },
     "e2886098-0309-4da5-b2e5-a06af5cfe5b8": {
       "name": "Setessan Battle Priest",
@@ -89429,7 +89439,7 @@
       "rating": 0,
       "scryfallId": "135c0696-d86d-4e48-988c-5c218de451fc",
       "effects": [
-        "RemovePermanent"
+        "Bounce"
       ]
     },
     "baf8310f-5baf-459e-95ae-6b43a1d47e24": {
@@ -91308,7 +91318,9 @@
       "name": "Temporal Eddy",
       "rating": 0,
       "scryfallId": "3cab2147-d496-489b-aaf0-b354e31a6b45",
-      "effects": []
+      "effects": [
+        "Bounce"
+      ]
     },
     "13da5255-2fc5-43a4-a44c-13a5d9ff77c3": {
       "name": "Temporal Extortion",
@@ -95150,7 +95162,9 @@
       "name": "Totally Lost",
       "rating": 0,
       "scryfallId": "ec8e4142-7c46-4d2f-aaa6-6410f323d9f0",
-      "effects": []
+      "effects": [
+        "Bounce"
+      ]
     },
     "c3a1bb65-556a-4016-a06a-3894710cb190": {
       "name": "Totem-Guide Hartebeest",
@@ -98596,7 +98610,6 @@
       "rating": 0,
       "scryfallId": "d26a4969-410c-4402-889e-d3623e1cb57c",
       "effects": [
-        "Bounce",
         "Regrowth"
       ]
     },
@@ -98799,7 +98812,9 @@
       "name": "Vanishment",
       "rating": 0,
       "scryfallId": "dece40c1-790c-4471-a790-1d356b345603",
-      "effects": []
+      "effects": [
+        "Bounce"
+      ]
     },
     "683ec6d2-4ea7-46a7-911e-12c83e4c4a06": {
       "name": "Vanquish",
