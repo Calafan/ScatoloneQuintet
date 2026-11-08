@@ -4006,9 +4006,7 @@
       "name": "Aphetto Vulture",
       "rating": 1,
       "scryfallId": "107492b9-03a8-4d53-a0cf-4814ffbec409",
-      "effects": [
-        "Regrowth"
-      ]
+      "effects": []
     },
     "82c8f5dd-563d-4fd0-bd43-7ee2001d3777": {
       "name": "Apocalypse",
@@ -110817,9 +110815,7 @@
       "name": "Unholy Grotto",
       "rating": 1,
       "scryfallId": "52f464a9-586c-4cf3-894b-b407c9f4dcb8",
-      "effects": [
-        "Regrowth"
-      ]
+      "effects": []
     },
     "df8fe368-00eb-42fa-89d6-794fc61f8f8c": {
       "name": "Unholy Indenture",

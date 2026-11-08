@@ -35753,9 +35753,7 @@
       "name": "Gisa and Geralf",
       "rating": 0,
       "scryfallId": "2e2c85d8-0bef-40d0-abaf-4555462c29c5",
-      "effects": [
-        "Regrowth"
-      ]
+      "effects": []
     },
     "0abc993b-18c7-4bb8-aa58-0d06a41cb48f": {
       "name": "Gisa's Bidding",
@@ -39711,9 +39709,7 @@
       "name": "Haakon, Stromgald Scourge",
       "rating": 0,
       "scryfallId": "10a7101e-e6c7-40d6-82cb-daa84701d1f8",
-      "effects": [
-        "Regrowth"
-      ]
+      "effects": []
     },
     "6df2e8c9-d87e-4f0d-a3d3-b8eee5cdafd0": {
       "name": "Haazda Exonerator",
@@ -52437,8 +52433,7 @@
       "scryfallId": "a7939170-f84e-44c6-b8bc-a180cf7f85d9",
       "effects": [
         "Removal",
-        "Burn",
-        "Regrowth"
+        "Burn"
       ]
     },
     "64a9a6b4-26b5-4d23-be86-85c54e9c4727": {
