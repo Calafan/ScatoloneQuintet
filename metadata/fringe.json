@@ -26236,7 +26236,9 @@
       "name": "Disempower",
       "rating": 1,
       "scryfallId": "3a86a2ae-aaf3-4d4d-ae06-ec3d4a539550",
-      "effects": [],
+      "effects": [
+        "Bounce"
+      ],
       "reviewedAt": "2026-09-08T08:08:55.7747927+00:00"
     },
     "fc4f1aa1-e252-4454-9ad9-d41682dff13b": {
@@ -58043,9 +58045,7 @@
       "name": "Leadership Vacuum",
       "rating": 1,
       "scryfallId": "4fa953a9-171c-4532-a352-40ce27eed3c4",
-      "effects": [
-        "Bounce"
-      ],
+      "effects": [],
       "reviewedAt": "2026-10-20T19:06:14.2257782+00:00"
     },
     "b2f92310-3725-44c2-8953-8b280437217e": {
@@ -95567,6 +95567,7 @@
       "rating": 1,
       "scryfallId": "b862a9f8-2361-4220-99bd-ae2530905195",
       "effects": [
+        "Bounce",
         "Mill"
       ],
       "reviewedAt": "2026-09-10T14:35:36.6491503+00:00"
