@@ -4103,8 +4103,7 @@
       "rating": 2,
       "scryfallId": "17dd0b7f-bd26-4a46-a7a1-bc65138d54ed",
       "effects": [
-        "Discard",
-        "Steal"
+        "Discard"
       ],
       "reviewedAt": "2026-09-12T10:34:49.9205939+00:00"
     },
@@ -4383,9 +4382,7 @@
       "name": "Arcane Heist",
       "rating": 2,
       "scryfallId": "3ceb13f4-ac9e-4ddd-9170-545f8d37b87a",
-      "effects": [
-        "Steal"
-      ],
+      "effects": [],
       "reviewedAt": "2026-09-25T09:22:31.6260401+00:00"
     },
     "d5251d47-11de-41f7-9965-1f921e12d927": {
@@ -5489,8 +5486,7 @@
       "rating": 1,
       "scryfallId": "c83542de-38ca-4aad-acba-189374be37e2",
       "effects": [
-        "CardAdvantage",
-        "Steal"
+        "CardAdvantage"
       ],
       "reviewedAt": "2026-10-26T21:55:28.5500545+00:00"
     },
@@ -5628,8 +5624,7 @@
       "rating": 1,
       "scryfallId": "686aebd0-0d34-47e3-bbbd-ad08d2a3a864",
       "effects": [
-        "Reanimate",
-        "Steal"
+        "Reanimate"
       ],
       "reviewedAt": "2026-09-08T06:47:49.9056338+00:00"
     },
@@ -10552,8 +10547,7 @@
       "rating": 1,
       "scryfallId": "b91c8318-85a0-4c2e-9cef-cc00429218b1",
       "effects": [
-        "CardAdvantage",
-        "Steal"
+        "CardAdvantage"
       ],
       "reviewedAt": "2026-10-16T09:57:12.9205251+00:00"
     },
@@ -11112,7 +11106,6 @@
       "scryfallId": "0a08e0d2-1e60-47f5-9228-4c11a127089d",
       "effects": [
         "CardAdvantage",
-        "Steal",
         "ManaFixing"
       ],
       "reviewedAt": "2026-09-23T12:55:55.4275803+00:00"
@@ -11578,8 +11571,7 @@
       "rating": 2,
       "scryfallId": "207bb4cd-4525-47e0-b412-0d0e29717d44",
       "effects": [
-        "Reanimate",
-        "Steal"
+        "Reanimate"
       ],
       "reviewedAt": "2026-09-08T12:12:23.1592808+00:00"
     },
@@ -17488,8 +17480,7 @@
       "rating": 2,
       "scryfallId": "7389fe88-f6ff-4497-a037-9ca283fb89e3",
       "effects": [
-        "Reanimate",
-        "Steal"
+        "Reanimate"
       ],
       "reviewedAt": "2026-09-11T21:58:51.4089565+00:00"
     },
@@ -19247,7 +19238,9 @@
       "name": "Colossal Grave-Reaver",
       "rating": 1,
       "scryfallId": "7c3f7d76-528a-490a-852a-071adcd7bd55",
-      "effects": [],
+      "effects": [
+        "Reanimate"
+      ],
       "reviewedAt": "2026-09-10T14:03:04.0650061+00:00"
     },
     "0611beb7-a38d-4fbf-af9b-ee2a5b9a2896": {
@@ -20429,7 +20422,6 @@
       "scryfallId": "ab5cfb0c-8e95-4d2d-9e23-cf58c1c7e51c",
       "effects": [
         "CardAdvantage",
-        "Steal",
         "Mill"
       ],
       "reviewedAt": "2026-10-26T21:11:56.9594266+00:00"
@@ -21659,9 +21651,7 @@
       "name": "Crown of the Ages",
       "rating": 1,
       "scryfallId": "fce2991f-48e1-4cfe-af0a-18b6d9400493",
-      "effects": [
-        "Steal"
-      ],
+      "effects": [],
       "reviewedAt": "2026-09-05T10:31:05.1342272+00:00"
     },
     "c9823e5f-d0f8-4d28-8b3b-55f94ea9d76f": {
@@ -24805,9 +24795,7 @@
       "name": "Deluxe Dragster",
       "rating": 1,
       "scryfallId": "4b90313d-9f61-4788-a55e-1f8189bf1ef5",
-      "effects": [
-        "Steal"
-      ],
+      "effects": [],
       "reviewedAt": "2026-10-08T10:10:50.2134733+00:00"
     },
     "a1c8b833-8c74-4f95-8a47-1dd41ef99361": {
@@ -29773,7 +29761,6 @@
       "scryfallId": "9472be1e-388c-45fe-a18d-35b2cb12dc5f",
       "effects": [
         "CardAdvantage",
-        "Steal",
         "ManaFixing"
       ],
       "reviewedAt": "2026-10-16T09:54:45.8959955+00:00"
@@ -29996,8 +29983,7 @@
       "rating": 1,
       "scryfallId": "b82a13bf-da32-4c12-a9dd-271d8ca45c21",
       "effects": [
-        "CardAdvantage",
-        "Steal"
+        "CardAdvantage"
       ],
       "reviewedAt": "2026-10-10T19:36:07.1649678+00:00"
     },
@@ -31328,9 +31314,7 @@
       "name": "Enchantment Alteration",
       "rating": 1,
       "scryfallId": "bf52f8a0-d027-47f1-bb91-508ef1a74409",
-      "effects": [
-        "Steal"
-      ],
+      "effects": [],
       "reviewedAt": "2026-09-04T14:46:08.8401001+00:00"
     },
     "795b096a-2bce-4588-a2c9-abc5ea40dc0c": {
@@ -35845,8 +35829,7 @@
       "scryfallId": "77e548c9-8bed-40c3-bcdd-9d97a82c885d",
       "effects": [
         "CardAdvantage",
-        "Sacrifice",
-        "Steal"
+        "Sacrifice"
       ],
       "reviewedAt": "2026-11-03T15:22:54.2454915+00:00"
     },
@@ -35920,8 +35903,7 @@
       "rating": 1,
       "scryfallId": "fea1319c-7589-480d-a204-65ec68837e59",
       "effects": [
-        "Reanimate",
-        "Steal"
+        "Reanimate"
       ],
       "reviewedAt": "2026-09-25T07:48:21.7954123+00:00"
     },
@@ -36596,9 +36578,7 @@
       "name": "Flawless Forgery",
       "rating": 2,
       "scryfallId": "1c808629-ee2b-4f3e-a316-7182fbc38d34",
-      "effects": [
-        "Steal"
-      ],
+      "effects": [],
       "reviewedAt": "2026-10-23T07:41:21.7703752+00:00"
     },
     "4e183439-17d2-47ff-9d99-5e22821d91e3": {
@@ -40344,8 +40324,7 @@
       "rating": 1,
       "scryfallId": "9cdab166-c0d2-45c4-8326-f4670cd7efd4",
       "effects": [
-        "Reanimate",
-        "Steal"
+        "Reanimate"
       ],
       "reviewedAt": "2026-10-06T14:17:29.4054592+00:00"
     },
@@ -43223,8 +43202,7 @@
       "scryfallId": "03a7e79f-625a-49ac-9cb1-e1fe5f51f5a0",
       "effects": [
         "Ramp",
-        "CardAdvantage",
-        "Steal"
+        "CardAdvantage"
       ],
       "reviewedAt": "2026-10-26T21:21:54.031256+00:00"
     },
@@ -44398,9 +44376,7 @@
       "name": "Grinning Totem",
       "rating": 2,
       "scryfallId": "f3558ddf-2bc6-4870-bd24-2467d870ffe5",
-      "effects": [
-        "Steal"
-      ],
+      "effects": [],
       "reviewedAt": "2026-09-08T09:50:26.1376377+00:00"
     },
     "0144d9bb-d3cb-4c23-b133-6653d7c3a76d": {
@@ -45427,7 +45403,6 @@
       "rating": 1,
       "scryfallId": "6fa1197d-7b19-4d86-81e2-5c87de87757b",
       "effects": [
-        "Steal",
         "Mill"
       ],
       "reviewedAt": "2026-09-10T15:17:03.4822418+00:00"
@@ -46863,7 +46838,7 @@
       "rating": 2,
       "scryfallId": "b17e9216-b1ed-4101-a04e-2bb139ccfa55",
       "effects": [
-        "Steal",
+        "Reanimate",
         "Mill"
       ],
       "reviewedAt": "2026-09-08T09:49:20.3652307+00:00"
@@ -50488,7 +50463,7 @@
       "rating": 1,
       "scryfallId": "71725895-38cd-4017-bbf0-0b7dc9b5db60",
       "effects": [
-        "Steal"
+        "Cheat"
       ],
       "reviewedAt": "2026-11-05T10:02:57.2823512+00:00"
     },
@@ -52617,8 +52592,7 @@
       "rating": 2,
       "scryfallId": "ab866ec4-dcb4-47ef-8de1-a369986609c0",
       "effects": [
-        "CardAdvantage",
-        "Steal"
+        "CardAdvantage"
       ],
       "reviewedAt": "2026-10-06T14:19:21.1009809+00:00"
     },
@@ -55644,8 +55618,7 @@
       "rating": 2,
       "scryfallId": "c29e6c69-7830-4898-9d1e-97dfc2e868d9",
       "effects": [
-        "CardAdvantage",
-        "Steal"
+        "CardAdvantage"
       ],
       "reviewedAt": "2026-10-16T14:13:13.9567564+00:00"
     },
@@ -55850,7 +55823,6 @@
       "scryfallId": "c30ff1fa-6639-492a-b257-934e5818c98f",
       "effects": [
         "CardAdvantage",
-        "Steal",
         "Mill",
         "Regrowth"
       ],
@@ -56587,7 +56559,6 @@
       "scryfallId": "a811b2cb-ffc7-4100-ac3e-bc4125842bb2",
       "effects": [
         "CardAdvantage",
-        "Steal",
         "ManaFixing"
       ],
       "reviewedAt": "2026-10-09T12:09:36.1921007+00:00"
@@ -56654,8 +56625,7 @@
       "rating": 1,
       "scryfallId": "d3736f17-f80b-4b2c-b919-2c963bc14682",
       "effects": [
-        "CardAdvantage",
-        "Steal"
+        "CardAdvantage"
       ],
       "reviewedAt": "2026-11-03T15:20:48.9318802+00:00"
     },
@@ -56671,8 +56641,7 @@
       "rating": 1,
       "scryfallId": "314e97b5-cd43-4f5e-acdd-a107208e061c",
       "effects": [
-        "Discard",
-        "Steal"
+        "Discard"
       ],
       "reviewedAt": "2026-11-03T19:02:08.4939882+00:00"
     },
@@ -59841,8 +59810,7 @@
       "scryfallId": "6d67a523-bda9-4f8b-bd50-dc015f9b4b7a",
       "effects": [
         "Burn",
-        "Sacrifice",
-        "Steal"
+        "Sacrifice"
       ],
       "reviewedAt": "2026-10-09T09:34:28.031126+00:00"
     },
@@ -60165,7 +60133,7 @@
       "rating": 2,
       "scryfallId": "5f6f90ae-340c-4eb7-b091-58db550be742",
       "effects": [
-        "Steal"
+        "Reanimate"
       ],
       "reviewedAt": "2026-11-06T15:51:45.4135889+00:00"
     },
@@ -63763,7 +63731,6 @@
       "rating": 1,
       "scryfallId": "5d0704a4-8961-43f5-86ed-3f7b43abcf26",
       "effects": [
-        "Steal",
         "Mill"
       ],
       "reviewedAt": "2026-09-12T09:26:23.3070849+00:00"
@@ -64391,8 +64358,7 @@
       "scryfallId": "768e84a3-41b9-4f54-ae29-e5c7ae109e9a",
       "effects": [
         "CardAdvantage",
-        "Burn",
-        "Steal"
+        "Burn"
       ],
       "reviewedAt": "2026-10-27T15:51:31.4620934+00:00"
     },
@@ -65440,7 +65406,7 @@
       "rating": 1,
       "scryfallId": "a8f05d5e-bb7d-4554-b880-f0c6b4688357",
       "effects": [
-        "Steal"
+        "Burn"
       ],
       "reviewedAt": "2026-09-04T14:54:27.1704013+00:00"
     },
@@ -65784,7 +65750,7 @@
       "rating": 1,
       "scryfallId": "2c9cb13d-55ff-4e26-aa49-755f8bcebc11",
       "effects": [
-        "Steal"
+        "Burn"
       ],
       "reviewedAt": "2026-09-11T22:12:27.2829405+00:00"
     },
@@ -68640,8 +68606,7 @@
       "rating": 1,
       "scryfallId": "1bb5f991-4d05-48b2-ac8d-81fd9ef7f4bb",
       "effects": [
-        "CardAdvantage",
-        "Steal"
+        "CardAdvantage"
       ],
       "reviewedAt": "2026-10-26T20:41:36.4317865+00:00"
     },
@@ -68788,8 +68753,7 @@
       "rating": 1,
       "scryfallId": "d4e2f75e-75f3-4255-969f-0eab32f7bd1e",
       "effects": [
-        "Reanimate",
-        "Steal"
+        "Reanimate"
       ],
       "reviewedAt": "2026-11-03T18:37:12.6677376+00:00"
     },
@@ -74432,7 +74396,6 @@
       "scryfallId": "45abc0a4-ae33-470f-9a39-2dd776dd6adb",
       "effects": [
         "CardAdvantage",
-        "Steal",
         "ManaFixing"
       ],
       "reviewedAt": "2026-09-23T21:49:31.8132418+00:00"
@@ -77214,7 +77177,7 @@
       "scryfallId": "c04d8edb-7350-4ab5-b721-390784c66329",
       "effects": [
         "Tokens",
-        "Steal"
+        "Burn"
       ],
       "reviewedAt": "2026-10-20T18:50:59.3685911+00:00"
     },
@@ -77767,7 +77730,7 @@
       "rating": 1,
       "scryfallId": "5507c474-5c4b-4292-b7bc-3ab4b48ea290",
       "effects": [
-        "Steal"
+        "Burn"
       ],
       "reviewedAt": "2026-09-08T07:20:04.8333458+00:00"
     },
@@ -79916,7 +79879,6 @@
       "scryfallId": "30b2f2fd-8087-4fa8-9eb7-bf9b89a5dfb9",
       "effects": [
         "CardAdvantage",
-        "Steal",
         "ManaFixing"
       ],
       "reviewedAt": "2026-10-06T14:22:28.8681747+00:00"
@@ -81868,8 +81830,7 @@
       "scryfallId": "b5eb0064-c7c4-4e3e-add2-b86269de3fb9",
       "effects": [
         "CardAdvantage",
-        "Sacrifice",
-        "Steal"
+        "Sacrifice"
       ],
       "reviewedAt": "2026-10-16T09:51:40.7901352+00:00"
     },
@@ -83730,9 +83691,7 @@
       "name": "River Song's Diary",
       "rating": 2,
       "scryfallId": "96476a30-72b0-4f91-9d2d-85fc196f89c5",
-      "effects": [
-        "Steal"
-      ],
+      "effects": [],
       "reviewedAt": "2026-10-06T18:28:02.6645048+00:00"
     },
     "917aef2b-0e6d-460e-8745-8da8423d1592": {
@@ -84185,8 +84144,7 @@
       "rating": 2,
       "scryfallId": "0727f65b-cfbe-47d5-87c6-239cf8d93ca6",
       "effects": [
-        "CardAdvantage",
-        "Steal"
+        "CardAdvantage"
       ],
       "reviewedAt": "2026-11-05T11:52:52.170259+00:00"
     },
@@ -84604,8 +84562,7 @@
       "rating": 1,
       "scryfallId": "987e0ffe-ea75-4985-b6a3-b874bef78719",
       "effects": [
-        "Ramp",
-        "Steal"
+        "Ramp"
       ],
       "reviewedAt": "2026-10-20T18:52:53.8242105+00:00"
     },
@@ -86973,7 +86930,6 @@
       "scryfallId": "8cfcc7ec-87a2-4712-8d82-217bd8600891",
       "effects": [
         "CardAdvantage",
-        "Steal",
         "Mill"
       ],
       "reviewedAt": "2026-10-16T09:57:06.862885+00:00"
@@ -90177,9 +90133,7 @@
       "name": "Shadow of the Enemy",
       "rating": 2,
       "scryfallId": "e47cab70-55cb-481c-b4cd-32a41251f210",
-      "effects": [
-        "Steal"
-      ],
+      "effects": [],
       "reviewedAt": "2026-10-08T14:00:18.4302517+00:00"
     },
     "f343b6f9-41c3-419b-a57c-a7b08603ef5c": {
@@ -94029,7 +93983,6 @@
       "rating": 1,
       "scryfallId": "13253f8d-1897-41e8-a904-9e57ac7eff0a",
       "effects": [
-        "Steal",
         "Mill"
       ],
       "reviewedAt": "2026-11-06T15:38:25.0109237+00:00"
@@ -94995,7 +94948,6 @@
       "rating": 2,
       "scryfallId": "c06274ff-892e-418b-8ba5-4d3b3231e327",
       "effects": [
-        "Steal",
         "Mill"
       ],
       "reviewedAt": "2026-10-26T21:41:13.5269573+00:00"
@@ -95406,8 +95358,7 @@
       "rating": 1,
       "scryfallId": "8733cd6f-37e1-4e3a-bb25-7a238f04657e",
       "effects": [
-        "Tokens",
-        "Steal"
+        "Tokens"
       ],
       "reviewedAt": "2026-10-23T10:22:12.5065143+00:00"
     },
@@ -99112,8 +99063,7 @@
       "rating": 2,
       "scryfallId": "a8c971d0-9ac4-4b34-ae19-1152c1c9dac1",
       "effects": [
-        "CardAdvantage",
-        "Steal"
+        "CardAdvantage"
       ],
       "reviewedAt": "2026-11-03T15:23:03.3606049+00:00"
     },
@@ -101297,9 +101247,7 @@
       "name": "Synthesis Pod",
       "rating": 1,
       "scryfallId": "e06d72d0-909d-4e38-85e6-52c658836c18",
-      "effects": [
-        "Steal"
-      ],
+      "effects": [],
       "reviewedAt": "2026-10-08T22:34:54.119518+00:00"
     },
     "a37314cf-bbbd-4003-b94d-0e6e60edfc15": {
@@ -102117,8 +102065,7 @@
       "scryfallId": "b1c5f679-82d0-4434-9f13-d39ad57282b8",
       "effects": [
         "Tokens",
-        "CardAdvantage",
-        "Steal"
+        "CardAdvantage"
       ],
       "reviewedAt": "2026-11-03T18:46:32.8384676+00:00"
     },
@@ -111829,7 +111776,6 @@
       "scryfallId": "50e1ec29-9de3-4f1b-b818-057e030d475b",
       "effects": [
         "CardAdvantage",
-        "Steal",
         "ManaFixing"
       ],
       "reviewedAt": "2026-10-15T08:06:53.194663+00:00"
@@ -118549,9 +118495,7 @@
       "name": "Word of Command",
       "rating": 1,
       "scryfallId": "96c21429-98d3-416b-be00-6aa9c4c5a006",
-      "effects": [
-        "Steal"
-      ],
+      "effects": [],
       "reviewedAt": "2026-09-04T14:10:17.7374509+00:00"
     },
     "76d6d4cc-607f-4a33-a964-a38b5dbfe710": {
@@ -119088,8 +119032,7 @@
       "rating": 2,
       "scryfallId": "5bc58050-a615-4090-9cf5-cd49ccb4e2c6",
       "effects": [
-        "CardAdvantage",
-        "Steal"
+        "CardAdvantage"
       ],
       "reviewedAt": "2026-11-06T15:47:09.0290387+00:00"
     },
@@ -119105,8 +119048,7 @@
       "rating": 1,
       "scryfallId": "2154df0d-9d35-4a67-aeff-c9f224b969a2",
       "effects": [
-        "CardAdvantage",
-        "Steal"
+        "CardAdvantage"
       ],
       "reviewedAt": "2026-11-03T18:26:13.6785909+00:00"
     },
@@ -119941,9 +119883,7 @@
       "name": "Zara, Renegade Recruiter",
       "rating": 1,
       "scryfallId": "34b1455e-b9c2-4501-a24f-b50534466c31",
-      "effects": [
-        "Steal"
-      ],
+      "effects": [],
       "reviewedAt": "2026-10-20T18:59:24.7527405+00:00"
     },
     "a316b0ce-1f63-4a8e-9a6e-bfbe03ca4e9e": {
