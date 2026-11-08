@@ -11077,7 +11077,7 @@
       "rating": 4,
       "scryfallId": "4ec91fe8-b3da-47fa-b45e-94b62a260aba",
       "effects": [
-        "Removal",
+        "Wipe",
         "Discard",
         "CardAdvantage"
       ],
@@ -12770,7 +12770,7 @@
       "rating": 4,
       "scryfallId": "b4ed0e64-c7d8-49a2-9d00-21076484da0a",
       "effects": [
-        "Removal"
+        "Wipe"
       ],
       "reviewedAt": "2026-11-03T18:52:41.5414741+00:00"
     },
@@ -17928,7 +17928,7 @@
       "rating": 4,
       "scryfallId": "721c7122-91b6-45ea-ba28-de0246a2fc1b",
       "effects": [
-        "Removal",
+        "Wipe",
         "Discard",
         "Burn"
       ],
