@@ -6273,7 +6273,8 @@
       "rating": 1,
       "scryfallId": "7426f3dc-385b-42ea-85cb-853e6035ca6f",
       "effects": [
-        "Bounce"
+        "Bounce",
+        "Tutor"
       ],
       "reviewedAt": "2026-09-12T09:37:41.9115825+00:00"
     },
@@ -20662,8 +20663,7 @@
       "scryfallId": "490a5054-0607-4e4a-a0a9-0e9eea7adb00",
       "effects": [
         "Tokens",
-        "Disenchant",
-        "Tutor"
+        "Disenchant"
       ],
       "reviewedAt": "2026-10-09T12:12:21.2568921+00:00"
     },
@@ -30185,9 +30185,7 @@
       "name": "Elemental Teachings",
       "rating": 1,
       "scryfallId": "cac8ac35-6860-4839-ab85-93d409206c08",
-      "effects": [
-        "Tutor"
-      ],
+      "effects": [],
       "reviewedAt": "2026-09-10T15:46:00.1565573+00:00"
     },
     "cf402270-ebc6-481b-b478-0e3acab7002a": {
@@ -30876,7 +30874,6 @@
       "rating": 1,
       "scryfallId": "39c431d7-d94b-46c4-bb89-f3db56214ab4",
       "effects": [
-        "Tutor",
         "ManaFixing"
       ],
       "reviewedAt": "2026-10-20T19:21:57.5006541+00:00"
@@ -86404,8 +86401,7 @@
       "rating": 1,
       "scryfallId": "e63ba7e6-87a9-49ef-bddc-60543edfd726",
       "effects": [
-        "Tokens",
-        "Tutor"
+        "Tokens"
       ],
       "reviewedAt": "2026-10-26T21:25:57.1590558+00:00"
     },
@@ -108084,9 +108080,7 @@
       "name": "Tower Winder",
       "rating": 1,
       "scryfallId": "97bf6a6a-e377-4f42-84dd-baf6055c0fb1",
-      "effects": [
-        "Tutor"
-      ],
+      "effects": [],
       "reviewedAt": "2026-09-12T10:00:50.6402431+00:00"
     },
     "2f995678-c315-4afe-845b-8c8ae863de6e": {

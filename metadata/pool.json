@@ -3958,9 +3958,7 @@
       "name": "Colossal Rattlewurm",
       "rating": 5,
       "scryfallId": "17a104d3-e4ac-44a0-9c6a-39965b1b9751",
-      "effects": [
-        "Tutor"
-      ],
+      "effects": [],
       "reviewedAt": "2026-09-23T10:34:01.0630459+00:00"
     },
     "871e4c4e-8105-4cb9-b1cd-53c5f8e64494": {
@@ -9219,8 +9217,7 @@
       "scryfallId": "1fa48620-4c3d-4f75-be1f-c12c4aa59f51",
       "effects": [
         "Ramp",
-        "CardAdvantage",
-        "Tutor"
+        "CardAdvantage"
       ],
       "reviewedAt": "2026-10-20T19:24:40.2942566+00:00"
     },
