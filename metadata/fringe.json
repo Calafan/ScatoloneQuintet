@@ -116765,7 +116765,9 @@
       "name": "Whirlwind Denial",
       "rating": 1,
       "scryfallId": "9e127856-bedd-40a9-9e8e-d1f9fbefe07d",
-      "effects": []
+      "effects": [
+        "Counter"
+      ]
     },
     "a4477852-66eb-4a54-b4c1-760cbf624f82": {
       "name": "Whirlwind Technique",

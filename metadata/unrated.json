@@ -23723,7 +23723,9 @@
       "name": "Double Negative",
       "rating": 0,
       "scryfallId": "2c7e3c58-3cda-4891-8b3d-33bb21568cf5",
-      "effects": []
+      "effects": [
+        "Counter"
+      ]
     },
     "e25ab152-e166-44df-8f92-668bab0e9619": {
       "name": "Double Stroke",
@@ -36339,7 +36341,9 @@
       "name": "Glorious End",
       "rating": 0,
       "scryfallId": "2922b976-7beb-4c68-b39e-1b66d5c6f65e",
-      "effects": []
+      "effects": [
+        "Counter"
+      ]
     },
     "182baad0-ec6e-4e93-9dfc-7c80b37005de": {
       "name": "Glorious Purpose",
@@ -57421,7 +57425,9 @@
       "name": "Mindbreak Trap",
       "rating": 0,
       "scryfallId": "4f51140b-6254-431a-8810-94307bfdfbbe",
-      "effects": []
+      "effects": [
+        "Counter"
+      ]
     },
     "018985f5-6a67-4f2f-855c-efa7254ad3f8": {
       "name": "Mindclaw Shaman",
@@ -88572,7 +88578,9 @@
       "name": "Summary Dismissal",
       "rating": 0,
       "scryfallId": "0b75794d-3334-4b4d-9446-0a251dd3bd15",
-      "effects": []
+      "effects": [
+        "Counter"
+      ]
     },
     "01799149-4bca-417b-9e89-14493fd46c79": {
       "name": "Summit Apes",
@@ -94300,7 +94308,9 @@
       "name": "Time Stop",
       "rating": 0,
       "scryfallId": "f968c5e9-12a8-4542-90b4-84e0238fa375",
-      "effects": []
+      "effects": [
+        "Counter"
+      ]
     },
     "36c78a5f-0148-4596-a346-f8e35037b694": {
       "name": "Time Wipe",
