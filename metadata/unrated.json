@@ -7113,7 +7113,9 @@
       "name": "Beamsplitter Mage",
       "rating": 0,
       "scryfallId": "8f1801f2-ea6e-4196-858e-2afc456cf6a0",
-      "effects": []
+      "effects": [
+        "Redirect"
+      ]
     },
     "22c75ad5-237c-4dbd-bbc4-3058a3db408f": {
       "name": "Beanstalk Giant // Fertile Footsteps",
@@ -75096,8 +75098,7 @@
       "rating": 0,
       "scryfallId": "789e690b-e4f3-499e-aa58-97c3b63b8d32",
       "effects": [
-        "Wipe",
-        "Redirect"
+        "Wipe"
       ]
     },
     "9171248e-045e-4ed4-aa06-eea3ae3d8df0": {
@@ -85473,7 +85474,9 @@
       "name": "Spinerock Tyrant",
       "rating": 0,
       "scryfallId": "478bbb7a-4b96-4e04-921e-bdf23185de25",
-      "effects": []
+      "effects": [
+        "Redirect"
+      ]
     },
     "fbdec63e-0679-47e9-b82a-daa56df50481": {
       "name": "Spinneret Sliver",

@@ -78821,7 +78821,9 @@
       "name": "Radiant Performer",
       "rating": 2,
       "scryfallId": "e8faedf4-1178-4f5d-8f46-7277dfe1ae2c",
-      "effects": []
+      "effects": [
+        "Redirect"
+      ]
     },
     "8f5ef838-839a-4eb0-8d65-c8c8def0a233": {
       "name": "Radiant Scrollwielder",
@@ -78870,7 +78872,9 @@
       "name": "Radiate",
       "rating": 1,
       "scryfallId": "2562c25a-999e-4fb5-a595-f376c8abf1ff",
-      "effects": []
+      "effects": [
+        "Redirect"
+      ]
     },
     "f15bd5c0-99ff-42c6-8eed-48de6df81b61": {
       "name": "Radioactive Spider",
