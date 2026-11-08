@@ -12372,9 +12372,7 @@
       "name": "Brand",
       "rating": 1,
       "scryfallId": "bafbd034-c8a0-4798-a680-555c13bdd251",
-      "effects": [
-        "Steal"
-      ]
+      "effects": []
     },
     "947bd180-ee95-4db4-b5d9-432428018eb8": {
       "name": "Brand of Ill Omen",
@@ -20631,8 +20629,7 @@
       "rating": 1,
       "scryfallId": "fab2fca4-a99f-4ffe-9c02-edb6e0be2358",
       "effects": [
-        "CardAdvantage",
-        "Steal"
+        "CardAdvantage"
       ]
     },
     "fad32e19-2eda-46b7-8d3c-b95a7dbeabc2": {
@@ -22197,8 +22194,7 @@
       "rating": 2,
       "scryfallId": "356d9d36-cf03-41f2-abfa-eb45176ce18d",
       "effects": [
-        "CardAdvantage",
-        "Steal"
+        "CardAdvantage"
       ]
     },
     "bdf80a55-b524-4d17-9be8-a0005403a0e7": {
@@ -60057,8 +60053,7 @@
       "rating": 1,
       "scryfallId": "5dfd08da-6717-49ee-94ba-2562224f5baa",
       "effects": [
-        "CardAdvantage",
-        "Steal"
+        "CardAdvantage"
       ]
     },
     "52d8e492-b7b7-4ad4-8f1f-5c50993e55e0": {
@@ -64866,8 +64861,7 @@
       "rating": 1,
       "scryfallId": "2bf6b21a-8e18-400c-a39c-d693e487e47b",
       "effects": [
-        "CardAdvantage",
-        "Steal"
+        "CardAdvantage"
       ]
     },
     "e7441107-57b1-4e88-a9d8-3eb7c338ef07": {
@@ -75729,9 +75723,7 @@
       "name": "Planeswalker's Mischief",
       "rating": 1,
       "scryfallId": "79aa232c-3f16-4c68-99dc-09a7aeef477b",
-      "effects": [
-        "Steal"
-      ]
+      "effects": []
     },
     "52cebfb0-0302-40d9-9a3f-f875dbf43659": {
       "name": "Planeswalker's Scorn",
@@ -76586,8 +76578,7 @@
       "rating": 1,
       "scryfallId": "dea6d749-d2a9-43f0-8ab4-ff83ba294564",
       "effects": [
-        "CardAdvantage",
-        "Steal"
+        "CardAdvantage"
       ]
     },
     "eed2606b-9a27-4af3-8120-c45a1d6b5c00": {
@@ -77713,8 +77704,7 @@
       "rating": 1,
       "scryfallId": "f6f86c92-c19e-4f2c-96d3-d3b05623cb00",
       "effects": [
-        "Discard",
-        "Steal"
+        "Discard"
       ]
     },
     "5870175d-83df-43af-b199-fcd1e60b824e": {
@@ -87762,8 +87752,7 @@
       "rating": 1,
       "scryfallId": "497c2629-1263-48a4-9c31-7f052808b2b8",
       "effects": [
-        "Reanimate",
-        "Steal"
+        "Reanimate"
       ]
     },
     "fd547632-a29a-4dad-a9da-155882391815": {
@@ -90325,9 +90314,7 @@
       "name": "Shaman's Trance",
       "rating": 1,
       "scryfallId": "dfc33a4f-9ec2-4324-82a1-a4b9700572f2",
-      "effects": [
-        "Steal"
-      ]
+      "effects": []
     },
     "d3f4aa87-a89e-43f8-abc3-712e6bf08889": {
       "name": "Shambling Cie'th",
@@ -113678,8 +113665,7 @@
       "rating": 1,
       "scryfallId": "2716d5b6-9ca7-4c8f-a363-1934221606a6",
       "effects": [
-        "Reanimate",
-        "Steal"
+        "Reanimate"
       ]
     },
     "ba85f0b0-b08c-4e62-a56e-b3ab7d699175": {
@@ -116916,8 +116902,7 @@
       "rating": 1,
       "scryfallId": "2bcf89c2-32cc-4c26-8fe4-8cf54f5a2675",
       "effects": [
-        "Buff",
-        "Steal"
+        "Buff"
       ]
     },
     "6022608a-6cf2-45bd-adec-63211710a5ed": {
@@ -119891,8 +119876,7 @@
       "rating": 2,
       "scryfallId": "9cfe4fbe-277f-410c-9eee-f7617f4cb850",
       "effects": [
-        "Reanimate",
-        "Steal"
+        "Reanimate"
       ]
     },
     "3c4966b9-26f9-46ff-8d41-7fd01c70986d": {

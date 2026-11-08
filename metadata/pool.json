@@ -1095,8 +1095,7 @@
         "Tokens",
         "Bounce",
         "Discard",
-        "CardAdvantage",
-        "Steal"
+        "CardAdvantage"
       ]
     },
     "9ea87566-43da-4ebd-a904-ae8b8830c3a2": {
@@ -1240,9 +1239,7 @@
       "name": "Author of Shadows",
       "rating": 3,
       "scryfallId": "95b5fc08-5c50-4ec9-9788-54f95c4ce916",
-      "effects": [
-        "Steal"
-      ]
+      "effects": []
     },
     "730be0d6-2612-44d6-9d36-e1fc6510c6bd": {
       "name": "Avabruck Caretaker // Hollowhenge Huntmaster",
@@ -2699,7 +2696,7 @@
       "rating": 3,
       "scryfallId": "dfc0ea8a-62f6-49e8-8eec-9748870bc596",
       "effects": [
-        "Steal"
+        "Cheat"
       ]
     },
     "f1d2f437-d474-4617-aea6-102daa5e5a15": {
@@ -4896,9 +4893,7 @@
       "name": "Dauthi Voidwalker",
       "rating": 4,
       "scryfallId": "dce5db87-4a78-4b8d-b5c2-918ccd1ba4e3",
-      "effects": [
-        "Steal"
-      ]
+      "effects": []
     },
     "25c0bbc8-b0c3-4166-967f-e8b096487a6c": {
       "name": "Davros, Dalek Creator",
@@ -4960,8 +4955,7 @@
       "rating": 3,
       "scryfallId": "47287f15-c480-4c93-8f04-10f57a089c2e",
       "effects": [
-        "CardAdvantage",
-        "Steal"
+        "CardAdvantage"
       ]
     },
     "4d877c28-5276-4ea6-91c6-eeed890ca545": {
@@ -5963,8 +5957,7 @@
       "rating": 3,
       "scryfallId": "f57b4b40-bd46-4859-89f0-fa0bd04cc6e9",
       "effects": [
-        "Reanimate",
-        "Steal"
+        "Reanimate"
       ]
     },
     "1e939df0-d421-42b7-b642-88b3555fd8df": {
@@ -7100,9 +7093,7 @@
       "name": "Extract Brain",
       "rating": 4,
       "scryfallId": "344e9383-5481-4abe-a59d-3a0145b7cca2",
-      "effects": [
-        "Steal"
-      ]
+      "effects": []
     },
     "96480e86-70a8-401d-abf8-a7d509311b73": {
       "name": "Extract a Confession",
@@ -8854,8 +8845,7 @@
       "rating": 4,
       "scryfallId": "f532dce5-66b7-4f42-87c3-c7cb8d47d10e",
       "effects": [
-        "Reanimate",
-        "Steal"
+        "Reanimate"
       ]
     },
     "48e6d3d8-2f27-4017-acdd-40bce8cdbc02": {
@@ -16510,7 +16500,6 @@
       "effects": [
         "CardAdvantage",
         "Burn",
-        "Steal",
         "ManaFixing"
       ]
     },
@@ -19404,9 +19393,7 @@
       "name": "Siphon Insight",
       "rating": 4,
       "scryfallId": "d329e2d4-e483-4981-8a0b-6a9a717d50cd",
-      "effects": [
-        "Steal"
-      ]
+      "effects": []
     },
     "a15547d0-bbcb-41ee-a9ae-8325a9e7fe1f": {
       "name": "Sire of Seven Deaths",
@@ -25444,8 +25431,7 @@
       "scryfallId": "0f2a95ae-feb2-42c3-99b4-9ea7a491d326",
       "effects": [
         "Disenchant",
-        "CardAdvantage",
-        "Steal"
+        "CardAdvantage"
       ]
     },
     "aa7b41ba-08eb-40b8-a8d5-e67dc09c88ba": {

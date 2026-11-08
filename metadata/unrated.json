@@ -505,9 +505,7 @@
       "name": "Acquire",
       "rating": 0,
       "scryfallId": "993957c7-5d61-4c98-826d-b657aed667e1",
-      "effects": [
-        "Steal"
-      ]
+      "effects": []
     },
     "1aa1cf50-ee79-4bef-826b-5f1a9e1aa1a5": {
       "name": "Acrobatic Maneuver",
@@ -1272,8 +1270,7 @@
       "rating": 0,
       "scryfallId": "c592ef76-d612-4cfe-b906-0e63c44d36f8",
       "effects": [
-        "Reanimate",
-        "Steal"
+        "Reanimate"
       ]
     },
     "51042581-4add-4487-a1b6-85446539b975": {
@@ -2039,7 +2036,6 @@
       "rating": 0,
       "scryfallId": "3db94749-340c-4454-a15d-ba6353e0c4a4",
       "effects": [
-        "Steal",
         "ManaFixing"
       ]
     },
@@ -4676,8 +4672,7 @@
       "scryfallId": "599c3c9f-dfb7-4357-9d9c-9a1a4616b103",
       "effects": [
         "CardAdvantage",
-        "Reanimate",
-        "Steal"
+        "Reanimate"
       ]
     },
     "bc92f0ba-2cf0-453c-a0d3-98a8784fe55b": {
@@ -5776,7 +5771,7 @@
       "rating": 0,
       "scryfallId": "3b9d72a8-8acf-42c6-8adf-cbaecb4a985a",
       "effects": [
-        "Steal"
+        "Burn"
       ]
     },
     "388168b3-ec68-4af2-b88c-6a5ec88c15f6": {
@@ -8155,9 +8150,7 @@
       "name": "Black Widow, Super Spy",
       "rating": 0,
       "scryfallId": "63ce0909-7d7d-410d-ab6c-c87fa3e23877",
-      "effects": [
-        "Steal"
-      ]
+      "effects": []
     },
     "dca51281-fb21-45b6-beb4-1f13397caee2": {
       "name": "Blackblade Reforged",
@@ -11483,9 +11476,7 @@
       "name": "Brooding Saurian",
       "rating": 0,
       "scryfallId": "252ef807-f861-4dcf-8e52-9260301c729a",
-      "effects": [
-        "Steal"
-      ]
+      "effects": []
     },
     "86529f12-6f0f-4b0d-96f1-785474f6763a": {
       "name": "Broodmate Dragon",
@@ -13023,7 +13014,6 @@
       "scryfallId": "bc235c57-b263-418a-8d33-094d9ba1f5e6",
       "effects": [
         "Ramp",
-        "Steal",
         "ManaFixing"
       ]
     },
@@ -13930,7 +13920,6 @@
       "rating": 0,
       "scryfallId": "b1e06e16-96fa-4611-b4a9-512eeeeddd3c",
       "effects": [
-        "Steal",
         "Mill"
       ]
     },
@@ -14245,8 +14234,7 @@
       "rating": 0,
       "scryfallId": "62ff0730-6dd9-42d2-be0d-655d04adf229",
       "effects": [
-        "CardAdvantage",
-        "Steal"
+        "CardAdvantage"
       ]
     },
     "07a0cba9-8768-4fd9-a3d5-b0f83b4bf8e8": {
@@ -17504,9 +17492,7 @@
       "name": "Covetous Urge",
       "rating": 0,
       "scryfallId": "f3b4871d-4d74-411b-88e0-9a9d386cafe1",
-      "effects": [
-        "Steal"
-      ]
+      "effects": []
     },
     "a1ddf985-1646-468c-b1a4-ab6bb8e9dd7c": {
       "name": "Cowabunga!",
@@ -17900,8 +17886,7 @@
       "scryfallId": "2edeab08-86eb-4fa8-ba24-23dacb32e0fd",
       "effects": [
         "Wipe",
-        "Reanimate",
-        "Steal"
+        "Reanimate"
       ]
     },
     "8a98f48d-a5e6-497f-ba9a-92af7b489871": {
@@ -20175,8 +20160,7 @@
       "rating": 0,
       "scryfallId": "6bb68644-e99d-4ecb-a804-8d4ad1c3325d",
       "effects": [
-        "CardAdvantage",
-        "Steal"
+        "CardAdvantage"
       ]
     },
     "8a9e8f60-eb13-4ae8-82df-d4c46da74451": {
@@ -22240,9 +22224,7 @@
       "name": "Dichotomancy",
       "rating": 0,
       "scryfallId": "61583ead-bccc-44d9-bd1d-2a13511990b5",
-      "effects": [
-        "Steal"
-      ]
+      "effects": []
     },
     "7c777a41-e40a-4b40-96bf-8ddd5c12924c": {
       "name": "Dictate of Erebos",
@@ -22331,9 +22313,7 @@
       "name": "Diluvian Primordial",
       "rating": 0,
       "scryfallId": "0b7c34af-91de-44c6-a3e2-f48dbb0ce9fd",
-      "effects": [
-        "Steal"
-      ]
+      "effects": []
     },
     "8683341a-e836-41e5-9034-4da09eb0ab42": {
       "name": "Dimension X",
@@ -22566,9 +22546,7 @@
       "name": "Dire Fleet Daredevil",
       "rating": 0,
       "scryfallId": "13e3c0c5-7451-4da9-acc0-d6e4e1f2655e",
-      "effects": [
-        "Steal"
-      ]
+      "effects": []
     },
     "7d48ad95-d428-4e2d-b697-56907c3ce579": {
       "name": "Dire Fleet Hoarder",
@@ -23563,8 +23541,7 @@
       "rating": 0,
       "scryfallId": "9b99894b-c774-45c2-9ee9-4d6a8e7522f5",
       "effects": [
-        "CardAdvantage",
-        "Steal"
+        "CardAdvantage"
       ]
     },
     "4a01db2e-cd43-4b1a-a480-169018f82501": {
@@ -24583,8 +24560,7 @@
       "rating": 0,
       "scryfallId": "a4ebc0e7-02d7-4d38-9376-a39963e6d3fa",
       "effects": [
-        "CardAdvantage",
-        "Steal"
+        "CardAdvantage"
       ]
     },
     "b7fde102-7b89-48c7-818c-bdf0eb33c2ee": {
@@ -28212,8 +28188,7 @@
       "rating": 0,
       "scryfallId": "1d3d8bb4-0430-45bb-930d-5d6db6521945",
       "effects": [
-        "CardAdvantage",
-        "Steal"
+        "CardAdvantage"
       ]
     },
     "7cd7102d-6413-4f46-9434-9130aefa2f88": {
@@ -28242,9 +28217,7 @@
       "name": "Eternal Dominion",
       "rating": 0,
       "scryfallId": "3067a9bd-991a-462d-862a-2518ae31c382",
-      "effects": [
-        "Steal"
-      ]
+      "effects": []
     },
     "c8b0436e-16d2-4d48-a894-454d69a3743b": {
       "name": "Eternal Scourge",
@@ -29046,9 +29019,7 @@
       "name": "Extract Power",
       "rating": 0,
       "scryfallId": "11aaa7c6-c79d-48f9-af66-3b360d3b15b5",
-      "effects": [
-        "Steal"
-      ]
+      "effects": []
     },
     "e597d8a1-3bbc-4001-b642-f4421447970f": {
       "name": "Extract from Darkness",
@@ -30803,9 +30774,7 @@
       "name": "Fiend of the Shadows",
       "rating": 0,
       "scryfallId": "38167118-f5b3-4e07-8060-b170b49cff9e",
-      "effects": [
-        "Steal"
-      ]
+      "effects": []
     },
     "3eb02993-b2fc-4185-aa67-08c8f133ce42": {
       "name": "Fiendslayer Paladin",
@@ -34845,7 +34814,6 @@
       "scryfallId": "fed31f2f-370d-4bbe-aa57-82249ed1b4d4",
       "effects": [
         "Reanimate",
-        "Steal",
         "Mill"
       ]
     },
@@ -37499,9 +37467,7 @@
       "name": "Gonti, Lord of Luxury",
       "rating": 0,
       "scryfallId": "7735ecda-9bb0-4ef9-86b2-16e5b6592e61",
-      "effects": [
-        "Steal"
-      ]
+      "effects": []
     },
     "af4b5853-ae60-48c9-9be1-bf121fa2e03d": {
       "name": "Gore Swine",
@@ -38414,8 +38380,7 @@
       "rating": 0,
       "scryfallId": "075cd558-2557-409a-8244-2de65664be53",
       "effects": [
-        "CardAdvantage",
-        "Steal"
+        "CardAdvantage"
       ]
     },
     "049e9963-1b74-476f-9a81-dbfae543e1c5": {
@@ -38596,7 +38561,9 @@
       "name": "Grim Return",
       "rating": 0,
       "scryfallId": "15b69f74-3b54-4db4-abf3-b71db8cc9562",
-      "effects": []
+      "effects": [
+        "Reanimate"
+      ]
     },
     "1adcc4a8-b2dd-4d9a-bded-188b81c84a10": {
       "name": "Grim Roustabout",
@@ -39089,8 +39056,7 @@
       "scryfallId": "3f7f31fb-af96-4c8c-80fa-219ebd7c3d4d",
       "effects": [
         "Reanimate",
-        "Burn",
-        "Steal"
+        "Burn"
       ]
     },
     "cf874feb-00fe-4e48-b57a-cf8b9855c057": {
@@ -39134,8 +39100,7 @@
       "rating": 0,
       "scryfallId": "9235afe5-0a6b-43c2-921c-18524cf032f1",
       "effects": [
-        "Wipe",
-        "Steal"
+        "Wipe"
       ]
     },
     "80911151-1e72-4d10-b00a-9fcff2dd131a": {
@@ -41145,8 +41110,7 @@
       "rating": 0,
       "scryfallId": "b2b73bbf-39a8-4358-9af6-8f4f0b57c028",
       "effects": [
-        "CardAdvantage",
-        "Steal"
+        "CardAdvantage"
       ]
     },
     "7cdc9df9-ac6c-49c7-a521-921588696b17": {
@@ -42556,9 +42520,7 @@
       "name": "Homeward Path",
       "rating": 0,
       "scryfallId": "b5fb67ed-f4ea-47d6-876a-2ad6a3fc9a18",
-      "effects": [
-        "Steal"
-      ]
+      "effects": []
     },
     "3bc51b45-1f96-4277-8b80-bb0a528c6ac2": {
       "name": "Homicidal Seclusion",
@@ -43170,8 +43132,7 @@
       "rating": 0,
       "scryfallId": "5c678643-6640-49e1-a5b0-2954123bcabc",
       "effects": [
-        "Filter",
-        "Steal"
+        "Filter"
       ]
     },
     "8516d8ba-b3f9-4c45-8d70-5dab476e478f": {
@@ -45165,8 +45126,7 @@
       "rating": 0,
       "scryfallId": "386d391d-a3f8-49a4-802a-409944b2acf3",
       "effects": [
-        "Reanimate",
-        "Steal"
+        "Reanimate"
       ]
     },
     "3846b499-59c8-4e77-b46a-1d697bcbded7": {
@@ -45375,8 +45335,7 @@
       "rating": 0,
       "scryfallId": "9763bd56-fa4b-4907-ad15-c3f040c5fc0a",
       "effects": [
-        "CardAdvantage",
-        "Steal"
+        "CardAdvantage"
       ]
     },
     "623d9db1-a3af-4a1c-9643-975de364e073": {
@@ -46558,7 +46517,6 @@
       "rating": 0,
       "scryfallId": "f67852a6-ae75-44e7-9e2d-d458c7b9d869",
       "effects": [
-        "Steal",
         "Mill"
       ]
     },
@@ -46608,8 +46566,7 @@
       "rating": 0,
       "scryfallId": "d4df3a38-678e-42dc-a3fd-d1d399368f07",
       "effects": [
-        "CardAdvantage",
-        "Steal"
+        "CardAdvantage"
       ]
     },
     "d2341a16-ffde-42fa-9746-0d8888e812d4": {
@@ -46964,9 +46921,7 @@
       "name": "Jeleva, Nephalia's Scourge",
       "rating": 0,
       "scryfallId": "83f9aeb8-05ba-49d9-a834-62f42fcd295b",
-      "effects": [
-        "Steal"
-      ]
+      "effects": []
     },
     "d06cd670-7ffc-4295-97d1-0eff042fb6d5": {
       "name": "Jenara, Asura of War",
@@ -47178,9 +47133,7 @@
       "name": "Jhoira, Weatherlight Corsair",
       "rating": 0,
       "scryfallId": "1874c58d-00ce-4973-a318-50ce21d1a675",
-      "effects": [
-        "Steal"
-      ]
+      "effects": []
     },
     "b15c8f43-685d-4901-9cad-47bc6dc6346f": {
       "name": "Jiang Yanggu",
@@ -48094,8 +48047,7 @@
       "scryfallId": "f9287151-95df-4f5a-b32a-4b0aea825452",
       "effects": [
         "RemovePermanent",
-        "Discard",
-        "Steal"
+        "Discard"
       ]
     },
     "9fb8cd81-403a-4988-8f1c-b8eccf8abd9c": {
@@ -48805,8 +48757,7 @@
       "rating": 0,
       "scryfallId": "e6246cf3-76bd-476b-9cd9-789b6ad48887",
       "effects": [
-        "Discard",
-        "Steal"
+        "Discard"
       ]
     },
     "c01411e0-77b2-4e65-a369-5dbe13745769": {
@@ -49458,9 +49409,7 @@
       "name": "Kitsune Mystic // Autumn-Tail, Kitsune Sage",
       "rating": 0,
       "scryfallId": "f2ddf1a3-e6fa-4dd0-b80d-1a585b51b934",
-      "effects": [
-        "Steal"
-      ]
+      "effects": []
     },
     "ed854708-5a65-4293-bebc-d7c639407ba5": {
       "name": "Kitsune Palliator",
@@ -49531,8 +49480,7 @@
       "rating": 0,
       "scryfallId": "5c589d94-7cea-4d4c-91a8-4d939634a5e5",
       "effects": [
-        "CardAdvantage",
-        "Steal"
+        "CardAdvantage"
       ]
     },
     "1c233e08-d5a3-48d7-9074-20393896a480": {
@@ -49548,8 +49496,7 @@
       "rating": 0,
       "scryfallId": "22353590-f248-460e-a1a5-0b7431a4c82d",
       "effects": [
-        "CardAdvantage",
-        "Steal"
+        "CardAdvantage"
       ]
     },
     "ecb198fc-5663-4380-b2da-ad54421e966d": {
@@ -49779,17 +49726,13 @@
       "name": "Knowledge Exploitation",
       "rating": 0,
       "scryfallId": "3d283c49-2e81-4b2e-956a-69152cc4704e",
-      "effects": [
-        "Steal"
-      ]
+      "effects": []
     },
     "cb53bd72-dee8-46fa-b0f9-1eee3a99379a": {
       "name": "Knowledge Pool",
       "rating": 0,
       "scryfallId": "393454c2-b256-4a6e-9bc2-56a47cab5073",
-      "effects": [
-        "Steal"
-      ]
+      "effects": []
     },
     "ed68b5ca-c52a-40e0-89ac-6276a3c4fdeb": {
       "name": "Knowledge and Power",
@@ -50254,9 +50197,7 @@
       "name": "Krang & Shredder",
       "rating": 0,
       "scryfallId": "9b5437e2-e3f4-4c19-a2aa-a75f65a001bb",
-      "effects": [
-        "Steal"
-      ]
+      "effects": []
     },
     "52562194-4a97-40d2-aa73-7827f7834f2f": {
       "name": "Krang, Master Mind",
@@ -53157,8 +53098,7 @@
       "rating": 0,
       "scryfallId": "75b83fe5-fd00-4532-bc67-07836abfc99c",
       "effects": [
-        "CardAdvantage",
-        "Steal"
+        "CardAdvantage"
       ]
     },
     "e60a9e8d-0be4-4d08-a03a-af9f9e2be65b": {
@@ -53962,8 +53902,7 @@
       "effects": [
         "Reanimate",
         "Buff",
-        "Burn",
-        "Steal"
+        "Burn"
       ]
     },
     "cf75dbd8-b65a-48d9-b96b-4afb43f336d1": {
@@ -54443,7 +54382,7 @@
       "rating": 0,
       "scryfallId": "4a6e8ff6-323d-4cc3-b7b6-8607bf89597e",
       "effects": [
-        "Steal"
+        "Burn"
       ]
     },
     "a035f865-b4db-4b9f-bccc-8572acd2033c": {
@@ -55010,8 +54949,7 @@
       "rating": 0,
       "scryfallId": "c50f5408-5b5c-41dc-807e-136233403a09",
       "effects": [
-        "CardAdvantage",
-        "Steal"
+        "CardAdvantage"
       ]
     },
     "002e767c-0b30-4ad1-a924-88da400a4cff": {
@@ -56396,9 +56334,7 @@
       "name": "Memory Plunder",
       "rating": 0,
       "scryfallId": "9ca6808a-1816-4ac7-bbb2-c7a5a47428d6",
-      "effects": [
-        "Steal"
-      ]
+      "effects": []
     },
     "a30b659e-ae2b-4736-9b4f-a9805905bf75": {
       "name": "Memory Sluice",
@@ -57312,9 +57248,7 @@
       "name": "Mimeofacture",
       "rating": 0,
       "scryfallId": "f4ada33a-5b7c-426a-8416-4ce01bccaa5c",
-      "effects": [
-        "Steal"
-      ]
+      "effects": []
     },
     "6ebdc9f3-6b23-4716-8011-48f00d7e30c8": {
       "name": "Mimic Vat",
@@ -57464,8 +57398,7 @@
       "rating": 0,
       "scryfallId": "b3d6522a-b9a0-4185-b5ba-c20fa1b772eb",
       "effects": [
-        "CardAdvantage",
-        "Steal"
+        "CardAdvantage"
       ]
     },
     "028dcef2-3de9-4dde-ba17-f9e077b3190d": {
@@ -57494,9 +57427,7 @@
       "name": "Mindclaw Shaman",
       "rating": 0,
       "scryfallId": "0f342fe9-aa73-4222-b908-d4035b5746be",
-      "effects": [
-        "Steal"
-      ]
+      "effects": []
     },
     "c73c1d91-0163-49c6-832a-b9327e7a2c9b": {
       "name": "Mindcrank",
@@ -57541,9 +57472,7 @@
       "name": "Mindleech Mass",
       "rating": 0,
       "scryfallId": "7cd1ace7-d4fe-4f96-9434-7ab1442bf36f",
-      "effects": [
-        "Steal"
-      ]
+      "effects": []
     },
     "22ff4e16-5c66-4076-94cc-32c281d42f03": {
       "name": "Mindless Null",
@@ -58297,9 +58226,7 @@
       "name": "Mnemonic Betrayal",
       "rating": 0,
       "scryfallId": "a5cf45aa-ed34-4add-a2ec-fc11f8c15ffa",
-      "effects": [
-        "Steal"
-      ]
+      "effects": []
     },
     "6fe302f2-5594-478c-a66b-89b4b96e3611": {
       "name": "Mnemonic Nexus",
@@ -59728,8 +59655,7 @@
       "rating": 0,
       "scryfallId": "10482209-19b1-4941-9133-f2764eeba092",
       "effects": [
-        "Discard",
-        "Steal"
+        "Discard"
       ]
     },
     "62421084-96e6-40dd-8d34-7c8c1091d4a4": {
@@ -61395,8 +61321,7 @@
       "rating": 0,
       "scryfallId": "77ffd913-8efa-48e5-a5cf-293d3068dbbf",
       "effects": [
-        "Reanimate",
-        "Steal"
+        "Reanimate"
       ]
     },
     "0f9672ac-f4fc-46e8-9fe5-93b3e66810a4": {
@@ -61505,8 +61430,7 @@
         "Wipe",
         "Discard",
         "CardAdvantage",
-        "Burn",
-        "Steal"
+        "Burn"
       ]
     },
     "05e9b55e-6329-48ec-b7d7-24c6b9692244": {
@@ -61538,8 +61462,7 @@
         "Removal",
         "Discard",
         "CardAdvantage",
-        "Reanimate",
-        "Steal"
+        "Reanimate"
       ]
     },
     "9d52641e-b9ad-4781-a374-1d2868eb32a8": {
@@ -61765,8 +61688,7 @@
       "rating": 0,
       "scryfallId": "e3754b8c-16d2-41e3-b41b-4b2e70833e82",
       "effects": [
-        "CardAdvantage",
-        "Steal"
+        "CardAdvantage"
       ]
     },
     "8ac23863-0aa7-41bc-b9b7-c5f0566172cf": {
@@ -62170,8 +62092,7 @@
       "effects": [
         "CardAdvantage",
         "Buff",
-        "Sacrifice",
-        "Steal"
+        "Sacrifice"
       ]
     },
     "10764b35-5c6c-4161-8579-1124d5963a0e": {
@@ -62653,8 +62574,7 @@
       "scryfallId": "3afdc75a-1bf5-4f2f-84eb-d82f77a095cd",
       "effects": [
         "Discard",
-        "CardAdvantage",
-        "Steal"
+        "CardAdvantage"
       ]
     },
     "5b04a337-3152-481e-973f-a11dbd615f93": {
@@ -63159,8 +63079,7 @@
       "rating": 0,
       "scryfallId": "22e07a4d-8096-4532-bb00-e6e66f1c6843",
       "effects": [
-        "Ramp",
-        "Steal"
+        "Ramp"
       ]
     },
     "ad3564f5-11f7-456b-8881-4db00a18a2ed": {
@@ -64569,8 +64488,7 @@
       "rating": 0,
       "scryfallId": "baeb4c10-59cb-4bc1-b824-6ec8edd6f45e",
       "effects": [
-        "CardAdvantage",
-        "Steal"
+        "CardAdvantage"
       ]
     },
     "cbd4e160-9eb1-42de-aee8-6f1d1398f633": {
@@ -67854,9 +67772,7 @@
       "name": "Praetor's Grasp",
       "rating": 0,
       "scryfallId": "9588be49-d9b5-4491-a5a0-10bcadc9f8b3",
-      "effects": [
-        "Steal"
-      ]
+      "effects": []
     },
     "37ff5ba6-0763-4c73-85bf-66856e67b8f3": {
       "name": "Prahv, Spires of Order",
@@ -68462,9 +68378,7 @@
       "name": "Prince of Thralls",
       "rating": 0,
       "scryfallId": "56d6e8a2-d1b0-4aae-95f5-6ecc5718d454",
-      "effects": [
-        "Steal"
-      ]
+      "effects": []
     },
     "8856d849-dad8-41b8-8212-bb839f2b359c": {
       "name": "Prism Array",
@@ -69089,9 +69003,7 @@
       "name": "Psychic Intrusion",
       "rating": 0,
       "scryfallId": "2b6e1d03-ad24-4bde-ab3c-28f94e776a4e",
-      "effects": [
-        "Steal"
-      ]
+      "effects": []
     },
     "43d69e13-27df-43a9-b610-6628dc02e3b4": {
       "name": "Psychic Miasma",
@@ -69476,8 +69388,7 @@
       "scryfallId": "6ff839e1-6f76-4a24-a87c-d4589b1abf66",
       "effects": [
         "Reanimate",
-        "Burn",
-        "Steal"
+        "Burn"
       ]
     },
     "e119ba58-85e4-49ec-a2f8-3d094187c99d": {
@@ -73550,9 +73461,7 @@
       "name": "Reversal of Fortune",
       "rating": 0,
       "scryfallId": "19cf87c0-369e-4ec2-bb9f-e8e29d63d448",
-      "effects": [
-        "Steal"
-      ]
+      "effects": []
     },
     "f56596be-e12f-4ab6-af61-3ef8dc87134c": {
       "name": "Reverse Engineer",
@@ -74678,9 +74587,7 @@
       "name": "Robber of the Rich",
       "rating": 0,
       "scryfallId": "0ecbe097-ba51-42e5-957c-382eb66c08f0",
-      "effects": [
-        "Steal"
-      ]
+      "effects": []
     },
     "4f69d2f9-c16a-4752-9026-794a29d73af8": {
       "name": "Robot Domination",
@@ -78037,7 +77944,7 @@
       "rating": 0,
       "scryfallId": "1a30f99a-b295-45a2-bff7-479cbe7541a5",
       "effects": [
-        "Steal"
+        "Reanimate"
       ]
     },
     "23dd6d4a-d933-4328-8d09-75f7908ae347": {
@@ -79065,9 +78972,7 @@
       "name": "Sen Triplets",
       "rating": 0,
       "scryfallId": "418f8ecb-544b-430c-8ae9-61aaaf2dfba6",
-      "effects": [
-        "Steal"
-      ]
+      "effects": []
     },
     "7ddf9c12-8f75-481c-a218-d42f925c6503": {
       "name": "Senate Griffin",
@@ -79250,8 +79155,7 @@
       "rating": 0,
       "scryfallId": "eb0865cd-d9b4-43ea-87d2-ad5c65fc0459",
       "effects": [
-        "Reanimate",
-        "Steal"
+        "Reanimate"
       ]
     },
     "b6fe779f-b20d-49cc-96dd-54f1ffb312e1": {
@@ -79999,8 +79903,7 @@
       "rating": 0,
       "scryfallId": "8f946b3d-7d2a-4210-a909-d16078757e3b",
       "effects": [
-        "Reanimate",
-        "Steal"
+        "Reanimate"
       ]
     },
     "fb8e43f2-41d5-4ffb-a61e-940477749e00": {
@@ -81487,9 +81390,7 @@
       "name": "Silent-Blade Oni",
       "rating": 0,
       "scryfallId": "63fb057c-a70f-49e4-ba39-f5ce17b09c7f",
-      "effects": [
-        "Steal"
-      ]
+      "effects": []
     },
     "8d5a8513-0728-46ff-be72-3aefa07c7658": {
       "name": "Silent-Chant Zubera",
@@ -81858,9 +81759,7 @@
       "name": "Simic Guildmage",
       "rating": 0,
       "scryfallId": "d77d4ffb-a829-49ca-9c37-c60ba467852c",
-      "effects": [
-        "Steal"
-      ]
+      "effects": []
     },
     "c7c37369-47f8-4027-a016-a2055307dd24": {
       "name": "Simic Initiate",
@@ -84138,7 +84037,7 @@
       "rating": 0,
       "scryfallId": "aa7e4989-cba7-4e0c-bb9d-140af6c006c3",
       "effects": [
-        "Steal"
+        "Burn"
       ]
     },
     "a7c5318f-e579-447e-9109-7d2e4b3d2c17": {
@@ -85210,9 +85109,7 @@
       "name": "Sphinx Ambassador",
       "rating": 0,
       "scryfallId": "b0937274-d5cb-4790-8c10-804f537c5581",
-      "effects": [
-        "Steal"
-      ]
+      "effects": []
     },
     "41907508-9ffc-4e01-969a-4f9c35cdf548": {
       "name": "Sphinx Sovereign",
@@ -87355,8 +87252,7 @@
       "rating": 0,
       "scryfallId": "53203dfc-5ad5-4c17-9802-ca2f874d327a",
       "effects": [
-        "CardAdvantage",
-        "Steal"
+        "CardAdvantage"
       ]
     },
     "30b533a3-afc3-4500-a8f0-54e84301988f": {
@@ -87381,8 +87277,7 @@
       "rating": 0,
       "scryfallId": "bb90e4b8-8f66-45f0-a457-a081f2ff231c",
       "effects": [
-        "CardAdvantage",
-        "Steal"
+        "CardAdvantage"
       ]
     },
     "5bafd0e0-8bf8-4e06-a54a-81cc6cc4bdb7": {
@@ -89206,8 +89101,7 @@
       "rating": 0,
       "scryfallId": "5b25e454-06bb-43ca-9a9f-57164f7a70c4",
       "effects": [
-        "Reanimate",
-        "Steal"
+        "Reanimate"
       ]
     },
     "7e49f689-996a-477e-a327-32b69fbc0d85": {
@@ -90559,9 +90453,7 @@
       "name": "Talent of the Telepath",
       "rating": 0,
       "scryfallId": "c5da13a1-8be2-4312-a660-f3e102c552b6",
-      "effects": [
-        "Steal"
-      ]
+      "effects": []
     },
     "b638c475-778c-4251-8dac-6a18c3394ae5": {
       "name": "Tall as a Beanstalk",
@@ -90861,9 +90753,7 @@
       "name": "Tariel, Reckoner of Souls",
       "rating": 0,
       "scryfallId": "c09448cf-70c9-494d-90e2-63a958b49bcd",
-      "effects": [
-        "Steal"
-      ]
+      "effects": []
     },
     "45900b2f-f6a9-4c42-9642-008f3c1cf6dd": {
       "name": "Tarmogoyf",
@@ -90933,9 +90823,7 @@
       "name": "Taster of Wares",
       "rating": 0,
       "scryfallId": "bc0b64b6-8984-431c-8a2f-84402b429e2b",
-      "effects": [
-        "Steal"
-      ]
+      "effects": []
     },
     "ab739c7e-246a-45ac-bbec-ba44d044dd03": {
       "name": "Tatsumasa, the Dragon's Fang",
@@ -91230,9 +91118,7 @@
       "name": "Telemin Performance",
       "rating": 0,
       "scryfallId": "3ac0f1fb-0ada-4b3c-b9bd-654ffc0a167d",
-      "effects": [
-        "Steal"
-      ]
+      "effects": []
     },
     "d5b4876f-d28d-40dc-be7f-2c4f4c0bd6b3": {
       "name": "Teleportal",
@@ -92070,9 +91956,7 @@
       "name": "Thada Adel, Acquisitor",
       "rating": 0,
       "scryfallId": "3bfcbeab-7a1e-4dcf-99bf-98f42c2b6a6f",
-      "effects": [
-        "Steal"
-      ]
+      "effects": []
     },
     "58b349ec-9987-4832-a8f3-8e92027ea75b": {
       "name": "Thalia's Lancers",
@@ -92839,7 +92723,6 @@
       "rating": 0,
       "scryfallId": "d9e9d9a8-86c2-4e58-b818-466247725259",
       "effects": [
-        "Steal",
         "Mill"
       ]
     },
@@ -93029,9 +92912,7 @@
       "name": "Thief of Sanity",
       "rating": 0,
       "scryfallId": "307543ca-8e17-433f-9758-4c77da6c0870",
-      "effects": [
-        "Steal"
-      ]
+      "effects": []
     },
     "e0bffcf3-8d34-461b-a1e4-ae47c1e7b19e": {
       "name": "Thieves' Fortune",
@@ -93375,7 +93256,6 @@
       "rating": 0,
       "scryfallId": "eba0e921-b81a-4803-8e1b-f7ae556c1e6f",
       "effects": [
-        "Steal",
         "Mill"
       ]
     },
@@ -95791,9 +95671,7 @@
       "name": "Treacherous Urge",
       "rating": 0,
       "scryfallId": "22563bcd-1f29-4544-ba43-173ead61e62a",
-      "effects": [
-        "Steal"
-      ]
+      "effects": []
     },
     "0b3bdbc6-cde7-4187-b13c-82fd02ae4037": {
       "name": "Tread Upon",
@@ -96325,8 +96203,7 @@
       "rating": 0,
       "scryfallId": "fa1190a4-3d7e-4500-991f-e36ec3d1d9dc",
       "effects": [
-        "Buff",
-        "Steal"
+        "Buff"
       ]
     },
     "97cf544e-ffbf-4730-8cd2-4f1d5be933f2": {
@@ -100253,8 +100130,7 @@
       "rating": 0,
       "scryfallId": "0610e69b-8b7c-40e4-bb10-28ee4411f861",
       "effects": [
-        "CardAdvantage",
-        "Steal"
+        "CardAdvantage"
       ]
     },
     "6dc7f837-158f-4ccf-86a5-a07a20891ec5": {
@@ -105218,9 +105094,7 @@
       "name": "Wrexial, the Risen Deep",
       "rating": 0,
       "scryfallId": "deeb989b-aff4-4232-9ae1-c4f73dacf728",
-      "effects": [
-        "Steal"
-      ]
+      "effects": []
     },
     "45bb536c-c173-4b6e-a5a8-354c74fd93a1": {
       "name": "Wring Flesh",
