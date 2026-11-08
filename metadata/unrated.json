@@ -20267,7 +20267,7 @@
       "rating": 0,
       "scryfallId": "ff25a19a-8f98-47ef-847c-ba526c82b290",
       "effects": [
-        "Removal"
+        "Wipe"
       ]
     },
     "e5fdd6fd-6492-47ec-8b74-9ff22ff9849a": {
@@ -63209,8 +63209,8 @@
       "rating": 0,
       "scryfallId": "4bb07091-86d6-4735-82b6-6e71e26710f4",
       "effects": [
-        "Removal",
         "Counter",
+        "Wipe",
         "Redirect"
       ]
     },
@@ -101100,7 +101100,9 @@
       "name": "Voldaren Pariah // Abolisher of Bloodlines",
       "rating": 0,
       "scryfallId": "25baac6c-5bb4-4ecc-b1d5-fced52087bd9",
-      "effects": []
+      "effects": [
+        "Wipe"
+      ]
     },
     "bda496f9-5362-46f2-ad4f-cd96410c3c61": {
       "name": "Volition Reins",
@@ -101157,7 +101159,8 @@
       "rating": 0,
       "scryfallId": "aab958d5-9c1f-420f-b358-ec0325f22f84",
       "effects": [
-        "Removal"
+        "Removal",
+        "Wipe"
       ]
     },
     "b1c56e23-eae6-47a1-a1cd-3a2d01621768": {
@@ -102284,6 +102287,7 @@
       "rating": 0,
       "scryfallId": "fdbf743a-6e28-47c4-acfe-1c5d42f80eee",
       "effects": [
+        "Wipe",
         "Ramp"
       ]
     },
