@@ -52724,9 +52724,7 @@
       "name": "Jacob Frye",
       "rating": 1,
       "scryfallId": "23422e75-e1c7-484b-aa1f-155ef9a998ec",
-      "effects": [
-        "Regrowth"
-      ],
+      "effects": [],
       "reviewedAt": "2026-10-15T08:06:53.194663+00:00"
     },
     "16d2a56a-7181-4ef3-866b-10dd8615d9e9": {
@@ -83578,8 +83576,7 @@
       "rating": 1,
       "scryfallId": "9a47573a-601e-4738-acef-16118289f939",
       "effects": [
-        "Ramp",
-        "Regrowth"
+        "Ramp"
       ],
       "reviewedAt": "2026-11-03T18:33:07.3522091+00:00"
     },
@@ -90885,7 +90882,8 @@
       "rating": 2,
       "scryfallId": "8138cf10-1e3e-483f-86ad-cc399192657d",
       "effects": [
-        "Reanimate"
+        "Reanimate",
+        "Regrowth"
       ],
       "reviewedAt": "2026-09-11T22:15:18.8437824+00:00"
     },
@@ -119839,9 +119837,7 @@
       "name": "Zask, Skittering Swarmlord",
       "rating": 1,
       "scryfallId": "4eafc507-973a-4aec-91b9-c29d70b0e25d",
-      "effects": [
-        "Regrowth"
-      ],
+      "effects": [],
       "reviewedAt": "2026-10-27T15:10:34.72707+00:00"
     },
     "a9946ea0-bf0e-4c9c-a3c6-21337a5029ab": {
@@ -120494,9 +120490,7 @@
       "name": "Zul Ashur, Lich Lord",
       "rating": 1,
       "scryfallId": "34ad4fdb-9805-45b3-ba20-e47a15d6ff38",
-      "effects": [
-        "Regrowth"
-      ],
+      "effects": [],
       "reviewedAt": "2026-09-23T13:17:08.9626689+00:00"
     },
     "e8237d12-2860-4cc8-85a4-458e4c68e69a": {
