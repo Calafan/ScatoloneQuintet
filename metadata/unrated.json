@@ -54952,7 +54952,8 @@
       "rating": 0,
       "scryfallId": "ba98d363-194b-4bc0-b9fe-987c498ab6fa",
       "effects": [
-        "Burn"
+        "Burn",
+        "Tutor"
       ]
     },
     "114e1d2c-cefc-4e2a-922e-3b2ceed1871d": {
@@ -56077,7 +56078,6 @@
       "rating": 0,
       "scryfallId": "401f7042-24fd-42a0-ae7c-e6b7de1aa446",
       "effects": [
-        "Tutor",
         "ManaFixing"
       ]
     },
@@ -59058,7 +59058,8 @@
       "rating": 0,
       "scryfallId": "9985c554-8338-46b1-ac36-526d2eb61570",
       "effects": [
-        "Burn"
+        "Burn",
+        "Tutor"
       ]
     },
     "418be12f-b40a-4018-86c1-98c9000a999a": {
