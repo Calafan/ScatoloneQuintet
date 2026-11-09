@@ -28355,6 +28355,7 @@
       "rating": 1,
       "scryfallId": "7a1d3c1d-1373-4ac4-bb26-9780976efc4f",
       "effects": [
+        "Ramp",
         "ManaFixing"
       ],
       "reviewedAt": "2026-09-25T08:52:32.7827999+00:00"
@@ -43016,7 +43017,7 @@
       "rating": 1,
       "scryfallId": "c059e4b4-1542-4b5c-810a-9f0abac5792b",
       "effects": [
-        "Ramp"
+        "ManaFixing"
       ],
       "reviewedAt": "2026-10-23T07:18:02.3774594+00:00"
     },
@@ -49492,7 +49493,8 @@
       "rating": 1,
       "scryfallId": "d5e1ff6d-190a-497f-89c3-35e0979c93b5",
       "effects": [
-        "Tokens"
+        "Tokens",
+        "Ramp"
       ],
       "reviewedAt": "2026-09-23T21:40:56.4893097+00:00"
     },
@@ -56617,6 +56619,7 @@
       "effects": [
         "Tokens",
         "Removal",
+        "Ramp",
         "Filter"
       ],
       "reviewedAt": "2026-09-12T09:44:43.8158139+00:00"
@@ -56627,6 +56630,7 @@
       "scryfallId": "e6b44ffe-db9e-4db5-9806-098411c9ece0",
       "effects": [
         "Tokens",
+        "Ramp",
         "CardAdvantage"
       ],
       "reviewedAt": "2026-09-25T09:31:53.4916023+00:00"
@@ -68576,6 +68580,7 @@
       "rating": 1,
       "scryfallId": "b0f7c47c-416e-4f73-89ec-024a29dfb5e9",
       "effects": [
+        "Ramp",
         "LandDestruction"
       ],
       "reviewedAt": "2026-10-16T12:48:07.6129128+00:00"
@@ -77287,7 +77292,8 @@
       "rating": 1,
       "scryfallId": "4f5b2d89-d641-4815-8e6c-5dba0d31419e",
       "effects": [
-        "Tokens"
+        "Tokens",
+        "Ramp"
       ],
       "reviewedAt": "2026-09-25T10:12:55.7066806+00:00"
     },
@@ -95507,6 +95513,7 @@
       "effects": [
         "Tokens",
         "Removal",
+        "Ramp",
         "Burn"
       ],
       "reviewedAt": "2026-09-23T13:35:01.9096097+00:00"
@@ -104560,8 +104567,7 @@
       "rating": 1,
       "scryfallId": "61eaebc6-7575-48ed-b212-ff8b0c7ae694",
       "effects": [
-        "Removal",
-        "Ramp"
+        "Removal"
       ],
       "reviewedAt": "2026-09-10T14:34:24.7710115+00:00"
     },
