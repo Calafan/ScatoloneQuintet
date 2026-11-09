@@ -2897,8 +2897,7 @@
       "name": "Bumi, Unleashed",
       "rating": 3,
       "scryfallId": "b20a5185-7e31-4fc9-be11-9423bfc389bf",
-      "effects": [],
-      "reviewedAt": "2026-09-25T07:49:24.3255674+00:00"
+      "effects": []
     },
     "4cbfb898-e1ca-4e34-9cb2-11ba50272984": {
       "name": "Burly Breaker // Dire-Strain Demolisher",
@@ -25253,8 +25252,7 @@
       "scryfallId": "f54dbeb1-51f8-40e2-912a-ec25457de5a2",
       "effects": [
         "Ramp"
-      ],
-      "reviewedAt": "2026-09-25T09:29:02.6609471+00:00"
+      ]
     },
     "72a39730-acc3-470c-960e-3a91c5eae4be": {
       "name": "Wurmcoil Larva",
