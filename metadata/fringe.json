@@ -25615,7 +25615,9 @@
       "name": "Devout Harpist",
       "rating": 1,
       "scryfallId": "985b5c60-8a5e-4473-ba43-583aef50f19e",
-      "effects": []
+      "effects": [
+        "Disenchant"
+      ]
     },
     "8a0f4e8e-b541-4327-80fe-4fecc23e0df3": {
       "name": "Devout Monk",
@@ -75139,7 +75141,9 @@
       "name": "Piety Charm",
       "rating": 1,
       "scryfallId": "1bc2da43-c0e1-4fbf-b309-a75e105c29c1",
-      "effects": []
+      "effects": [
+        "Disenchant"
+      ]
     },
     "89abdf4c-ba9d-4602-ae50-cf79c68ea08d": {
       "name": "Pigment Storm",

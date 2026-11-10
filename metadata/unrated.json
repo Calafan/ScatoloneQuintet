@@ -88041,7 +88041,9 @@
       "name": "Street Sweeper",
       "rating": 0,
       "scryfallId": "4a62827a-183f-4bef-b6ce-20a4577f6d30",
-      "effects": []
+      "effects": [
+        "Disenchant"
+      ]
     },
     "bd7867f4-4f58-49c2-9c24-a124dfdb506d": {
       "name": "Street Wraith",
@@ -88153,7 +88155,9 @@
       "name": "Strip Bare",
       "rating": 0,
       "scryfallId": "51173fa1-7cd4-4093-982a-db0d46564a8a",
-      "effects": []
+      "effects": [
+        "Disenchant"
+      ]
     },
     "725972de-4816-44cf-a2a5-4326c3bc1b4b": {
       "name": "Striped Riverwinder",
