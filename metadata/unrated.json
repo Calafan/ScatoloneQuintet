@@ -14998,8 +14998,7 @@
       "rating": 0,
       "scryfallId": "5a970429-6369-4422-a343-00b30267f09d",
       "effects": [
-        "Ramp",
-        "Tutor"
+        "Ramp"
       ]
     },
     "b9e93832-93b7-409d-91aa-13757225824d": {
@@ -23062,7 +23061,6 @@
       "rating": 0,
       "scryfallId": "c150deec-3287-40ef-9b9c-c22bf5d70b02",
       "effects": [
-        "Tutor",
         "ManaFixing"
       ]
     },
@@ -34216,7 +34214,6 @@
       "rating": 0,
       "scryfallId": "5dabcc2f-7536-44e3-a495-bbfc526fdc5d",
       "effects": [
-        "Tutor",
         "ManaFixing"
       ]
     },
@@ -56098,7 +56095,6 @@
       "rating": 0,
       "scryfallId": "401f7042-24fd-42a0-ae7c-e6b7de1aa446",
       "effects": [
-        "Tutor",
         "ManaFixing"
       ]
     },
@@ -64035,7 +64031,6 @@
       "rating": 0,
       "scryfallId": "ff326c57-accb-4b75-9bc9-b5ef1a85f38d",
       "effects": [
-        "Tutor",
         "ManaFixing"
       ]
     },
@@ -80108,8 +80103,7 @@
       "rating": 0,
       "scryfallId": "2688ef62-875a-4735-9a63-6f3152d10d61",
       "effects": [
-        "Ramp",
-        "Tutor"
+        "Ramp"
       ]
     },
     "82df38bc-f29b-49f8-b734-e4df6d0f645a": {
@@ -87939,8 +87933,8 @@
       "rating": 0,
       "scryfallId": "8f2cb906-3748-4675-89b3-bde2f9a8444a",
       "effects": [
-        "Buff",
-        "Tutor"
+        "Filter",
+        "Buff"
       ]
     },
     "b8d019fa-3893-453e-a46d-aa53fc3f2f0e": {
@@ -95854,8 +95848,7 @@
       "rating": 0,
       "scryfallId": "b631b71b-78f6-41bc-a26a-c761ee1671a1",
       "effects": [
-        "Filter",
-        "Tutor"
+        "Filter"
       ]
     },
     "f0031ef3-d5f5-4114-97aa-4beabd11ff8d": {
