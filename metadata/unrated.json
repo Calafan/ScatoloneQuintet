@@ -12879,6 +12879,7 @@
       "rating": 0,
       "scryfallId": "79dd5c54-5ea5-47b5-8f9b-50ed57a5ea45",
       "effects": [
+        "Tutor",
         "Regrowth"
       ]
     },
@@ -14997,7 +14998,8 @@
       "rating": 0,
       "scryfallId": "5a970429-6369-4422-a343-00b30267f09d",
       "effects": [
-        "Ramp"
+        "Ramp",
+        "Tutor"
       ]
     },
     "b9e93832-93b7-409d-91aa-13757225824d": {
@@ -23060,6 +23062,7 @@
       "rating": 0,
       "scryfallId": "c150deec-3287-40ef-9b9c-c22bf5d70b02",
       "effects": [
+        "Tutor",
         "ManaFixing"
       ]
     },
@@ -28831,6 +28834,7 @@
       "rating": 0,
       "scryfallId": "c55bee97-593f-441f-b96c-a998d5212a55",
       "effects": [
+        "Tutor",
         "ManaFixing"
       ]
     },
@@ -34212,6 +34216,7 @@
       "rating": 0,
       "scryfallId": "5dabcc2f-7536-44e3-a495-bbfc526fdc5d",
       "effects": [
+        "Tutor",
         "ManaFixing"
       ]
     },
@@ -41918,7 +41923,8 @@
       "rating": 0,
       "scryfallId": "9a446cae-e93c-4574-8ffd-7688f9729a8a",
       "effects": [
-        "Ramp"
+        "Ramp",
+        "Tutor"
       ]
     },
     "96c2d71e-0fc9-42aa-bc6b-6d0ae3f66f8b": {
@@ -43035,7 +43041,8 @@
       "scryfallId": "c5ee374f-31dc-4b2c-beba-431d5b1126d0",
       "effects": [
         "Tokens",
-        "Ramp"
+        "Ramp",
+        "Tutor"
       ]
     },
     "3bc13640-03f8-4b19-b0a4-7e7cb5271c0c": {
@@ -49643,7 +49650,8 @@
       "rating": 0,
       "scryfallId": "ad8b8518-c09e-4cb7-95b2-08e4e370d89c",
       "effects": [
-        "Ramp"
+        "Ramp",
+        "Tutor"
       ]
     },
     "633e91ea-84d4-42ca-a8eb-603db340ebe7": {
@@ -56090,6 +56098,7 @@
       "rating": 0,
       "scryfallId": "401f7042-24fd-42a0-ae7c-e6b7de1aa446",
       "effects": [
+        "Tutor",
         "ManaFixing"
       ]
     },
@@ -62020,6 +62029,7 @@
       "rating": 0,
       "scryfallId": "7946b256-ae79-4b99-8bf4-0d627baf9044",
       "effects": [
+        "Tutor",
         "ManaFixing"
       ]
     },
@@ -64025,6 +64035,7 @@
       "rating": 0,
       "scryfallId": "ff326c57-accb-4b75-9bc9-b5ef1a85f38d",
       "effects": [
+        "Tutor",
         "ManaFixing"
       ]
     },
@@ -66962,7 +66973,8 @@
       "rating": 0,
       "scryfallId": "b816ce6e-d876-4c6d-83ed-e3887dcfa5d5",
       "effects": [
-        "Ramp"
+        "Ramp",
+        "Tutor"
       ]
     },
     "7683c2b2-a06f-4691-9cc5-1968dc032885": {
@@ -68345,7 +68357,8 @@
       "rating": 0,
       "scryfallId": "feee9327-b937-46ba-a2aa-6c015ab6cdd5",
       "effects": [
-        "Ramp"
+        "Ramp",
+        "Tutor"
       ]
     },
     "8de8027b-072a-474b-b76b-dc49c417cc55": {
@@ -71777,6 +71790,7 @@
       "rating": 0,
       "scryfallId": "4e469f84-004d-4a92-98fe-9869b4945181",
       "effects": [
+        "Tutor",
         "ManaFixing"
       ]
     },
@@ -71792,7 +71806,9 @@
       "name": "Realms Uncharted",
       "rating": 0,
       "scryfallId": "8967ceff-9e25-46da-926b-e05f4ee98325",
-      "effects": []
+      "effects": [
+        "Tutor"
+      ]
     },
     "bad869dd-e844-46ca-be53-73c4bc19d09c": {
       "name": "Realmwright",
@@ -71822,6 +71838,7 @@
       "scryfallId": "ff6c4ae7-8509-47a2-bc28-d131b1e6676c",
       "effects": [
         "Ramp",
+        "Tutor",
         "LandDestruction"
       ]
     },
@@ -77257,7 +77274,8 @@
       "rating": 0,
       "scryfallId": "84829605-50eb-455d-a236-ebfa11e883c5",
       "effects": [
-        "Ramp"
+        "Ramp",
+        "Tutor"
       ]
     },
     "4eafe158-abff-43e9-aeae-596430c5ce21": {
@@ -80090,7 +80108,8 @@
       "rating": 0,
       "scryfallId": "2688ef62-875a-4735-9a63-6f3152d10d61",
       "effects": [
-        "Ramp"
+        "Ramp",
+        "Tutor"
       ]
     },
     "82df38bc-f29b-49f8-b734-e4df6d0f645a": {
@@ -87920,7 +87939,8 @@
       "rating": 0,
       "scryfallId": "8f2cb906-3748-4675-89b3-bde2f9a8444a",
       "effects": [
-        "Buff"
+        "Buff",
+        "Tutor"
       ]
     },
     "b8d019fa-3893-453e-a46d-aa53fc3f2f0e": {
@@ -91376,7 +91396,8 @@
       "rating": 0,
       "scryfallId": "00bfc923-4f6b-4c6f-b74f-ddf95a3459f8",
       "effects": [
-        "Ramp"
+        "Ramp",
+        "Tutor"
       ]
     },
     "5a8dd1b7-b63e-4997-9fe8-5e8816bc051b": {
@@ -95833,7 +95854,8 @@
       "rating": 0,
       "scryfallId": "b631b71b-78f6-41bc-a26a-c761ee1671a1",
       "effects": [
-        "Filter"
+        "Filter",
+        "Tutor"
       ]
     },
     "f0031ef3-d5f5-4114-97aa-4beabd11ff8d": {
@@ -97318,7 +97340,8 @@
       "rating": 0,
       "scryfallId": "8a5d48df-7d21-462c-b721-b769a785bb00",
       "effects": [
-        "Ramp"
+        "Ramp",
+        "Tutor"
       ]
     },
     "6588ea9a-658f-40d9-a64b-3a418ab81183": {
@@ -99827,6 +99850,7 @@
       "effects": [
         "Removal",
         "Burn",
+        "Tutor",
         "ManaFixing"
       ]
     },

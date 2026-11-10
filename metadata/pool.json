@@ -21300,6 +21300,7 @@
       "rating": 3,
       "scryfallId": "b4ff07b6-be9f-498f-9f36-cbd64f1b10cc",
       "effects": [
+        "Tutor",
         "ManaFixing"
       ]
     },
@@ -24694,6 +24695,7 @@
       "rating": 3,
       "scryfallId": "f6601ab1-3862-4aff-82be-be15493fe4b0",
       "effects": [
+        "Tutor",
         "ManaFixing"
       ]
     },

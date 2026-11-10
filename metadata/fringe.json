@@ -21464,7 +21464,8 @@
       "rating": 2,
       "scryfallId": "6563f790-862c-465a-b963-7a61f2385516",
       "effects": [
-        "Ramp"
+        "Ramp",
+        "Tutor"
       ]
     },
     "6223b1c0-bfe0-490c-b2d4-28537b05f571": {
@@ -47642,7 +47643,8 @@
       "rating": 1,
       "scryfallId": "dc33920a-f05c-46fa-b94b-278af0022b78",
       "effects": [
-        "Ramp"
+        "Ramp",
+        "Tutor"
       ]
     },
     "f3a0f155-05d8-465c-b0ef-35aa12e93013": {
@@ -70554,6 +70556,7 @@
       "rating": 2,
       "scryfallId": "daa2f963-9d16-4224-b24e-b6a79f2b9d75",
       "effects": [
+        "Tutor",
         "ManaFixing"
       ]
     },
@@ -94208,6 +94211,7 @@
       "rating": 1,
       "scryfallId": "8c6af084-eee7-4259-a58b-a866e0cf171b",
       "effects": [
+        "Tutor",
         "ManaFixing"
       ]
     },
