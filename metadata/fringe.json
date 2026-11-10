@@ -25848,6 +25848,7 @@
       "rating": 1,
       "scryfallId": "a375ec24-4841-4792-ad58-f29cdf0d1bbb",
       "effects": [
+        "Discard",
         "CardAdvantage"
       ],
       "reviewedAt": "2026-09-08T09:38:44.6757271+00:00"
@@ -37226,7 +37227,6 @@
       "rating": 1,
       "scryfallId": "3c26bf66-8fa8-4f69-9556-c9fcc56a7f33",
       "effects": [
-        "Discard",
         "Filter"
       ],
       "reviewedAt": "2026-09-08T11:57:43.6095196+00:00"
@@ -53317,7 +53317,9 @@
       "name": "Jester's Mask",
       "rating": 2,
       "scryfallId": "daa1ba0c-cb89-4bb2-8a35-6a4a4eecccf7",
-      "effects": [],
+      "effects": [
+        "Discard"
+      ],
       "reviewedAt": "2026-09-05T12:00:46.1631661+00:00"
     },
     "bccb06f1-8839-4104-9ffa-c79a817f8378": {
@@ -117597,6 +117599,7 @@
       "rating": 1,
       "scryfallId": "186fd917-8d65-4de5-8546-a32a5f6d3bab",
       "effects": [
+        "Discard",
         "Filter"
       ],
       "reviewedAt": "2026-09-04T14:47:40.1587272+00:00"

@@ -6208,6 +6208,7 @@
       "rating": 3,
       "scryfallId": "ff590af2-2d6c-4f16-a9b8-1a6dab6e9ad5",
       "effects": [
+        "Discard",
         "CardAdvantage"
       ],
       "reviewedAt": "2026-10-20T19:46:27.0564529+00:00"
@@ -22755,6 +22756,7 @@
       "rating": 5,
       "scryfallId": "9a49dc44-616e-4bdd-8220-0bb71eccc512",
       "effects": [
+        "Discard",
         "CardAdvantage"
       ],
       "reviewedAt": "2026-09-04T14:20:40.643435+00:00"
