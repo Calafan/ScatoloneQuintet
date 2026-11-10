@@ -10253,7 +10253,9 @@
       "name": "Blanket of Night",
       "rating": 1,
       "scryfallId": "fe012fd0-9ff0-4436-a890-3ab436e42201",
-      "effects": [],
+      "effects": [
+        "ManaFixing"
+      ],
       "reviewedAt": "2026-09-08T10:28:04.3530399+00:00"
     },
     "c13079d5-6749-43e5-a8ee-ef3af31ff679": {
@@ -36983,7 +36985,8 @@
       "rating": 1,
       "scryfallId": "5ddcb31e-9301-44f1-b138-0573fbf56a47",
       "effects": [
-        "Ramp"
+        "Ramp",
+        "ManaFixing"
       ],
       "reviewedAt": "2026-09-25T09:22:00.747318+00:00"
     },
@@ -100746,7 +100749,9 @@
       "name": "Swampbenders",
       "rating": 1,
       "scryfallId": "b0a8ee49-7bb0-48e2-bc43-a2cfa0a7196c",
-      "effects": [],
+      "effects": [
+        "ManaFixing"
+      ],
       "reviewedAt": "2026-10-26T20:54:33.8644382+00:00"
     },
     "fc532d1d-6cf5-4b59-afb3-325d0bc0db77": {
@@ -113324,7 +113329,8 @@
       "rating": 2,
       "scryfallId": "b0f10999-c7c2-462e-bd75-e3710f7a3364",
       "effects": [
-        "Ramp"
+        "Ramp",
+        "ManaFixing"
       ],
       "reviewedAt": "2026-09-25T10:24:27.021772+00:00"
     },
