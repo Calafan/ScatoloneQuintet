@@ -4380,7 +4380,9 @@
       "name": "Arcane Heist",
       "rating": 2,
       "scryfallId": "3ceb13f4-ac9e-4ddd-9170-545f8d37b87a",
-      "effects": [],
+      "effects": [
+        "CardAdvantage"
+      ],
       "reviewedAt": "2026-11-10T08:43:49.9977844+00:00"
     },
     "d5251d47-11de-41f7-9965-1f921e12d927": {
@@ -68757,7 +68759,6 @@
       "rating": 1,
       "scryfallId": "d4e2f75e-75f3-4255-969f-0eab32f7bd1e",
       "effects": [
-        "CardAdvantage",
         "Reanimate"
       ],
       "reviewedAt": "2026-11-10T08:51:26.1528472+00:00"
