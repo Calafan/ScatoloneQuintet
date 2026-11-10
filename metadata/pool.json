@@ -2532,7 +2532,8 @@
       "effects": [
         "CardAdvantage",
         "Burn"
-      ]
+      ],
+      "reviewedAt": "2026-11-10T08:56:29.8829381+00:00"
     },
     "36cd2364-d113-47d1-b2c4-b088d9eb88dd": {
       "name": "Brainstorm",
@@ -3962,10 +3963,8 @@
       "name": "Colossal Rattlewurm",
       "rating": 5,
       "scryfallId": "17a104d3-e4ac-44a0-9c6a-39965b1b9751",
-      "effects": [
-        "Ramp",
-        "Tutor"
-      ]
+      "effects": [],
+      "reviewedAt": "2026-11-10T08:42:40.0941965+00:00"
     },
     "871e4c4e-8105-4cb9-b1cd-53c5f8e64494": {
       "name": "Colossal Skyturtle",
@@ -4438,7 +4437,8 @@
       "scryfallId": "a8e1f698-1c04-4f31-aeaa-b796c5eb5070",
       "effects": [
         "CardAdvantage"
-      ]
+      ],
+      "reviewedAt": "2026-11-10T08:48:27.3003938+00:00"
     },
     "ad82b43b-b15e-48f4-86ab-5ee2c448cf14": {
       "name": "Court of Vantress",
@@ -4454,9 +4454,9 @@
       "rating": 4,
       "scryfallId": "f328d6e0-d808-4abe-b6a2-cc557b27c329",
       "effects": [
-        "Discard",
-        "Reanimate"
-      ]
+        "Discard"
+      ],
+      "reviewedAt": "2026-11-10T08:43:33.9014185+00:00"
     },
     "fa5a9083-e6f7-4f61-9327-a6b96db220c7": {
       "name": "Crackdown",
@@ -4551,7 +4551,8 @@
       "scryfallId": "cab4539a-0157-4cbe-b50f-6e2575df74e9",
       "effects": [
         "Discard"
-      ]
+      ],
+      "reviewedAt": "2026-11-10T08:45:11.3981425+00:00"
     },
     "8d6e39b0-a190-40a0-a8e1-ee82f477376f": {
       "name": "Crumble",
@@ -5063,7 +5064,8 @@
       "effects": [
         "CardAdvantage",
         "ManaFixing"
-      ]
+      ],
+      "reviewedAt": "2026-11-10T08:48:45.0131098+00:00"
     },
     "1831fe12-dbe0-437f-8fc8-f01bbb701fe1": {
       "name": "Deceptive Landscape",
@@ -5923,7 +5925,8 @@
       "scryfallId": "dccdb6cc-dfad-4c7e-9550-3dd12f3e9c79",
       "effects": [
         "CardAdvantage"
-      ]
+      ],
+      "reviewedAt": "2026-11-10T08:41:27.3461634+00:00"
     },
     "dd8538e6-cd5f-4a88-aff5-eb5e76ce8ddb": {
       "name": "Dreamroot Cascade",
@@ -6636,8 +6639,10 @@
       "rating": 5,
       "scryfallId": "11454c82-3f1d-4456-8857-0dcb01d34298",
       "effects": [
+        "CardAdvantage",
         "Burn"
-      ]
+      ],
+      "reviewedAt": "2026-11-10T08:48:58.3654043+00:00"
     },
     "736017e2-bc33-49e8-812d-1639443fdb51": {
       "name": "Entish Restoration",
@@ -6758,7 +6763,8 @@
       "scryfallId": "95c14c4d-6c16-4826-8d93-d89ad04aee09",
       "effects": [
         "CardAdvantage"
-      ]
+      ],
+      "reviewedAt": "2026-11-10T08:47:20.7355809+00:00"
     },
     "04d8615c-3883-4251-9790-1d8a4a40e142": {
       "name": "Eternal Dragon",
@@ -6802,7 +6808,8 @@
       "effects": [
         "Tokens",
         "CardAdvantage"
-      ]
+      ],
+      "reviewedAt": "2026-11-10T08:43:59.9687943+00:00"
     },
     "0e2c11b2-d95f-4402-9a4a-afd3f7ffb8be": {
       "name": "Eureka Moment",
@@ -6828,7 +6835,8 @@
       "scryfallId": "c0dad61f-36cd-46af-82b7-a02e04efd676",
       "effects": [
         "CardAdvantage"
-      ]
+      ],
+      "reviewedAt": "2026-11-10T08:58:46.3323668+00:00"
     },
     "65c32889-3d70-449f-af76-05385c78c5a9": {
       "name": "Evercoat Ursine",
@@ -7493,9 +7501,8 @@
       "name": "Feather, Radiant Arbiter",
       "rating": 3,
       "scryfallId": "d763695b-c184-409d-962d-5aaf39a6264e",
-      "effects": [
-        "Redirect"
-      ]
+      "effects": [],
+      "reviewedAt": "2026-11-10T08:44:14.2230862+00:00"
     },
     "a090be5a-b0f2-4c17-8f7d-e742f9de8f6b": {
       "name": "Fecund Greenshell",
@@ -8082,8 +8089,10 @@
       "rating": 3,
       "scryfallId": "c1500cbf-5619-465e-a97b-75e676ce789b",
       "effects": [
+        "CardAdvantage",
         "Mill"
-      ]
+      ],
+      "reviewedAt": "2026-11-10T08:41:59.0956629+00:00"
     },
     "3cda958a-f777-433d-850e-a6c8f581db4e": {
       "name": "Flowering of the White Tree",
@@ -8919,7 +8928,8 @@
       "scryfallId": "2c76f7e0-37e7-4e87-93a3-a25ba0674645",
       "effects": [
         "CardAdvantage"
-      ]
+      ],
+      "reviewedAt": "2026-11-10T08:59:04.9634819+00:00"
     },
     "c3006be3-a796-4238-95dd-1e8e47c063b5": {
       "name": "Glacial Grasp",
@@ -9497,7 +9507,8 @@
       "scryfallId": "00f40514-d37d-423f-aa0c-1875300f43a8",
       "effects": [
         "CardAdvantage"
-      ]
+      ],
+      "reviewedAt": "2026-11-10T08:46:28.3971085+00:00"
     },
     "c7748659-0206-448f-8567-83565cb0b51a": {
       "name": "Guardian Archon",
@@ -10821,7 +10832,8 @@
       "effects": [
         "Discard",
         "CardAdvantage"
-      ]
+      ],
+      "reviewedAt": "2026-11-10T08:56:25.1711209+00:00"
     },
     "380b386f-90c8-45c5-a611-1ed6803b52d2": {
       "name": "Intervene",
@@ -11841,7 +11853,8 @@
       "effects": [
         "Tutor",
         "ManaFixing"
-      ]
+      ],
+      "reviewedAt": "2026-11-10T08:58:49.290749+00:00"
     },
     "ba557e19-a409-4c02-a9ac-a8fb77762e43": {
       "name": "Kutzil's Flanker",
@@ -12789,7 +12802,8 @@
       "scryfallId": "b4ed0e64-c7d8-49a2-9d00-21076484da0a",
       "effects": [
         "Wipe"
-      ]
+      ],
+      "reviewedAt": "2026-11-10T08:57:35.0742003+00:00"
     },
     "a731e87b-8d99-4b64-8ee3-8e540d652366": {
       "name": "Malakir Rebirth // Malakir Mire",
@@ -14003,7 +14017,8 @@
       "scryfallId": "2893b070-a610-4273-beb2-7609a2da0499",
       "effects": [
         "CardAdvantage"
-      ]
+      ],
+      "reviewedAt": "2026-11-10T08:57:16.6771585+00:00"
     },
     "09a1ab1b-d9f0-4a2a-a448-3190f85006e4": {
       "name": "Natural Affinity",
@@ -14054,9 +14069,9 @@
       "rating": 4,
       "scryfallId": "d512a77e-2435-4695-9408-df8e17dd1fbd",
       "effects": [
-        "Ramp",
-        "Tutor"
-      ]
+        "Ramp"
+      ],
+      "reviewedAt": "2026-11-10T09:00:07.8685865+00:00"
     },
     "761ee6f9-b0fa-43c9-8d1f-9591ea18e52d": {
       "name": "Necroblossom Snarl",
@@ -14421,7 +14436,8 @@
       "scryfallId": "9e663ce3-1871-4cde-82ba-4f009d582b77",
       "effects": [
         "Reanimate"
-      ]
+      ],
+      "reviewedAt": "2026-11-10T09:00:31.2384798+00:00"
     },
     "8ed932ff-986c-4592-ad70-53b3fac80d69": {
       "name": "Nurturing Peatland",
@@ -15719,7 +15735,8 @@
       "scryfallId": "179a0525-a142-46f6-9b5b-06a2fbb25556",
       "effects": [
         "CardAdvantage"
-      ]
+      ],
+      "reviewedAt": "2026-11-10T08:46:22.7242379+00:00"
     },
     "ac5258c1-5b46-4892-a445-bfd56875f039": {
       "name": "Plasma Bolt",
@@ -16616,7 +16633,8 @@
         "Ramp",
         "CardAdvantage",
         "ManaFixing"
-      ]
+      ],
+      "reviewedAt": "2026-11-10T08:59:20.7538571+00:00"
     },
     "9b1f0780-072a-4fe6-91d8-e546a8aaea20": {
       "name": "Rampaging Aetherhood",
@@ -17426,7 +17444,8 @@
       "effects": [
         "CardAdvantage",
         "ManaFixing"
-      ]
+      ],
+      "reviewedAt": "2026-11-10T08:43:16.2248273+00:00"
     },
     "4499d8cd-d090-4acc-a1d9-3d9d9b6ef768": {
       "name": "Reverse the Polarity",
@@ -17754,9 +17773,9 @@
       "rating": 3,
       "scryfallId": "f487b582-e73f-4325-939f-95fc5a9aba49",
       "effects": [
-        "Ramp",
         "Filter"
-      ]
+      ],
+      "reviewedAt": "2026-11-10T08:45:56.1410322+00:00"
     },
     "ffe13100-99dd-41e3-82ba-eaead6fd0113": {
       "name": "Rootcast Apprenticeship",
@@ -18263,9 +18282,9 @@
       "rating": 3,
       "scryfallId": "afcb2a90-d4c0-4c83-8ee7-2ac3a23b4402",
       "effects": [
-        "Ramp",
-        "Tutor"
-      ]
+        "Ramp"
+      ],
+      "reviewedAt": "2026-11-10T08:47:52.1656542+00:00"
     },
     "13ab2f3f-f65e-42b5-b743-39b30a4c4751": {
       "name": "Scarlet Spider, Ben Reilly",
@@ -19023,7 +19042,8 @@
         "Discard",
         "Reanimate",
         "Mill"
-      ]
+      ],
+      "reviewedAt": "2026-11-10T08:46:44.0768537+00:00"
     },
     "217062f5-96f1-454c-9507-17f34ef37070": {
       "name": "Sheoldred's Edict",
@@ -21939,7 +21959,8 @@
         "Discard",
         "Reanimate",
         "Tutor"
-      ]
+      ],
+      "reviewedAt": "2026-11-10T08:56:08.4493395+00:00"
     },
     "06c25d71-f3f4-4089-b9bc-de96fbad73a5": {
       "name": "The Cyber-Controller",
@@ -22262,7 +22283,8 @@
       "effects": [
         "CardAdvantage",
         "Burn"
-      ]
+      ],
+      "reviewedAt": "2026-11-10T08:59:00.5001139+00:00"
     },
     "ba26ff0a-e714-44f2-95cf-1a5a6088edf9": {
       "name": "The Skullspore Nexus",
@@ -24581,7 +24603,8 @@
       "scryfallId": "df67ec01-9d4c-4ae1-9c8a-f94d649c81bc",
       "effects": [
         "CardAdvantage"
-      ]
+      ],
+      "reviewedAt": "2026-11-10T08:56:26.7554344+00:00"
     },
     "0fa886c2-9b58-4368-b2d0-e619c62a554f": {
       "name": "Wandering Mind",

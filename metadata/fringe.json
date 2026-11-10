@@ -4102,7 +4102,8 @@
       "scryfallId": "17dd0b7f-bd26-4a46-a7a1-bc65138d54ed",
       "effects": [
         "Discard"
-      ]
+      ],
+      "reviewedAt": "2026-11-10T08:43:11.6134935+00:00"
     },
     "d1a6aa5f-2ad6-4bc7-82f0-4262f66af730": {
       "name": "Apprentice Necromancer",
@@ -4379,7 +4380,8 @@
       "name": "Arcane Heist",
       "rating": 2,
       "scryfallId": "3ceb13f4-ac9e-4ddd-9170-545f8d37b87a",
-      "effects": []
+      "effects": [],
+      "reviewedAt": "2026-11-10T08:43:49.9977844+00:00"
     },
     "d5251d47-11de-41f7-9965-1f921e12d927": {
       "name": "Arcane Infusion",
@@ -5483,7 +5485,8 @@
       "scryfallId": "c83542de-38ca-4aad-acba-189374be37e2",
       "effects": [
         "CardAdvantage"
-      ]
+      ],
+      "reviewedAt": "2026-11-10T08:58:58.5471619+00:00"
     },
     "5ffbbce1-fe38-40dc-a7c3-2055ae86c6c5": {
       "name": "Arwen Undómiel",
@@ -6273,7 +6276,8 @@
       "effects": [
         "Bounce",
         "Tutor"
-      ]
+      ],
+      "reviewedAt": "2026-11-10T08:42:08.3348923+00:00"
     },
     "9110339d-72ba-4132-801f-cd2fd738b71d": {
       "name": "Augmenter Pugilist // Echoing Equation",
@@ -10544,7 +10548,8 @@
       "scryfallId": "b91c8318-85a0-4c2e-9cef-cc00429218b1",
       "effects": [
         "CardAdvantage"
-      ]
+      ],
+      "reviewedAt": "2026-11-10T08:47:15.2221543+00:00"
     },
     "c7cf9574-e2cf-4137-a224-73f76c5d11d7": {
       "name": "Blim, Comedic Genius",
@@ -19556,9 +19561,9 @@
       "rating": 1,
       "scryfallId": "10e1030e-2b95-4807-9111-e495a2fc8813",
       "effects": [
-        "Tutor",
         "ManaFixing"
-      ]
+      ],
+      "reviewedAt": "2026-11-10T08:47:54.7644+00:00"
     },
     "6ef464bd-2ed0-4f99-af4a-ebf276f55384": {
       "name": "Compassionate Healer",
@@ -20416,7 +20421,8 @@
       "effects": [
         "CardAdvantage",
         "Mill"
-      ]
+      ],
+      "reviewedAt": "2026-11-10T08:44:21.7493941+00:00"
     },
     "d61fb9e8-d05a-481a-a90f-5def300c9abb": {
       "name": "Cordial Vampire",
@@ -20664,10 +20670,9 @@
       "scryfallId": "490a5054-0607-4e4a-a0a9-0e9eea7adb00",
       "effects": [
         "Tokens",
-        "Ramp",
-        "Disenchant",
-        "Tutor"
-      ]
+        "Disenchant"
+      ],
+      "reviewedAt": "2026-11-10T08:47:29.3697259+00:00"
     },
     "99d8c5f9-ad8f-450e-9a7c-51a4c0ca5043": {
       "name": "Cosmogoyf",
@@ -24786,7 +24791,10 @@
       "name": "Deluxe Dragster",
       "rating": 1,
       "scryfallId": "4b90313d-9f61-4788-a55e-1f8189bf1ef5",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ],
+      "reviewedAt": "2026-11-10T08:48:20.5900118+00:00"
     },
     "a1c8b833-8c74-4f95-8a47-1dd41ef99361": {
       "name": "Delver's Torch",
@@ -28365,7 +28373,8 @@
       "effects": [
         "Ramp",
         "ManaFixing"
-      ]
+      ],
+      "reviewedAt": "2026-11-10T08:42:22.5340148+00:00"
     },
     "2378d6fc-b6ba-4a44-b951-5698ed507e4c": {
       "name": "Drownyard Amalgam",
@@ -29758,7 +29767,8 @@
       "effects": [
         "CardAdvantage",
         "ManaFixing"
-      ]
+      ],
+      "reviewedAt": "2026-11-10T08:41:43.0376717+00:00"
     },
     "25432a3a-bcfd-4c43-b662-07676e9b3fdd": {
       "name": "Eel-Hounds",
@@ -29978,8 +29988,10 @@
       "rating": 1,
       "scryfallId": "b82a13bf-da32-4c12-a9dd-271d8ca45c21",
       "effects": [
+        "Discard",
         "CardAdvantage"
-      ]
+      ],
+      "reviewedAt": "2026-11-10T08:58:21.3850311+00:00"
     },
     "a440a4f7-843f-4186-8ca9-df99f6aa321e": {
       "name": "Elder Druid",
@@ -33269,9 +33281,9 @@
       "rating": 1,
       "scryfallId": "0cbf06f5-d1c7-474c-8f09-72f5ad0c8120",
       "effects": [
-        "Ramp",
-        "Tutor"
-      ]
+        "Ramp"
+      ],
+      "reviewedAt": "2026-11-10T08:58:42.3312869+00:00"
     },
     "9fa0c9d1-2a63-41a8-8733-39bfaee4eb0a": {
       "name": "Explorer's Cache",
@@ -36571,7 +36583,8 @@
       "name": "Flawless Forgery",
       "rating": 2,
       "scryfallId": "1c808629-ee2b-4f3e-a316-7182fbc38d34",
-      "effects": []
+      "effects": [],
+      "reviewedAt": "2026-11-10T08:56:33.5628261+00:00"
     },
     "4e183439-17d2-47ff-9d99-5e22821d91e3": {
       "name": "Flawless Maneuver",
@@ -38623,9 +38636,9 @@
       "rating": 1,
       "scryfallId": "e78eda51-255a-4421-9b6f-025a432e9df9",
       "effects": [
-        "Tokens",
-        "Redirect"
-      ]
+        "Tokens"
+      ],
+      "reviewedAt": "2026-11-10T08:45:06.2693052+00:00"
     },
     "b80d21de-2ace-4e0d-92b2-6f0273512621": {
       "name": "Frontline Rush",
@@ -52583,7 +52596,8 @@
       "scryfallId": "ab866ec4-dcb4-47ef-8de1-a369986609c0",
       "effects": [
         "CardAdvantage"
-      ]
+      ],
+      "reviewedAt": "2026-11-10T08:46:24.4378727+00:00"
     },
     "a84c9507-d054-4770-84f3-5a4b5a01d826": {
       "name": "Ixidor's Will",
@@ -55606,7 +55620,8 @@
       "scryfallId": "c29e6c69-7830-4898-9d1e-97dfc2e868d9",
       "effects": [
         "CardAdvantage"
-      ]
+      ],
+      "reviewedAt": "2026-11-10T08:57:19.2519412+00:00"
     },
     "7fc9e800-da66-4dda-a56d-79daec9e943e": {
       "name": "Kianne, Corrupted Memory",
@@ -56545,7 +56560,8 @@
       "effects": [
         "CardAdvantage",
         "ManaFixing"
-      ]
+      ],
+      "reviewedAt": "2026-11-10T08:46:20.455688+00:00"
     },
     "99e89098-bc55-4297-9407-ab9256b609da": {
       "name": "Korvold, Gleeful Glutton",
@@ -56624,9 +56640,8 @@
       "name": "Kotose, the Silent Spider",
       "rating": 1,
       "scryfallId": "314e97b5-cd43-4f5e-acdd-a107208e061c",
-      "effects": [
-        "Discard"
-      ]
+      "effects": [],
+      "reviewedAt": "2026-11-10T08:59:57.4760435+00:00"
     },
     "2f2c549d-0293-4b9d-b9a8-ff392800f3a5": {
       "name": "Kozilek's Command",
@@ -59794,7 +59809,8 @@
       "effects": [
         "Burn",
         "Sacrifice"
-      ]
+      ],
+      "reviewedAt": "2026-11-10T08:47:09.3005349+00:00"
     },
     "a7ebe748-c3de-402f-8a6e-236a6413c0f8": {
       "name": "Lobotomy",
@@ -63715,8 +63731,10 @@
       "rating": 1,
       "scryfallId": "5d0704a4-8961-43f5-86ed-3f7b43abcf26",
       "effects": [
+        "CardAdvantage",
         "Mill"
-      ]
+      ],
+      "reviewedAt": "2026-11-10T08:43:02.3176309+00:00"
     },
     "0179bc62-823e-46b9-b536-342904fedafc": {
       "name": "Memory Vessel",
@@ -64343,7 +64361,8 @@
       "effects": [
         "CardAdvantage",
         "Burn"
-      ]
+      ],
+      "reviewedAt": "2026-11-10T09:00:42.6364358+00:00"
     },
     "6895d7a2-264b-4731-9294-c02e1e220384": {
       "name": "Miara, Thorn of the Glade",
@@ -68736,8 +68755,10 @@
       "rating": 1,
       "scryfallId": "d4e2f75e-75f3-4255-969f-0eab32f7bd1e",
       "effects": [
+        "CardAdvantage",
         "Reanimate"
-      ]
+      ],
+      "reviewedAt": "2026-11-10T08:51:26.1528472+00:00"
     },
     "beeed1c5-2f51-4e40-87b9-9a6f810ee4cb": {
       "name": "Nazar, the Velvet Fang",
@@ -72536,9 +72557,9 @@
       "rating": 1,
       "scryfallId": "c9458f0f-5593-4ac9-934c-e215ef8093a7",
       "effects": [
-        "Tutor",
         "ManaFixing"
-      ]
+      ],
+      "reviewedAt": "2026-11-10T08:42:12.2843242+00:00"
     },
     "637be5f7-ab39-4e3a-a5eb-c6e48fca00a9": {
       "name": "Outlaw Medic",
@@ -74383,7 +74404,8 @@
       "effects": [
         "CardAdvantage",
         "ManaFixing"
-      ]
+      ],
+      "reviewedAt": "2026-11-10T08:41:45.978628+00:00"
     },
     "c9d2c69e-6a4a-45b0-aff1-c19bcbe3b490": {
       "name": "Pewter Golem",
@@ -77313,7 +77335,8 @@
       "effects": [
         "Tokens",
         "Ramp"
-      ]
+      ],
+      "reviewedAt": "2026-11-10T08:41:33.9337573+00:00"
     },
     "8dcf15fd-f000-4424-b74c-22fc2642b8c3": {
       "name": "Prophecy",
@@ -79865,7 +79888,8 @@
       "effects": [
         "CardAdvantage",
         "ManaFixing"
-      ]
+      ],
+      "reviewedAt": "2026-11-10T08:48:12.6445483+00:00"
     },
     "fef452ee-9018-4175-bb79-476544e48433": {
       "name": "Rasputin Dreamweaver",
@@ -83674,7 +83698,10 @@
       "name": "River Song's Diary",
       "rating": 2,
       "scryfallId": "96476a30-72b0-4f91-9d2d-85fc196f89c5",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ],
+      "reviewedAt": "2026-11-10T08:48:07.6448925+00:00"
     },
     "917aef2b-0e6d-460e-8745-8da8423d1592": {
       "name": "Riverwheel Sweep",
@@ -86912,7 +86939,8 @@
       "effects": [
         "CardAdvantage",
         "Mill"
-      ]
+      ],
+      "reviewedAt": "2026-11-10T08:46:34.7271529+00:00"
     },
     "8ba24644-8dff-4f1e-a96a-7361baf46b5a": {
       "name": "Saruman the White",
@@ -90114,7 +90142,10 @@
       "name": "Shadow of the Enemy",
       "rating": 2,
       "scryfallId": "e47cab70-55cb-481c-b4cd-32a41251f210",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ],
+      "reviewedAt": "2026-11-10T08:46:08.4227434+00:00"
     },
     "f343b6f9-41c3-419b-a57c-a7b08603ef5c": {
       "name": "Shadow of the Goblin",
@@ -91959,9 +91990,9 @@
       "rating": 1,
       "scryfallId": "39d2c11d-1eb8-4768-bc61-fa8f20a69462",
       "effects": [
-        "Tutor",
         "ManaFixing"
-      ]
+      ],
+      "reviewedAt": "2026-11-10T08:42:47.1016817+00:00"
     },
     "ec7eb7d8-92b2-4442-856e-a9790301c3b3": {
       "name": "Silver Drake",
@@ -93539,9 +93570,9 @@
       "scryfallId": "622f96fc-179a-4ff6-95a5-de721492f7eb",
       "effects": [
         "Ramp",
-        "Filter",
-        "Tutor"
-      ]
+        "Filter"
+      ],
+      "reviewedAt": "2026-11-10T09:00:29.2370056+00:00"
     },
     "ccb1b532-92b8-4ebf-b3c2-fb5924b116f5": {
       "name": "Slimy Dualleech",
@@ -93963,7 +93994,8 @@
       "scryfallId": "13253f8d-1897-41e8-a904-9e57ac7eff0a",
       "effects": [
         "Mill"
-      ]
+      ],
+      "reviewedAt": "2026-11-10T08:48:37.7162837+00:00"
     },
     "feb5e9a9-500a-4f20-881d-c97d052953ce": {
       "name": "Snag",
@@ -94928,7 +94960,8 @@
       "scryfallId": "c06274ff-892e-418b-8ba5-4d3b3231e327",
       "effects": [
         "Mill"
-      ]
+      ],
+      "reviewedAt": "2026-11-10T08:48:36.2850433+00:00"
     },
     "36f5f161-b25e-48e4-b8f9-e6c36dfefe5b": {
       "name": "Sorin's Guide",
@@ -95336,8 +95369,10 @@
       "rating": 1,
       "scryfallId": "8733cd6f-37e1-4e3a-bb25-7a238f04657e",
       "effects": [
-        "Tokens"
-      ]
+        "Tokens",
+        "CardAdvantage"
+      ],
+      "reviewedAt": "2026-11-10T08:56:22.6354467+00:00"
     },
     "e579edd7-4f6c-4f22-a72f-0a20d7a698a2": {
       "name": "Soured Springs",
@@ -95538,7 +95573,8 @@
         "Removal",
         "Ramp",
         "Burn"
-      ]
+      ],
+      "reviewedAt": "2026-11-10T08:42:17.3827323+00:00"
     },
     "256a7f54-0e8e-4d22-a0f7-ff2830e8884e": {
       "name": "Spawnbed Protector",
@@ -101227,7 +101263,8 @@
       "name": "Synthesis Pod",
       "rating": 1,
       "scryfallId": "e06d72d0-909d-4e38-85e6-52c658836c18",
-      "effects": []
+      "effects": [],
+      "reviewedAt": "2026-11-10T08:47:48.6235387+00:00"
     },
     "a37314cf-bbbd-4003-b94d-0e6e60edfc15": {
       "name": "Synthesizer Labship",
@@ -102045,7 +102082,8 @@
       "effects": [
         "Tokens",
         "CardAdvantage"
-      ]
+      ],
+      "reviewedAt": "2026-11-10T08:59:02.6661197+00:00"
     },
     "b80415cd-5887-4146-852e-73119fcd3ec6": {
       "name": "Task Force",
@@ -107281,7 +107319,8 @@
         "Ramp",
         "Buff",
         "Tutor"
-      ]
+      ],
+      "reviewedAt": "2026-11-10T08:58:40.5154464+00:00"
     },
     "30ac0f06-3dd3-4827-8136-4cf8adbf9b12": {
       "name": "Titania's Song",
@@ -110219,9 +110258,8 @@
       "name": "Ulalek, Fused Atrocity",
       "rating": 1,
       "scryfallId": "fdad1b0e-d3cc-4d76-ae7e-fee12558cf2c",
-      "effects": [
-        "Redirect"
-      ]
+      "effects": [],
+      "reviewedAt": "2026-11-10T08:45:23.9237923+00:00"
     },
     "2afefaab-c614-4fca-afba-d8d206d9a8b9": {
       "name": "Ulamog's Dreadsire",
@@ -119027,7 +119065,8 @@
       "scryfallId": "2154df0d-9d35-4a67-aeff-c9f224b969a2",
       "effects": [
         "CardAdvantage"
-      ]
+      ],
+      "reviewedAt": "2026-11-10T08:59:18.0419827+00:00"
     },
     "a8de92c4-84cb-40e7-8e34-428380726ed4": {
       "name": "Xanthic Statue",
