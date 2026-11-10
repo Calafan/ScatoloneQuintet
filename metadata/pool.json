@@ -4849,9 +4849,7 @@
       "name": "Daring Fiendbonder",
       "rating": 3,
       "scryfallId": "27dd910a-a3ca-46ac-9350-f2a22496f4e6",
-      "effects": [
-        "Protection"
-      ]
+      "effects": []
     },
     "53f7c868-b03e-4fc2-8dcf-a75bbfa3272b": {
       "name": "Dark Ritual",
@@ -12617,7 +12615,9 @@
       "name": "Luminous Broodmoth",
       "rating": 3,
       "scryfallId": "bb65df55-d6a6-4a57-a903-e5eb17637982",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "0761a0e7-d443-4bab-bb15-307c83d4a6a1": {
       "name": "Lunarch Veteran // Luminous Phantom",

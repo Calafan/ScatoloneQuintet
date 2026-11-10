@@ -5361,7 +5361,9 @@
       "name": "Avacyn, Angel of Horror",
       "rating": 0,
       "scryfallId": "ff65f46b-0f82-49b8-93b9-7ac0243ce941",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "6da0b6d2-3c5e-49ef-9264-076269c04744": {
       "name": "Avacyn, Guardian Angel",
@@ -10578,7 +10580,6 @@
       "rating": 0,
       "scryfallId": "9dc20e14-e304-4c14-a87b-322a76e214d5",
       "effects": [
-        "Protection",
         "Regrowth"
       ]
     },
@@ -11750,9 +11751,7 @@
       "name": "Burdened Stoneback",
       "rating": 0,
       "scryfallId": "3278b8d0-3d2b-4d3d-bbf1-fd9b714b53ed",
-      "effects": [
-        "Protection"
-      ]
+      "effects": []
     },
     "2f807301-37df-4724-871a-08e3512b07b3": {
       "name": "Burglar Rat",
@@ -13416,7 +13415,6 @@
       "rating": 0,
       "scryfallId": "1381c8f1-a292-4bdf-b20c-a5c2a169ee84",
       "effects": [
-        "Protection",
         "ManaFixing"
       ]
     },
@@ -26173,7 +26171,9 @@
       "name": "Eirdu, Carrier of Dawn // Isilu, Carrier of Twilight",
       "rating": 0,
       "scryfallId": "b2d9d5ca-7e15-437a-bdfc-5972b42148fe",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "6e61ae7b-f2e8-421c-870b-a48c08d07503": {
       "name": "Elaborate Firecannon",
@@ -57203,7 +57203,8 @@
       "rating": 0,
       "scryfallId": "801b124d-3546-4882-a6e1-c9c353628a18",
       "effects": [
-        "Buff"
+        "Buff",
+        "Protection"
       ]
     },
     "529178e8-425e-4d59-948c-ca7d0663f6ff": {
@@ -89371,9 +89372,7 @@
       "name": "Surrak Dragonclaw",
       "rating": 0,
       "scryfallId": "03032d89-caca-43ff-b2ea-028e376c829c",
-      "effects": [
-        "Protection"
-      ]
+      "effects": []
     },
     "fa56a5fa-ef96-404c-8fb6-d1f5fcebb52e": {
       "name": "Surrak, the Hunt Caller",
@@ -99745,9 +99744,7 @@
       "name": "Vexing Shusher",
       "rating": 0,
       "scryfallId": "ae04d776-c9e3-4ff7-998d-d264754d61db",
-      "effects": [
-        "Protection"
-      ]
+      "effects": []
     },
     "c2affd47-2404-44b0-a571-e64e948130eb": {
       "name": "Vexing Sphinx",
