@@ -1640,6 +1640,7 @@
       "rating": 4,
       "scryfallId": "4c91dbf4-94fa-45d0-b8ed-a778b11d789b",
       "effects": [
+        "Tokens",
         "CardAdvantage",
         "ManaFixing"
       ],

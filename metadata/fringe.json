@@ -4650,9 +4650,7 @@
       "name": "Archmage of Echoes",
       "rating": 1,
       "scryfallId": "c8a40d37-6bd7-4476-9968-36b1988f36e2",
-      "effects": [
-        "Tokens"
-      ],
+      "effects": [],
       "reviewedAt": "2026-10-08T22:40:12.5619093+00:00"
     },
     "28045b32-4c1a-40e5-a15d-524d0f8fe6ec": {
@@ -27087,9 +27085,7 @@
       "name": "Double Down",
       "rating": 1,
       "scryfallId": "8ecccdf3-98c6-4aed-8757-913623efb677",
-      "effects": [
-        "Tokens"
-      ],
+      "effects": [],
       "reviewedAt": "2026-09-23T21:44:31.3326507+00:00"
     },
     "ece44a82-dcf0-4439-bdd9-a09c99a6f159": {
@@ -43896,6 +43892,7 @@
       "rating": 1,
       "scryfallId": "958cef68-8417-40c1-8943-c816a3c8a2fd",
       "effects": [
+        "Tokens",
         "Reanimate",
         "Burn"
       ],
@@ -93730,6 +93727,7 @@
       "rating": 1,
       "scryfallId": "9f5d253e-9eb2-423c-90ee-68f27ec6bf88",
       "effects": [
+        "Tokens",
         "Burn"
       ],
       "reviewedAt": "2026-10-29T18:42:24.0208974+00:00"
@@ -104795,7 +104793,9 @@
       "name": "The Master, Multiplied",
       "rating": 1,
       "scryfallId": "7f734ca0-91bc-4496-9bd7-2d09415e850f",
-      "effects": [],
+      "effects": [
+        "Tokens"
+      ],
       "reviewedAt": "2026-10-09T13:21:18.7287174+00:00"
     },
     "40262ae5-1472-4777-b759-d1752c0b0148": {
@@ -106765,9 +106765,7 @@
       "name": "Thurid, Mare of Destiny",
       "rating": 1,
       "scryfallId": "aad65c60-b9e8-4a8f-92e8-3dff63232102",
-      "effects": [
-        "Tokens"
-      ],
+      "effects": [],
       "reviewedAt": "2026-09-23T21:20:46.8538584+00:00"
     },
     "5799baed-3457-4bf2-adf3-239a41dcc1c8": {
@@ -117937,6 +117935,7 @@
       "rating": 1,
       "scryfallId": "6590bb3c-7613-457f-a028-d7cda3cd6eb4",
       "effects": [
+        "Tokens",
         "Reanimate",
         "Burn"
       ],
