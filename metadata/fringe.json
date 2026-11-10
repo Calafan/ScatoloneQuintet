@@ -65155,7 +65155,9 @@
       "name": "Miracle Worker",
       "rating": 1,
       "scryfallId": "35d29bda-096c-44d4-b45e-c2c507f8efbe",
-      "effects": [],
+      "effects": [
+        "Disenchant"
+      ],
       "reviewedAt": "2026-09-04T14:54:44.7852354+00:00"
     },
     "cea73a4b-e10a-4517-a92b-24a08321009f": {
@@ -78127,7 +78129,9 @@
       "name": "Pyramids",
       "rating": 1,
       "scryfallId": "d2e9decf-47b7-44e0-b380-8055b6011021",
-      "effects": [],
+      "effects": [
+        "Disenchant"
+      ],
       "reviewedAt": "2026-09-04T13:15:15.3728887+00:00"
     },
     "13b0a3f3-04a5-465f-898b-13a28f795a16": {
@@ -87054,7 +87058,9 @@
       "name": "Savaen Elves",
       "rating": 1,
       "scryfallId": "38fb3014-f631-4a75-92cd-7e626b13a4c3",
-      "effects": [],
+      "effects": [
+        "Disenchant"
+      ],
       "reviewedAt": "2026-09-04T15:11:44.9661575+00:00"
     },
     "084e11d9-dd1d-4e8e-afc1-9be4ee04a510": {
