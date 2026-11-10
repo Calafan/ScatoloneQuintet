@@ -21152,6 +21152,7 @@
       "rating": 1,
       "scryfallId": "ed6c8942-d43e-4456-ac98-3220cb954c65",
       "effects": [
+        "CardAdvantage",
         "Regrowth"
       ]
     },
@@ -28495,6 +28496,7 @@
       "rating": 2,
       "scryfallId": "5c0aa3eb-0aa8-42da-b437-a3f336df585d",
       "effects": [
+        "CardAdvantage",
         "Regrowth"
       ]
     },
@@ -66996,6 +66998,7 @@
       "rating": 1,
       "scryfallId": "937465ca-4cf7-4412-86eb-264efb0fdddd",
       "effects": [
+        "CardAdvantage",
         "Regrowth"
       ]
     },
