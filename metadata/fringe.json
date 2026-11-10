@@ -28027,7 +28027,7 @@
       "rating": 1,
       "scryfallId": "ba752243-2727-4b8a-8e21-e70becfd4ff3",
       "effects": [
-        "Filter"
+        "CardAdvantage"
       ],
       "reviewedAt": "2026-09-11T19:50:31.0051054+00:00"
     },
@@ -82105,7 +82105,7 @@
       "rating": 1,
       "scryfallId": "945006ea-c6a1-4ee5-abb2-387c2b6d3123",
       "effects": [
-        "Filter"
+        "CardAdvantage"
       ],
       "reviewedAt": "2026-09-10T15:27:36.0707396+00:00"
     },
@@ -87950,7 +87950,7 @@
       "rating": 1,
       "scryfallId": "7c6466cb-d1d0-4461-b48d-7497bdc9c474",
       "effects": [
-        "Filter"
+        "CardAdvantage"
       ],
       "reviewedAt": "2026-10-20T20:00:28.7408944+00:00"
     },
