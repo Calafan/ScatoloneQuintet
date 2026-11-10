@@ -4810,7 +4810,8 @@
       "scryfallId": "caf0e715-befb-4904-82e6-d3f8c7fbd454",
       "effects": [
         "Tokens",
-        "Ramp"
+        "Ramp",
+        "Tutor"
       ],
       "reviewedAt": "2026-09-25T10:58:58.7741471+00:00"
     },
@@ -9214,7 +9215,8 @@
       "scryfallId": "1fa48620-4c3d-4f75-be1f-c12c4aa59f51",
       "effects": [
         "Ramp",
-        "CardAdvantage"
+        "CardAdvantage",
+        "Tutor"
       ],
       "reviewedAt": "2026-10-20T19:24:40.2942566+00:00"
     },
@@ -11822,6 +11824,7 @@
       "rating": 4,
       "scryfallId": "06b25752-26be-4189-bc8b-828db6f0e612",
       "effects": [
+        "Tutor",
         "ManaFixing"
       ],
       "reviewedAt": "2026-10-23T07:42:35.4915734+00:00"
@@ -12917,7 +12920,8 @@
       "rating": 3,
       "scryfallId": "165f4428-e1a1-477d-bd90-138189e88163",
       "effects": [
-        "Ramp"
+        "Ramp",
+        "Tutor"
       ],
       "reviewedAt": "2026-09-23T12:26:49.61362+00:00"
     },
@@ -14034,7 +14038,8 @@
       "rating": 4,
       "scryfallId": "d512a77e-2435-4695-9408-df8e17dd1fbd",
       "effects": [
-        "Ramp"
+        "Ramp",
+        "Tutor"
       ],
       "reviewedAt": "2026-10-29T19:27:41.2285221+00:00"
     },
@@ -18240,7 +18245,8 @@
       "rating": 3,
       "scryfallId": "afcb2a90-d4c0-4c83-8ee7-2ac3a23b4402",
       "effects": [
-        "Ramp"
+        "Ramp",
+        "Tutor"
       ],
       "reviewedAt": "2026-10-09T10:39:53.4773467+00:00"
     },
@@ -19868,6 +19874,7 @@
       "scryfallId": "cdfadb17-76ad-4d4d-9fa7-33c4b88b4c0a",
       "effects": [
         "Ramp",
+        "Tutor",
         "LandDestruction"
       ],
       "reviewedAt": "2026-09-25T08:35:28.595958+00:00"
@@ -20108,6 +20115,7 @@
       "rating": 3,
       "scryfallId": "f79d63e7-a8c6-4750-91c9-c575a4d0561b",
       "effects": [
+        "Tutor",
         "ManaFixing"
       ],
       "reviewedAt": "2026-09-12T10:25:13.6724506+00:00"
@@ -24841,7 +24849,8 @@
       "scryfallId": "a15570c0-4210-4959-8584-987ec85f8283",
       "effects": [
         "Ramp",
-        "Sacrifice"
+        "Sacrifice",
+        "Tutor"
       ],
       "reviewedAt": "2026-09-12T09:46:02.0074113+00:00"
     },

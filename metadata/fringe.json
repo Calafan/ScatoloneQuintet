@@ -19552,6 +19552,7 @@
       "rating": 1,
       "scryfallId": "10e1030e-2b95-4807-9111-e495a2fc8813",
       "effects": [
+        "Tutor",
         "ManaFixing"
       ],
       "reviewedAt": "2026-10-09T10:39:04.3545557+00:00"
@@ -26283,7 +26284,8 @@
       "rating": 1,
       "scryfallId": "a756a35d-a630-41a2-8b3d-6f1bafd7409a",
       "effects": [
-        "Ramp"
+        "Ramp",
+        "Tutor"
       ],
       "reviewedAt": "2026-09-23T21:31:03.7813412+00:00"
     },
@@ -30182,7 +30184,8 @@
       "rating": 1,
       "scryfallId": "cac8ac35-6860-4839-ab85-93d409206c08",
       "effects": [
-        "Ramp"
+        "Ramp",
+        "Tutor"
       ],
       "reviewedAt": "2026-09-10T15:46:00.1565573+00:00"
     },
@@ -30872,6 +30875,7 @@
       "rating": 1,
       "scryfallId": "39c431d7-d94b-46c4-bb89-f3db56214ab4",
       "effects": [
+        "Tutor",
         "ManaFixing"
       ],
       "reviewedAt": "2026-10-20T19:21:57.5006541+00:00"
@@ -33260,7 +33264,8 @@
       "rating": 1,
       "scryfallId": "0cbf06f5-d1c7-474c-8f09-72f5ad0c8120",
       "effects": [
-        "Ramp"
+        "Ramp",
+        "Tutor"
       ],
       "reviewedAt": "2026-11-03T18:25:42.6913892+00:00"
     },
@@ -41310,7 +41315,8 @@
       "scryfallId": "442957fc-045d-4db6-b82a-445f172d23e4",
       "effects": [
         "Ramp",
-        "Buff"
+        "Buff",
+        "Tutor"
       ],
       "reviewedAt": "2026-09-11T19:52:18.5580056+00:00"
     },
@@ -62045,7 +62051,8 @@
       "rating": 1,
       "scryfallId": "854dc5e6-63f7-4c8b-83e5-a364f41c9a15",
       "effects": [
-        "Filter"
+        "Filter",
+        "Tutor"
       ],
       "reviewedAt": "2026-09-08T12:00:27.4448561+00:00"
     },
@@ -71416,7 +71423,8 @@
       "rating": 2,
       "scryfallId": "c49c9b72-61c0-4e3a-a3a6-994b149398a9",
       "effects": [
-        "Ramp"
+        "Ramp",
+        "Tutor"
       ],
       "reviewedAt": "2026-09-12T10:42:54.1542505+00:00"
     },
@@ -72513,6 +72521,7 @@
       "rating": 1,
       "scryfallId": "c9458f0f-5593-4ac9-934c-e215ef8093a7",
       "effects": [
+        "Tutor",
         "ManaFixing"
       ],
       "reviewedAt": "2026-09-25T09:16:40.0903394+00:00"
@@ -82068,7 +82077,8 @@
       "rating": 1,
       "scryfallId": "ada14bc8-4549-4a73-8cbb-9a43698deb36",
       "effects": [
-        "Ramp"
+        "Ramp",
+        "Tutor"
       ],
       "reviewedAt": "2026-10-20T18:52:21.8491579+00:00"
     },
@@ -91621,7 +91631,8 @@
       "scryfallId": "0cbf911c-a721-4b84-8645-d83a0966be18",
       "effects": [
         "Tokens",
-        "Ramp"
+        "Ramp",
+        "Tutor"
       ],
       "reviewedAt": "2026-09-11T19:58:55.0215394+00:00"
     },
@@ -91932,6 +91943,7 @@
       "rating": 1,
       "scryfallId": "39d2c11d-1eb8-4768-bc61-fa8f20a69462",
       "effects": [
+        "Tutor",
         "ManaFixing"
       ],
       "reviewedAt": "2026-09-25T08:28:07.9718272+00:00"
@@ -93512,7 +93524,8 @@
       "scryfallId": "622f96fc-179a-4ff6-95a5-de721492f7eb",
       "effects": [
         "Ramp",
-        "Filter"
+        "Filter",
+        "Tutor"
       ],
       "reviewedAt": "2026-11-03T11:00:59.465456+00:00"
     },
@@ -103939,6 +103952,7 @@
       "scryfallId": "50bf5c8b-f218-46b7-843c-8d8083f02fd2",
       "effects": [
         "Tokens",
+        "Tutor",
         "ManaFixing"
       ],
       "reviewedAt": "2026-09-11T13:33:45.1160634+00:00"
@@ -107248,7 +107262,8 @@
       "effects": [
         "Tokens",
         "Ramp",
-        "Buff"
+        "Buff",
+        "Tutor"
       ],
       "reviewedAt": "2026-10-27T15:10:24.0300602+00:00"
     },
@@ -108077,7 +108092,9 @@
       "name": "Tower Winder",
       "rating": 1,
       "scryfallId": "97bf6a6a-e377-4f42-84dd-baf6055c0fb1",
-      "effects": [],
+      "effects": [
+        "Tutor"
+      ],
       "reviewedAt": "2026-09-12T10:00:50.6402431+00:00"
     },
     "2f995678-c315-4afe-845b-8c8ae863de6e": {
@@ -111510,6 +111527,7 @@
       "rating": 1,
       "scryfallId": "926916ed-2f22-4ba9-9427-194886ad6c1e",
       "effects": [
+        "Tutor",
         "ManaFixing"
       ],
       "reviewedAt": "2026-10-16T12:51:55.4219734+00:00"
@@ -118499,6 +118517,7 @@
       "rating": 2,
       "scryfallId": "70d9ab99-ec8a-402e-ba1d-ffa6c4c84a3f",
       "effects": [
+        "Tutor",
         "ManaFixing"
       ],
       "reviewedAt": "2026-09-11T22:06:56.6828613+00:00"
