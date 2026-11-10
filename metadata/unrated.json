@@ -13528,7 +13528,8 @@
       "rating": 0,
       "scryfallId": "97bdfb00-7773-4af6-895c-c90088a96b07",
       "effects": [
-        "Tokens"
+        "Tokens",
+        "Mill"
       ]
     },
     "7e93ea61-bc16-4d22-a5e5-e6ba0f7ae14f": {
@@ -93014,6 +93015,7 @@
       "rating": 0,
       "scryfallId": "307543ca-8e17-433f-9758-4c77da6c0870",
       "effects": [
+        "CardAdvantage",
         "Mill"
       ]
     },
