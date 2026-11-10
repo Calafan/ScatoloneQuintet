@@ -31463,8 +31463,7 @@
       "scryfallId": "8768789b-c414-4e35-bff3-d06a69dccff6",
       "effects": [
         "Ramp",
-        "Buff",
-        "Protection"
+        "Buff"
       ],
       "reviewedAt": "2026-09-12T10:39:28.8402294+00:00"
     },
@@ -119247,7 +119246,8 @@
       "rating": 2,
       "scryfallId": "326845a7-7502-4dc3-8f3e-867d6c84e931",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Protection"
       ],
       "reviewedAt": "2026-09-23T12:27:16.4144039+00:00"
     },
