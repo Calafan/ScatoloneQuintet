@@ -15365,7 +15365,9 @@
       "name": "Cloak and Dagger, Entwined",
       "rating": 0,
       "scryfallId": "fa01d35f-1064-4a7c-9475-4504566df850",
-      "effects": []
+      "effects": [
+        "Discard"
+      ]
     },
     "d38a33ae-59d1-4d08-8e14-5fa5a8c3762d": {
       "name": "Cloaked Siren",
@@ -43903,7 +43905,9 @@
       "name": "Identity Crisis",
       "rating": 0,
       "scryfallId": "930d0de1-39af-4b08-81a3-2cca8aae5d40",
-      "effects": []
+      "effects": [
+        "Discard"
+      ]
     },
     "4dbf8c43-d7c5-4037-875e-6accd87aaf6f": {
       "name": "Identity Echo",

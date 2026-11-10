@@ -49186,7 +49186,9 @@
       "name": "Hypnox",
       "rating": 1,
       "scryfallId": "0e0e53a1-11d5-4975-b698-8b5d72d241f0",
-      "effects": []
+      "effects": [
+        "Discard"
+      ]
     },
     "74c90ddc-4c6e-479d-ad68-b444d3109258": {
       "name": "Hypochondria",
