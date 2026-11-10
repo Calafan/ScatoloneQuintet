@@ -78564,9 +78564,7 @@
       "name": "Quicksilver Elemental",
       "rating": 1,
       "scryfallId": "2905f6ac-d054-454b-8e1a-9c32db13a581",
-      "effects": [
-        "ManaFixing"
-      ]
+      "effects": []
     },
     "b3e3d037-992b-4718-913d-7ab509d2047e": {
       "name": "Quicksilver Fisher",
@@ -112856,7 +112854,8 @@
       "rating": 1,
       "scryfallId": "197455e5-7929-47b8-ad00-8d3918949eb7",
       "effects": [
-        "Ramp"
+        "Ramp",
+        "ManaFixing"
       ]
     },
     "8fc049e7-a16d-4b48-b930-5c346f6718b9": {

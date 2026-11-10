@@ -10325,7 +10325,8 @@
       "rating": 0,
       "scryfallId": "5cd3b85b-7d8d-402e-829a-6080fd4eb7a1",
       "effects": [
-        "Ramp"
+        "Ramp",
+        "ManaFixing"
       ]
     },
     "cf5bf1ef-e40b-4fb5-8148-d4ca7a307501": {
@@ -15608,8 +15609,7 @@
       "rating": 0,
       "scryfallId": "7a7c98b0-d64d-4d0a-b284-1187a8e7095e",
       "effects": [
-        "Ramp",
-        "ManaFixing"
+        "Ramp"
       ]
     },
     "e42b6bd7-8fdf-4452-85cc-9aed790ff682": {
@@ -18653,7 +18653,8 @@
       "rating": 0,
       "scryfallId": "2ef3dbe4-5c03-4be4-ab48-45b6689b6712",
       "effects": [
-        "Ramp"
+        "Ramp",
+        "ManaFixing"
       ]
     },
     "6e62d553-d0d0-400e-a423-f0c3c1fdc911": {
@@ -49812,7 +49813,8 @@
       "rating": 0,
       "scryfallId": "85d207ac-0680-47ef-85d9-4323c1321d6f",
       "effects": [
-        "Ramp"
+        "Ramp",
+        "ManaFixing"
       ]
     },
     "cf631c93-b7fb-4e4f-b405-3778c15b1117": {
@@ -62010,7 +62012,8 @@
       "scryfallId": "800cef89-e90c-4f84-a7a0-3cd203532169",
       "effects": [
         "Ramp",
-        "Tutor"
+        "Tutor",
+        "ManaFixing"
       ]
     },
     "6a6e0f0b-af11-40a5-b454-0aea2d1b99cf": {
@@ -64416,7 +64419,9 @@
       "name": "Oreskos Explorer",
       "rating": 0,
       "scryfallId": "f287995c-504d-4c95-883d-fe55013caf2e",
-      "effects": []
+      "effects": [
+        "ManaFixing"
+      ]
     },
     "45d939d1-e9ca-4b4b-a0a9-59b936210a5b": {
       "name": "Oreskos Sun Guide",
@@ -66084,7 +66089,8 @@
       "rating": 0,
       "scryfallId": "03835e3e-9fd1-47c7-86a5-a5481420f2d3",
       "effects": [
-        "Ramp"
+        "Ramp",
+        "ManaFixing"
       ]
     },
     "f8848065-7075-41d8-82f6-67ace390625a": {
@@ -68501,7 +68507,8 @@
       "rating": 0,
       "scryfallId": "bb7490f2-1425-495f-b7d4-2f1e0df7490e",
       "effects": [
-        "Ramp"
+        "Ramp",
+        "ManaFixing"
       ]
     },
     "feb4fcec-6f3a-4643-9ffb-69d3f5953322": {
@@ -87861,6 +87868,7 @@
       "rating": 0,
       "scryfallId": "0e7f3fb6-93ce-4bc9-8efd-11af5a46218f",
       "effects": [
+        "ManaFixing",
         "Pacify"
       ]
     },
@@ -96240,7 +96248,8 @@
       "rating": 0,
       "scryfallId": "0b4b1c59-bcec-4779-9e27-0e6f9feb4e11",
       "effects": [
-        "Ramp"
+        "Ramp",
+        "ManaFixing"
       ]
     },
     "d2c68c15-761e-4aea-89d8-f7fe8f44905c": {
@@ -98313,7 +98322,9 @@
       "name": "Urborg, Tomb of Yawgmoth",
       "rating": 0,
       "scryfallId": "19e1224f-82cb-4f41-8739-f880cba61bbb",
-      "effects": []
+      "effects": [
+        "ManaFixing"
+      ]
     },
     "c9f2f0ae-5869-43dc-a225-4dfe3d37c166": {
       "name": "Urge to Feed",
