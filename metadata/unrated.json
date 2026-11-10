@@ -51016,7 +51016,9 @@
       "name": "Last Thoughts",
       "rating": 0,
       "scryfallId": "c6033d07-124c-4001-81e1-c6eb99e07fdd",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "33d6a17a-0112-4d4f-a24a-0769360408a8": {
       "name": "Last Word",
@@ -105160,7 +105162,9 @@
       "name": "Wrexial, the Risen Deep",
       "rating": 0,
       "scryfallId": "deeb989b-aff4-4232-9ae1-c4f73dacf728",
-      "effects": []
+      "effects": [
+        "CardAdvantage"
+      ]
     },
     "45bb536c-c173-4b6e-a5a8-354c74fd93a1": {
       "name": "Wring Flesh",
