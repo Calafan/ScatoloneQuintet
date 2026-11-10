@@ -6251,7 +6251,9 @@
       "name": "Balustrade Spy",
       "rating": 0,
       "scryfallId": "df8a3f05-864d-401d-a2f1-5f58358fe089",
-      "effects": []
+      "effects": [
+        "Mill"
+      ]
     },
     "a8631e87-bfc3-463b-bdd1-974ea1d79ae4": {
       "name": "Band Together",
@@ -16699,7 +16701,9 @@
       "name": "Consuming Aberration",
       "rating": 0,
       "scryfallId": "6354de66-f7f8-4e33-98d0-52624d3d7828",
-      "effects": []
+      "effects": [
+        "Mill"
+      ]
     },
     "e1feea85-2f06-43aa-9b3c-eb63085276f5": {
       "name": "Consuming Bonfire",
@@ -19333,7 +19337,9 @@
       "name": "Dakra Mystic",
       "rating": 0,
       "scryfallId": "8e5f71ca-e7d9-4f9a-adf1-40353693deea",
-      "effects": []
+      "effects": [
+        "Mill"
+      ]
     },
     "eb7ae3e8-0489-4f3a-8343-7e7ec2fe3f01": {
       "name": "Damia, Sage of Stone",
@@ -21942,7 +21948,8 @@
       "rating": 0,
       "scryfallId": "bca53097-108d-457e-831c-e3d6cb499a41",
       "effects": [
-        "LandDestruction"
+        "LandDestruction",
+        "Mill"
       ]
     },
     "b0967525-554b-41eb-b639-75fe36e0fe57": {
@@ -22387,7 +22394,8 @@
       "effects": [
         "Removal",
         "Counter",
-        "Filter"
+        "Filter",
+        "Mill"
       ]
     },
     "62f834c7-4765-4b6f-812c-7ce14e13ea0d": {
@@ -53753,7 +53761,8 @@
       "rating": 0,
       "scryfallId": "012a7f5d-f798-4030-86e3-05956487a383",
       "effects": [
-        "Filter"
+        "Filter",
+        "Mill"
       ]
     },
     "15fbb7b1-c62d-4f82-9f35-2c10299779f4": {
@@ -57360,13 +57369,17 @@
       "name": "Mind Funeral",
       "rating": 0,
       "scryfallId": "335168b9-bc12-4459-9b7e-56f568a8887a",
-      "effects": []
+      "effects": [
+        "Mill"
+      ]
     },
     "8965ca34-5ea2-4797-9093-5a8ee02bfa43": {
       "name": "Mind Grind",
       "rating": 0,
       "scryfallId": "671eb9e8-1a69-4570-8972-2e7de371cef4",
-      "effects": []
+      "effects": [
+        "Mill"
+      ]
     },
     "18d1765b-3b60-4dda-93a6-d02a4e53f185": {
       "name": "Mind Meanderer",
@@ -57785,7 +57798,9 @@
       "name": "Mirko Vosk, Mind Drinker",
       "rating": 0,
       "scryfallId": "d37cdd3e-4303-4391-aff4-4a543e65a836",
-      "effects": []
+      "effects": [
+        "Mill"
+      ]
     },
     "cd49aa99-bf84-4edd-aecc-6dae78b73412": {
       "name": "Mirkwood",
@@ -79900,7 +79915,9 @@
       "name": "Shapeshifter's Marrow",
       "rating": 0,
       "scryfallId": "48cb3fa8-555f-4df6-994e-cf01896f7470",
-      "effects": []
+      "effects": [
+        "Mill"
+      ]
     },
     "c51fc4f2-76a6-4337-ab8f-1b3e84f82019": {
       "name": "Shard Convergence",
@@ -90530,7 +90547,9 @@
       "name": "Talent of the Telepath",
       "rating": 0,
       "scryfallId": "c5da13a1-8be2-4312-a660-f3e102c552b6",
-      "effects": []
+      "effects": [
+        "Mill"
+      ]
     },
     "b638c475-778c-4251-8dac-6a18c3394ae5": {
       "name": "Tall as a Beanstalk",
@@ -91195,7 +91214,9 @@
       "name": "Telemin Performance",
       "rating": 0,
       "scryfallId": "3ac0f1fb-0ada-4b3c-b9bd-654ffc0a167d",
-      "effects": []
+      "effects": [
+        "Mill"
+      ]
     },
     "d5b4876f-d28d-40dc-be7f-2c4f4c0bd6b3": {
       "name": "Teleportal",
@@ -92992,7 +93013,9 @@
       "name": "Thief of Sanity",
       "rating": 0,
       "scryfallId": "307543ca-8e17-433f-9758-4c77da6c0870",
-      "effects": []
+      "effects": [
+        "Mill"
+      ]
     },
     "e0bffcf3-8d34-461b-a1e4-ae47c1e7b19e": {
       "name": "Thieves' Fortune",
@@ -95887,7 +95910,8 @@
       "rating": 0,
       "scryfallId": "2182be77-9186-4d16-a070-9577d4392999",
       "effects": [
-        "Buff"
+        "Buff",
+        "Mill"
       ]
     },
     "90980841-4994-453c-a076-6cdf8d85c809": {
@@ -97663,7 +97687,8 @@
       "rating": 0,
       "scryfallId": "822d0f73-cfb0-41d9-b4eb-09c605112a13",
       "effects": [
-        "Sacrifice"
+        "Sacrifice",
+        "Mill"
       ]
     },
     "b3418d92-81de-4575-b8da-563be6b31b91": {

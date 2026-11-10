@@ -7598,7 +7598,9 @@
       "name": "Balshan Beguiler",
       "rating": 1,
       "scryfallId": "5d977da2-4024-4c7b-b557-e89564f8d465",
-      "effects": []
+      "effects": [
+        "Mill"
+      ]
     },
     "7cdbc115-cb15-4ada-8229-d40f0b22dd27": {
       "name": "Balshan Collaborator",
@@ -7646,7 +7648,9 @@
       "name": "Bamboozle",
       "rating": 1,
       "scryfallId": "44012bb8-17b7-4b50-a796-662ef09bfc29",
-      "effects": []
+      "effects": [
+        "Mill"
+      ]
     },
     "c664df64-0103-462b-a0f8-c483b152974a": {
       "name": "Bandage",
@@ -27758,7 +27762,8 @@
       "rating": 1,
       "scryfallId": "31da60a2-d4d3-4954-be59-c7ff61fa2905",
       "effects": [
-        "Filter"
+        "Filter",
+        "Mill"
       ]
     },
     "8762e9ec-e026-45aa-9c7b-d894d17c75a2": {
@@ -107182,7 +107187,9 @@
       "name": "Timesifter",
       "rating": 1,
       "scryfallId": "561cab0e-8874-4534-bf79-0c1488a9f0a5",
-      "effects": []
+      "effects": [
+        "Mill"
+      ]
     },
     "aa8c5467-190a-4c6a-872c-56b8f8d01a2b": {
       "name": "Timid Drake",
@@ -118985,7 +118992,8 @@
       "rating": 1,
       "scryfallId": "f77b8e34-e7e9-4ac6-bc21-0ef52c6696c7",
       "effects": [
-        "Filter"
+        "Filter",
+        "Mill"
       ]
     },
     "f184e860-05c3-43cf-a625-ab53427406c5": {
