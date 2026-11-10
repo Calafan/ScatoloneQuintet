@@ -86450,8 +86450,7 @@
       "rating": 1,
       "scryfallId": "e63ba7e6-87a9-49ef-bddc-60543edfd726",
       "effects": [
-        "Tokens",
-        "Ramp"
+        "Tokens"
       ],
       "reviewedAt": "2026-11-10T08:17:20.2293107+00:00"
     },
