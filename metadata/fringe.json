@@ -21694,7 +21694,9 @@
       "name": "Cruel Fate",
       "rating": 1,
       "scryfallId": "44bea0d4-946e-4cb8-b6f1-50231d52bfbe",
-      "effects": [],
+      "effects": [
+        "Mill"
+      ],
       "reviewedAt": "2026-09-29T08:57:42.5926624+00:00"
     },
     "4c27b7cd-dcbf-45a7-9e15-a6d8dfd3a087": {
@@ -33504,7 +33506,8 @@
       "rating": 1,
       "scryfallId": "ee109b81-96ef-494a-9d6d-0ea4a49b76a0",
       "effects": [
-        "Filter"
+        "Filter",
+        "Mill"
       ],
       "reviewedAt": "2026-09-25T07:38:54.7493616+00:00"
     },
@@ -115218,7 +115221,8 @@
       "rating": 1,
       "scryfallId": "0b1c856f-6d29-4bfc-976e-7875d60abd52",
       "effects": [
-        "Filter"
+        "Filter",
+        "Mill"
       ],
       "reviewedAt": "2026-09-08T10:31:14.2734084+00:00"
     },
