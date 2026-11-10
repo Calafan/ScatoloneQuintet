@@ -12432,7 +12432,9 @@
       "name": "Campus Composer // Aqueous Aria",
       "rating": 0,
       "scryfallId": "fac8ac39-ecb4-4142-bf37-131c65660a9b",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "c1a9d60f-a469-48f9-8f1c-3ca5ae86bd64": {
       "name": "Campus Crier",
@@ -25860,7 +25862,9 @@
       "name": "Eccentric Pestfinder // Turn Stones",
       "rating": 0,
       "scryfallId": "508e1dd7-edbd-4b76-90bc-ff58c55b58a3",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "17134950-fdb3-48d0-b541-419db673f4c9": {
       "name": "Echo Circlet",
@@ -30015,7 +30019,9 @@
       "name": "Fatehold Chronologist // Peer Review",
       "rating": 0,
       "scryfallId": "29e7ec16-0c16-48aa-8e09-ce6e0d5bd40b",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "bb3996b6-b68d-4ea1-b3dd-1600f8da2f1c": {
       "name": "Fateshaper Aspirant",
@@ -45427,7 +45433,9 @@
       "name": "Inspired Skypainter // Maestro's Gift",
       "rating": 0,
       "scryfallId": "7fddd17b-8282-408e-a319-7f0bb437c52e",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "61cceb14-9568-4a5e-9b56-07afa6407df2": {
       "name": "Inspired Sphinx",
@@ -52772,7 +52780,9 @@
       "name": "Lluwen, Exchange Student // Pest Friend",
       "rating": 0,
       "scryfallId": "a0bcb638-c3c8-4973-9537-5c471f43f34f",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "81ff5764-72ce-4b9a-a14f-07413700d935": {
       "name": "Lluwen, Imperfect Naturalist",
@@ -53183,6 +53193,7 @@
       "rating": 0,
       "scryfallId": "cb535433-f062-4c35-977e-2f896251b1d8",
       "effects": [
+        "Tokens",
         "Reanimate"
       ]
     },
@@ -69013,6 +69024,7 @@
       "rating": 0,
       "scryfallId": "6c1c790b-9e0e-4964-9ea3-554843907f06",
       "effects": [
+        "Tokens",
         "Buff"
       ]
     },
@@ -79047,7 +79059,9 @@
       "name": "Semester Foreseer // Peer Review",
       "rating": 0,
       "scryfallId": "7e5a640b-fd88-4b5a-9dfc-1d8f5a5cef41",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "f0c5864f-83c3-4d99-8f97-0ab92608fff3": {
       "name": "Sen Triplets",
@@ -88164,7 +88178,9 @@
       "name": "Strife Scholar // Awaken the Ages",
       "rating": 0,
       "scryfallId": "8de79312-2046-425e-9919-49afe19be81b",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "6a15599d-8b00-4e0f-ac0c-d05f07c1e50d": {
       "name": "Striking Sliver",

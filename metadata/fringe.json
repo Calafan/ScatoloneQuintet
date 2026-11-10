@@ -26964,7 +26964,9 @@
       "name": "Donal, Herald of Wings",
       "rating": 1,
       "scryfallId": "70cf8d2b-5220-4fe9-b39d-6700f0b27cca",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "049d1fb2-cce7-40e7-a633-e84cf9782d89": {
       "name": "Donate",
