@@ -25852,8 +25852,7 @@
       "effects": [
         "Discard",
         "CardAdvantage"
-      ],
-      "reviewedAt": "2026-09-08T09:38:44.6757271+00:00"
+      ]
     },
     "4689206f-7907-46fb-82a7-2716687a58fc": {
       "name": "Dimir Strandcatcher",
@@ -117608,8 +117607,7 @@
       "effects": [
         "Discard",
         "Filter"
-      ],
-      "reviewedAt": "2026-09-04T14:47:40.1587272+00:00"
+      ]
     },
     "58232c49-f880-41ef-b808-62a6e804c715": {
       "name": "Windscouter",
