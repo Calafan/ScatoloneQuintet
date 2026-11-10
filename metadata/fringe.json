@@ -17267,7 +17267,9 @@
       "name": "Chimney Imp",
       "rating": 1,
       "scryfallId": "0a426922-5e96-48f3-b696-f5dc99258943",
-      "effects": []
+      "effects": [
+        "Discard"
+      ]
     },
     "f6b499d5-0e39-46ce-9de9-f64a2cc2cb32": {
       "name": "Chimney Rabble",
@@ -35250,7 +35252,6 @@
       "rating": 1,
       "scryfallId": "1f824caf-b32c-442a-8631-887831a57360",
       "effects": [
-        "Discard",
         "Filter",
         "Tutor"
       ]
@@ -46255,7 +46256,9 @@
       "name": "Head Games",
       "rating": 2,
       "scryfallId": "86ecc098-aa2b-4bae-80d5-4d02128ef837",
-      "effects": []
+      "effects": [
+        "Discard"
+      ]
     },
     "467d6acb-9a3c-433f-836d-54e0e670b7d0": {
       "name": "Head of the Homestead",
@@ -102947,6 +102950,7 @@
       "rating": 1,
       "scryfallId": "daf180c6-7ab6-4922-9f5e-73b4f2c9488a",
       "effects": [
+        "Discard",
         "CardAdvantage"
       ]
     },
@@ -114359,7 +114363,9 @@
       "name": "Volrath's Dungeon",
       "rating": 1,
       "scryfallId": "a4ab28e1-74e1-4c4e-920f-a658c6a44d75",
-      "effects": []
+      "effects": [
+        "Discard"
+      ]
     },
     "ff99337e-410c-43af-9475-7995d690bcef": {
       "name": "Volrath's Gardens",
@@ -116842,6 +116848,7 @@
       "rating": 1,
       "scryfallId": "01f891ca-4e6a-4710-b1cf-5dabb5e1ad93",
       "effects": [
+        "Discard",
         "Filter"
       ]
     },

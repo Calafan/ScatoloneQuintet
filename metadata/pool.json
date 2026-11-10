@@ -22703,6 +22703,7 @@
       "rating": 4,
       "scryfallId": "f3d62dbd-63db-4ac9-950f-9852627f23f2",
       "effects": [
+        "Discard",
         "CardAdvantage"
       ]
     },

@@ -14666,7 +14666,9 @@
       "name": "Chittering Rats",
       "rating": 0,
       "scryfallId": "980135d5-dfaa-4beb-b4b3-1e256bb46e61",
-      "effects": []
+      "effects": [
+        "Discard"
+      ]
     },
     "8b1aa532-4f19-407e-83a5-13b3160ad8c2": {
       "name": "Chittering Witch",
@@ -16161,6 +16163,7 @@
       "scryfallId": "06c9e2e8-2b4c-4087-9141-6aa25a506626",
       "effects": [
         "Bounce",
+        "Discard",
         "CardAdvantage"
       ]
     },
@@ -20214,6 +20217,7 @@
       "rating": 0,
       "scryfallId": "1a11287a-8002-4679-9f69-a7360e7f4d3c",
       "effects": [
+        "Discard",
         "CardAdvantage"
       ]
     },
@@ -26977,6 +26981,7 @@
       "rating": 0,
       "scryfallId": "6473a93f-879f-4f44-8650-ee05a647c763",
       "effects": [
+        "Discard",
         "CardAdvantage"
       ]
     },
@@ -33889,6 +33894,7 @@
       "rating": 0,
       "scryfallId": "bc068891-c251-4eee-b5ca-342d9df33bdc",
       "effects": [
+        "Discard",
         "CardAdvantage"
       ]
     },
@@ -44265,6 +44271,7 @@
       "scryfallId": "c8bd16f1-f8f2-44d2-a737-40f08a4cff3f",
       "effects": [
         "Ramp",
+        "Discard",
         "CardAdvantage"
       ]
     },
@@ -46678,6 +46685,7 @@
       "scryfallId": "99713bb4-186f-42b6-aa66-e94ec8858e6a",
       "effects": [
         "Bounce",
+        "Discard",
         "CardAdvantage",
         "Filter"
       ]
@@ -46688,6 +46696,7 @@
       "scryfallId": "0e606072-a3aa-4300-ba90-ec92a721fa76",
       "effects": [
         "Bounce",
+        "Discard",
         "CardAdvantage",
         "Filter"
       ]
@@ -58522,6 +58531,7 @@
       "rating": 0,
       "scryfallId": "57e2382d-1f27-40d1-b809-c188c19ebc72",
       "effects": [
+        "Discard",
         "Filter",
         "Burn"
       ]
@@ -69012,6 +69022,7 @@
       "rating": 0,
       "scryfallId": "ac9fcf7c-8785-4285-b583-7060edabc3c6",
       "effects": [
+        "Discard",
         "Burn"
       ]
     },
@@ -75921,7 +75932,9 @@
       "name": "Sadistic Augermage",
       "rating": 0,
       "scryfallId": "40283989-c2cc-4f17-a817-2c548d2ce71f",
-      "effects": []
+      "effects": [
+        "Discard"
+      ]
     },
     "e3d08582-85ba-48c4-a453-4a5a385a0c3e": {
       "name": "Sadistic Sacrament",
@@ -86748,7 +86761,6 @@
       "scryfallId": "7ac6649f-980e-4404-9c05-458c30578ecc",
       "effects": [
         "Removal",
-        "Discard",
         "Filter"
       ]
     },
@@ -89633,6 +89645,7 @@
       "rating": 0,
       "scryfallId": "5eb58d9e-d181-4167-8b80-64b238183bdb",
       "effects": [
+        "Discard",
         "CardAdvantage"
       ]
     },
@@ -94354,6 +94367,7 @@
       "rating": 0,
       "scryfallId": "1468c851-b20e-4c78-9fcb-45e60b7149db",
       "effects": [
+        "Discard",
         "CardAdvantage"
       ]
     },
