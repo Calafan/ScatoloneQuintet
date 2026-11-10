@@ -19554,8 +19554,7 @@
       "effects": [
         "Tutor",
         "ManaFixing"
-      ],
-      "reviewedAt": "2026-10-09T10:39:04.3545557+00:00"
+      ]
     },
     "6ef464bd-2ed0-4f99-af4a-ebf276f55384": {
       "name": "Compassionate Healer",
@@ -26287,8 +26286,7 @@
       "effects": [
         "Ramp",
         "Tutor"
-      ],
-      "reviewedAt": "2026-09-23T21:31:03.7813412+00:00"
+      ]
     },
     "dd3a4b64-0987-4e9b-a18d-c54365438857": {
       "name": "Dispelling Exhale",
@@ -30187,8 +30185,7 @@
       "effects": [
         "Ramp",
         "Tutor"
-      ],
-      "reviewedAt": "2026-09-10T15:46:00.1565573+00:00"
+      ]
     },
     "cf402270-ebc6-481b-b478-0e3acab7002a": {
       "name": "Elementalist Adept",
@@ -30878,8 +30875,7 @@
       "effects": [
         "Tutor",
         "ManaFixing"
-      ],
-      "reviewedAt": "2026-10-20T19:21:57.5006541+00:00"
+      ]
     },
     "4b62f9fe-e3f4-4a21-aa6b-4dbd411d0c44": {
       "name": "Elvish Refueler",
@@ -33267,8 +33263,7 @@
       "effects": [
         "Ramp",
         "Tutor"
-      ],
-      "reviewedAt": "2026-11-03T18:25:42.6913892+00:00"
+      ]
     },
     "9fa0c9d1-2a63-41a8-8733-39bfaee4eb0a": {
       "name": "Explorer's Cache",
@@ -41318,8 +41313,7 @@
         "Ramp",
         "Buff",
         "Tutor"
-      ],
-      "reviewedAt": "2026-09-11T19:52:18.5580056+00:00"
+      ]
     },
     "52826984-44cb-48dc-a737-bb02983ffea8": {
       "name": "Glamdring",
@@ -62055,8 +62049,7 @@
       "effects": [
         "Filter",
         "Tutor"
-      ],
-      "reviewedAt": "2026-09-08T12:00:27.4448561+00:00"
+      ]
     },
     "48207d1c-448a-4e1b-974a-642dfea75933": {
       "name": "Mana Short",
@@ -71428,8 +71421,7 @@
       "effects": [
         "Ramp",
         "Tutor"
-      ],
-      "reviewedAt": "2026-09-12T10:42:54.1542505+00:00"
+      ]
     },
     "852e3d89-64a0-4b32-be2b-b1d6cd7c2f64": {
       "name": "Omenport Vigilante",
@@ -72526,8 +72518,7 @@
       "effects": [
         "Tutor",
         "ManaFixing"
-      ],
-      "reviewedAt": "2026-09-25T09:16:40.0903394+00:00"
+      ]
     },
     "637be5f7-ab39-4e3a-a5eb-c6e48fca00a9": {
       "name": "Outlaw Medic",
@@ -82082,8 +82073,7 @@
       "effects": [
         "Ramp",
         "Tutor"
-      ],
-      "reviewedAt": "2026-10-20T18:52:21.8491579+00:00"
+      ]
     },
     "78c7c73f-847d-43bf-9e02-cf85357453f4": {
       "name": "Resilient Roadrunner",
@@ -91636,8 +91626,7 @@
         "Tokens",
         "Ramp",
         "Tutor"
-      ],
-      "reviewedAt": "2026-09-11T19:58:55.0215394+00:00"
+      ]
     },
     "72074972-418d-4dce-83cf-ce8cf310fc42": {
       "name": "Sidisi, Regent of the Mire",
@@ -91948,8 +91937,7 @@
       "effects": [
         "Tutor",
         "ManaFixing"
-      ],
-      "reviewedAt": "2026-09-25T08:28:07.9718272+00:00"
+      ]
     },
     "ec7eb7d8-92b2-4442-856e-a9790301c3b3": {
       "name": "Silver Drake",
@@ -93529,8 +93517,7 @@
         "Ramp",
         "Filter",
         "Tutor"
-      ],
-      "reviewedAt": "2026-11-03T11:00:59.465456+00:00"
+      ]
     },
     "ccb1b532-92b8-4ebf-b3c2-fb5924b116f5": {
       "name": "Slimy Dualleech",
@@ -103958,8 +103945,7 @@
         "Tokens",
         "Tutor",
         "ManaFixing"
-      ],
-      "reviewedAt": "2026-09-11T13:33:45.1160634+00:00"
+      ]
     },
     "5ce47fb9-4e4f-4419-af75-309d2743f5f9": {
       "name": "The Caves of Androzani",
@@ -107268,8 +107254,7 @@
         "Ramp",
         "Buff",
         "Tutor"
-      ],
-      "reviewedAt": "2026-10-27T15:10:24.0300602+00:00"
+      ]
     },
     "30ac0f06-3dd3-4827-8136-4cf8adbf9b12": {
       "name": "Titania's Song",
@@ -108098,8 +108083,7 @@
       "scryfallId": "97bf6a6a-e377-4f42-84dd-baf6055c0fb1",
       "effects": [
         "Tutor"
-      ],
-      "reviewedAt": "2026-09-12T10:00:50.6402431+00:00"
+      ]
     },
     "2f995678-c315-4afe-845b-8c8ae863de6e": {
       "name": "Tower Worker",
@@ -111533,8 +111517,7 @@
       "effects": [
         "Tutor",
         "ManaFixing"
-      ],
-      "reviewedAt": "2026-10-16T12:51:55.4219734+00:00"
+      ]
     },
     "fde25440-1810-46ba-a112-b54091593b66": {
       "name": "Urza's Chalice",
@@ -118523,8 +118506,7 @@
       "effects": [
         "Tutor",
         "ManaFixing"
-      ],
-      "reviewedAt": "2026-09-11T22:06:56.6828613+00:00"
+      ]
     },
     "de6e0f80-3a9e-4499-aec1-2513a0264538": {
       "name": "World-Weary",
