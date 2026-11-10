@@ -11102,7 +11102,8 @@
       "effects": [
         "CardAdvantage",
         "ManaFixing"
-      ]
+      ],
+      "reviewedAt": "2026-11-10T08:12:57.2470986+00:00"
     },
     "41fa3954-119b-4ff2-ad56-9105482f6b7c": {
       "name": "Bloodstoke Howler",
@@ -11566,7 +11567,8 @@
       "scryfallId": "207bb4cd-4525-47e0-b412-0d0e29717d44",
       "effects": [
         "Reanimate"
-      ]
+      ],
+      "reviewedAt": "2026-11-10T08:07:36.3974082+00:00"
     },
     "0ee41ef9-0b39-4d00-a68e-7914839a7175": {
       "name": "Bone Devourer",
@@ -17472,7 +17474,8 @@
       "scryfallId": "7389fe88-f6ff-4497-a037-9ca283fb89e3",
       "effects": [
         "Reanimate"
-      ]
+      ],
+      "reviewedAt": "2026-11-10T08:09:52.3203032+00:00"
     },
     "e175a3c1-df6c-4aa7-a4c9-893b466ad9e0": {
       "name": "Chorus of Woe",
@@ -19230,7 +19233,8 @@
       "scryfallId": "7c3f7d76-528a-490a-852a-071adcd7bd55",
       "effects": [
         "Reanimate"
-      ]
+      ],
+      "reviewedAt": "2026-11-10T08:10:11.5396683+00:00"
     },
     "0611beb7-a38d-4fbf-af9b-ee2a5b9a2896": {
       "name": "Colossal Growth",
@@ -20660,7 +20664,9 @@
       "scryfallId": "490a5054-0607-4e4a-a0a9-0e9eea7adb00",
       "effects": [
         "Tokens",
-        "Disenchant"
+        "Ramp",
+        "Disenchant",
+        "Tutor"
       ]
     },
     "99d8c5f9-ad8f-450e-9a7c-51a4c0ca5043": {
@@ -26286,7 +26292,8 @@
       "effects": [
         "Ramp",
         "Tutor"
-      ]
+      ],
+      "reviewedAt": "2026-11-10T08:13:23.9676404+00:00"
     },
     "dd3a4b64-0987-4e9b-a18d-c54365438857": {
       "name": "Dispelling Exhale",
@@ -30185,7 +30192,8 @@
       "effects": [
         "Ramp",
         "Tutor"
-      ]
+      ],
+      "reviewedAt": "2026-11-10T08:11:48.3742368+00:00"
     },
     "cf402270-ebc6-481b-b478-0e3acab7002a": {
       "name": "Elementalist Adept",
@@ -35815,7 +35823,8 @@
       "effects": [
         "CardAdvantage",
         "Sacrifice"
-      ]
+      ],
+      "reviewedAt": "2026-11-10T08:08:29.5024027+00:00"
     },
     "a129423d-c886-4120-96f7-c2517ea7eb83": {
       "name": "Fire Lord Zuko",
@@ -35888,7 +35897,8 @@
       "scryfallId": "fea1319c-7589-480d-a204-65ec68837e59",
       "effects": [
         "Reanimate"
-      ]
+      ],
+      "reviewedAt": "2026-11-10T08:08:17.2596619+00:00"
     },
     "4ba60296-5612-41ed-bf53-a061783ed3b9": {
       "name": "Fire Nation Sentinels",
@@ -41313,7 +41323,8 @@
         "Ramp",
         "Buff",
         "Tutor"
-      ]
+      ],
+      "reviewedAt": "2026-11-10T08:10:20.8619959+00:00"
     },
     "52826984-44cb-48dc-a737-bb02983ffea8": {
       "name": "Glamdring",
@@ -43185,7 +43196,8 @@
       "effects": [
         "Ramp",
         "CardAdvantage"
-      ]
+      ],
+      "reviewedAt": "2026-11-10T08:13:31.3262316+00:00"
     },
     "b5c64331-2ba5-43ad-b77c-979875cc39e3": {
       "name": "Goobbue Gardener",
@@ -44357,7 +44369,8 @@
       "name": "Grinning Totem",
       "rating": 2,
       "scryfallId": "f3558ddf-2bc6-4870-bd24-2467d870ffe5",
-      "effects": []
+      "effects": [],
+      "reviewedAt": "2026-11-10T08:07:10.6096981+00:00"
     },
     "0144d9bb-d3cb-4c23-b133-6653d7c3a76d": {
       "name": "Grip of Amnesia",
@@ -45384,7 +45397,8 @@
       "scryfallId": "6fa1197d-7b19-4d86-81e2-5c87de87757b",
       "effects": [
         "Mill"
-      ]
+      ],
+      "reviewedAt": "2026-11-10T08:11:24.1288361+00:00"
     },
     "aa1b7cdd-0296-418c-ac3b-7ad3c51f1760": {
       "name": "Hamlet Glutton",
@@ -49498,7 +49512,8 @@
       "effects": [
         "Tokens",
         "Ramp"
-      ]
+      ],
+      "reviewedAt": "2026-11-10T08:12:31.0141172+00:00"
     },
     "c232d974-9c65-4bce-b045-e5a7cc0c62e0": {
       "name": "Idol of Oblivion",
@@ -56595,7 +56610,8 @@
       "scryfallId": "d3736f17-f80b-4b2c-b919-2c963bc14682",
       "effects": [
         "CardAdvantage"
-      ]
+      ],
+      "reviewedAt": "2026-11-10T08:11:00.1019254+00:00"
     },
     "0659a5b0-9807-4e4c-8af3-b6e233051ad6": {
       "name": "Kotori, Pilot Prodigy",
@@ -56621,7 +56637,8 @@
         "Removal",
         "Ramp",
         "Filter"
-      ]
+      ],
+      "reviewedAt": "2026-11-10T08:13:44.6397194+00:00"
     },
     "bd9d761f-79cc-4082-8375-51af582f1472": {
       "name": "Kozilek's Unsealing",
@@ -56631,7 +56648,8 @@
         "Tokens",
         "Ramp",
         "CardAdvantage"
-      ]
+      ],
+      "reviewedAt": "2026-11-10T08:12:28.5191633+00:00"
     },
     "3eb49097-42f8-4388-907d-32a738749d8a": {
       "name": "Krakilin",
@@ -62047,9 +62065,9 @@
       "rating": 1,
       "scryfallId": "854dc5e6-63f7-4c8b-83e5-a364f41c9a15",
       "effects": [
-        "Filter",
-        "Tutor"
-      ]
+        "Filter"
+      ],
+      "reviewedAt": "2026-11-10T08:07:23.8395129+00:00"
     },
     "48207d1c-448a-4e1b-974a-642dfea75933": {
       "name": "Mana Short",
@@ -68571,7 +68589,8 @@
       "scryfallId": "1bb5f991-4d05-48b2-ac8d-81fd9ef7f4bb",
       "effects": [
         "CardAdvantage"
-      ]
+      ],
+      "reviewedAt": "2026-11-10T08:08:38.6768417+00:00"
     },
     "69acaa6f-3ba2-420c-9069-02958f844121": {
       "name": "Natural Balance",
@@ -71421,7 +71440,8 @@
       "effects": [
         "Ramp",
         "Tutor"
-      ]
+      ],
+      "reviewedAt": "2026-11-10T08:13:08.3843691+00:00"
     },
     "852e3d89-64a0-4b32-be2b-b1d6cd7c2f64": {
       "name": "Omenport Vigilante",
@@ -81795,7 +81815,8 @@
       "effects": [
         "CardAdvantage",
         "Sacrifice"
-      ]
+      ],
+      "reviewedAt": "2026-11-10T08:09:13.4319926+00:00"
     },
     "72f9a6f7-ea26-438d-aafa-758239fd3681": {
       "name": "Renounce",
@@ -86402,8 +86423,10 @@
       "rating": 1,
       "scryfallId": "e63ba7e6-87a9-49ef-bddc-60543edfd726",
       "effects": [
-        "Tokens"
-      ]
+        "Tokens",
+        "Ramp"
+      ],
+      "reviewedAt": "2026-11-10T08:17:20.2293107+00:00"
     },
     "48a830f1-8965-4f97-b3d8-ca98eab1ba33": {
       "name": "Sand Silos",
@@ -91626,7 +91649,8 @@
         "Tokens",
         "Ramp",
         "Tutor"
-      ]
+      ],
+      "reviewedAt": "2026-11-10T08:10:52.1510782+00:00"
     },
     "72074972-418d-4dce-83cf-ce8cf310fc42": {
       "name": "Sidisi, Regent of the Mire",
@@ -95579,7 +95603,8 @@
       "effects": [
         "Bounce",
         "Mill"
-      ]
+      ],
+      "reviewedAt": "2026-11-10T08:10:26.0532815+00:00"
     },
     "71920c05-7061-4ba5-8903-cffd3d2f85f4": {
       "name": "Spectacle Mage",
@@ -96113,7 +96138,8 @@
       "scryfallId": "f8779eb2-1210-430d-8d42-3077053441ee",
       "effects": [
         "Redirect"
-      ]
+      ],
+      "reviewedAt": "2026-11-10T08:10:43.6053761+00:00"
     },
     "d21d7557-9702-46c1-8277-42a3442084c2": {
       "name": "Spiders-Man, Heroic Horde",
@@ -99018,7 +99044,8 @@
       "scryfallId": "a8c971d0-9ac4-4b34-ae19-1152c1c9dac1",
       "effects": [
         "CardAdvantage"
-      ]
+      ],
+      "reviewedAt": "2026-11-10T08:09:18.9328091+00:00"
     },
     "0e8ae1f7-8926-414a-8434-db0b0f877505": {
       "name": "Strands of Night",
@@ -103945,7 +103972,8 @@
         "Tokens",
         "Tutor",
         "ManaFixing"
-      ]
+      ],
+      "reviewedAt": "2026-11-10T08:08:25.207543+00:00"
     },
     "5ce47fb9-4e4f-4419-af75-309d2743f5f9": {
       "name": "The Caves of Androzani",
@@ -108083,7 +108111,8 @@
       "scryfallId": "97bf6a6a-e377-4f42-84dd-baf6055c0fb1",
       "effects": [
         "Tutor"
-      ]
+      ],
+      "reviewedAt": "2026-11-10T08:17:31.9702141+00:00"
     },
     "2f995678-c315-4afe-845b-8c8ae863de6e": {
       "name": "Tower Worker",
@@ -111517,7 +111546,8 @@
       "effects": [
         "Tutor",
         "ManaFixing"
-      ]
+      ],
+      "reviewedAt": "2026-11-10T08:12:40.7150909+00:00"
     },
     "fde25440-1810-46ba-a112-b54091593b66": {
       "name": "Urza's Chalice",
@@ -111726,7 +111756,8 @@
       "effects": [
         "CardAdvantage",
         "ManaFixing"
-      ]
+      ],
+      "reviewedAt": "2026-11-10T08:11:55.1071949+00:00"
     },
     "b000bcf5-529a-447a-bc2e-ae6f42d6073b": {
       "name": "Vadmir, New Blood",
@@ -118506,7 +118537,8 @@
       "effects": [
         "Tutor",
         "ManaFixing"
-      ]
+      ],
+      "reviewedAt": "2026-11-10T08:09:04.3431592+00:00"
     },
     "de6e0f80-3a9e-4499-aec1-2513a0264538": {
       "name": "World-Weary",
