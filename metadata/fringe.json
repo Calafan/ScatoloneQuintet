@@ -30181,7 +30181,9 @@
       "name": "Elemental Teachings",
       "rating": 1,
       "scryfallId": "cac8ac35-6860-4839-ab85-93d409206c08",
-      "effects": [],
+      "effects": [
+        "Ramp"
+      ],
       "reviewedAt": "2026-09-10T15:46:00.1565573+00:00"
     },
     "cf402270-ebc6-481b-b478-0e3acab7002a": {
@@ -51863,9 +51865,7 @@
       "name": "Invasion of the Giants",
       "rating": 1,
       "scryfallId": "7f5075a0-c72a-474c-937c-95dc9205d14f",
-      "effects": [
-        "Filter"
-      ],
+      "effects": [],
       "reviewedAt": "2026-11-06T15:49:59.2475966+00:00"
     },
     "4c376349-1a50-4215-8a40-f702da81eb7b": {
