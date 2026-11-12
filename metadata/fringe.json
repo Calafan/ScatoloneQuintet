@@ -74621,6 +74621,7 @@
       "rating": 1,
       "scryfallId": "347cee3a-6e0e-43c2-85e5-531b19297c3d",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },

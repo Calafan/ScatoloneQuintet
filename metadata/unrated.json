@@ -16139,6 +16139,7 @@
       "rating": 0,
       "scryfallId": "02bb4b2a-3c9f-48ab-b2a5-ae31f06b82d9",
       "effects": [
+        "CardAdvantage",
         "Filter",
         "Regrowth"
       ]
@@ -26711,6 +26712,7 @@
       "rating": 0,
       "scryfallId": "20d3b541-40aa-469e-be97-20496a7632d4",
       "effects": [
+        "CardAdvantage",
         "Filter"
       ]
     },
