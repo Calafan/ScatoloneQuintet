@@ -71310,9 +71310,7 @@
       "name": "Pridemalkin",
       "rating": 1,
       "scryfallId": "df520254-0c72-496b-9222-263ca9d3c5d5",
-      "effects": [
-        "Buff"
-      ]
+      "effects": []
     },
     "2ad8ff62-d090-4835-9274-3b755ba0f8e6": {
       "name": "Priest of Forgotten Gods",

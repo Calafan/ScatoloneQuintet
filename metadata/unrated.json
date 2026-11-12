@@ -6345,7 +6345,9 @@
       "name": "Barbed Battlegear",
       "rating": 0,
       "scryfallId": "03b80b2f-8d07-4ad3-9b20-4ba0fe9f37a2",
-      "effects": []
+      "effects": [
+        "Buff"
+      ]
     },
     "15febce7-8320-4591-9535-ef11c8adecc2": {
       "name": "Barbed Bloodletter",
@@ -21866,6 +21868,7 @@
       "scryfallId": "fe4ab58f-3fb5-45fa-8ea1-794efa6f7da9",
       "effects": [
         "Removal",
+        "Buff",
         "Burn"
       ]
     },
@@ -25670,9 +25673,7 @@
       "name": "Elder Cathar",
       "rating": 0,
       "scryfallId": "c21b9e51-fecd-4f9a-9354-a6dc1613feb3",
-      "effects": [
-        "Buff"
-      ]
+      "effects": []
     },
     "4eafe717-4ba4-4901-8c67-11757230eb54": {
       "name": "Elder Deep-Fiend",
@@ -26018,7 +26019,9 @@
       "name": "Elite Scaleguard",
       "rating": 0,
       "scryfallId": "55ac3224-54af-4688-a015-6a447971544e",
-      "effects": []
+      "effects": [
+        "Buff"
+      ]
     },
     "66578806-9148-479d-80e1-6c3e3b67e452": {
       "name": "Elite Skirmisher",
@@ -73006,7 +73009,9 @@
       "name": "Roalesk, Apex Hybrid",
       "rating": 0,
       "scryfallId": "de14b4fd-fb4e-4986-9123-69ae68b5050a",
-      "effects": []
+      "effects": [
+        "Buff"
+      ]
     },
     "9d83a1d3-ef0f-4134-a38b-c992d396592b": {
       "name": "Roar of Challenge",
@@ -74943,7 +74948,9 @@
       "name": "Sandsteppe Scavenger",
       "rating": 0,
       "scryfallId": "861f215b-4f3b-4aca-9664-3ef9a0ddea1a",
-      "effects": []
+      "effects": [
+        "Buff"
+      ]
     },
     "08911e8e-cd67-4960-a927-958c33632469": {
       "name": "Sandstone Bridge",
@@ -80746,7 +80753,8 @@
       "rating": 0,
       "scryfallId": "55318397-de3c-47ea-a088-72a24df5c8fa",
       "effects": [
-        "CardAdvantage"
+        "CardAdvantage",
+        "Buff"
       ]
     },
     "a6fc0b0c-9ba2-47f2-ab92-26fd20d0f86d": {
@@ -97868,9 +97876,7 @@
       "name": "Vigorbloom Vanguard // Seed Suture",
       "rating": 0,
       "scryfallId": "acefc515-bf97-4dc0-b0f7-ae8ae5a61671",
-      "effects": [
-        "Buff"
-      ]
+      "effects": []
     },
     "be843255-7408-45b9-b0ca-c79342daa353": {
       "name": "Vigorspore Wurm",
