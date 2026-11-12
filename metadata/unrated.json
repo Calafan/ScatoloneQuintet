@@ -22369,7 +22369,9 @@
       "name": "Disorient",
       "rating": 0,
       "scryfallId": "17965a3c-92b4-4f01-b076-e40c567eed33",
-      "effects": []
+      "effects": [
+        "Pacify"
+      ]
     },
     "192603a4-720e-4c53-bee5-4f2826c1ed7f": {
       "name": "Disowned Ancestor",
@@ -25741,7 +25743,8 @@
       "rating": 0,
       "scryfallId": "f0bb1a5c-0f59-4951-827f-fe9df968232d",
       "effects": [
-        "Protection"
+        "Protection",
+        "Pacify"
       ]
     },
     "cddb3ec4-01a2-4f4d-a690-3486c73c3df8": {
@@ -26621,9 +26624,7 @@
       "name": "Emrakul's Influence",
       "rating": 0,
       "scryfallId": "112476e7-72ab-4ebc-9e6e-e96fbf5109c0",
-      "effects": [
-        "CardAdvantage"
-      ]
+      "effects": []
     },
     "900ca697-ad38-4b2b-bc74-2ff7eb6ea951": {
       "name": "Emrakul, the Aeons Torn",
@@ -34882,7 +34883,6 @@
       "rating": 0,
       "scryfallId": "a913f9b3-abbd-424b-8dea-061e15364fb0",
       "effects": [
-        "CardAdvantage",
         "Steal"
       ]
     },
@@ -36856,7 +36856,9 @@
       "name": "Grand Warlord Radha",
       "rating": 0,
       "scryfallId": "986981fa-a744-45d8-81c7-68ef335c79e2",
-      "effects": []
+      "effects": [
+        "Ramp"
+      ]
     },
     "2d29c40a-4e13-4d99-bb5a-e991e385b8c2": {
       "name": "Grandmother Goby",
@@ -42695,7 +42697,9 @@
       "name": "Hydrosurge",
       "rating": 0,
       "scryfallId": "1a22f992-ef16-45be-8bac-bd7418ed068f",
-      "effects": []
+      "effects": [
+        "Pacify"
+      ]
     },
     "d38b027d-eb24-46ba-9d46-3be08eedbe2a": {
       "name": "Hyena Pack",
@@ -42936,7 +42940,8 @@
       "rating": 0,
       "scryfallId": "8d754b96-5e44-45af-9c7a-b0da59fbe4c3",
       "effects": [
-        "Counter"
+        "Counter",
+        "Pacify"
       ]
     },
     "6b4d34bc-fa64-4c42-90e0-190671a5b988": {
@@ -45835,9 +45840,7 @@
       "name": "Jarvis, Earth's Mightiest Butler",
       "rating": 0,
       "scryfallId": "62c31cd8-0c30-4cfb-89d6-2e4dac19f6ea",
-      "effects": [
-        "CardAdvantage"
-      ]
+      "effects": []
     },
     "1cbcc073-1645-4d7f-98f4-7309d7b35692": {
       "name": "Jawbone Skulkin",
@@ -50623,9 +50626,7 @@
       "name": "Leovold, Emissary of Trest",
       "rating": 0,
       "scryfallId": "49bb0ad3-1082-41f1-82a4-52a4006cc9b6",
-      "effects": [
-        "CardAdvantage"
-      ]
+      "effects": []
     },
     "51df0203-578d-47e1-a9f7-a13445f597d7": {
       "name": "Lessons from Life",
@@ -58913,7 +58914,8 @@
       "scryfallId": "16e92409-d301-49f5-a8a9-acd531a928d4",
       "effects": [
         "Removal",
-        "Protection"
+        "Protection",
+        "Pacify"
       ]
     },
     "3a726e40-829c-47ec-81a7-58a04164fc3f": {
@@ -65146,7 +65148,9 @@
       "name": "Photon, Mighty Marvel",
       "rating": 0,
       "scryfallId": "2b164aca-2bda-49a6-81ce-16ef4721ec63",
-      "effects": []
+      "effects": [
+        "Ramp"
+      ]
     },
     "530f088d-bfa1-4410-b1aa-ade8abdb2b7a": {
       "name": "Phthisis",
@@ -67435,7 +67439,8 @@
       "rating": 0,
       "scryfallId": "9b8acd7d-f3e2-4358-91ab-40901b68d64c",
       "effects": [
-        "Buff"
+        "Buff",
+        "Pacify"
       ]
     },
     "c5f611c9-9e6e-4719-ad71-8686327a8564": {
@@ -74580,7 +74585,9 @@
       "name": "Sakiko, Mother of Summer",
       "rating": 0,
       "scryfallId": "774ec405-5127-4475-8c74-b8858bd84379",
-      "effects": []
+      "effects": [
+        "Ramp"
+      ]
     },
     "e3afc704-220f-498f-9eaa-0821b17dc24c": {
       "name": "Sakura-Tribe Elder",
@@ -75464,7 +75471,9 @@
       "name": "Savage Ventmaw",
       "rating": 0,
       "scryfallId": "690008d1-d1fe-49ad-810c-84be57cecc6c",
-      "effects": []
+      "effects": [
+        "Ramp"
+      ]
     },
     "fa8e5291-1a50-4c05-820c-8ae756364d33": {
       "name": "Savageborn Hydra",
@@ -78192,9 +78201,7 @@
       "name": "Shapers' Sanctuary",
       "rating": 0,
       "scryfallId": "930240dc-9c8c-4857-b6ce-85f1689c60e5",
-      "effects": [
-        "CardAdvantage"
-      ]
+      "effects": []
     },
     "400c9fd8-c307-4b27-af6a-73e100717881": {
       "name": "Shapesharer",
@@ -80280,9 +80287,7 @@
       "name": "Sire of the Storm",
       "rating": 0,
       "scryfallId": "2e76d003-2d15-43d7-9cbb-e00564d0cabf",
-      "effects": [
-        "CardAdvantage"
-      ]
+      "effects": []
     },
     "9f0d82ae-38bf-45d8-8cda-982b6ead1d72": {
       "name": "Siren Lookout",

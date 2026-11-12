@@ -440,7 +440,9 @@
       "name": "Academic Dispute",
       "rating": 1,
       "scryfallId": "4620cc3b-e401-4096-b310-fed080806344",
-      "effects": []
+      "effects": [
+        "Filter"
+      ]
     },
     "400b2e17-ee48-4e22-a8a6-a607c215d1a2": {
       "name": "Academic Probation",
@@ -4078,7 +4080,9 @@
       "name": "Arcane Subtraction",
       "rating": 1,
       "scryfallId": "68cdb00c-ea86-4b72-8f62-570820edfa1b",
-      "effects": []
+      "effects": [
+        "Filter"
+      ]
     },
     "0b633017-bfdf-47cd-a60f-c93816b47e9c": {
       "name": "Arcane Teachings",
@@ -17869,7 +17873,9 @@
       "name": "Colossal Plow",
       "rating": 1,
       "scryfallId": "fba3fe29-067f-4c7e-8b3b-779f3b37712a",
-      "effects": []
+      "effects": [
+        "Ramp"
+      ]
     },
     "8ec03b88-8d3a-4a32-8b7c-7da59b0c03d0": {
       "name": "Colossus Hammer",
@@ -29611,6 +29617,7 @@
       "rating": 1,
       "scryfallId": "543c64ff-2c51-4a63-a940-dc8645717c85",
       "effects": [
+        "Filter",
         "Buff"
       ]
     },
@@ -70503,6 +70510,7 @@
       "rating": 1,
       "scryfallId": "e7006f43-0b10-4693-b06f-e7cf86ab4129",
       "effects": [
+        "Filter",
         "Buff"
       ]
     },
@@ -74680,9 +74688,7 @@
       "name": "Rayne, Academy Chancellor",
       "rating": 1,
       "scryfallId": "8ee6480c-7697-47e2-893b-ca88c0ab3376",
-      "effects": [
-        "CardAdvantage"
-      ]
+      "effects": []
     },
     "02fde433-955d-49df-bd72-270b6feac9e7": {
       "name": "Raze",

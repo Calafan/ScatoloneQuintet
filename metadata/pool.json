@@ -7388,7 +7388,9 @@
       "name": "Eyetwitch",
       "rating": 3,
       "scryfallId": "1f4d1bb6-cb8f-4d01-9879-0b3a0585cbf4",
-      "effects": []
+      "effects": [
+        "Filter"
+      ]
     },
     "3017ac79-37f1-4cc1-8efd-4add027618a2": {
       "name": "Ezio Auditore da Firenze",
@@ -8158,8 +8160,7 @@
       "rating": 3,
       "scryfallId": "b3090004-d7dd-47bc-92e5-977be4fd9ae5",
       "effects": [
-        "Removal",
-        "Burn"
+        "Removal"
       ]
     },
     "0b34f471-40da-4c7a-81df-245fc3d14092": {
@@ -17307,8 +17308,7 @@
       "rating": 3,
       "scryfallId": "ac0b24e7-14e7-45ee-b5d8-bdb8674b669c",
       "effects": [
-        "Removal",
-        "Burn"
+        "Removal"
       ]
     },
     "a3b8690e-ac47-444f-924e-ab2a12a85431": {
@@ -20772,6 +20772,7 @@
       "rating": 3,
       "scryfallId": "ab7c80d3-3e0c-4510-9ed0-bb9fe39d838f",
       "effects": [
+        "Filter",
         "Buff"
       ]
     },
