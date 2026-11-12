@@ -5426,8 +5426,7 @@
       "effects": [
         "Discard",
         "Burn"
-      ],
-      "reviewedAt": "2026-11-06T15:51:34.5824389+00:00"
+      ]
     },
     "08c6d2fd-d9ae-4f95-bb9d-7e16b1039814": {
       "name": "Demolish",
@@ -15707,8 +15706,7 @@
       "name": "Overwhelmed Apprentice",
       "rating": 3,
       "scryfallId": "8659092e-4fe8-42be-ab03-efc99ed37436",
-      "effects": [],
-      "reviewedAt": "2026-11-11T20:00:12.9726692+00:00"
+      "effects": []
     },
     "bb4507c1-1e5d-48b5-8fc0-1d26bd1c9e72": {
       "name": "Overwhelming Remorse",

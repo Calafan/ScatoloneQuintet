@@ -5672,8 +5672,7 @@
       "effects": [
         "CardAdvantage",
         "Burn"
-      ],
-      "reviewedAt": "2026-10-27T15:14:40.8775198+00:00"
+      ]
     },
     "f0fd78bb-cb83-4dfa-a910-0334d225f87c": {
       "name": "Attack-in-the-Box",
@@ -20153,8 +20152,7 @@
       "name": "Cruel Fate",
       "rating": 1,
       "scryfallId": "44bea0d4-946e-4cb8-b6f1-50231d52bfbe",
-      "effects": [],
-      "reviewedAt": "2026-09-29T08:57:42.5926624+00:00"
+      "effects": []
     },
     "4c27b7cd-dcbf-45a7-9e15-a6d8dfd3a087": {
       "name": "Cruel Grimnarch",
@@ -23457,8 +23455,7 @@
       "name": "Desperate Bloodseeker",
       "rating": 1,
       "scryfallId": "a59da027-b5dd-4920-b3a1-9da05fcb1977",
-      "effects": [],
-      "reviewedAt": "2026-09-25T08:34:58.979482+00:00"
+      "effects": []
     },
     "26074e44-cf2b-459f-9a5d-7eed231ed2b4": {
       "name": "Desperate Charge",
@@ -24593,8 +24590,7 @@
       "scryfallId": "4a63d530-27c3-4cd7-ac37-c62b5a1afbc1",
       "effects": [
         "Pacify"
-      ],
-      "reviewedAt": "2026-10-08T22:30:24.4740158+00:00"
+      ]
     },
     "7010bfbb-8aea-473b-a9a5-27488de13cc5": {
       "name": "Disturbing Mirth",
@@ -25809,8 +25805,7 @@
       "scryfallId": "31da60a2-d4d3-4954-be59-c7ff61fa2905",
       "effects": [
         "Filter"
-      ],
-      "reviewedAt": "2026-11-12T13:49:40.2873103+00:00"
+      ]
     },
     "8762e9ec-e026-45aa-9c7b-d894d17c75a2": {
       "name": "Draugr's Helm",
@@ -25905,8 +25900,7 @@
       "scryfallId": "b6e0b4ff-85b5-485f-a78f-1a58bb343238",
       "effects": [
         "Buff"
-      ],
-      "reviewedAt": "2026-10-09T13:37:28.3676587+00:00"
+      ]
     },
     "4c05b382-58ab-4a2d-a81c-408ea273b6b6": {
       "name": "Dreadhorde Arcanist",
@@ -31104,8 +31098,7 @@
       "scryfallId": "ee109b81-96ef-494a-9d6d-0ea4a49b76a0",
       "effects": [
         "Filter"
-      ],
-      "reviewedAt": "2026-09-25T07:38:54.7493616+00:00"
+      ]
     },
     "04e7f739-fe50-440d-aa3d-e547295044a8": {
       "name": "Eye of Duskmantle",
@@ -34198,8 +34191,7 @@
       "scryfallId": "9184bc57-0a16-4abf-a13a-6a03a175c28a",
       "effects": [
         "Regrowth"
-      ],
-      "reviewedAt": "2026-09-29T14:49:41.6012108+00:00"
+      ]
     },
     "332716fb-cc1c-4a6f-b7d4-bd7f13cfa438": {
       "name": "Floating Shield",
@@ -35039,8 +35031,7 @@
       "name": "Foreshadow",
       "rating": 1,
       "scryfallId": "d54c51de-bfac-4198-a7c4-37b4db74e525",
-      "effects": [],
-      "reviewedAt": "2026-09-08T12:39:45.3727687+00:00"
+      "effects": []
     },
     "c9640b04-9751-46d5-b7bf-5b8a8ecf145f": {
       "name": "Foresight",
@@ -37249,8 +37240,7 @@
       "scryfallId": "40f0ecf7-f49e-46ff-aa5b-9ff5361b72c5",
       "effects": [
         "Buff"
-      ],
-      "reviewedAt": "2026-09-11T21:59:20.2969141+00:00"
+      ]
     },
     "64df77f6-4f7e-442a-971c-8ad3f7d1c979": {
       "name": "General Jarkeld",
@@ -39038,8 +39028,7 @@
       "scryfallId": "2fa2fa48-ddb7-45f0-b183-4186df98f7cc",
       "effects": [
         "Removal"
-      ],
-      "reviewedAt": "2026-10-10T19:33:46.4827086+00:00"
+      ]
     },
     "9e445336-8b1e-4642-b8bc-aa460ad79a3f": {
       "name": "Gnoll Hunter",
@@ -39072,8 +39061,7 @@
       "scryfallId": "70b2cdc5-35b9-443d-b499-c8b75c0d0a64",
       "effects": [
         "Buff"
-      ],
-      "reviewedAt": "2026-10-08T22:30:31.0150992+00:00"
+      ]
     },
     "e7e65cc5-9ceb-43b6-acde-ae492b71daf6": {
       "name": "Gnottvold Recluse",
@@ -42221,8 +42209,7 @@
       "scryfallId": "5c6bdac3-6762-41a4-821f-ab7034a823d9",
       "effects": [
         "Regrowth"
-      ],
-      "reviewedAt": "2026-10-09T08:36:03.213067+00:00"
+      ]
     },
     "01ab3603-6c2f-4d65-9bb2-da95efdbe622": {
       "name": "Halsin, Emerald Archdruid",
@@ -68399,8 +68386,7 @@
       "scryfallId": "5832df72-99dc-4c9e-b8e6-90b666abf08d",
       "effects": [
         "Reanimate"
-      ],
-      "reviewedAt": "2026-10-06T14:44:59.8877988+00:00"
+      ]
     },
     "ac94860b-70b8-4624-9758-4bb024a56f60": {
       "name": "Path to Redemption",
@@ -71772,8 +71758,7 @@
       "effects": [
         "Tokens",
         "Sacrifice"
-      ],
-      "reviewedAt": "2026-10-09T11:00:39.0569386+00:00"
+      ]
     },
     "e1d294e8-67b1-4a4a-86b8-f98f28a327d9": {
       "name": "Promise of Loyalty",
@@ -74649,8 +74634,7 @@
       "name": "Ray of Erasure",
       "rating": 1,
       "scryfallId": "5a09fc0b-7b9c-4283-8336-f2607f5ffaf5",
-      "effects": [],
-      "reviewedAt": "2026-09-05T10:34:37.8484801+00:00"
+      "effects": []
     },
     "3de32046-454b-40be-b522-a3d1d5302b10": {
       "name": "Ray of Frost",
@@ -80654,8 +80638,7 @@
       "scryfallId": "2944e5df-eef9-42be-a591-5ac15e306ad8",
       "effects": [
         "Pacify"
-      ],
-      "reviewedAt": "2026-09-08T07:13:33.1063601+00:00"
+      ]
     },
     "500aff17-0d69-46ac-a4f9-2fc6db061ce7": {
       "name": "Sapphire Leech",
@@ -107801,8 +107784,7 @@
       "name": "Watcher of the Wayside",
       "rating": 1,
       "scryfallId": "2dcafdac-a293-4adc-a540-3b3f469cf6f3",
-      "effects": [],
-      "reviewedAt": "2026-09-10T15:28:24.3903798+00:00"
+      "effects": []
     },
     "ca130ba1-a4a8-4225-9799-75d56bac6fb3": {
       "name": "Watchful Blisterzoa",
@@ -111719,8 +111701,7 @@
       "scryfallId": "e446a380-0316-46f7-8ac9-22bce773b35f",
       "effects": [
         "Buff"
-      ],
-      "reviewedAt": "2026-10-08T10:32:01.0026289+00:00"
+      ]
     },
     "f3f815b8-75c6-40e0-9716-872f0f5c9d46": {
       "name": "Zhang Fei, Fierce Warrior",
