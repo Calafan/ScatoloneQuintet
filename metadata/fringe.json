@@ -19535,7 +19535,9 @@
       "name": "Cram Session",
       "rating": 1,
       "scryfallId": "c59a249f-35ed-447a-845b-32ba5a53124e",
-      "effects": [],
+      "effects": [
+        "Filter"
+      ],
       "reviewedAt": "2026-11-06T16:08:13.6870454+00:00"
     },
     "1e847d69-e527-4bb9-a624-17c25ac4fed4": {
@@ -28444,7 +28446,6 @@
       "rating": 1,
       "scryfallId": "d26ffb2c-f7a5-4a4f-9b99-c8de9dfd49da",
       "effects": [
-        "CardAdvantage",
         "Buff"
       ],
       "reviewedAt": "2026-10-06T18:31:04.4330653+00:00"
@@ -31879,7 +31880,9 @@
       "name": "Fangorn, Tree Shepherd",
       "rating": 1,
       "scryfallId": "0fb0f946-2127-4aa3-88ac-9bd2e94d8983",
-      "effects": [],
+      "effects": [
+        "Ramp"
+      ],
       "reviewedAt": "2026-10-06T18:27:15.6417819+00:00"
     },
     "c5dc5546-e9e5-4b5b-b812-5716d4bdee0e": {
@@ -32901,7 +32904,8 @@
       "rating": 1,
       "scryfallId": "f235060a-eb49-4a73-bb5f-01228c3c4070",
       "effects": [
-        "Ramp"
+        "Ramp",
+        "Filter"
       ],
       "reviewedAt": "2026-11-12T07:46:31.0929476+00:00"
     },
@@ -33627,6 +33631,7 @@
       "rating": 1,
       "scryfallId": "091eb13d-9318-4b12-9f94-6276b11981d1",
       "effects": [
+        "Filter",
         "Buff"
       ],
       "reviewedAt": "2026-11-10T17:52:41.1829163+00:00"
@@ -36819,8 +36824,7 @@
       "rating": 1,
       "scryfallId": "8ebf2a25-9bee-4146-af83-f22aab6db2a8",
       "effects": [
-        "Removal",
-        "Burn"
+        "Removal"
       ],
       "reviewedAt": "2026-10-09T14:45:42.9926891+00:00"
     },
@@ -41704,6 +41708,7 @@
       "rating": 1,
       "scryfallId": "d6fb3163-12ca-4a7f-a0c7-b8ddfc9408a0",
       "effects": [
+        "Filter",
         "Buff"
       ],
       "reviewedAt": "2026-11-11T20:51:55.9573959+00:00"
@@ -45444,7 +45449,8 @@
       "rating": 1,
       "scryfallId": "8ff0f47f-75cb-42b0-ba4d-78522cad9861",
       "effects": [
-        "Tokens"
+        "Tokens",
+        "Filter"
       ],
       "reviewedAt": "2026-11-12T13:51:27.7121198+00:00"
     },
@@ -53969,9 +53975,7 @@
       "name": "Leaf-Crowned Visionary",
       "rating": 1,
       "scryfallId": "aa7bd814-9f88-4e01-932d-07ac1abc060e",
-      "effects": [
-        "CardAdvantage"
-      ],
+      "effects": [],
       "reviewedAt": "2026-10-10T19:46:23.271381+00:00"
     },
     "adff8c13-8909-47d0-acad-ba63597f2e96": {
@@ -67494,7 +67498,9 @@
       "name": "Overgrown Arch",
       "rating": 1,
       "scryfallId": "a71dddf5-8f72-4018-9cc8-5f63a17f1ee5",
-      "effects": [],
+      "effects": [
+        "Filter"
+      ],
       "reviewedAt": "2026-11-11T20:56:52.3499627+00:00"
     },
     "4d52c4a5-e5c8-4fb4-be50-78d5482dd1ae": {
@@ -71715,7 +71721,9 @@
       "name": "Professor of Symbology",
       "rating": 1,
       "scryfallId": "f427cf73-9f5e-4ef5-bc4f-29ffbfda9d57",
-      "effects": [],
+      "effects": [
+        "Filter"
+      ],
       "reviewedAt": "2026-11-12T09:52:06.1669243+00:00"
     },
     "b749e9e4-0f2a-4157-8cca-facd6b48157f": {
@@ -74592,8 +74600,7 @@
       "rating": 1,
       "scryfallId": "2be38927-637b-4dce-b228-83ce4f50c4a4",
       "effects": [
-        "Removal",
-        "Burn"
+        "Removal"
       ],
       "reviewedAt": "2026-10-26T21:45:16.4152723+00:00"
     },
@@ -76529,7 +76536,9 @@
       "name": "Retriever Phoenix",
       "rating": 1,
       "scryfallId": "4dd6cb53-3c82-4ac3-be1e-311322729198",
-      "effects": [],
+      "effects": [
+        "Filter"
+      ],
       "reviewedAt": "2026-11-10T18:10:40.3945666+00:00"
     },
     "058dae67-807e-4542-ae51-f2b1216ffaed": {
@@ -77447,7 +77456,8 @@
       "rating": 1,
       "scryfallId": "bbf97a71-485e-4d47-98de-bdf6f6dae0c2",
       "effects": [
-        "Removal"
+        "Removal",
+        "Filter"
       ],
       "reviewedAt": "2026-11-12T07:46:45.5095486+00:00"
     },
@@ -78627,9 +78637,7 @@
       "name": "Rose Noble",
       "rating": 1,
       "scryfallId": "39edd98a-2ee9-4799-9194-5b5a3efb6255",
-      "effects": [
-        "CardAdvantage"
-      ],
+      "effects": [],
       "reviewedAt": "2026-10-26T21:44:01.2949852+00:00"
     },
     "d73f02e0-53fa-4437-ab3a-89a9a1db27c5": {
@@ -85032,7 +85040,9 @@
       "name": "Shrink",
       "rating": 1,
       "scryfallId": "30785867-32f7-46c9-94c2-775078e792ae",
-      "effects": [],
+      "effects": [
+        "Pacify"
+      ],
       "reviewedAt": "2026-09-05T08:12:07.0062876+00:00"
     },
     "e0cebb09-d10d-4b70-96be-82df0e5d52d3": {
@@ -92629,6 +92639,7 @@
       "rating": 1,
       "scryfallId": "ef7cd813-0781-4fd7-8748-2716e1eeb4b9",
       "effects": [
+        "Filter",
         "Pacify"
       ],
       "reviewedAt": "2026-11-10T18:14:21.9320918+00:00"
@@ -94919,7 +94930,9 @@
       "name": "Tanuki Transplanter",
       "rating": 1,
       "scryfallId": "45ea5ead-9fd8-4909-96aa-d4e970891c93",
-      "effects": [],
+      "effects": [
+        "Ramp"
+      ],
       "reviewedAt": "2026-11-03T15:31:51.2689379+00:00"
     },
     "960b1251-12af-4766-8df1-bb98e7e967f5": {

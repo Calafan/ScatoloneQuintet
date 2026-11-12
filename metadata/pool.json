@@ -2618,7 +2618,9 @@
       "name": "Brazen Collector",
       "rating": 3,
       "scryfallId": "78b55a58-c669-4dc6-aa63-5d9dff52e613",
-      "effects": [],
+      "effects": [
+        "Ramp"
+      ],
       "reviewedAt": "2026-10-06T07:23:28.6505467+00:00"
     },
     "ebbd5b9c-07ff-4b42-81c2-ba09539f3a42": {
@@ -5824,7 +5826,8 @@
       "scryfallId": "1958d96e-ec44-48ab-80b1-5b01a24ac7b8",
       "effects": [
         "Counter",
-        "Bounce"
+        "Bounce",
+        "Filter"
       ],
       "reviewedAt": "2026-11-11T20:48:46.5740326+00:00"
     },
@@ -6068,7 +6071,9 @@
       "name": "Dream Strix",
       "rating": 3,
       "scryfallId": "31d82f7a-64f1-463f-bb6b-936c3e49bf2b",
-      "effects": [],
+      "effects": [
+        "Filter"
+      ],
       "reviewedAt": "2026-11-12T07:13:01.5215376+00:00"
     },
     "3c958b5f-680b-45fc-8c3d-27b23677436e": {
@@ -9417,7 +9422,9 @@
       "name": "Gnarled Professor",
       "rating": 4,
       "scryfallId": "a32338e8-1f6a-49b9-bd93-26578adab6b3",
-      "effects": [],
+      "effects": [
+        "Filter"
+      ],
       "reviewedAt": "2026-11-05T09:35:11.5322877+00:00"
     },
     "60186579-285b-4034-a782-431f79df5b07": {
@@ -10929,6 +10936,7 @@
       "scryfallId": "5781ad7b-dc1b-4cc1-9e72-6e714b9ba1de",
       "effects": [
         "Removal",
+        "Filter",
         "Burn"
       ],
       "reviewedAt": "2026-11-11T20:35:51.4700116+00:00"
@@ -21980,9 +21988,7 @@
       "name": "Surrak, Elusive Hunter",
       "rating": 5,
       "scryfallId": "e4775a26-0b66-40e9-8f64-41d9308ca032",
-      "effects": [
-        "CardAdvantage"
-      ],
+      "effects": [],
       "reviewedAt": "2026-09-10T15:23:51.0242142+00:00"
     },
     "119d719d-e965-45b4-9bc9-ac03211b10c2": {
