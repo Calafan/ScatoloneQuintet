@@ -3768,7 +3768,9 @@
       "name": "Apothecary Stomper",
       "rating": 1,
       "scryfallId": "680b7b0c-0e1b-46ce-9917-9fc6e05aa148",
-      "effects": [],
+      "effects": [
+        "Buff"
+      ],
       "reviewedAt": "2026-09-25T08:29:11.8659578+00:00"
     },
     "7bf8bb41-6f46-492c-b6cf-5cfb29f973a4": {
@@ -13304,6 +13306,7 @@
       "rating": 1,
       "scryfallId": "58b431d2-33c1-49d8-b45d-690c174bb456",
       "effects": [
+        "Buff",
         "Burn"
       ],
       "reviewedAt": "2026-11-03T15:37:05.1080673+00:00"

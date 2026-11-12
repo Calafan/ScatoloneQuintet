@@ -802,7 +802,8 @@
       "rating": 2,
       "scryfallId": "de1d02d1-91dc-47d6-bdbe-87602428abfb",
       "effects": [
-        "Tokens"
+        "Tokens",
+        "Buff"
       ],
       "reviewedAt": "2026-10-09T12:13:26.9116287+00:00"
     },
@@ -7733,7 +7734,8 @@
       "rating": 2,
       "scryfallId": "c08c7bf9-a2ed-45c6-8b48-15122d9d9e37",
       "effects": [
-        "Tokens"
+        "Tokens",
+        "Buff"
       ],
       "reviewedAt": "2026-09-25T07:41:38.6381768+00:00"
     },
