@@ -16,7 +16,8 @@ are done by [ScatoloneDownloader](https://github.com/Calafan/ScatoloneDownloader
 ScatoloneQuintet/
 ├── metadata/                 tracked: the source of truth
 │   ├── pool.json             rating 3–5, the cube itself
-│   ├── fringe.json           rating 1–2, evaluated and cut
+│   ├── bench.json            rating 2, cut but only just: the bench
+│   ├── fringe.json           rating 1, evaluated and rejected
 │   └── unrated.json          rating 0, the rest of the library
 ├── Source/                   not tracked: card images, <year>/<set>/<card>.png
 └── Views/                    not tracked: Cubo_Analysis.md, written by report
@@ -37,7 +38,7 @@ printing. No rating, status or tag exists only inside an image file.
 |---|---|---|---|
 | 0 | not evaluated yet | `unrated.json` | no |
 | 1 | rejected | `fringe.json` | no |
-| 2 | cut, but only just: the bench | `fringe.json` | its own appendix, to promote from |
+| 2 | cut, but only just: the bench | `bench.json` | its own appendix, to promote from |
 | 3–5 | in the cube | `pool.json` | every section |
 
 ## Statuses
