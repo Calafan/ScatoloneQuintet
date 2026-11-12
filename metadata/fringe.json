@@ -4056,7 +4056,7 @@
       "rating": 1,
       "scryfallId": "dc457520-9947-4f65-bbe7-9b95bd2c23af",
       "effects": [
-        "Filter"
+        "CardAdvantage"
       ]
     },
     "f5e3c26c-c28c-455f-a682-2597e4b92d10": {
@@ -64835,9 +64835,7 @@
       "name": "Nimana Skydancer",
       "rating": 1,
       "scryfallId": "e72eaa0f-cbec-45a1-b390-cbbedf5a02f2",
-      "effects": [
-        "Mill"
-      ]
+      "effects": []
     },
     "2f047fcb-c198-44ac-aa1e-31447f6c6aba": {
       "name": "Nimble Birdsticker",
@@ -65544,8 +65542,7 @@
       "rating": 1,
       "scryfallId": "f4eec210-5df0-4fb8-8eb1-e616d9995acc",
       "effects": [
-        "Tokens",
-        "Buff"
+        "Tokens"
       ]
     },
     "04a0382f-7e4e-4450-ae70-18999379d875": {
@@ -71176,8 +71173,7 @@
       "rating": 1,
       "scryfallId": "04dc842c-3250-44ed-906c-38f14bf1f0e2",
       "effects": [
-        "CardAdvantage",
-        "Mill"
+        "CardAdvantage"
       ]
     },
     "250f8642-9754-48fd-8f09-70ed13d7a42c": {
@@ -93786,7 +93782,9 @@
       "name": "Swarming Goblins",
       "rating": 1,
       "scryfallId": "623c1d1b-69a4-4bc4-b388-17a7600fd960",
-      "effects": []
+      "effects": [
+        "Tokens"
+      ]
     },
     "c96402dc-1509-4136-bbfd-c86a85e3ee6f": {
       "name": "Swarming of Moria",
@@ -107999,7 +107997,7 @@
       "rating": 1,
       "scryfallId": "0b101b5e-d478-4686-b3cf-bdc545f089e5",
       "effects": [
-        "Removal"
+        "Wipe"
       ]
     },
     "2346be19-7344-4f11-be2c-a22750cb7e1d": {
@@ -110677,8 +110675,7 @@
       "rating": 1,
       "scryfallId": "f77b8e34-e7e9-4ac6-bc21-0ef52c6696c7",
       "effects": [
-        "Filter",
-        "Mill"
+        "Filter"
       ]
     },
     "f184e860-05c3-43cf-a625-ab53427406c5": {
@@ -112132,9 +112129,7 @@
       "name": "Zulaport Duelist",
       "rating": 1,
       "scryfallId": "0b4c7268-60c6-4038-8ce9-d9d51bed4577",
-      "effects": [
-        "Mill"
-      ]
+      "effects": []
     },
     "ae8773a3-05f2-4074-9a53-033b0c127235": {
       "name": "Zuo Ci, the Mocking Sage",

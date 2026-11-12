@@ -3707,7 +3707,8 @@
       "rating": 0,
       "scryfallId": "b260fbe1-21cb-4a66-aca3-e504b67ed712",
       "effects": [
-        "Tokens"
+        "Tokens",
+        "Sacrifice"
       ]
     },
     "ad6bdd24-5a32-4046-83ee-2fe51bf8bb7a": {
@@ -9211,7 +9212,9 @@
       "name": "Bloom Tender",
       "rating": 0,
       "scryfallId": "d7cc2828-dfe7-410b-9735-10bb7211f0f5",
-      "effects": []
+      "effects": [
+        "Ramp"
+      ]
     },
     "b7040175-7411-43a8-9b46-dba1d7c2135d": {
       "name": "Bloombrute",
@@ -21902,8 +21905,7 @@
       "effects": [
         "Removal",
         "Counter",
-        "Filter",
-        "Mill"
+        "Filter"
       ]
     },
     "62f834c7-4765-4b6f-812c-7ce14e13ea0d": {
@@ -23353,7 +23355,6 @@
       "scryfallId": "c8aa5179-475b-4cc8-b21e-205b475eb4cf",
       "effects": [
         "Tokens",
-        "Buff",
         "ManaFixing"
       ]
     },
@@ -28416,8 +28417,7 @@
       "rating": 0,
       "scryfallId": "dcaac75b-877b-4992-8cfe-c7af7c9b031b",
       "effects": [
-        "Reanimate",
-        "Mill"
+        "Reanimate"
       ]
     },
     "1fb5c014-9366-4f9e-9728-303ff766002b": {
@@ -28449,7 +28449,8 @@
       "rating": 0,
       "scryfallId": "b6867ddd-f953-41c6-ba36-86ae2c14c908",
       "effects": [
-        "Tokens"
+        "Tokens",
+        "Sacrifice"
       ]
     },
     "f8c0c555-c750-4842-8924-d634206bbb81": {
@@ -28846,7 +28847,6 @@
       "rating": 0,
       "scryfallId": "799ed076-4724-47bb-94a0-11b42a9826eb",
       "effects": [
-        "Reanimate",
         "Protection"
       ]
     },
@@ -41385,8 +41385,7 @@
       "rating": 0,
       "scryfallId": "d134385d-b01c-41c7-bb2d-30722b44dc5a",
       "effects": [
-        "Tokens",
-        "Buff"
+        "Tokens"
       ]
     },
     "2554a591-8592-4a9f-a4dc-eb9a7e6dc3eb": {
@@ -41970,8 +41969,7 @@
       "rating": 0,
       "scryfallId": "27ff5fbd-7ce8-4188-8228-0eab0d69a7a1",
       "effects": [
-        "Discard",
-        "Mill"
+        "Discard"
       ]
     },
     "6de20c2c-b8a8-4f12-897b-a2f55d7eed87": {
@@ -49757,9 +49755,7 @@
       "name": "Lammastide Weave",
       "rating": 0,
       "scryfallId": "667fd7ab-de75-48e7-8d4b-a96130ae4666",
-      "effects": [
-        "Mill"
-      ]
+      "effects": []
     },
     "a88c5540-a242-49bc-a725-39b9fda085c3": {
       "name": "Lamplighter of Selhoff",
@@ -54684,7 +54680,8 @@
       "rating": 0,
       "scryfallId": "143af295-040d-400e-ae23-59abd2f88e11",
       "effects": [
-        "Removal"
+        "Removal",
+        "Pacify"
       ]
     },
     "e64efd0d-3de3-42e2-949e-4a152d08def8": {
@@ -55530,9 +55527,7 @@
       "name": "Merrow Witsniper",
       "rating": 0,
       "scryfallId": "d5b4e77f-012f-47f4-8b44-930148250b1d",
-      "effects": [
-        "Mill"
-      ]
+      "effects": []
     },
     "8f4b8a19-72f4-48ed-ac05-62a7c7525797": {
       "name": "Mesa Enchantress",
@@ -62618,7 +62613,8 @@
       "rating": 0,
       "scryfallId": "623e57ed-7ed7-4283-b48f-77ecacad70b0",
       "effects": [
-        "Tokens"
+        "Tokens",
+        "Sacrifice"
       ]
     },
     "c1c5f9da-1396-4406-b803-b64f66b8e49d": {
@@ -64723,7 +64719,9 @@
       "name": "Perfected Theory",
       "rating": 0,
       "scryfallId": "d0ecae06-bc5a-4886-84df-c2900816f226",
-      "effects": []
+      "effects": [
+        "Buff"
+      ]
     },
     "d552f5cb-19b6-4def-90d5-6d2d9570f93d": {
       "name": "Perilous Forays",
@@ -65416,8 +65414,7 @@
       "rating": 0,
       "scryfallId": "3475fcc6-ee53-48da-89d2-80685a584e6a",
       "effects": [
-        "CardAdvantage",
-        "Mill"
+        "CardAdvantage"
       ]
     },
     "61017a67-653c-4f75-9ec3-22d2149340a8": {
@@ -67658,8 +67655,7 @@
       "rating": 0,
       "scryfallId": "0d87927c-80a6-4146-92a5-58c510ce7958",
       "effects": [
-        "Counter",
-        "Mill"
+        "Counter"
       ]
     },
     "e5128230-3535-4f77-8b97-20d0791e7b1d": {
@@ -87510,7 +87506,9 @@
       "name": "Surveyor's Scope",
       "rating": 0,
       "scryfallId": "07a2e39d-037a-464e-9102-f06feebefaf9",
-      "effects": []
+      "effects": [
+        "Ramp"
+      ]
     },
     "5fb8be5a-3666-4680-84e2-341cb269df07": {
       "name": "Survival Cache",
@@ -91346,9 +91344,7 @@
       "name": "Thought Scour",
       "rating": 0,
       "scryfallId": "88bf1ebb-9d85-4b9b-a614-c7f965c0893d",
-      "effects": [
-        "Mill"
-      ]
+      "effects": []
     },
     "9965d9c5-2ebf-4a6c-930e-55c5890979be": {
       "name": "Thought Vessel",
@@ -97720,8 +97716,7 @@
       "scryfallId": "b1939952-608e-4786-beeb-a6ff0fa36624",
       "effects": [
         "Discard",
-        "Burn",
-        "Mill"
+        "Burn"
       ]
     },
     "9707ac4f-6493-47fe-9c31-4daf469b5c6e": {
@@ -101789,8 +101784,7 @@
       "rating": 0,
       "scryfallId": "f2718457-1e3b-48bc-99fe-2300277ee1e0",
       "effects": [
-        "Bounce",
-        "Mill"
+        "Bounce"
       ]
     },
     "9969b822-2ead-4956-bac2-875ffd90e872": {
@@ -101871,7 +101865,9 @@
       "name": "Wings of Velis Vel",
       "rating": 0,
       "scryfallId": "fb3c1f39-b6ac-4663-9623-bd573a1117b0",
-      "effects": []
+      "effects": [
+        "Buff"
+      ]
     },
     "73c0a809-fb0e-4773-a385-a6e32feb03cd": {
       "name": "Wings of the Guard",

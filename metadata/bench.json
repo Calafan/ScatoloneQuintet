@@ -452,7 +452,7 @@
       "rating": 2,
       "scryfallId": "9ab520b7-ad87-4c8e-a454-5c022e378564",
       "effects": [
-        "Filter"
+        "CardAdvantage"
       ]
     },
     "792f8235-f23b-4858-bdd4-c7a186b7a470": {
@@ -6876,7 +6876,9 @@
       "name": "Octavia, Living Thesis",
       "rating": 2,
       "scryfallId": "eb5e63cc-eb4f-40c6-b298-99cb8fe8585f",
-      "effects": []
+      "effects": [
+        "Buff"
+      ]
     },
     "00ba0c24-a671-493e-ba46-13e45d1818f1": {
       "name": "Ogre Battlecaster",

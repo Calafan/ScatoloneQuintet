@@ -9251,8 +9251,7 @@
       "rating": 3,
       "scryfallId": "381d84d6-7b34-44cb-a697-54b835ba1281",
       "effects": [
-        "Pacify",
-        "Mill"
+        "Pacify"
       ]
     },
     "295a831c-490e-42ba-afc1-dab3524a4f0c": {
@@ -13781,8 +13780,7 @@
       "rating": 3,
       "scryfallId": "0683d586-a54b-425a-a24d-2efb2342f150",
       "effects": [
-        "Discard",
-        "Mill"
+        "Discard"
       ]
     },
     "8dd473c7-afd9-40f1-bb8e-0a00f4687318": {
@@ -22570,7 +22568,8 @@
       "rating": 4,
       "scryfallId": "9c0c61e3-9f3d-4e7f-9046-0ea336dd8a2d",
       "effects": [
-        "Filter"
+        "Filter",
+        "Pacify"
       ]
     },
     "58ebaaba-7e35-4588-9679-23b22e39789b": {
