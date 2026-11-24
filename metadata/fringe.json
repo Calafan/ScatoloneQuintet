@@ -9722,7 +9722,9 @@
       "name": "Blight",
       "rating": 1,
       "scryfallId": "9ca19b39-4201-463c-bd40-fbffa31c9eda",
-      "effects": [],
+      "effects": [
+        "LandDestruction"
+      ],
       "reviewedAt": "2026-09-04T14:49:23.9673271+00:00"
     },
     "c4fe854e-8783-492e-bb2e-9f242ada8a5b": {
@@ -30076,7 +30078,9 @@
       "name": "Erosion",
       "rating": 1,
       "scryfallId": "5f4b6507-89ee-482e-aafd-8e05ada8f1ce",
-      "effects": [],
+      "effects": [
+        "LandDestruction"
+      ],
       "reviewedAt": "2026-09-04T15:09:47.5249463+00:00"
     },
     "977f0d8d-4359-44ae-8f22-2103ea909c40": {
@@ -53316,7 +53320,9 @@
       "name": "Kudzu",
       "rating": 1,
       "scryfallId": "b2b72dcd-9ea1-4729-baae-ecd262fdff67",
-      "effects": [],
+      "effects": [
+        "LandDestruction"
+      ],
       "reviewedAt": "2026-09-04T14:11:57.8405284+00:00"
     },
     "280148c5-3a2f-48f7-a147-4578f2068073": {
