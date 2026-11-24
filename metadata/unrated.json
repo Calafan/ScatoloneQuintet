@@ -2644,7 +2644,8 @@
       "rating": 0,
       "scryfallId": "90dad070-e41d-419b-ae27-ace82b9ab2c5",
       "effects": [
-        "Protection"
+        "Protection",
+        "Pacify"
       ]
     },
     "f888f3ba-8316-4c10-bf97-873731f7d364": {
@@ -3804,7 +3805,9 @@
       "name": "Archangel of Tithes",
       "rating": 0,
       "scryfallId": "1af50bf1-c51e-4592-86bf-4197ec85a45d",
-      "effects": []
+      "effects": [
+        "Pacify"
+      ]
     },
     "fc734a75-93bf-448b-b347-810ae835fe49": {
       "name": "Archangel's Light",
@@ -3948,7 +3951,9 @@
       "name": "Archon of Absolution",
       "rating": 0,
       "scryfallId": "684ca60c-7ed4-49e1-b54a-91d129539375",
-      "effects": []
+      "effects": [
+        "Pacify"
+      ]
     },
     "d551931d-4ebe-4acc-9e87-6c628897071a": {
       "name": "Archon of Justice",
@@ -6132,7 +6137,9 @@
       "name": "Baird, Steward of Argive",
       "rating": 0,
       "scryfallId": "d1a9594e-edc9-42b2-ba8a-8298da9441fb",
-      "effects": []
+      "effects": [
+        "Pacify"
+      ]
     },
     "93d7f6e7-b6b0-48f3-891a-73970826af3b": {
       "name": "Bajor",
@@ -16565,7 +16572,8 @@
       "rating": 0,
       "scryfallId": "e225929b-6197-4550-969e-3c4a97206a68",
       "effects": [
-        "Protection"
+        "Protection",
+        "Pacify"
       ]
     },
     "653de668-beb0-4be7-bb05-30de5f52a3f1": {
@@ -22767,7 +22775,9 @@
       "name": "Diminish",
       "rating": 0,
       "scryfallId": "298a8e4c-2bcf-4302-bef8-f126fe865f08",
-      "effects": []
+      "effects": [
+        "Pacify"
+      ]
     },
     "378a1d57-e2f1-4b84-9692-1564602e9e99": {
       "name": "Dimir Aqueduct",
@@ -32886,7 +32896,9 @@
       "name": "Forbidding Spirit",
       "rating": 0,
       "scryfallId": "c17056e7-95c6-4bed-a747-3b40dcda275a",
-      "effects": []
+      "effects": [
+        "Pacify"
+      ]
     },
     "4770ec88-bc7b-457e-8f67-ae46e2cf4caa": {
       "name": "Force Away",
@@ -53726,7 +53738,8 @@
       "scryfallId": "d568323c-b631-48b6-b6da-4dc29d330a12",
       "effects": [
         "Removal",
-        "Protection"
+        "Protection",
+        "Pacify"
       ]
     },
     "6f83da19-fd89-44ec-88f3-0c3fddfbd1b2": {
@@ -58922,7 +58935,8 @@
       "rating": 0,
       "scryfallId": "7e776fe0-6574-4fca-91bd-eb6e7383e5be",
       "effects": [
-        "Protection"
+        "Protection",
+        "Pacify"
       ]
     },
     "a084b37a-bfb2-4dde-9faa-4c55ad894300": {
@@ -63152,7 +63166,9 @@
       "name": "Norn's Annex",
       "rating": 0,
       "scryfallId": "a64073f2-99f5-4dc7-9403-e7cb94ce0e60",
-      "effects": []
+      "effects": [
+        "Pacify"
+      ]
     },
     "b408c345-b308-4920-8494-4f204d856aa3": {
       "name": "North Wind Avatar",
@@ -65529,7 +65545,8 @@
       "scryfallId": "a293db52-49f2-4a9c-8ee0-054d994b7299",
       "effects": [
         "Removal",
-        "Protection"
+        "Protection",
+        "Pacify"
       ]
     },
     "43feb61f-5de0-41b6-b678-9785c476dc08": {
@@ -66898,7 +66915,7 @@
       "rating": 0,
       "scryfallId": "d0ecae06-bc5a-4886-84df-c2900816f226",
       "effects": [
-        "Buff"
+        "Pacify"
       ]
     },
     "d552f5cb-19b6-4def-90d5-6d2d9570f93d": {
@@ -75795,7 +75812,8 @@
       "rating": 0,
       "scryfallId": "dfd7e77a-bfc0-4d8c-b6fd-a190d9ecf3cf",
       "effects": [
-        "Protection"
+        "Protection",
+        "Pacify"
       ]
     },
     "d870948e-721a-46fd-86b6-ecd42e3aa9bd": {
@@ -83246,9 +83264,7 @@
       "name": "Skinshifter",
       "rating": 0,
       "scryfallId": "d56c82ad-5eb1-4653-8f02-e9bb1f6f3154",
-      "effects": [
-        "Pacify"
-      ]
+      "effects": []
     },
     "100c877d-4cce-4b96-8f21-a4f8a43e7d84": {
       "name": "Skinwing",
@@ -84426,7 +84442,9 @@
       "name": "Snakeform",
       "rating": 0,
       "scryfallId": "7d96d4f2-7f19-4687-927a-5b840254a4f9",
-      "effects": []
+      "effects": [
+        "Pacify"
+      ]
     },
     "e88de17c-086d-4e2a-b5b2-2f9f57ca7c0f": {
       "name": "Snapback",
@@ -86025,7 +86043,9 @@
       "name": "Sphere of Safety",
       "rating": 0,
       "scryfallId": "ce3bd0d8-7e44-4cf2-9012-8ff0bc39417f",
-      "effects": []
+      "effects": [
+        "Pacify"
+      ]
     },
     "7c709413-dacf-48af-8ac9-8f61b2699bf1": {
       "name": "Sphere of the Suns",
@@ -97784,14 +97804,17 @@
       "name": "Turn to Frog",
       "rating": 0,
       "scryfallId": "b43d9a1e-0767-4a9b-81b4-4ff2f3dde1d5",
-      "effects": []
+      "effects": [
+        "Pacify"
+      ]
     },
     "631f04d6-5693-4414-a378-fd839c3b6f6d": {
       "name": "Turn to Mist",
       "rating": 0,
       "scryfallId": "75a62b31-986c-4722-97da-d984272f0f05",
       "effects": [
-        "Protection"
+        "Protection",
+        "Pacify"
       ]
     },
     "4339f621-8502-4433-a37a-654591ca1b43": {
@@ -102067,7 +102090,9 @@
       "name": "Vizier of Deferment",
       "rating": 0,
       "scryfallId": "2684f2e5-e3f9-4277-94a1-aba6913ac53b",
-      "effects": []
+      "effects": [
+        "Pacify"
+      ]
     },
     "55bceb83-bbba-477f-98ce-6e0a80b91080": {
       "name": "Vizier of Many Faces",
@@ -102636,7 +102661,8 @@
       "scryfallId": "76554c65-edea-48b0-b3a5-483dfe80eaac",
       "effects": [
         "Removal",
-        "Protection"
+        "Protection",
+        "Pacify"
       ]
     },
     "bce18f34-848e-4dd2-9a38-6084c0695f78": {
@@ -103547,9 +103573,7 @@
       "name": "Warkite Marauder",
       "rating": 0,
       "scryfallId": "802ff9cf-f739-40cb-8974-77f6850150eb",
-      "effects": [
-        "Pacify"
-      ]
+      "effects": []
     },
     "b1ea88f5-162b-4f08-bec3-be1f06dec392": {
       "name": "Warleader's Helix",
@@ -104770,7 +104794,8 @@
       "rating": 0,
       "scryfallId": "5d27ddec-716d-47e5-ac48-365e91b88ff1",
       "effects": [
-        "Protection"
+        "Protection",
+        "Pacify"
       ]
     },
     "a317d5f4-a998-4f72-b080-5345bc7cc668": {

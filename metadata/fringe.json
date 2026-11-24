@@ -5584,7 +5584,9 @@
       "name": "Astral Slide",
       "rating": 1,
       "scryfallId": "d14993b6-ed8d-4b9b-b54c-2837b343a61e",
-      "effects": []
+      "effects": [
+        "Pacify"
+      ]
     },
     "ef8ac291-3789-4147-a11f-c62fd8566dbe": {
       "name": "Astral Steel",
