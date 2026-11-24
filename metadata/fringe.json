@@ -13036,7 +13036,9 @@
       "name": "Cabal Executioner",
       "rating": 1,
       "scryfallId": "cd7727a7-0cdf-4fd5-82b4-e6587c10ca80",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "2fc19fa3-c6c2-42c0-85fa-8d13e1baa145": {
       "name": "Cabal Initiate",
