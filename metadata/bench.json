@@ -1717,6 +1717,7 @@
         "Removal",
         "CardAdvantage",
         "Filter",
+        "Burn",
         "Sacrifice"
       ],
       "reviewedAt": "2026-10-16T09:51:26.071335+00:00"
@@ -3528,8 +3529,7 @@
       "rating": 2,
       "scryfallId": "f235060a-eb49-4a73-bb5f-01228c3c4070",
       "effects": [
-        "Ramp",
-        "Filter"
+        "Ramp"
       ],
       "reviewedAt": "2026-11-13T11:40:27.7711673+00:00"
     },
@@ -9243,7 +9243,6 @@
       "rating": 2,
       "scryfallId": "68f90f57-94a0-4ee1-9383-093e8fca52ea",
       "effects": [
-        "Discard",
         "ManaFixing"
       ],
       "reviewedAt": "2026-09-12T10:31:29.5768474+00:00"

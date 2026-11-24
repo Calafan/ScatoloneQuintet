@@ -393,7 +393,8 @@
       "rating": 4,
       "scryfallId": "edbf9d4f-6027-40b8-81c1-7f001a9119dd",
       "effects": [
-        "Bounce"
+        "Bounce",
+        "Protection"
       ],
       "reviewedAt": "2026-11-13T13:24:02.6223113+00:00"
     },
@@ -5878,8 +5879,7 @@
       "scryfallId": "1958d96e-ec44-48ab-80b1-5b01a24ac7b8",
       "effects": [
         "Counter",
-        "Bounce",
-        "Filter"
+        "Bounce"
       ],
       "reviewedAt": "2026-11-13T11:37:22.273778+00:00"
     },
@@ -6123,9 +6123,7 @@
       "name": "Dream Strix",
       "rating": 3,
       "scryfallId": "31d82f7a-64f1-463f-bb6b-936c3e49bf2b",
-      "effects": [
-        "Filter"
-      ],
+      "effects": [],
       "reviewedAt": "2026-11-13T13:24:04.6863347+00:00"
     },
     "3c958b5f-680b-45fc-8c3d-27b23677436e": {
@@ -11375,7 +11373,8 @@
       "rating": 3,
       "scryfallId": "80f649bb-b163-44ae-801f-8884143c407f",
       "effects": [
-        "Wipe"
+        "Wipe",
+        "Filter"
       ],
       "reviewedAt": "2026-10-09T10:01:10.7026648+00:00"
     },
@@ -20315,7 +20314,7 @@
       "rating": 4,
       "scryfallId": "434a43a4-cd03-4ddf-8e36-edff02be33b2",
       "effects": [
-        "Removal"
+        "Bounce"
       ],
       "reviewedAt": "2026-10-11T19:27:32.859592+00:00"
     },
@@ -20970,7 +20969,6 @@
       "rating": 3,
       "scryfallId": "ab7c80d3-3e0c-4510-9ed0-bb9fe39d838f",
       "effects": [
-        "Filter",
         "Buff"
       ],
       "reviewedAt": "2026-11-13T11:32:30.7232123+00:00"
@@ -21174,7 +21172,9 @@
       "name": "Spinner of Souls",
       "rating": 4,
       "scryfallId": "f50a8dec-b079-4192-9098-6cdc1026c693",
-      "effects": [],
+      "effects": [
+        "CardAdvantage"
+      ],
       "reviewedAt": "2026-09-25T10:43:15.2598825+00:00"
     },
     "e0935a0f-7087-40cd-a094-89f200da6ef0": {
