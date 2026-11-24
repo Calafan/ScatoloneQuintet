@@ -90970,7 +90970,9 @@
       "name": "Spreading Algae",
       "rating": 1,
       "scryfallId": "20cfc00e-180c-4277-8911-43afa691b9d7",
-      "effects": []
+      "effects": [
+        "LandDestruction"
+      ]
     },
     "6c134ef7-5c2f-4e4c-ae40-ef338fbf41e6": {
       "name": "Spreading Plague",
@@ -91961,7 +91963,9 @@
       "name": "Steam Vines",
       "rating": 1,
       "scryfallId": "d3936053-b2ed-49b8-ab69-fe47a972cfe4",
-      "effects": []
+      "effects": [
+        "LandDestruction"
+      ]
     },
     "8cbc0fa4-4f62-47e1-90dc-c21d2682a493": {
       "name": "Steamclaw",
@@ -103590,7 +103594,9 @@
       "name": "Uncontrolled Infestation",
       "rating": 1,
       "scryfallId": "d9ead6c3-a4e9-43e0-ae2a-6eb73033bc49",
-      "effects": []
+      "effects": [
+        "LandDestruction"
+      ]
     },
     "998d8d8a-743d-43f9-8e9b-42460f170243": {
       "name": "Unctus's Retrofitter",

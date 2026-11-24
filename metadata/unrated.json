@@ -68455,7 +68455,8 @@
       "rating": 0,
       "scryfallId": "0911fb8b-d27a-4afc-9114-212f3e090393",
       "effects": [
-        "Burn"
+        "Burn",
+        "LandDestruction"
       ]
     },
     "66442396-f804-47f3-8daa-0d43d8cfb482": {
