@@ -3530,8 +3530,7 @@
       "scryfallId": "f235060a-eb49-4a73-bb5f-01228c3c4070",
       "effects": [
         "Ramp"
-      ],
-      "reviewedAt": "2026-11-13T11:40:27.7711673+00:00"
+      ]
     },
     "d09c9cba-fdd2-479b-ad5d-d05181c3e3f9": {
       "name": "Fierce Guardianship",
@@ -9244,8 +9243,7 @@
       "scryfallId": "68f90f57-94a0-4ee1-9383-093e8fca52ea",
       "effects": [
         "ManaFixing"
-      ],
-      "reviewedAt": "2026-09-12T10:31:29.5768474+00:00"
+      ]
     },
     "19f3ec61-f334-4708-ad93-04ebe15c1798": {
       "name": "Spell Snuff",

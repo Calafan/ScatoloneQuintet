@@ -444,8 +444,7 @@
       "name": "Academic Dispute",
       "rating": 1,
       "scryfallId": "4620cc3b-e401-4096-b310-fed080806344",
-      "effects": [],
-      "reviewedAt": "2026-11-13T13:47:33.0384834+00:00"
+      "effects": []
     },
     "400b2e17-ee48-4e22-a8a6-a607c215d1a2": {
       "name": "Academic Probation",
@@ -4107,8 +4106,7 @@
       "name": "Arcane Subtraction",
       "rating": 1,
       "scryfallId": "68cdb00c-ea86-4b72-8f62-570820edfa1b",
-      "effects": [],
-      "reviewedAt": "2026-11-13T13:21:48.598476+00:00"
+      "effects": []
     },
     "0b633017-bfdf-47cd-a60f-c93816b47e9c": {
       "name": "Arcane Teachings",
@@ -5429,8 +5427,7 @@
       "effects": [
         "Filter",
         "Burn"
-      ],
-      "reviewedAt": "2026-10-23T06:19:46.0475361+00:00"
+      ]
     },
     "826274fd-9831-4122-a5d9-0d1caa3d3a85": {
       "name": "Assassin Den",
@@ -19664,8 +19661,7 @@
       "name": "Cram Session",
       "rating": 1,
       "scryfallId": "c59a249f-35ed-447a-845b-32ba5a53124e",
-      "effects": [],
-      "reviewedAt": "2026-11-13T13:21:00.284213+00:00"
+      "effects": []
     },
     "1e847d69-e527-4bb9-a624-17c25ac4fed4": {
       "name": "Cramped Vents // Access Maze",
@@ -29817,8 +29813,7 @@
       "scryfallId": "543c64ff-2c51-4a63-a940-dc8645717c85",
       "effects": [
         "Buff"
-      ],
-      "reviewedAt": "2026-11-13T12:01:07.0193607+00:00"
+      ]
     },
     "c9db5293-4866-46ec-9ae8-059d27bd50fc": {
       "name": "Entity Tracker",
@@ -33859,8 +33854,7 @@
       "scryfallId": "091eb13d-9318-4b12-9f94-6276b11981d1",
       "effects": [
         "Buff"
-      ],
-      "reviewedAt": "2026-11-13T11:24:49.370704+00:00"
+      ]
     },
     "f664596a-9ad1-4db3-95b0-457698ad2f66": {
       "name": "First Sliver's Chosen",
@@ -41991,8 +41985,7 @@
       "scryfallId": "d6fb3163-12ca-4a7f-a0c7-b8ddfc9408a0",
       "effects": [
         "Buff"
-      ],
-      "reviewedAt": "2026-11-13T13:02:08.4634175+00:00"
+      ]
     },
     "aceac269-5100-428a-a4a3-bac57031e30b": {
       "name": "Guild Artisan",
@@ -45510,8 +45503,7 @@
       "effects": [
         "CardAdvantage",
         "ManaFixing"
-      ],
-      "reviewedAt": "2026-09-12T09:54:49.3356994+00:00"
+      ]
     },
     "64399663-2c1e-447e-a3ed-c49ebd9f2231": {
       "name": "Hoverstone Pilgrim",
@@ -45774,8 +45766,7 @@
       "scryfallId": "8ff0f47f-75cb-42b0-ba4d-78522cad9861",
       "effects": [
         "Tokens"
-      ],
-      "reviewedAt": "2026-11-13T13:21:44.0870446+00:00"
+      ]
     },
     "698c9882-4117-4919-8a19-b1cbffc16692": {
       "name": "Hunted Wumpus",
@@ -50376,8 +50367,7 @@
       "scryfallId": "7f8f2d69-fba9-40e5-8ef7-75e14ef4070a",
       "effects": [
         "Protection"
-      ],
-      "reviewedAt": "2026-11-14T20:35:09.8630023+00:00"
+      ]
     },
     "1a846ad6-15c9-4bf9-9127-612018a557b9": {
       "name": "Judge Magister Gabranth",
@@ -51977,8 +51967,7 @@
       "effects": [
         "Filter",
         "Sacrifice"
-      ],
-      "reviewedAt": "2026-10-06T14:09:05.6637224+00:00"
+      ]
     },
     "1bf08ba0-4235-4dea-9722-ed991a3b6044": {
       "name": "Kethis, the Hidden Hand",
@@ -72242,8 +72231,7 @@
       "name": "Professor of Symbology",
       "rating": 1,
       "scryfallId": "f427cf73-9f5e-4ef5-bc4f-29ffbfda9d57",
-      "effects": [],
-      "reviewedAt": "2026-11-13T13:22:58.763201+00:00"
+      "effects": []
     },
     "b749e9e4-0f2a-4157-8cca-facd6b48157f": {
       "name": "Proft's Eidetic Memory",
@@ -78804,8 +78792,7 @@
       "scryfallId": "070df7db-bee4-456b-864e-69d493f09dc2",
       "effects": [
         "CardAdvantage"
-      ],
-      "reviewedAt": "2026-10-26T21:47:54.9978827+00:00"
+      ]
     },
     "504fac88-1674-4157-becb-0204ab8844bf": {
       "name": "Rohirrim Lancer",
@@ -80298,8 +80285,7 @@
       "scryfallId": "7f10c37d-d25a-47d6-83b0-dbe0a9cfc938",
       "effects": [
         "Filter"
-      ],
-      "reviewedAt": "2026-09-08T10:00:10.1710511+00:00"
+      ]
     },
     "fe8f5cc0-5849-437f-8d1f-cb191f2fc638": {
       "name": "Sacred Knight",
@@ -100834,8 +100820,7 @@
       "scryfallId": "2ab04c49-76a1-4896-8dca-8cb4c615f489",
       "effects": [
         "Filter"
-      ],
-      "reviewedAt": "2026-10-06T18:32:26.5602436+00:00"
+      ]
     },
     "d1559911-6621-4fd6-8b3e-16e82baf849e": {
       "name": "Tomakul Scrapsmith",
