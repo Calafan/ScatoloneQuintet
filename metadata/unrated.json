@@ -3052,7 +3052,9 @@
       "name": "Anowon, the Ruin Sage",
       "rating": 0,
       "scryfallId": "7b247681-1cf6-42a0-ad44-76261c690596",
-      "effects": []
+      "effects": [
+        "Removal"
+      ]
     },
     "50de88d4-0beb-45e5-9664-d4f0e280e652": {
       "name": "Ant Queen",
@@ -6070,7 +6072,7 @@
       "rating": 0,
       "scryfallId": "cc2287da-495a-4b48-9e4f-43792d3bccbb",
       "effects": [
-        "CardAdvantage"
+        "Filter"
       ]
     },
     "704aaf92-590f-46d3-8b39-4ab84e1c766d": {
@@ -6204,7 +6206,9 @@
       "name": "Balduvian Warlord",
       "rating": 0,
       "scryfallId": "a3286dbd-c8b8-45cb-98e4-d572289f2c14",
-      "effects": []
+      "effects": [
+        "Pacify"
+      ]
     },
     "195d1f2a-0d71-475b-9dd1-0c8efe64ad8f": {
       "name": "Balefang the Unslayable",
@@ -6447,7 +6451,8 @@
       "rating": 0,
       "scryfallId": "238d8437-1abd-4bb7-8b5b-54f959bc2c79",
       "effects": [
-        "Removal"
+        "Removal",
+        "Disenchant"
       ]
     },
     "567b676b-54f3-44c7-8654-4d2b0262ea12": {
@@ -14318,7 +14323,9 @@
       "name": "Changing Loyalty",
       "rating": 0,
       "scryfallId": "5c2e30d4-98ab-46a7-87ab-1c36c43ab34a",
-      "effects": []
+      "effects": [
+        "Protection"
+      ]
     },
     "4b3d1cfb-9f1d-4e4e-a15a-2e248ff5bdfc": {
       "name": "Channel Harm",
@@ -29072,6 +29079,7 @@
       "rating": 0,
       "scryfallId": "c27f3193-3083-409e-99d8-10f5b1afe9f1",
       "effects": [
+        "Filter",
         "Sacrifice"
       ]
     },
@@ -35889,9 +35897,7 @@
       "name": "Gideon's Intervention",
       "rating": 0,
       "scryfallId": "6e2524fb-ec90-4f8e-b851-f78034edef3f",
-      "effects": [
-        "Pacify"
-      ]
+      "effects": []
     },
     "bae86bb0-5a97-4f6a-8a3f-4e6848bfacc0": {
       "name": "Gideon's Lawkeeper",
@@ -42459,7 +42465,9 @@
       "name": "Hide // Seek",
       "rating": 0,
       "scryfallId": "ac347ec8-4537-4cdf-aeff-44da1f7be01b",
-      "effects": []
+      "effects": [
+        "Disenchant"
+      ]
     },
     "f1eafb69-e7c0-4a22-9e73-6bc32168a7c5": {
       "name": "Hideous End",
@@ -42974,7 +42982,9 @@
       "name": "Hollowhenge Spirit",
       "rating": 0,
       "scryfallId": "0b1be91a-cdec-4933-b834-0a7838abb9b8",
-      "effects": []
+      "effects": [
+        "Pacify"
+      ]
     },
     "4e1efd99-8bfc-4650-a430-a754578facbd": {
       "name": "Hollowsage",
@@ -47355,6 +47365,7 @@
       "rating": 0,
       "scryfallId": "425da4aa-4374-41b0-a665-568a04f57c38",
       "effects": [
+        "Filter",
         "Sacrifice"
       ]
     },
@@ -61246,7 +61257,9 @@
       "name": "Natural Obsolescence",
       "rating": 0,
       "scryfallId": "ff693e03-4cc6-4903-8fc4-388d23c2f92f",
-      "effects": []
+      "effects": [
+        "Disenchant"
+      ]
     },
     "f500f4cc-d5ee-4995-b7b5-96a5f63dfb47": {
       "name": "Natural State",
@@ -70773,7 +70786,9 @@
       "name": "Quarry Colossus",
       "rating": 0,
       "scryfallId": "d921128a-ebfd-4e3c-8728-481a8c3c03f3",
-      "effects": []
+      "effects": [
+        "Bounce"
+      ]
     },
     "a55bdb73-e17a-414d-b27f-dc53af2f345c": {
       "name": "Quarry Hauler",
@@ -71781,7 +71796,8 @@
       "scryfallId": "c52066b3-84dc-4198-8090-3336e7df8b5d",
       "effects": [
         "Removal",
-        "CardAdvantage"
+        "CardAdvantage",
+        "Burn"
       ]
     },
     "9d612686-2d7f-49a3-b9c4-1e99a30134f6": {
@@ -73832,7 +73848,9 @@
       "name": "Resolute Blademaster",
       "rating": 0,
       "scryfallId": "bea96f8d-0c57-448d-8145-51f9cca04432",
-      "effects": []
+      "effects": [
+        "Buff"
+      ]
     },
     "3d699db7-cc52-4ee3-947b-0ba291bf037a": {
       "name": "Resolute Survivors",
@@ -93953,8 +93971,7 @@
       "rating": 0,
       "scryfallId": "d0f0e463-9eed-4348-af7c-fde5f0d8188c",
       "effects": [
-        "Removal",
-        "Pacify"
+        "Removal"
       ]
     },
     "8d35c7c8-1342-40b7-82ec-2f7973ee8af8": {
@@ -95699,9 +95716,7 @@
       "name": "Titania, Rugged Rumbler",
       "rating": 0,
       "scryfallId": "c281e0ee-155b-4022-b921-ebc391535aad",
-      "effects": [
-        "Discard"
-      ]
+      "effects": []
     },
     "e8434c77-10df-4456-af27-acb95d624189": {
       "name": "Titanic Brawl",
@@ -99076,7 +99091,9 @@
       "name": "Unexpectedly Absent",
       "rating": 0,
       "scryfallId": "6dff437b-ef68-48f7-afd3-3b72d3c56187",
-      "effects": []
+      "effects": [
+        "Bounce"
+      ]
     },
     "18d16129-da25-4120-a343-64ce962abba2": {
       "name": "Unexplained Disappearance",
@@ -101855,7 +101872,7 @@
       "scryfallId": "846a0e79-a530-429e-8f7f-4b87f1b0156e",
       "effects": [
         "Tokens",
-        "CardAdvantage"
+        "Filter"
       ]
     },
     "c68964df-51ae-43b0-abea-74735016c13f": {
@@ -103320,7 +103337,9 @@
       "name": "War Machine, Avenging Arsenal",
       "rating": 0,
       "scryfallId": "8c62621f-20b2-4950-a74a-7c2e4fc02e54",
-      "effects": []
+      "effects": [
+        "Buff"
+      ]
     },
     "0a512e55-793e-4936-bd27-80d749f4657e": {
       "name": "War Machine, James Rhodes",
@@ -106812,7 +106831,9 @@
       "name": "Yuriko, Hope from the Shadows",
       "rating": 0,
       "scryfallId": "45e81487-8b8c-480b-922a-eaa9edc7201d",
-      "effects": []
+      "effects": [
+        "Pacify"
+      ]
     },
     "a7043fbd-1dfd-42cf-be4b-cc343d0949e5": {
       "name": "Yuriko, the Tiger's Shadow",

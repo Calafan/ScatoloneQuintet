@@ -77961,7 +77961,9 @@
       "name": "Riptide Shapeshifter",
       "rating": 1,
       "scryfallId": "85be34ac-7bc2-4da2-8d9c-2412b9946073",
-      "effects": []
+      "effects": [
+        "Filter"
+      ]
     },
     "10a64ae9-919f-4c04-8c8a-cce12554502c": {
       "name": "Riptide Survivor",
@@ -112592,9 +112594,7 @@
       "name": "Zhou Yu, Chief Commander",
       "rating": 1,
       "scryfallId": "6e2cf83b-417d-41ca-8e65-86aa65180c40",
-      "effects": [
-        "Pacify"
-      ]
+      "effects": []
     },
     "ce995d3f-be7c-4d2a-8ec4-c7f7f831f0bf": {
       "name": "Zhuge Jin, Wu Strategist",
