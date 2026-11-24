@@ -15541,7 +15541,9 @@
       "name": "Chandra's Incinerator",
       "rating": 1,
       "scryfallId": "ed875705-b7b6-4464-b16f-61629ffed04f",
-      "effects": [],
+      "effects": [
+        "Removal"
+      ],
       "reviewedAt": "2026-11-13T14:46:32.5495146+00:00"
     },
     "a2c4537e-70a6-416d-9e8b-f549ad535147": {
@@ -23229,7 +23231,9 @@
       "name": "Demon of Loathing",
       "rating": 1,
       "scryfallId": "57564f6f-7c99-4325-8a0e-22342e73767b",
-      "effects": [],
+      "effects": [
+        "Removal"
+      ],
       "reviewedAt": "2026-11-13T22:49:18.4651913+00:00"
     },
     "bf65a5f5-5536-4616-a09e-2416439c7bc6": {
@@ -98311,8 +98315,8 @@
       "rating": 1,
       "scryfallId": "dad7bd06-22e4-40f8-bda9-bcdbb2d8f632",
       "effects": [
-        "Removal",
-        "Buff"
+        "Buff",
+        "Pacify"
       ],
       "reviewedAt": "2026-10-08T14:00:33.7517806+00:00"
     },
