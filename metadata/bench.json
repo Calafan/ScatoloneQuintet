@@ -10861,7 +10861,8 @@
       "rating": 2,
       "scryfallId": "3050ac06-4c16-4155-a97f-f6bc92709ee4",
       "effects": [
-        "Removal"
+        "Removal",
+        "Pacify"
       ],
       "reviewedAt": "2026-09-23T10:59:44.4636981+00:00"
     },

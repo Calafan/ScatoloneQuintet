@@ -9110,7 +9110,8 @@
       "scryfallId": "69689049-a704-4f16-84ee-4d5d915028ec",
       "effects": [
         "Removal",
-        "Protection"
+        "Protection",
+        "Pacify"
       ],
       "reviewedAt": "2026-09-23T10:59:04.6075699+00:00"
     },
@@ -10467,7 +10468,8 @@
       "rating": 3,
       "scryfallId": "7977e448-01fa-4fa5-a275-0d6a1357b35c",
       "effects": [
-        "Protection"
+        "Protection",
+        "Pacify"
       ],
       "reviewedAt": "2026-09-11T21:21:29.1148515+00:00"
     },
@@ -11105,7 +11107,8 @@
       "rating": 3,
       "scryfallId": "74654ccb-c81c-4677-8c3d-cc5857ef0732",
       "effects": [
-        "Removal"
+        "Removal",
+        "Pacify"
       ],
       "reviewedAt": "2026-10-10T18:57:00.5539378+00:00"
     },
@@ -14952,7 +14955,8 @@
       "rating": 3,
       "scryfallId": "873f5d0c-7fee-4921-90d3-379c483e2882",
       "effects": [
-        "Buff"
+        "Buff",
+        "Pacify"
       ],
       "reviewedAt": "2026-11-13T13:02:52.7546843+00:00"
     },
@@ -16007,7 +16011,8 @@
       "scryfallId": "1086e826-94b8-4398-8a38-d8eacca56a43",
       "effects": [
         "Removal",
-        "Protection"
+        "Protection",
+        "Pacify"
       ],
       "reviewedAt": "2026-10-16T12:52:24.3328369+00:00"
     },
@@ -24119,7 +24124,8 @@
       "effects": [
         "Removal",
         "Disenchant",
-        "Protection"
+        "Protection",
+        "Pacify"
       ],
       "reviewedAt": "2026-10-10T19:36:57.3487533+00:00"
     },
@@ -24438,7 +24444,8 @@
       "rating": 4,
       "scryfallId": "043718ea-59f6-4d1a-94c5-271704c1a38a",
       "effects": [
-        "Protection"
+        "Protection",
+        "Pacify"
       ],
       "reviewedAt": "2026-10-09T12:21:51.0838834+00:00"
     },
@@ -24800,7 +24807,8 @@
         "Disenchant",
         "CardAdvantage",
         "Protection",
-        "Burn"
+        "Burn",
+        "Pacify"
       ],
       "reviewedAt": "2026-10-23T09:52:29.6734165+00:00"
     },

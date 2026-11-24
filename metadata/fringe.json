@@ -5575,7 +5575,8 @@
       "rating": 1,
       "scryfallId": "5be49ed9-a078-4a57-a84a-03cfaf184fef",
       "effects": [
-        "Protection"
+        "Protection",
+        "Pacify"
       ],
       "reviewedAt": "2026-10-20T19:42:58.8811469+00:00"
     },
@@ -9957,7 +9958,8 @@
       "rating": 1,
       "scryfallId": "217dfa26-d3ad-4fe8-9db4-ddd753a4b679",
       "effects": [
-        "Protection"
+        "Protection",
+        "Pacify"
       ],
       "reviewedAt": "2026-10-20T19:43:59.2490657+00:00"
     },
@@ -23866,7 +23868,9 @@
       "name": "Devoted Grafkeeper // Departed Soulkeeper",
       "rating": 1,
       "scryfallId": "965e6bd5-dc32-406c-bc99-ceb15be4d3f2",
-      "effects": [],
+      "effects": [
+        "Pacify"
+      ],
       "reviewedAt": "2026-11-06T15:46:42.634974+00:00"
     },
     "fff6f2d0-22b5-41d0-99dc-bc817c3bd166": {
@@ -60847,7 +60851,8 @@
       "rating": 1,
       "scryfallId": "0556f0d9-50d2-4c67-8522-de366d96500a",
       "effects": [
-        "RemovePermanent"
+        "RemovePermanent",
+        "Pacify"
       ],
       "reviewedAt": "2026-11-05T14:53:05.8034486+00:00"
     },
@@ -66329,6 +66334,7 @@
       "scryfallId": "ac75648d-a7f8-4bf6-8ba4-c5bd89ba4529",
       "effects": [
         "Filter",
+        "Pacify",
         "Regrowth"
       ],
       "reviewedAt": "2026-10-11T19:14:27.2142852+00:00"
@@ -86524,7 +86530,8 @@
       "scryfallId": "b7505068-484e-4844-b3dd-89c28f18275d",
       "effects": [
         "Wipe",
-        "Tutor"
+        "Tutor",
+        "Pacify"
       ],
       "reviewedAt": "2026-10-22T18:05:38.3081142+00:00"
     },
@@ -105538,7 +105545,8 @@
       "rating": 1,
       "scryfallId": "8cabb6ed-5c80-4dab-b96c-9d4d9fe72db7",
       "effects": [
-        "Sacrifice"
+        "Sacrifice",
+        "Pacify"
       ],
       "reviewedAt": "2026-09-11T13:44:57.2289198+00:00"
     },
