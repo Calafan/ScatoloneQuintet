@@ -62799,7 +62799,6 @@
       "scryfallId": "800cef89-e90c-4f84-a7a0-3cd203532169",
       "effects": [
         "Ramp",
-        "Tutor",
         "ManaFixing"
       ]
     },
@@ -85765,7 +85764,9 @@
       "name": "Spectral Grasp",
       "rating": 0,
       "scryfallId": "16aebed7-3dd8-4f76-94fc-da3c0e5251ba",
-      "effects": []
+      "effects": [
+        "Pacify"
+      ]
     },
     "b5991a13-5fcd-4d2d-9db2-d3d5af7259f5": {
       "name": "Spectral Prison",
@@ -93647,7 +93648,6 @@
       "rating": 0,
       "scryfallId": "e9e6b01d-7eb5-4632-9d51-0012b58006da",
       "effects": [
-        "Disenchant",
         "Pacify"
       ]
     },
