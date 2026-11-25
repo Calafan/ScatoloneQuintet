@@ -85,6 +85,15 @@
       ],
       "reviewedAt": "2026-09-10T13:22:46.296587+00:00"
     },
+    "0c97aea7-c997-45b4-a044-84fb5c07a021": {
+      "name": "Aerie Auxiliary",
+      "rating": 2,
+      "scryfallId": "5e4c134b-a416-467e-a158-def84c92c6af",
+      "effects": [
+        "Buff"
+      ],
+      "reviewedAt": "2026-09-23T13:05:34.9114407+00:00"
+    },
     "d6cba688-faff-4d9f-8148-37d389fa5fb3": {
       "name": "Aerith, Last Ancient",
       "rating": 2,
@@ -535,15 +544,6 @@
       "scryfallId": "57746e72-ba9f-4717-a4a2-6c6a039080c3",
       "effects": [],
       "reviewedAt": "2026-11-03T11:10:05.7479023+00:00"
-    },
-    "c15e5cb8-b94c-4157-9327-410e66606b82": {
-      "name": "Arms of Hadar",
-      "rating": 2,
-      "scryfallId": "db1fd431-8f6d-4ca5-bc0c-53881c500da1",
-      "effects": [
-        "Wipe"
-      ],
-      "reviewedAt": "2026-10-16T14:16:23.1809505+00:00"
     },
     "6dccf583-1045-4058-86cc-ebbcc8de080e": {
       "name": "Artificer Class",
@@ -1486,6 +1486,14 @@
       ],
       "reviewedAt": "2026-10-22T14:42:00.4460656+00:00"
     },
+    "5b5bf1fa-6502-4790-b66b-f0f8504ebc7c": {
+      "name": "Cabal Ritual",
+      "rating": 2,
+      "scryfallId": "5403b49d-03a7-4cc3-af3c-df098c1c9c2e",
+      "effects": [
+        "Ramp"
+      ]
+    },
     "739bbf44-9169-4749-abea-21c20823915f": {
       "name": "Cadric, Soul Kindler",
       "rating": 2,
@@ -1789,14 +1797,6 @@
       "scryfallId": "be499b81-bb2d-4f1d-9deb-c8bfcdca8e13",
       "effects": [],
       "reviewedAt": "2026-09-08T11:59:47.4285953+00:00"
-    },
-    "f161111d-9747-47b3-bb10-3c8bded32e21": {
-      "name": "City of Traitors",
-      "rating": 2,
-      "scryfallId": "a7a8b6b8-b95f-4014-b17a-a6d44d965995",
-      "effects": [
-        "Ramp"
-      ]
     },
     "d4d65797-2b92-4265-9169-133120c86c7f": {
       "name": "Cityscape Leveler",
@@ -6142,6 +6142,16 @@
       ],
       "reviewedAt": "2026-10-23T07:25:11.0920245+00:00"
     },
+    "d30d8968-ec24-4155-97e2-28efd52c8810": {
+      "name": "Malevolent Rumble",
+      "rating": 2,
+      "scryfallId": "a178cfe8-f9fa-4255-88d0-54a0bed079f5",
+      "effects": [
+        "Tokens",
+        "Filter"
+      ],
+      "reviewedAt": "2026-09-23T21:51:33.2621572+00:00"
+    },
     "aee2cd1b-9bf9-4b91-83a4-2f1dbc82dcf4": {
       "name": "Malevolent Witchkite",
       "rating": 2,
@@ -6766,15 +6776,6 @@
         "Disenchant"
       ],
       "reviewedAt": "2026-09-12T10:36:12.4801904+00:00"
-    },
-    "fb81f95c-70f8-4eb7-8d15-15d0ae23ec03": {
-      "name": "Mystical Tutor",
-      "rating": 2,
-      "scryfallId": "5d98101f-e32a-4a4a-a649-faa920d111ee",
-      "effects": [
-        "Tutor"
-      ],
-      "reviewedAt": "2026-09-08T09:51:00.0730807+00:00"
     },
     "14596108-a8ed-4e68-b787-d655b28bdab4": {
       "name": "Mythos of Brokkos",
@@ -7609,15 +7610,6 @@
         "Tokens"
       ],
       "reviewedAt": "2026-11-11T20:58:48.0950761+00:00"
-    },
-    "2cb98ca9-d7bb-416b-a17e-ee5f8e4d78f2": {
-      "name": "Prismatic Ending",
-      "rating": 2,
-      "scryfallId": "825969b9-3c70-4fca-8cab-696e9ca7cdb2",
-      "effects": [
-        "RemovePermanent"
-      ],
-      "reviewedAt": "2026-11-13T14:10:02.3703558+00:00"
     },
     "5e961d15-5972-4e4b-9385-1cd7cd7c6bbe": {
       "name": "Prodigal Sorcerer",
@@ -10585,6 +10577,15 @@
         "Removal"
       ]
     },
+    "8a1a5862-c027-4c15-99a7-1795d0da96da": {
+      "name": "Tough Cookie",
+      "rating": 2,
+      "scryfallId": "7aa37f85-5336-4372-97a2-9c8b00798c7a",
+      "effects": [
+        "Tokens"
+      ],
+      "reviewedAt": "2026-10-16T09:56:49.5754641+00:00"
+    },
     "6358ee1c-3577-4196-bae4-29a3c160a66a": {
       "name": "Toxic Abomination",
       "rating": 2,
@@ -10947,16 +10948,6 @@
         "Disenchant"
       ],
       "reviewedAt": "2026-09-23T12:42:08.9203584+00:00"
-    },
-    "4c6a0c30-b547-4eff-8ff4-0ca25803c076": {
-      "name": "Urza's Saga",
-      "rating": 2,
-      "scryfallId": "c1e0f201-42cb-46a1-901a-65bb4fc18f6c",
-      "effects": [
-        "Tokens",
-        "Tutor"
-      ],
-      "reviewedAt": "2026-11-13T14:01:32.7246893+00:00"
     },
     "df2af646-3e5b-43a3-8f3e-50565889f456": {
       "name": "Urza, Lord Protector",
@@ -11720,6 +11711,13 @@
         "Filter"
       ],
       "reviewedAt": "2026-10-09T13:33:03.779694+00:00"
+    },
+    "fff28b30-9903-4a0a-a723-31216abd457d": {
+      "name": "Young Blue Dragon // Sand Augury",
+      "rating": 2,
+      "scryfallId": "56b0f66b-dca9-4a01-9394-20a513c2b225",
+      "effects": [],
+      "reviewedAt": "2026-10-23T09:02:03.8977153+00:00"
     },
     "acdcbb49-9d71-4c36-8ccb-650fb11c3a58": {
       "name": "Yuffie, Materia Hunter",

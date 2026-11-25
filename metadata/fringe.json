@@ -1006,15 +1006,6 @@
       ],
       "reviewedAt": "2026-10-23T10:22:25.1049677+00:00"
     },
-    "0c97aea7-c997-45b4-a044-84fb5c07a021": {
-      "name": "Aerie Auxiliary",
-      "rating": 1,
-      "scryfallId": "5e4c134b-a416-467e-a158-def84c92c6af",
-      "effects": [
-        "Buff"
-      ],
-      "reviewedAt": "2026-09-23T13:05:34.9114407+00:00"
-    },
     "dd9a6f6b-f9b7-4292-bc80-b7da326de032": {
       "name": "Aerith Gainsborough",
       "rating": 1,
@@ -13431,14 +13422,6 @@
       "scryfallId": "848d686a-e2f7-488d-947f-a555099b74b1",
       "effects": [
         "Removal"
-      ]
-    },
-    "5b5bf1fa-6502-4790-b66b-f0f8504ebc7c": {
-      "name": "Cabal Ritual",
-      "rating": 1,
-      "scryfallId": "5403b49d-03a7-4cc3-af3c-df098c1c9c2e",
-      "effects": [
-        "Ramp"
       ]
     },
     "3a1b4d0f-7051-4913-bced-bf7596b36668": {
@@ -32422,13 +32405,6 @@
       "scryfallId": "00f8931e-6402-483c-a9e8-63ee344c36a7",
       "effects": [],
       "reviewedAt": "2026-09-05T08:08:42.5110142+00:00"
-    },
-    "b2e65e8b-5f08-4cc2-ab1d-00f8903dbea2": {
-      "name": "Faerie Seer",
-      "rating": 1,
-      "scryfallId": "d1fcfeb4-1818-4e08-be4c-27b8a9dc12e6",
-      "effects": [],
-      "reviewedAt": "2026-10-20T19:47:47.0588177+00:00"
     },
     "b759e8a6-8dd0-48ce-8816-e45b35a79895": {
       "name": "Faerie Snoop",
@@ -55961,18 +55937,6 @@
       "effects": [],
       "reviewedAt": "2026-11-15T20:47:43.6096074+00:00"
     },
-    "c77dc11e-d95d-4e7e-bb24-d971c179e9b0": {
-      "name": "Legion Extruder",
-      "rating": 1,
-      "scryfallId": "5a077de0-1893-40d0-a499-ee2e6e2258f1",
-      "effects": [
-        "Tokens",
-        "Removal",
-        "Burn",
-        "Sacrifice"
-      ],
-      "reviewedAt": "2026-09-12T09:51:28.4087699+00:00"
-    },
     "ad225ec2-ff3a-48f6-81a7-dfdd1b75e1f7": {
       "name": "Legion Leadership // Legion Stronghold",
       "rating": 1,
@@ -59486,16 +59450,6 @@
       "effects": [],
       "reviewedAt": "2026-09-23T14:52:34.5543767+00:00"
     },
-    "d30d8968-ec24-4155-97e2-28efd52c8810": {
-      "name": "Malevolent Rumble",
-      "rating": 1,
-      "scryfallId": "a178cfe8-f9fa-4255-88d0-54a0bed079f5",
-      "effects": [
-        "Tokens",
-        "Filter"
-      ],
-      "reviewedAt": "2026-09-23T21:51:33.2621572+00:00"
-    },
     "14c1adf8-950b-4f64-9c84-956a623448f4": {
       "name": "Malicious Advice",
       "rating": 1,
@@ -61473,14 +61427,6 @@
         "Filter"
       ],
       "reviewedAt": "2026-11-15T21:10:38.9863219+00:00"
-    },
-    "67362406-b1ca-49e2-800d-9050bfe8742a": {
-      "name": "Merfolk Looter",
-      "rating": 1,
-      "scryfallId": "0fbb1c41-388f-4ff2-af37-ad64a0f4618e",
-      "effects": [
-        "Filter"
-      ]
     },
     "bb244878-6440-4dfe-b96b-c9e18d0abe45": {
       "name": "Merfolk Pupil",
@@ -71127,12 +71073,6 @@
         "CardAdvantage"
       ],
       "reviewedAt": "2026-10-08T10:11:40.7239591+00:00"
-    },
-    "0bd67481-6bd9-48d6-92bd-8933b5ea1eae": {
-      "name": "Peregrine Drake",
-      "rating": 1,
-      "scryfallId": "4951863f-1c16-4d09-ba9a-f57dc3d81a20",
-      "effects": []
     },
     "ee4b7aca-31dd-4369-8e85-b300892b9b41": {
       "name": "Perennial Behemoth",
@@ -88709,17 +88649,6 @@
       "scryfallId": "9d15f7b5-5070-4742-a05c-623822d874fb",
       "effects": []
     },
-    "dbcbdf37-c40f-4068-b4a7-a849cab1056c": {
-      "name": "Six",
-      "rating": 1,
-      "scryfallId": "f9246b68-580f-4f53-883d-7900880e4b0d",
-      "effects": [
-        "CardAdvantage",
-        "ManaFixing",
-        "Regrowth"
-      ],
-      "reviewedAt": "2026-09-29T09:33:38.9355652+00:00"
-    },
     "938cc97f-3908-401e-94cd-32004aff1ef1": {
       "name": "Sizzle",
       "rating": 1,
@@ -89757,14 +89686,6 @@
       "scryfallId": "6f79f4b2-71cd-4f78-a161-d75b162c745e",
       "effects": [
         "Pacify"
-      ]
-    },
-    "05a039ad-1689-4d13-b393-6c1219583b5d": {
-      "name": "Sleight of Hand",
-      "rating": 1,
-      "scryfallId": "f3405184-dcda-4bb6-ade6-c2a87bc3296d",
-      "effects": [
-        "Filter"
       ]
     },
     "99dba614-40d3-41c1-a3b2-edc8777b010f": {
@@ -103750,15 +103671,6 @@
       "effects": [],
       "reviewedAt": "2026-09-08T10:55:31.5083154+00:00"
     },
-    "8a1a5862-c027-4c15-99a7-1795d0da96da": {
-      "name": "Tough Cookie",
-      "rating": 1,
-      "scryfallId": "7aa37f85-5336-4372-97a2-9c8b00798c7a",
-      "effects": [
-        "Tokens"
-      ],
-      "reviewedAt": "2026-10-16T09:56:49.5754641+00:00"
-    },
     "bdf4e225-23b5-47d9-9936-ddcec8aa1ca4": {
       "name": "Tourach's Chant",
       "rating": 1,
@@ -106396,14 +106308,6 @@
       "scryfallId": "9c95c752-3add-4830-8159-036b8689f40a",
       "effects": [],
       "reviewedAt": "2026-09-08T11:59:26.4461614+00:00"
-    },
-    "4e0b647a-6e1a-421b-bca9-8d5e346bda80": {
-      "name": "Unearth",
-      "rating": 1,
-      "scryfallId": "b6cb2549-e485-44d6-9d65-7605c568909e",
-      "effects": [
-        "Reanimate"
-      ]
     },
     "c5da5c31-0cf1-4393-8701-eda7880ecebc": {
       "name": "Unending Whisper",
@@ -114912,13 +114816,6 @@
         "ManaFixing"
       ],
       "reviewedAt": "2026-10-23T09:22:16.1126981+00:00"
-    },
-    "fff28b30-9903-4a0a-a723-31216abd457d": {
-      "name": "Young Blue Dragon // Sand Augury",
-      "rating": 1,
-      "scryfallId": "56b0f66b-dca9-4a01-9394-20a513c2b225",
-      "effects": [],
-      "reviewedAt": "2026-10-23T09:02:03.8977153+00:00"
     },
     "f24fc213-6341-482c-a056-946d0f1dd76b": {
       "name": "Young Deathclaws",

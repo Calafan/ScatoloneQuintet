@@ -1056,6 +1056,15 @@
       ],
       "reviewedAt": "2026-10-06T14:58:51.9115727+00:00"
     },
+    "c15e5cb8-b94c-4157-9327-410e66606b82": {
+      "name": "Arms of Hadar",
+      "rating": 3,
+      "scryfallId": "db1fd431-8f6d-4ca5-bc0c-53881c500da1",
+      "effects": [
+        "Wipe"
+      ],
+      "reviewedAt": "2026-10-16T14:16:23.1809505+00:00"
+    },
     "3dce6c6c-599f-4e35-ae15-728c5e78dee1": {
       "name": "Arni Brokenbrow",
       "rating": 3,
@@ -4063,6 +4072,14 @@
         "ManaFixing"
       ],
       "reviewedAt": "2026-09-02T16:23:10.0200294+00:00"
+    },
+    "f161111d-9747-47b3-bb10-3c8bded32e21": {
+      "name": "City of Traitors",
+      "rating": 3,
+      "scryfallId": "a7a8b6b8-b95f-4014-b17a-a6d44d965995",
+      "effects": [
+        "Ramp"
+      ]
     },
     "73d60ab9-1c38-4592-a5b5-ab84788bcc84": {
       "name": "City's Blessing",
@@ -7864,6 +7881,13 @@
         "CardAdvantage"
       ],
       "reviewedAt": "2026-10-06T14:08:20.0294367+00:00"
+    },
+    "b2e65e8b-5f08-4cc2-ab1d-00f8903dbea2": {
+      "name": "Faerie Seer",
+      "rating": 3,
+      "scryfallId": "d1fcfeb4-1818-4e08-be4c-27b8a9dc12e6",
+      "effects": [],
+      "reviewedAt": "2026-10-20T19:47:47.0588177+00:00"
     },
     "830e3e37-a80c-4b0e-b9af-393ad4ca01d7": {
       "name": "Faithbound Judge // Sinner's Judgment",
@@ -13232,6 +13256,18 @@
       ],
       "reviewedAt": "2026-09-12T09:33:15.5987878+00:00"
     },
+    "c77dc11e-d95d-4e7e-bb24-d971c179e9b0": {
+      "name": "Legion Extruder",
+      "rating": 3,
+      "scryfallId": "5a077de0-1893-40d0-a499-ee2e6e2258f1",
+      "effects": [
+        "Tokens",
+        "Removal",
+        "Burn",
+        "Sacrifice"
+      ],
+      "reviewedAt": "2026-09-12T09:51:28.4087699+00:00"
+    },
     "dc29cb25-57f5-4cac-9764-efa644b41296": {
       "name": "Legions to Ashes",
       "rating": 4,
@@ -14402,6 +14438,14 @@
       ],
       "reviewedAt": "2026-10-08T11:10:11.0255944+00:00"
     },
+    "67362406-b1ca-49e2-800d-9050bfe8742a": {
+      "name": "Merfolk Looter",
+      "rating": 3,
+      "scryfallId": "0fbb1c41-388f-4ff2-af37-ad64a0f4618e",
+      "effects": [
+        "Filter"
+      ]
+    },
     "be8b9bef-a98d-40a8-bedd-d78f1f08f93b": {
       "name": "Merfolk Windrobber",
       "rating": 3,
@@ -15281,6 +15325,15 @@
         "Counter"
       ],
       "reviewedAt": "2026-11-11T19:30:58.3959899+00:00"
+    },
+    "fb81f95c-70f8-4eb7-8d15-15d0ae23ec03": {
+      "name": "Mystical Tutor",
+      "rating": 3,
+      "scryfallId": "5d98101f-e32a-4a4a-a649-faa920d111ee",
+      "effects": [
+        "Tutor"
+      ],
+      "reviewedAt": "2026-09-08T09:51:00.0730807+00:00"
     },
     "42b10f0f-19cd-45d2-a2db-d5463ddc5e5b": {
       "name": "Mythos of Illuna",
@@ -16873,6 +16926,12 @@
       ],
       "reviewedAt": "2026-09-23T10:52:39.6307371+00:00"
     },
+    "0bd67481-6bd9-48d6-92bd-8933b5ea1eae": {
+      "name": "Peregrine Drake",
+      "rating": 3,
+      "scryfallId": "4951863f-1c16-4d09-ba9a-f57dc3d81a20",
+      "effects": []
+    },
     "a3643f66-dfa2-4275-a093-23e162496354": {
       "name": "Perforating Artist",
       "rating": 4,
@@ -17643,6 +17702,15 @@
         "ManaFixing"
       ],
       "reviewedAt": "2026-11-11T20:34:22.2305073+00:00"
+    },
+    "2cb98ca9-d7bb-416b-a17e-ee5f8e4d78f2": {
+      "name": "Prismatic Ending",
+      "rating": 3,
+      "scryfallId": "825969b9-3c70-4fca-8cab-696e9ca7cdb2",
+      "effects": [
+        "RemovePermanent"
+      ],
+      "reviewedAt": "2026-11-13T14:10:02.3703558+00:00"
     },
     "8e414ad6-ba19-44a1-a291-2e420734a6dd": {
       "name": "Prismatic Strands",
@@ -21358,6 +21426,17 @@
       ],
       "reviewedAt": "2026-11-03T18:51:39.2192072+00:00"
     },
+    "dbcbdf37-c40f-4068-b4a7-a849cab1056c": {
+      "name": "Six",
+      "rating": 3,
+      "scryfallId": "f9246b68-580f-4f53-883d-7900880e4b0d",
+      "effects": [
+        "CardAdvantage",
+        "ManaFixing",
+        "Regrowth"
+      ],
+      "reviewedAt": "2026-09-29T09:33:38.9355652+00:00"
+    },
     "bfbe28a2-b656-4575-8b7e-9dbc22f8d4bc": {
       "name": "Skarrgan Hellkite",
       "rating": 3,
@@ -21518,6 +21597,14 @@
       "scryfallId": "31051436-68f2-457e-8293-2b10ccf7684e",
       "effects": [],
       "reviewedAt": "2026-10-09T14:49:47.4417834+00:00"
+    },
+    "05a039ad-1689-4d13-b393-6c1219583b5d": {
+      "name": "Sleight of Hand",
+      "rating": 3,
+      "scryfallId": "f3405184-dcda-4bb6-ade6-c2a87bc3296d",
+      "effects": [
+        "Filter"
+      ]
     },
     "74c7a029-59aa-4511-8e4c-f8f167cda4e2": {
       "name": "Slickshot Show-Off",
@@ -25995,6 +26082,14 @@
       ],
       "reviewedAt": "2026-11-13T11:59:34.1345174+00:00"
     },
+    "4e0b647a-6e1a-421b-bca9-8d5e346bda80": {
+      "name": "Unearth",
+      "rating": 3,
+      "scryfallId": "b6cb2549-e485-44d6-9d65-7605c568909e",
+      "effects": [
+        "Reanimate"
+      ]
+    },
     "f4497af5-8b81-46b3-bb52-eaed1999809b": {
       "name": "Unexpected Request",
       "rating": 3,
@@ -26307,6 +26402,16 @@
         "Pacify"
       ],
       "reviewedAt": "2026-10-27T15:20:52.1775361+00:00"
+    },
+    "4c6a0c30-b547-4eff-8ff4-0ca25803c076": {
+      "name": "Urza's Saga",
+      "rating": 3,
+      "scryfallId": "c1e0f201-42cb-46a1-901a-65bb4fc18f6c",
+      "effects": [
+        "Tokens",
+        "Tutor"
+      ],
+      "reviewedAt": "2026-11-13T14:01:32.7246893+00:00"
     },
     "fb4d99c2-daec-430a-9ca2-5a178a96618b": {
       "name": "Urza's Sylex",
