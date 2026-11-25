@@ -3534,6 +3534,15 @@
         "Ramp"
       ]
     },
+    "a32e08fa-bea4-4ba9-a126-9bf0a91f67e2": {
+      "name": "Fields of Strife",
+      "rating": 2,
+      "scryfallId": "3dc7a4c3-c356-4fba-bea0-e8788da3eb57",
+      "effects": [
+        "Filter",
+        "ManaFixing"
+      ]
+    },
     "d09c9cba-fdd2-479b-ad5d-d05181c3e3f9": {
       "name": "Fierce Guardianship",
       "rating": 2,
@@ -3853,6 +3862,15 @@
       "scryfallId": "069294a8-e65a-47af-942f-7e99d18658f2",
       "effects": [],
       "reviewedAt": "2026-09-29T09:26:07.8149789+00:00"
+    },
+    "349ea6c7-6b3e-417f-b082-b712e2b1635b": {
+      "name": "Forum of Amity",
+      "rating": 2,
+      "scryfallId": "1de6c6cc-0c55-4997-8623-d7f796bd9ab8",
+      "effects": [
+        "Filter",
+        "ManaFixing"
+      ]
     },
     "64fe83b1-5aae-4433-82c3-a11c8c83137e": {
       "name": "Four Knocks",
@@ -7275,6 +7293,15 @@
       ],
       "reviewedAt": "2026-10-16T09:50:31.9837011+00:00"
     },
+    "638ff242-63d5-457d-a7a6-40ad51052e2e": {
+      "name": "Paradox Gardens",
+      "rating": 2,
+      "scryfallId": "dbc3447e-1329-4ea1-b4ca-b321b0ffec8f",
+      "effects": [
+        "Filter",
+        "ManaFixing"
+      ]
+    },
     "de83b309-ac31-4a57-95e6-ccd3659e6c1f": {
       "name": "Parcelbeast",
       "rating": 2,
@@ -9270,6 +9297,15 @@
         "Tokens"
       ]
     },
+    "33a4e73d-d93a-4b6f-88ff-cd53f20d178c": {
+      "name": "Spectacle Summit",
+      "rating": 2,
+      "scryfallId": "a0a66f7b-eab4-45da-8895-c2c2c7eb05f8",
+      "effects": [
+        "Filter",
+        "ManaFixing"
+      ]
+    },
     "f8536726-993b-4100-918c-e3c7177d4c65": {
       "name": "Spectral Denial",
       "rating": 2,
@@ -10465,6 +10501,15 @@
       "effects": [
         "Burn",
         "Sacrifice"
+      ]
+    },
+    "595f0eb5-f521-4174-9c48-b89e85ea907c": {
+      "name": "Titan's Grave",
+      "rating": 2,
+      "scryfallId": "a9ab41c8-3ee2-4676-9b8b-20c34d9f5f21",
+      "effects": [
+        "Filter",
+        "ManaFixing"
       ]
     },
     "7aae0a3d-8882-4485-a126-f06ea6593dcb": {

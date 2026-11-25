@@ -891,6 +891,14 @@
       ],
       "reviewedAt": "2026-09-08T06:50:46.0136435+00:00"
     },
+    "7d7cf15c-06b9-4062-a1eb-32614c458a3b": {
+      "name": "Arcane Sanctum",
+      "rating": 3,
+      "scryfallId": "6edc0681-4252-4d3d-baf3-f03c22af1208",
+      "effects": [
+        "ManaFixing"
+      ]
+    },
     "ef833546-f755-4ac5-867a-3926984e68a0": {
       "name": "Archaeomancer's Map",
       "rating": 3,
@@ -1393,6 +1401,14 @@
         "Sacrifice"
       ],
       "reviewedAt": "2026-10-09T08:43:26.9753436+00:00"
+    },
+    "189fc8f4-17ac-4f1d-82c8-8401445bdaf4": {
+      "name": "Azorius Chancery",
+      "rating": 3,
+      "scryfallId": "e58365d2-e4db-444b-b1a9-795668ad3038",
+      "effects": [
+        "ManaFixing"
+      ]
     },
     "7c9e351d-2e6c-4050-9c3d-b15bb9255a4d": {
       "name": "Azula, Cunning Usurper",
@@ -2048,6 +2064,14 @@
       ],
       "reviewedAt": "2026-09-04T13:19:49.8255198+00:00"
     },
+    "5ad94412-6f79-4c5d-bbd4-4ef5779a7b6d": {
+      "name": "Blackcleave Cliffs",
+      "rating": 4,
+      "scryfallId": "3d71be5f-0fd7-4a88-8041-f4d6bc4cc9ac",
+      "effects": [
+        "ManaFixing"
+      ]
+    },
     "5c5b308c-07d5-422a-8b45-b8b19cb967ca": {
       "name": "Blacksmith's Skill",
       "rating": 3,
@@ -2234,6 +2258,14 @@
       "effects": [],
       "reviewedAt": "2026-10-20T16:21:02.9952519+00:00"
     },
+    "43985bbc-a0f6-4812-984e-392bc8562633": {
+      "name": "Blood Crypt",
+      "rating": 5,
+      "scryfallId": "f281e16f-0fe1-4095-bd63-0a4479f75c11",
+      "effects": [
+        "ManaFixing"
+      ]
+    },
     "abfa5753-8c02-4e2f-8f98-b0636907293a": {
       "name": "Blood Fountain",
       "rating": 4,
@@ -2352,6 +2384,14 @@
         "Removal"
       ],
       "reviewedAt": "2026-09-23T13:04:54.1267427+00:00"
+    },
+    "66fa2326-1b5d-41fb-b919-83bf9f383577": {
+      "name": "Blooming Marsh",
+      "rating": 4,
+      "scryfallId": "90da33d4-fe9c-42fe-b326-2fe337dc3ecd",
+      "effects": [
+        "ManaFixing"
+      ]
     },
     "da1e019c-2ffb-412d-90d7-f2e5e5c44c4b": {
       "name": "Bloomvine Regent // Claim Territory",
@@ -2545,6 +2585,14 @@
       "effects": [],
       "reviewedAt": "2026-10-09T12:25:26.9741812+00:00"
     },
+    "8fa3ac81-3dfe-4565-be99-5554f7597b4b": {
+      "name": "Boros Garrison",
+      "rating": 3,
+      "scryfallId": "7dfe3f03-078f-44fb-89cd-efa3ebfaf637",
+      "effects": [
+        "ManaFixing"
+      ]
+    },
     "f1ac4e0e-5633-46e4-9a21-d3924e481d13": {
       "name": "Borrowed Time",
       "rating": 3,
@@ -2563,6 +2611,14 @@
         "LandDestruction"
       ],
       "reviewedAt": "2026-10-22T09:21:11.5203706+00:00"
+    },
+    "88f8f683-738e-48f3-afff-c8f73f1033a2": {
+      "name": "Botanical Sanctum",
+      "rating": 4,
+      "scryfallId": "8744471b-a528-47d9-84d0-4526273f55e9",
+      "effects": [
+        "ManaFixing"
+      ]
     },
     "d9c29e6e-5949-4599-bf74-b9539e753f76": {
       "name": "Bounce Off",
@@ -2785,6 +2841,14 @@
         "ManaFixing"
       ],
       "reviewedAt": "2026-10-09T08:17:12.905107+00:00"
+    },
+    "20283c4a-f1f0-42f0-bc08-6da87474426b": {
+      "name": "Breeding Pool",
+      "rating": 5,
+      "scryfallId": "b98b2a35-ec2b-47fe-903d-dd292e469a3c",
+      "effects": [
+        "ManaFixing"
+      ]
     },
     "d11e627b-8a48-411d-a261-2c9a02a758ba": {
       "name": "Breena, the Demagogue",
@@ -3143,6 +3207,12 @@
       ],
       "reviewedAt": "2026-09-12T10:29:51.6306258+00:00"
     },
+    "2031bc31-81cc-407a-8615-29832f586bbc": {
+      "name": "Calciform Pools",
+      "rating": 3,
+      "scryfallId": "f6cead86-b8ff-4975-90b2-3badcc452fdb",
+      "effects": []
+    },
     "ca54e14c-67ee-4de2-bc0f-19a5f9461d37": {
       "name": "Call In a Professional",
       "rating": 4,
@@ -3342,6 +3412,12 @@
         "Ramp"
       ],
       "reviewedAt": "2026-11-15T21:07:19.5829038+00:00"
+    },
+    "f1603384-4361-49c9-98aa-7785fc3504c4": {
+      "name": "Cascade Bluffs",
+      "rating": 3,
+      "scryfallId": "c3eede44-270a-481d-850b-b4862b9685ea",
+      "effects": []
     },
     "955504bc-050a-42a2-b2e4-ab213183b2be": {
       "name": "Case of the Crimson Pulse",
@@ -4056,6 +4132,14 @@
       ],
       "reviewedAt": "2026-09-23T10:42:25.3254149+00:00"
     },
+    "d7faa3c8-46cf-46b2-bfa4-89000307cf18": {
+      "name": "Clifftop Retreat",
+      "rating": 4,
+      "scryfallId": "fd7e1bf9-bd6a-48e3-9331-178e5142c06a",
+      "effects": [
+        "ManaFixing"
+      ]
+    },
     "9c44e556-4c7a-48bf-a108-c584f69c2cfa": {
       "name": "Cling to Dust",
       "rating": 3,
@@ -4268,6 +4352,14 @@
       ],
       "reviewedAt": "2026-11-13T14:01:37.9005771+00:00"
     },
+    "2d899466-b1eb-4901-b626-1f2fb09b786d": {
+      "name": "Concealed Courtyard",
+      "rating": 4,
+      "scryfallId": "c8769e97-aee8-4466-a9d7-0f4245ae4a97",
+      "effects": [
+        "ManaFixing"
+      ]
+    },
     "a3a56b02-7290-4352-a862-f2de608f2a86": {
       "name": "Concealing Curtains // Revealing Eye",
       "rating": 3,
@@ -4470,6 +4562,14 @@
       "scryfallId": "a52b2dc4-4fb3-4ddf-bdb6-c63e8c8efc09",
       "effects": [
         "Ramp"
+      ]
+    },
+    "a05f641c-15c9-43dc-ae0d-1ea372fd33d5": {
+      "name": "Copperline Gorge",
+      "rating": 4,
+      "scryfallId": "28f1d784-f286-418d-a712-bc07ad10d4a2",
+      "effects": [
+        "ManaFixing"
       ]
     },
     "80bc56a9-40e0-48da-ae86-190e39c8a4a3": {
@@ -4822,6 +4922,14 @@
       ],
       "reviewedAt": "2026-09-04T14:45:24.5351735+00:00"
     },
+    "7190debf-708b-4f41-9714-0d0a5bd5a74e": {
+      "name": "Crumbling Necropolis",
+      "rating": 3,
+      "scryfallId": "94da8e38-77a4-4d25-9e1f-f33c246f60c8",
+      "effects": [
+        "ManaFixing"
+      ]
+    },
     "4aa119f7-d411-4188-956e-547f7d14e789": {
       "name": "Crush the Weak",
       "rating": 3,
@@ -5125,6 +5233,14 @@
       "scryfallId": "27dd910a-a3ca-46ac-9350-f2a22496f4e6",
       "effects": []
     },
+    "40760bfa-a423-487c-ba29-043b2d00c736": {
+      "name": "Dark Fortress",
+      "rating": 4,
+      "scryfallId": "c16fd43c-7c47-4c1b-860f-91146532e89d",
+      "effects": [
+        "ManaFixing"
+      ]
+    },
     "53f7c868-b03e-4fc2-8dcf-a75bbfa3272b": {
       "name": "Dark Ritual",
       "rating": 4,
@@ -5151,6 +5267,14 @@
         "ManaFixing"
       ],
       "reviewedAt": "2026-11-11T20:35:31.6074822+00:00"
+    },
+    "a2b48695-f7d7-42ce-a8a0-2a723428542a": {
+      "name": "Darkslick Shores",
+      "rating": 4,
+      "scryfallId": "e530388b-eb19-4211-abd8-8a4c3c38c3af",
+      "effects": [
+        "ManaFixing"
+      ]
     },
     "67d2a021-a042-4e5f-b6e4-39cb35514794": {
       "name": "Darkstar Augur",
@@ -5835,6 +5959,14 @@
         "Ramp"
       ]
     },
+    "378a1d57-e2f1-4b84-9692-1564602e9e99": {
+      "name": "Dimir Aqueduct",
+      "rating": 3,
+      "scryfallId": "df3c3d56-8291-407e-87a1-94b7d12811fd",
+      "effects": [
+        "ManaFixing"
+      ]
+    },
     "e3b4314b-e7a2-449a-af5a-817c8260adf1": {
       "name": "Dinosaurs on a Spaceship",
       "rating": 4,
@@ -6195,6 +6327,14 @@
       ],
       "reviewedAt": "2026-11-10T17:44:45.3953247+00:00"
     },
+    "63398c02-6fb1-481d-9d9f-81063532fbc0": {
+      "name": "Dragonskull Summit",
+      "rating": 4,
+      "scryfallId": "2d4998db-13c0-412f-b02c-9f041cc45c7e",
+      "effects": [
+        "ManaFixing"
+      ]
+    },
     "f328012f-4696-47bb-ab43-247bdcb13f03": {
       "name": "Dragoon's Wyvern",
       "rating": 3,
@@ -6245,6 +6385,12 @@
         "Sacrifice"
       ],
       "reviewedAt": "2026-11-11T19:18:39.1233268+00:00"
+    },
+    "130a8cf5-1354-4d17-91c8-c073642eb3db": {
+      "name": "Dreadship Reef",
+      "rating": 3,
+      "scryfallId": "b4a83915-07b7-4912-bdf2-089b05796378",
+      "effects": []
     },
     "0ff7440b-b831-40a9-81c4-99d77bf93b8d": {
       "name": "Dream Devourer",
@@ -6344,6 +6490,14 @@
         "Counter"
       ],
       "reviewedAt": "2026-11-11T19:17:16.0351614+00:00"
+    },
+    "819fc966-434e-470f-91e9-a38df974ad17": {
+      "name": "Drowned Catacomb",
+      "rating": 4,
+      "scryfallId": "bdc6e950-38dd-46da-a1c3-58dc7495a9f9",
+      "effects": [
+        "ManaFixing"
+      ]
     },
     "acf54a85-0e9e-43fb-99d9-c223c02f13c4": {
       "name": "Druid of the Emerald Grove",
@@ -8105,6 +8259,12 @@
       ],
       "reviewedAt": "2026-09-11T10:52:12.3226575+00:00"
     },
+    "42bf259d-4bb9-49c3-b4ec-223dca62f4d6": {
+      "name": "Fetid Heath",
+      "rating": 3,
+      "scryfallId": "0fbb9790-3744-4dcb-881a-452573298822",
+      "effects": []
+    },
     "32b03b48-06da-4a74-a7ac-e5ae39a4f428": {
       "name": "Fetid Pools",
       "rating": 4,
@@ -8283,6 +8443,12 @@
         "Removal"
       ],
       "reviewedAt": "2026-11-15T21:11:50.0501761+00:00"
+    },
+    "d99a1d9a-7721-4331-bf22-1c6ee0bd825a": {
+      "name": "Fire-Lit Thicket",
+      "rating": 3,
+      "scryfallId": "0ab9d6ad-f819-4a1e-b4ff-8dc00791f0fd",
+      "effects": []
     },
     "aa7714b0-2bfb-458a-8ebf-37ec2c53383e": {
       "name": "Fireball",
@@ -8592,6 +8758,12 @@
       "effects": [],
       "reviewedAt": "2026-10-06T14:10:33.3221547+00:00"
     },
+    "dc974eb4-72b9-4213-887b-8ee684b93420": {
+      "name": "Flooded Grove",
+      "rating": 3,
+      "scryfallId": "4e45d16b-8320-4a9b-ad15-9687dfb52bed",
+      "effects": []
+    },
     "f3c7af78-a77d-4134-82a2-a5ce84285a84": {
       "name": "Flooded Strand",
       "rating": 5,
@@ -8887,6 +9059,14 @@
         "Pacify"
       ]
     },
+    "e4cf6c2f-0f1e-4980-9ef9-e4eabcae42a9": {
+      "name": "Frontier Bivouac",
+      "rating": 3,
+      "scryfallId": "e4335951-e73e-45cb-b2a5-6e9d14ba87ee",
+      "effects": [
+        "ManaFixing"
+      ]
+    },
     "9cb741ae-14d6-4a8d-bfad-703abfe3682c": {
       "name": "Frontier Warmonger",
       "rating": 4,
@@ -8992,6 +9172,12 @@
         "LandDestruction"
       ],
       "reviewedAt": "2026-09-05T10:29:02.5581693+00:00"
+    },
+    "6f18ea44-3efa-4a45-abc6-86a0627e40f2": {
+      "name": "Fungal Reaches",
+      "rating": 3,
+      "scryfallId": "9b4521b3-a3b0-4a1d-a623-cc630058eee2",
+      "effects": []
     },
     "b917f39a-3176-47ad-afda-08d09b873c02": {
       "name": "Fungal Rebirth",
@@ -9191,6 +9377,14 @@
       "scryfallId": "d8b1762b-ff03-4312-afcc-cb6b5f280ade",
       "effects": [],
       "reviewedAt": "2026-10-15T08:06:53.194663+00:00"
+    },
+    "36b58705-c5a5-4547-8d8b-a7c35e1f69ae": {
+      "name": "Gathering Place",
+      "rating": 4,
+      "scryfallId": "081cdbd0-5081-4a9e-90ba-f5baf4ac137e",
+      "effects": [
+        "ManaFixing"
+      ]
     },
     "c01d6fde-1bd2-4412-932a-9bc97d4e5aef": {
       "name": "Gatta and Luzzu",
@@ -9577,6 +9771,14 @@
       ],
       "reviewedAt": "2026-11-12T14:01:46.8687578+00:00"
     },
+    "027dd013-baa7-4111-b3c9-f4d1414e9c45": {
+      "name": "Glacial Fortress",
+      "rating": 4,
+      "scryfallId": "ee834e27-595d-4d12-8e69-e94e84ef337a",
+      "effects": [
+        "ManaFixing"
+      ]
+    },
     "c3006be3-a796-4238-95dd-1e8e47c063b5": {
       "name": "Glacial Grasp",
       "rating": 3,
@@ -9594,6 +9796,14 @@
         "Mill"
       ],
       "reviewedAt": "2026-09-10T16:06:02.5334527+00:00"
+    },
+    "7785ffd4-f169-475d-9558-ce4877b3378a": {
+      "name": "Gleaming Bastion",
+      "rating": 4,
+      "scryfallId": "c9131bf5-17e3-4aa6-97ed-ed6426b247d0",
+      "effects": [
+        "ManaFixing"
+      ]
     },
     "bb7cebb7-a979-4879-b834-deab13f2a22c": {
       "name": "Glimmer Lens",
@@ -9843,6 +10053,14 @@
       "effects": [],
       "reviewedAt": "2026-11-11T20:09:59.6522753+00:00"
     },
+    "73864fcc-1bde-4bc0-831e-2b93e546e417": {
+      "name": "Godless Shrine",
+      "rating": 5,
+      "scryfallId": "be010c2f-06db-47e3-80bd-df3f2a21ca34",
+      "effects": [
+        "ManaFixing"
+      ]
+    },
     "5aa757d8-db7a-4a60-b63e-c9777c141953": {
       "name": "Gold",
       "rating": 5,
@@ -9896,6 +10114,14 @@
         "ManaFixing"
       ],
       "reviewedAt": "2026-09-12T09:22:59.1460725+00:00"
+    },
+    "1b301478-b14f-4ef8-94e6-9647d582eabe": {
+      "name": "Golgari Rot Farm",
+      "rating": 3,
+      "scryfallId": "104364d5-ede8-4ac5-900f-19947f51bbc1",
+      "effects": [
+        "ManaFixing"
+      ]
     },
     "cf0492de-cec5-4455-839f-212246b7e9ea": {
       "name": "Gollum's Bite",
@@ -9999,6 +10225,12 @@
         "Removal"
       ],
       "reviewedAt": "2026-10-23T10:24:14.0011516+00:00"
+    },
+    "5004b84a-33b7-4f6f-b2c2-7086b9087535": {
+      "name": "Graven Cairns",
+      "rating": 3,
+      "scryfallId": "81e7d329-ef6a-45f3-82b6-37a3606c00bc",
+      "effects": []
     },
     "0d9df234-520c-40aa-a37d-070181cf695c": {
       "name": "Graven Lore",
@@ -10225,6 +10457,14 @@
       "effects": [],
       "reviewedAt": "2026-11-11T19:49:52.1309922+00:00"
     },
+    "657243dd-e479-4f4b-99d2-09b55d833a35": {
+      "name": "Gruul Turf",
+      "rating": 3,
+      "scryfallId": "550b70e0-ebd5-49de-b62c-5224b8bf8e98",
+      "effects": [
+        "ManaFixing"
+      ]
+    },
     "9df60bb7-2dd4-4d22-b814-f52145356424": {
       "name": "Gríma, Saruman's Footman",
       "rating": 3,
@@ -10370,6 +10610,14 @@
         "Tokens"
       ],
       "reviewedAt": "2026-11-05T10:01:38.0185094+00:00"
+    },
+    "f1750962-a87c-49f6-b731-02ae971ac6ea": {
+      "name": "Hallowed Fountain",
+      "rating": 5,
+      "scryfallId": "c28aea19-2a39-4934-afda-909e234fa3ba",
+      "effects": [
+        "ManaFixing"
+      ]
     },
     "210d1077-6e60-4f06-a8a4-10b842979ac5": {
       "name": "Halo Forager",
@@ -10732,6 +10980,14 @@
         "Bounce"
       ]
     },
+    "7069d241-4e66-40bf-afd1-551a4a5457f0": {
+      "name": "Hidden Lair",
+      "rating": 4,
+      "scryfallId": "0742ddb6-71ed-444e-91ad-84f876725a4a",
+      "effects": [
+        "ManaFixing"
+      ]
+    },
     "376fa374-ead1-4728-ab8b-aca230b72031": {
       "name": "Hide on the Ceiling",
       "rating": 3,
@@ -10816,6 +11072,14 @@
         "Tokens"
       ],
       "reviewedAt": "2026-10-30T10:05:05.3071029+00:00"
+    },
+    "fb5a3403-7f0b-406c-8c4f-d693be010ca6": {
+      "name": "Hinterland Harbor",
+      "rating": 4,
+      "scryfallId": "72f15306-56fe-4643-bb4c-4c7c12378d01",
+      "effects": [
+        "ManaFixing"
+      ]
     },
     "031cfc7d-8bda-454b-b88a-15d3f5fe47e2": {
       "name": "Hired Claw",
@@ -11626,6 +11890,14 @@
       "effects": [],
       "reviewedAt": "2026-10-10T19:48:36.670926+00:00"
     },
+    "3f17c60e-923a-4392-9da8-87d9ded009b7": {
+      "name": "Inspiring Vantage",
+      "rating": 4,
+      "scryfallId": "160ac412-005f-48ca-a204-10207307c6c2",
+      "effects": [
+        "ManaFixing"
+      ]
+    },
     "a06fa827-900b-46d4-8f48-b4e15964951a": {
       "name": "Intellect Devourer",
       "rating": 3,
@@ -11844,6 +12116,14 @@
         "ManaFixing"
       ]
     },
+    "7e5d9efe-48a9-434b-bb09-056e0e09cc9a": {
+      "name": "Isolated Chapel",
+      "rating": 4,
+      "scryfallId": "b3c1a371-5ded-4a3a-bf96-503c4f1a665d",
+      "effects": [
+        "ManaFixing"
+      ]
+    },
     "f976a244-1240-4430-9182-bb8d6d932ea0": {
       "name": "Itzquinth, Firstborn of Gishath",
       "rating": 3,
@@ -11870,6 +12150,14 @@
         "CardAdvantage"
       ],
       "reviewedAt": "2026-11-12T07:40:32.6446343+00:00"
+    },
+    "1cb9d94a-3039-4f2e-8fcc-6996f9a45f74": {
+      "name": "Izzet Boilerworks",
+      "rating": 3,
+      "scryfallId": "666f455e-3a3d-475d-b67a-a1fdd74820eb",
+      "effects": [
+        "ManaFixing"
+      ]
     },
     "03dafab4-841f-41cb-8f2e-8188f5177837": {
       "name": "Jace, the Perfected Mind",
@@ -12067,6 +12355,14 @@
         "Burn"
       ],
       "reviewedAt": "2026-09-10T15:50:30.8068401+00:00"
+    },
+    "2e69537c-c898-4e13-a72d-ce3957a90304": {
+      "name": "Jungle Shrine",
+      "rating": 3,
+      "scryfallId": "e4f0d262-cbfe-42d2-9066-0b48a38995d6",
+      "effects": [
+        "ManaFixing"
+      ]
     },
     "78a48f4e-ba4c-4d8d-938a-9ddb342a885b": {
       "name": "Junji, the Midnight Sky",
@@ -14614,6 +14910,12 @@
         "LandDestruction"
       ]
     },
+    "33587cb2-0fd3-4e4c-bc5e-e7299cc9dab5": {
+      "name": "Molten Slagheap",
+      "rating": 3,
+      "scryfallId": "d090288c-48f3-49fe-87c4-3766eb7bb240",
+      "effects": []
+    },
     "58c592ed-20fc-481b-909b-2315567e5f20": {
       "name": "Molten Tributary",
       "rating": 4,
@@ -14949,6 +15251,20 @@
         "Removal"
       ],
       "reviewedAt": "2026-10-11T19:16:12.268184+00:00"
+    },
+    "e9f5feb2-2c1a-46ce-885a-4f378d7d10af": {
+      "name": "Mystic Gate",
+      "rating": 3,
+      "scryfallId": "3dfa866b-93e2-4365-91b0-f12d1f7c5395",
+      "effects": []
+    },
+    "834b8f71-9a45-42ae-9e99-e749fa6fb45e": {
+      "name": "Mystic Monastery",
+      "rating": 3,
+      "scryfallId": "bae51d77-e06b-4e5a-9543-a17dd0b2a333",
+      "effects": [
+        "ManaFixing"
+      ]
     },
     "491dc110-b459-412e-8a0b-45e5744ee8d1": {
       "name": "Mystic Reflection",
@@ -15421,6 +15737,14 @@
         "ManaFixing"
       ],
       "reviewedAt": "2026-11-03T18:30:12.4119262+00:00"
+    },
+    "4619de7e-3d6e-4c6b-8e6e-e24db324839d": {
+      "name": "Nomad Outpost",
+      "rating": 3,
+      "scryfallId": "fb6ae4a5-227d-465b-9e99-bae158b7d410",
+      "effects": [
+        "ManaFixing"
+      ]
     },
     "89a59a6d-e9d4-405c-8518-4da86dae30d1": {
       "name": "Norn's Inquisitor",
@@ -15948,6 +16272,14 @@
         "Filter"
       ]
     },
+    "f9e7e855-1e3b-42d3-91b0-64ba8b5b8982": {
+      "name": "Opulent Palace",
+      "rating": 3,
+      "scryfallId": "21326575-80b9-4a4e-a93c-6880ec6575d5",
+      "effects": [
+        "ManaFixing"
+      ]
+    },
     "b77dcee1-f42e-4c9d-b6b7-6d5885826060": {
       "name": "Oracle of the Alpha",
       "rating": 5,
@@ -16049,6 +16381,14 @@
         "Ramp"
       ],
       "reviewedAt": "2026-11-06T15:48:53.8911548+00:00"
+    },
+    "aa00ae0b-7c0f-427e-8102-ce0e2a6af5df": {
+      "name": "Orzhov Basilica",
+      "rating": 3,
+      "scryfallId": "f9154d2a-3fc5-4fd6-9885-a810cb6b542a",
+      "effects": [
+        "ManaFixing"
+      ]
     },
     "33c3a81a-6cea-48c9-b966-67084d96e74f": {
       "name": "Osseous Sticktwister",
@@ -16168,6 +16508,14 @@
         "ManaFixing"
       ],
       "reviewedAt": "2026-11-13T13:03:40.2216083+00:00"
+    },
+    "975ec9a3-6f20-4177-8211-82526e092538": {
+      "name": "Overgrown Tomb",
+      "rating": 5,
+      "scryfallId": "fce07335-cc78-4683-b2f0-9c98a06ea1d8",
+      "effects": [
+        "ManaFixing"
+      ]
     },
     "571cb4b6-b4e5-40a2-a970-42c1ab65c8a9": {
       "name": "Overkill",
@@ -17790,6 +18138,14 @@
         "ManaFixing"
       ]
     },
+    "0a023964-2905-4928-9c3e-dc63e6ebd218": {
+      "name": "Rakdos Carnarium",
+      "rating": 3,
+      "scryfallId": "34f146f3-6541-4d2a-96e3-a3cd680c0a1e",
+      "effects": [
+        "ManaFixing"
+      ]
+    },
     "a8828c17-190b-4e64-a0f2-8d14c013d692": {
       "name": "Rakdos Headliner",
       "rating": 3,
@@ -18098,6 +18454,14 @@
         "ManaFixing"
       ],
       "reviewedAt": "2026-11-13T11:39:45.7202064+00:00"
+    },
+    "94f6c407-e665-4032-be13-a01e40c1f306": {
+      "name": "Razorverge Thicket",
+      "rating": 4,
+      "scryfallId": "345e053a-3178-485c-8602-1624bbf2f064",
+      "effects": [
+        "ManaFixing"
+      ]
     },
     "14bc29ee-4f84-4e62-8ede-5741b99414c9": {
       "name": "Reach the Horizon",
@@ -19136,6 +19500,14 @@
       ],
       "reviewedAt": "2026-11-10T08:45:56.1410322+00:00"
     },
+    "9516c4c1-d72d-434f-97e1-6a862434a169": {
+      "name": "Rootbound Crag",
+      "rating": 4,
+      "scryfallId": "5433b11b-efe9-4d94-8f71-6bf7c403494d",
+      "effects": [
+        "ManaFixing"
+      ]
+    },
     "ffe13100-99dd-41e3-82ba-eaead6fd0113": {
       "name": "Rootcast Apprenticeship",
       "rating": 3,
@@ -19258,6 +19630,12 @@
         "Burn"
       ],
       "reviewedAt": "2026-10-27T15:23:30.7286792+00:00"
+    },
+    "8e7641e1-e814-4d5a-9cb3-71ad2f4ceee8": {
+      "name": "Rugged Prairie",
+      "rating": 3,
+      "scryfallId": "e31f8b2a-acf4-423c-bc99-8cf44f3c018a",
+      "effects": []
     },
     "8afc00d4-a1c6-4329-af2c-a7f58a0c33e7": {
       "name": "Ruin Crab",
@@ -19425,6 +19803,14 @@
       ],
       "reviewedAt": "2026-11-10T18:09:57.6117414+00:00"
     },
+    "45181cb8-2090-4471-ba90-e5a8f04d525f": {
+      "name": "Sacred Foundry",
+      "rating": 5,
+      "scryfallId": "168ef687-5797-4b45-b75b-393d8117cebd",
+      "effects": [
+        "ManaFixing"
+      ]
+    },
     "8776d14f-a5a2-4ef3-98d0-e1148e579e4d": {
       "name": "Sacred Mesa",
       "rating": 3,
@@ -19467,6 +19853,12 @@
         "Steal"
       ],
       "reviewedAt": "2026-10-20T18:53:32.0472459+00:00"
+    },
+    "021e4165-2f02-4bd4-86ca-cb7bf4c9e23d": {
+      "name": "Saltcrusted Steppe",
+      "rating": 3,
+      "scryfallId": "2adc67a6-9b05-4480-be0c-70b860075d70",
+      "effects": []
     },
     "0f68ae67-1671-4281-8b6b-3e52fdd4915f": {
       "name": "Salvation Swan",
@@ -19545,6 +19937,14 @@
       ],
       "reviewedAt": "2026-10-09T15:01:36.5002884+00:00"
     },
+    "544dbabd-cbfc-40da-a5ba-2fea9cddb453": {
+      "name": "Sandsteppe Citadel",
+      "rating": 3,
+      "scryfallId": "2dd40d90-c939-458a-9a98-27d10da6ff2f",
+      "effects": [
+        "ManaFixing"
+      ]
+    },
     "ec19a9bc-6fc1-4150-976b-37a47b165016": {
       "name": "Sandstorm Salvager",
       "rating": 4,
@@ -19621,6 +20021,14 @@
         "Reanimate"
       ],
       "reviewedAt": "2026-10-09T09:16:38.9562221+00:00"
+    },
+    "a3292406-3f49-42d6-a547-e43dd5797f84": {
+      "name": "Savage Lands",
+      "rating": 3,
+      "scryfallId": "f6bcded3-6eea-4533-a855-e03d4c4620d6",
+      "effects": [
+        "ManaFixing"
+      ]
     },
     "00625242-9348-4ef4-b975-f2ac82fee21d": {
       "name": "Savai Triome",
@@ -19930,6 +20338,14 @@
         "ManaFixing"
       ]
     },
+    "9e7a240d-dc33-47ac-9f17-77fab4c1c340": {
+      "name": "Seachrome Coast",
+      "rating": 4,
+      "scryfallId": "99939b90-e88c-4c2f-ba78-56d455611703",
+      "effects": [
+        "ManaFixing"
+      ]
+    },
     "72c4c682-df97-4408-997b-e849f54aba39": {
       "name": "Seal from Existence",
       "rating": 3,
@@ -19979,6 +20395,14 @@
         "Tokens"
       ],
       "reviewedAt": "2026-09-12T09:25:37.1654457+00:00"
+    },
+    "2ae77795-6a80-498b-bf69-6fd612f601e4": {
+      "name": "Seaside Citadel",
+      "rating": 3,
+      "scryfallId": "c1995d2a-4550-4c84-ad44-183b06579e98",
+      "effects": [
+        "ManaFixing"
+      ]
     },
     "3ea060d8-449c-4a5e-8883-b45bd7707b5b": {
       "name": "Season of Gathering",
@@ -20128,6 +20552,14 @@
         "ManaFixing"
       ],
       "reviewedAt": "2026-10-16T14:49:30.805493+00:00"
+    },
+    "00ef1c55-dea1-4564-bd57-66de86cba4df": {
+      "name": "Selesnya Sanctuary",
+      "rating": 3,
+      "scryfallId": "c5e51787-f9c9-4926-9df1-a384a3092676",
+      "effects": [
+        "ManaFixing"
+      ]
     },
     "8c489e39-b9ff-400f-a855-3cddf7e112e6": {
       "name": "Sensational Spider-Man",
@@ -20772,6 +21204,14 @@
         "Burn"
       ],
       "reviewedAt": "2026-11-03T15:32:40.0679044+00:00"
+    },
+    "046f5783-cc7b-416a-8cf6-2bcef9c2cc1a": {
+      "name": "Simic Growth Chamber",
+      "rating": 3,
+      "scryfallId": "407d0a0c-a6be-4bd5-8355-1715698c6bde",
+      "effects": [
+        "ManaFixing"
+      ]
     },
     "c567fed8-df00-4579-901e-8754079105bf": {
       "name": "Simic Locket",
@@ -21720,6 +22160,14 @@
         "ManaFixing"
       ]
     },
+    "eb0d8093-5f93-4b25-9384-08f9731bfb28": {
+      "name": "Spirebluff Canal",
+      "rating": 4,
+      "scryfallId": "4e587ea7-0632-4789-ba75-3c410da2bb96",
+      "effects": [
+        "ManaFixing"
+      ]
+    },
     "3913c7f2-86b7-4dd4-84a6-9bd4c1c66781": {
       "name": "Spiritmonger",
       "rating": 3,
@@ -21991,6 +22439,14 @@
       ],
       "reviewedAt": "2026-10-20T18:55:31.0088244+00:00"
     },
+    "17039058-822d-409f-938c-b727a366ba63": {
+      "name": "Steam Vents",
+      "rating": 5,
+      "scryfallId": "054f2276-2dd5-43da-bb26-c57c560861fe",
+      "effects": [
+        "ManaFixing"
+      ]
+    },
     "0fb9a928-9adb-4dc1-9761-857df7e6c643": {
       "name": "Steamcore Scholar",
       "rating": 3,
@@ -22063,6 +22519,14 @@
       "scryfallId": "f93f5055-30d8-4fc4-afa5-29212e8c7536",
       "effects": [],
       "reviewedAt": "2026-09-23T21:32:24.1689421+00:00"
+    },
+    "16052b52-ade1-406f-a06b-ce7ea607fb63": {
+      "name": "Stomping Ground",
+      "rating": 5,
+      "scryfallId": "a2773d8f-f906-475d-aaff-b7ca3b01f188",
+      "effects": [
+        "ManaFixing"
+      ]
     },
     "6e880df6-fc00-43d2-a9c8-f575f40b78c6": {
       "name": "Stone Rain",
@@ -22346,6 +22810,14 @@
       ],
       "reviewedAt": "2026-09-10T13:40:36.9746607+00:00"
     },
+    "6a6c5e17-6465-4a1f-9d63-8a3ce2edc522": {
+      "name": "Sulfur Falls",
+      "rating": 4,
+      "scryfallId": "4968b65d-50e5-4d7e-b78b-cdada1cbf7a7",
+      "effects": [
+        "ManaFixing"
+      ]
+    },
     "7652f328-e142-494b-a869-772ced10c26a": {
       "name": "Sulfuric Vortex",
       "rating": 3,
@@ -22602,6 +23074,12 @@
         "ManaFixing"
       ]
     },
+    "e6415ffb-8b7a-41c3-bedf-0d4112b7b795": {
+      "name": "Sunken Ruins",
+      "rating": 3,
+      "scryfallId": "9d91a31c-b70a-45bd-a8dd-48d49b277f24",
+      "effects": []
+    },
     "a5e5a259-5fa7-4b01-93cb-a2b4aaf80927": {
       "name": "Sunlit Marsh",
       "rating": 4,
@@ -22610,6 +23088,14 @@
         "ManaFixing"
       ],
       "reviewedAt": "2026-10-10T19:17:29.2249636+00:00"
+    },
+    "402ec768-76fb-474e-ae74-babc90d833c4": {
+      "name": "Sunpetal Grove",
+      "rating": 4,
+      "scryfallId": "9f4e8ead-8c82-4258-bc59-551f7a74e042",
+      "effects": [
+        "ManaFixing"
+      ]
     },
     "0718ea67-ced3-46bc-9164-8841e6bd73ae": {
       "name": "Sunrise Cavalier",
@@ -23363,6 +23849,104 @@
         "Pacify"
       ],
       "reviewedAt": "2026-09-04T14:54:46.7712961+00:00"
+    },
+    "f413a83d-a40d-434c-b20a-4c707c0527fa": {
+      "name": "Temple Garden",
+      "rating": 5,
+      "scryfallId": "794a2b79-8c55-4423-8843-7e6e96f84071",
+      "effects": [
+        "ManaFixing"
+      ]
+    },
+    "3baa8e38-ef93-435d-b63e-f781d5bfcc68": {
+      "name": "Temple of Abandon",
+      "rating": 3,
+      "scryfallId": "46febc5d-1625-4e48-bb3f-31ee06fc13dd",
+      "effects": [
+        "Filter",
+        "ManaFixing"
+      ]
+    },
+    "33b9b3bd-33ca-46f3-b8bb-a978bc3d1085": {
+      "name": "Temple of Deceit",
+      "rating": 3,
+      "scryfallId": "686559d7-8ac1-496b-a5a6-1467bf8fc7c5",
+      "effects": [
+        "Filter",
+        "ManaFixing"
+      ]
+    },
+    "89f43e27-790b-4ca1-8ba7-0882b31e0783": {
+      "name": "Temple of Enlightenment",
+      "rating": 3,
+      "scryfallId": "c657a645-f454-4eaf-be0d-15c9989fa4ef",
+      "effects": [
+        "Filter",
+        "ManaFixing"
+      ]
+    },
+    "79f94050-d850-41ca-b1db-5ae0cf743f0a": {
+      "name": "Temple of Epiphany",
+      "rating": 3,
+      "scryfallId": "b882c6bf-b795-49fe-8242-a928aadb6f13",
+      "effects": [
+        "Filter",
+        "ManaFixing"
+      ]
+    },
+    "dc55421f-dee8-4263-9df0-2365df5f14bb": {
+      "name": "Temple of Malady",
+      "rating": 3,
+      "scryfallId": "f30220f1-1992-4b5c-9e13-1762fb673155",
+      "effects": [
+        "Filter",
+        "ManaFixing"
+      ]
+    },
+    "7c439c18-31dc-41fe-b03d-3fca06e6fc0b": {
+      "name": "Temple of Malice",
+      "rating": 3,
+      "scryfallId": "52f50818-aede-4667-883a-e0339d86d870",
+      "effects": [
+        "Filter",
+        "ManaFixing"
+      ]
+    },
+    "7e26f0b7-20e6-46d5-8130-d98c14d6aa29": {
+      "name": "Temple of Mystery",
+      "rating": 3,
+      "scryfallId": "2f66945b-3e64-498a-9478-5f96a61d4ec7",
+      "effects": [
+        "Filter",
+        "ManaFixing"
+      ]
+    },
+    "e521322b-0e83-458c-8936-7021a80ee279": {
+      "name": "Temple of Plenty",
+      "rating": 3,
+      "scryfallId": "b0830054-b140-49c3-90cb-24e2502757be",
+      "effects": [
+        "Filter",
+        "ManaFixing"
+      ]
+    },
+    "e6e6fce8-0f6a-4b84-865e-d4e4a4182f9f": {
+      "name": "Temple of Silence",
+      "rating": 3,
+      "scryfallId": "0f14b6b3-5f40-4328-a3be-28fe32dd7cb1",
+      "effects": [
+        "Filter",
+        "ManaFixing"
+      ]
+    },
+    "6f0d94d9-64bb-4175-83bc-301e8f79f54f": {
+      "name": "Temple of Triumph",
+      "rating": 3,
+      "scryfallId": "4f53049c-2491-4d20-aa19-00eb5c55b438",
+      "effects": [
+        "Filter",
+        "ManaFixing"
+      ]
     },
     "5e8a2416-e311-41ac-a3cd-be1c2441d542": {
       "name": "Temporal Intervention",
@@ -24769,6 +25353,14 @@
       ],
       "reviewedAt": "2026-10-20T18:57:05.6163392+00:00"
     },
+    "99c70f4e-de8a-426d-99aa-17b2f87625ba": {
+      "name": "Training Compound",
+      "rating": 4,
+      "scryfallId": "c91e28db-307f-462a-88aa-581d10e77f10",
+      "effects": [
+        "ManaFixing"
+      ]
+    },
     "e87a4461-f3d1-443f-ad4c-dba91a993809": {
       "name": "Tranquil Frillback",
       "rating": 3,
@@ -24996,6 +25588,76 @@
         "ManaFixing"
       ],
       "reviewedAt": "2026-09-04T14:26:21.6418395+00:00"
+    },
+    "e86a0b64-fe4a-4ea8-99e8-35860dbac765": {
+      "name": "Turbulent Crater",
+      "rating": 4,
+      "scryfallId": "0cb04417-063e-45f7-86d3-7648111d04d7",
+      "effects": [
+        "ManaFixing"
+      ]
+    },
+    "114dd40d-5ad8-4913-a08f-572b9521eb5b": {
+      "name": "Turbulent Fen",
+      "rating": 4,
+      "scryfallId": "9737159b-256c-4004-ba5f-0417c35e1b30",
+      "effects": [
+        "ManaFixing"
+      ]
+    },
+    "2eb4da30-2600-4a7f-8e6c-6a090faa9a8d": {
+      "name": "Turbulent Moor",
+      "rating": 4,
+      "scryfallId": "da54562d-8c09-4728-bb2b-ae8d464106b8",
+      "effects": [
+        "ManaFixing"
+      ]
+    },
+    "c13c5f07-dac5-47d0-a088-e24b9fbec3c5": {
+      "name": "Turbulent Shore",
+      "rating": 4,
+      "scryfallId": "92039341-152a-4797-a3df-e89e8d5145d3",
+      "effects": [
+        "ManaFixing"
+      ]
+    },
+    "9aef7510-9f06-4939-8cae-f71330d1105e": {
+      "name": "Turbulent Springs",
+      "rating": 4,
+      "scryfallId": "a25cb813-aa6d-469c-aa29-61ffa32267f2",
+      "effects": [
+        "ManaFixing"
+      ]
+    },
+    "db444f9d-4dde-4308-b0f2-7acfe6de871a": {
+      "name": "Turbulent Steppe",
+      "rating": 4,
+      "scryfallId": "c0c73dd5-0a88-4a94-9c01-c1473433e46f",
+      "effects": [
+        "ManaFixing"
+      ]
+    },
+    "b51c8659-ec4f-4213-beb1-49a7acd7366c": {
+      "name": "Turbulent Wetlands",
+      "rating": 4,
+      "scryfallId": "8d86f7f8-492d-4e19-8b61-39084c6299ac",
+      "effects": [
+        "ManaFixing"
+      ]
+    },
+    "bd8adca6-4f16-45f8-994a-fe55bd573bd0": {
+      "name": "Turbulent Wilderness",
+      "rating": 4,
+      "scryfallId": "b6ca755c-4b17-450b-b995-bfec8a55396f",
+      "effects": [
+        "ManaFixing"
+      ]
+    },
+    "db623754-e078-4030-ba07-818803c348a8": {
+      "name": "Twilight Mire",
+      "rating": 3,
+      "scryfallId": "ff619a09-4fe5-4341-9077-88a0a9f4fbf9",
+      "effects": []
     },
     "321b5cc6-8df6-4292-97a0-a6a3a22f3b55": {
       "name": "Twinflame Tyrant",
@@ -25562,6 +26224,15 @@
         "CardAdvantage"
       ],
       "reviewedAt": "2026-10-10T19:26:50.5192783+00:00"
+    },
+    "18290c4b-cff6-4ee5-a487-fe0d5706d3de": {
+      "name": "Urban Retreat",
+      "rating": 3,
+      "scryfallId": "2581f320-8238-413d-ab04-d5535da55630",
+      "effects": [
+        "ManaFixing"
+      ],
+      "reviewedAt": "2026-09-11T21:29:55.6771324+00:00"
     },
     "f84d8217-51a4-49ba-9df6-d080ed38f37d": {
       "name": "Urborg Lhurgoyf",
@@ -26174,6 +26845,46 @@
       ],
       "reviewedAt": "2026-09-11T20:02:36.4144113+00:00"
     },
+    "d8e2efe0-33a4-4303-9e83-ac42ea5df8cb": {
+      "name": "Vivid Crag",
+      "rating": 4,
+      "scryfallId": "539001dc-69f0-42c0-b5c3-37d7b12eb79e",
+      "effects": [
+        "ManaFixing"
+      ]
+    },
+    "2da7c49f-cc1e-45d9-9cbf-067e92b0daef": {
+      "name": "Vivid Creek",
+      "rating": 4,
+      "scryfallId": "2e3c2935-84ee-446d-b247-2f574ea84a8f",
+      "effects": [
+        "ManaFixing"
+      ]
+    },
+    "b7a68899-c0d3-49e0-854b-19268ae9b89d": {
+      "name": "Vivid Grove",
+      "rating": 4,
+      "scryfallId": "6646babe-edd8-4367-ba8f-89af4f859dd8",
+      "effects": [
+        "ManaFixing"
+      ]
+    },
+    "20b32052-f66f-4eb8-b56e-00d531907f19": {
+      "name": "Vivid Marsh",
+      "rating": 4,
+      "scryfallId": "31f806c7-0063-4270-b37c-5363c41a7621",
+      "effects": [
+        "ManaFixing"
+      ]
+    },
+    "dee99df5-628f-4a4e-a203-4dfddc927373": {
+      "name": "Vivid Meadow",
+      "rating": 4,
+      "scryfallId": "a535790b-d416-4807-bca0-acf6b192101c",
+      "effects": [
+        "ManaFixing"
+      ]
+    },
     "7256b03e-4fd5-4a0a-9b20-7b88870edfec": {
       "name": "Vivien, Monsters' Advocate",
       "rating": 4,
@@ -26602,6 +27313,14 @@
       "name": "Waterlogged Grove",
       "rating": 4,
       "scryfallId": "0ab6bfbd-d2e1-4c4c-9f91-6f69c5b8e3bb",
+      "effects": [
+        "ManaFixing"
+      ]
+    },
+    "fc9ec820-4245-4a96-b009-5308a818ca58": {
+      "name": "Watery Grave",
+      "rating": 5,
+      "scryfallId": "139b90cd-8272-457a-be32-1298145345be",
       "effects": [
         "ManaFixing"
       ]
@@ -27114,6 +27833,12 @@
       ],
       "reviewedAt": "2026-09-08T10:32:42.8663275+00:00"
     },
+    "61b85077-64aa-4bcc-890d-2d88da9543c0": {
+      "name": "Wooded Bastion",
+      "rating": 3,
+      "scryfallId": "7e088fe6-e47a-4e27-b07e-ec35db045359",
+      "effects": []
+    },
     "6587a463-a108-4854-b6d1-944e89b8c8a4": {
       "name": "Wooded Foothills",
       "rating": 5,
@@ -27139,6 +27864,14 @@
         "Regrowth"
       ],
       "reviewedAt": "2026-10-09T10:38:59.2670227+00:00"
+    },
+    "c9fe1383-1331-4a58-a45a-3320250221a9": {
+      "name": "Woodland Cemetery",
+      "rating": 4,
+      "scryfallId": "67139101-ec5e-434b-be3a-21338cc33840",
+      "effects": [
+        "ManaFixing"
+      ]
     },
     "bf5482b6-dd3e-4fb7-bc62-29e23b417a5f": {
       "name": "Woodland Chasm",
