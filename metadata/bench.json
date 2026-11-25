@@ -192,6 +192,14 @@
       ],
       "reviewedAt": "2026-09-11T21:53:57.1207276+00:00"
     },
+    "bf7ec320-64bb-46ca-aac0-ca3d4224b69e": {
+      "name": "Ajani's Response",
+      "rating": 2,
+      "scryfallId": "9cd1417a-badc-4abd-a8ca-5b31f85c1072",
+      "effects": [
+        "Removal"
+      ]
+    },
     "c03ae426-2536-4c20-a73a-a24e816f76b0": {
       "name": "Akiri, Fearless Voyager",
       "rating": 2,
@@ -255,15 +263,6 @@
         "CardAdvantage"
       ],
       "reviewedAt": "2026-10-16T12:49:24.29259+00:00"
-    },
-    "8c281ebe-d9a1-48af-b58b-19c55aa4625b": {
-      "name": "Alpine Meadow",
-      "rating": 2,
-      "scryfallId": "8702d6b9-bb01-4841-a76d-4a576066c772",
-      "effects": [
-        "ManaFixing"
-      ],
-      "reviewedAt": "2026-11-10T18:17:02.404263+00:00"
     },
     "0a69c3dd-52a3-4ef6-b53f-b0780e0dc5f8": {
       "name": "Alrund, God of the Cosmos // Hakka, Whispering Raven",
@@ -522,15 +521,6 @@
       "scryfallId": "00174be7-0dc8-43b9-81b6-f25a8c3fb4eb",
       "effects": [],
       "reviewedAt": "2026-10-08T22:37:51.4954827+00:00"
-    },
-    "32fb0096-546c-4633-b6e3-ba3f2d9fa49c": {
-      "name": "Arctic Treeline",
-      "rating": 2,
-      "scryfallId": "b20e3117-f1e4-4449-ae9d-0b66abfc717d",
-      "effects": [
-        "ManaFixing"
-      ],
-      "reviewedAt": "2026-11-12T15:21:07.5588483+00:00"
     },
     "628f2deb-519e-4810-a7e5-e31316e9a4e0": {
       "name": "Arcus Acolyte",
@@ -900,6 +890,12 @@
         "ManaFixing"
       ],
       "reviewedAt": "2026-09-22T11:44:05.250315+00:00"
+    },
+    "f5c5f64c-6911-430c-a825-b32b96d39c7d": {
+      "name": "Beetleback Chief",
+      "rating": 2,
+      "scryfallId": "1e3ccf3d-583c-46b4-b51e-ae1b0628d506",
+      "effects": []
     },
     "c573c59a-5a79-4fe1-a6d8-5e0153b5c059": {
       "name": "Befoul",
@@ -2340,6 +2336,14 @@
         "Removal"
       ]
     },
+    "4869a530-757f-4364-8d8e-4dc8001f433c": {
+      "name": "Darkwater Catacombs",
+      "rating": 2,
+      "scryfallId": "2583b941-6156-4c4b-a068-0d0ac75a3dd3",
+      "effects": [
+        "ManaFixing"
+      ]
+    },
     "37df5ade-6a21-4b0c-89f8-e2e917589a8d": {
       "name": "Dawn of a New Age",
       "rating": 2,
@@ -2538,6 +2542,15 @@
       ],
       "reviewedAt": "2026-09-29T10:06:34.2273684+00:00"
     },
+    "3edf9201-265f-4cd9-b27b-8073bf1a4cf2": {
+      "name": "Desolate Mire",
+      "rating": 2,
+      "scryfallId": "05f38637-8cdc-42bb-b164-85596b6b14b9",
+      "effects": [
+        "ManaFixing"
+      ],
+      "reviewedAt": "2026-10-26T21:18:35.057018+00:00"
+    },
     "c23aaf6d-151e-481a-a345-ca00c14940d1": {
       "name": "Desolation Giant",
       "rating": 2,
@@ -2708,6 +2721,14 @@
         "Redirect"
       ],
       "reviewedAt": "2026-11-13T22:43:28.4804927+00:00"
+    },
+    "021d8596-782a-4cfd-8b70-ac5bb8a5aff1": {
+      "name": "Drag Under",
+      "rating": 2,
+      "scryfallId": "0dffa444-92ff-41d8-8b55-8896808bbfab",
+      "effects": [
+        "Bounce"
+      ]
     },
     "0c0ffb66-94db-4ba9-afde-c5b4fbf09578": {
       "name": "Drag the Canal",
@@ -2926,6 +2947,14 @@
         "Regrowth"
       ],
       "reviewedAt": "2026-11-13T13:51:43.5433209+00:00"
+    },
+    "c06c17c2-203c-4b4a-8564-f29bc41c9eb5": {
+      "name": "Eject the Warp Core",
+      "rating": 2,
+      "scryfallId": "04a479be-8093-4775-a5d9-8b0e1683bf12",
+      "effects": [
+        "Removal"
+      ]
     },
     "a4d33e21-d3fe-4d5b-903c-b75e859d6f7f": {
       "name": "Elas il-Kor, Sadistic Pilgrim",
@@ -4064,15 +4093,6 @@
       "effects": [],
       "reviewedAt": "2026-09-05T10:23:45.9655743+00:00"
     },
-    "5d3563dd-a2c1-463c-a0ed-5ac22388bdbe": {
-      "name": "Glacial Floodplain",
-      "rating": 2,
-      "scryfallId": "9de5fadd-4559-479f-b45d-abe792f0f6e5",
-      "effects": [
-        "ManaFixing"
-      ],
-      "reviewedAt": "2026-11-12T14:01:46.8687578+00:00"
-    },
     "7fcf8faa-2c93-4dc8-aa56-6fc40340e212": {
       "name": "Glacial Wall",
       "rating": 2,
@@ -4290,6 +4310,14 @@
       ],
       "reviewedAt": "2026-09-08T10:30:30.7564253+00:00"
     },
+    "5e35a7c9-1e6e-41a7-9f59-5ea1bc53bc65": {
+      "name": "Greenweaver Druid",
+      "rating": 2,
+      "scryfallId": "747099f7-ce5b-4366-a8a4-f3d80100f66e",
+      "effects": [
+        "Ramp"
+      ]
+    },
     "14291205-1ac2-4804-b365-4f65377d5803": {
       "name": "Grey Havens Navigator",
       "rating": 2,
@@ -4357,6 +4385,14 @@
         "Sacrifice"
       ],
       "reviewedAt": "2026-11-10T18:04:32.675654+00:00"
+    },
+    "9a334434-072a-4486-810a-63efb29dea6d": {
+      "name": "Grounded for Life",
+      "rating": 2,
+      "scryfallId": "72388199-85fa-4eba-9a9c-c2904e6da9ed",
+      "effects": [
+        "Removal"
+      ]
     },
     "c24e34e7-0ac6-451a-b73b-31c7f96d123f": {
       "name": "Gruesome Realization",
@@ -4642,15 +4678,6 @@
       ],
       "reviewedAt": "2026-09-23T21:43:41.58116+00:00"
     },
-    "35137378-6754-4bb1-a38e-5940890ccab1": {
-      "name": "Highland Forest",
-      "rating": 2,
-      "scryfallId": "682eee5f-7986-45d3-910f-407303fdbcc4",
-      "effects": [
-        "ManaFixing"
-      ],
-      "reviewedAt": "2026-11-13T13:03:24.932186+00:00"
-    },
     "df020a47-1784-479b-9882-be77b7f30950": {
       "name": "Highway Robbery",
       "rating": 2,
@@ -4788,15 +4815,6 @@
         "CardAdvantage"
       ],
       "reviewedAt": "2026-10-10T19:49:48.7831917+00:00"
-    },
-    "40c5d6fe-854a-436d-9f80-13eb5f1f8f68": {
-      "name": "Ice Tunnel",
-      "rating": 2,
-      "scryfallId": "8cff3ef0-4dfb-472e-aa1e-77613dd0f6d8",
-      "effects": [
-        "ManaFixing"
-      ],
-      "reviewedAt": "2026-11-13T11:33:18.2922011+00:00"
     },
     "109cdefd-e8cc-4ac7-b6ba-2cfdef8d780f": {
       "name": "Icetill Explorer",
@@ -5721,6 +5739,14 @@
       "effects": [],
       "reviewedAt": "2026-11-05T09:57:36.966015+00:00"
     },
+    "a82c3860-4dd6-4ffd-aa8f-ab8df687db6c": {
+      "name": "Last Gasp",
+      "rating": 2,
+      "scryfallId": "34e035b3-bd83-43a4-8f31-d2393d29cd94",
+      "effects": [
+        "Removal"
+      ]
+    },
     "0ad48edf-49e2-4f3a-b50e-11231a616752": {
       "name": "Last Night Together",
       "rating": 2,
@@ -6603,6 +6629,14 @@
       "scryfallId": "fdc0d499-4a22-4f33-83c7-4e8cdbc3ebe6",
       "effects": []
     },
+    "23bbd091-f6ff-4514-97aa-42c08164b4eb": {
+      "name": "Mossfire Valley",
+      "rating": 2,
+      "scryfallId": "6b6c08ce-d01d-4ae6-81d3-149679e27e6a",
+      "effects": [
+        "ManaFixing"
+      ]
+    },
     "fe742976-ef13-4c25-972f-254b1ed436de": {
       "name": "Mother Bear",
       "rating": 2,
@@ -7146,6 +7180,15 @@
         "Counter"
       ],
       "reviewedAt": "2026-11-13T13:19:10.6478446+00:00"
+    },
+    "5ac8e01c-b0a7-4855-a122-1cd26b07c4a5": {
+      "name": "Overflowing Basin",
+      "rating": 2,
+      "scryfallId": "75372ba1-85fb-4923-a62f-4050761c1471",
+      "effects": [
+        "ManaFixing"
+      ],
+      "reviewedAt": "2026-10-26T21:17:52.5989667+00:00"
     },
     "e6ccebf4-f4f0-404f-a634-4d751ef9c8aa": {
       "name": "Overgrowth",
@@ -8131,15 +8174,6 @@
       ],
       "reviewedAt": "2026-11-10T17:50:28.4501487+00:00"
     },
-    "983739cd-0b36-40d9-9a03-7b6aa7ffd0df": {
-      "name": "Rimewood Falls",
-      "rating": 2,
-      "scryfallId": "da1db084-f235-4e26-8867-5f0835a0d283",
-      "effects": [
-        "ManaFixing"
-      ],
-      "reviewedAt": "2026-11-13T13:54:12.2747207+00:00"
-    },
     "f89de40f-52d3-44b1-8faa-6ddaa32880d0": {
       "name": "Rith, Liberated Primeval",
       "rating": 2,
@@ -8761,6 +8795,14 @@
       ],
       "reviewedAt": "2026-11-10T08:46:08.4227434+00:00"
     },
+    "15687ee3-3cdb-4a8f-a726-46b73bceb792": {
+      "name": "Shadowblood Ridge",
+      "rating": 2,
+      "scryfallId": "69a5f84a-9e9b-42b6-a973-864409d6e564",
+      "effects": [
+        "ManaFixing"
+      ]
+    },
     "10be1b27-bc9f-4c6e-ac85-f1fa8b2a34d6": {
       "name": "Shady Traveler // Stalking Predator",
       "rating": 2,
@@ -9003,6 +9045,14 @@
       "effects": [],
       "reviewedAt": "2026-11-13T22:57:08.0724917+00:00"
     },
+    "76f335d0-7f71-4b1a-b60d-73de954cbe2c": {
+      "name": "Skycloud Expanse",
+      "rating": 2,
+      "scryfallId": "c8c0da61-59c5-4206-83d9-c4676e169f01",
+      "effects": [
+        "ManaFixing"
+      ]
+    },
     "7e497f6b-69e1-4fab-bb04-f687c99a8310": {
       "name": "Skyknight Squire",
       "rating": 2,
@@ -9112,15 +9162,6 @@
         "Pacify"
       ],
       "reviewedAt": "2026-10-06T14:15:20.8520786+00:00"
-    },
-    "749c2c8e-9588-4e83-b07f-3c37eb63338b": {
-      "name": "Snowfield Sinkhole",
-      "rating": 2,
-      "scryfallId": "6611dc5e-6acc-48df-b8c4-4b327314578b",
-      "effects": [
-        "ManaFixing"
-      ],
-      "reviewedAt": "2026-11-12T08:41:47.0992413+00:00"
     },
     "90b4d288-e950-4182-af62-516549a8712c": {
       "name": "Sokka, Swordmaster",
@@ -9623,15 +9664,6 @@
         "Wipe"
       ]
     },
-    "77cf536e-246e-4c18-8e04-c904fcad3f40": {
-      "name": "Sulfurous Mire",
-      "rating": 2,
-      "scryfallId": "35ebe245-ebb5-493c-b9c1-56fbfda9bd66",
-      "effects": [
-        "ManaFixing"
-      ],
-      "reviewedAt": "2026-11-13T11:34:32.2572141+00:00"
-    },
     "b6b22bac-853a-45a8-a74d-9904ec2b34fd": {
       "name": "Summon: G.F. Cerberus",
       "rating": 2,
@@ -9686,6 +9718,14 @@
         "Removal"
       ],
       "reviewedAt": "2026-11-12T07:40:39.8725479+00:00"
+    },
+    "0a28dff0-2bd6-4105-b73a-b6c4735833fd": {
+      "name": "Sungrass Prairie",
+      "rating": 2,
+      "scryfallId": "7bfa27ee-553e-4c6e-a79c-9757bd74c057",
+      "effects": [
+        "ManaFixing"
+      ]
     },
     "f17b9356-a329-4f89-b690-afc2eaff4977": {
       "name": "Sunpearl Kirin",
@@ -11120,15 +11160,6 @@
         "Counter"
       ]
     },
-    "96262c15-9130-409c-8242-71f84be719b7": {
-      "name": "Volatile Fjord",
-      "rating": 2,
-      "scryfallId": "f2392fbb-d9c4-4688-b99c-4e7614c60c12",
-      "effects": [
-        "ManaFixing"
-      ],
-      "reviewedAt": "2026-11-13T13:52:39.7297274+00:00"
-    },
     "b3cc2ed9-1da3-4ad2-a9a7-de7665d800ff": {
       "name": "Voldaren Thrillseeker",
       "rating": 2,
@@ -11506,15 +11537,6 @@
         "Tokens"
       ],
       "reviewedAt": "2026-09-11T21:53:52.4321835+00:00"
-    },
-    "bf5482b6-dd3e-4fb7-bc62-29e23b417a5f": {
-      "name": "Woodland Chasm",
-      "rating": 2,
-      "scryfallId": "b2dd0b71-5a60-418c-82fc-f13d1b5075d0",
-      "effects": [
-        "ManaFixing"
-      ],
-      "reviewedAt": "2026-11-13T11:40:28.7243432+00:00"
     },
     "df63e124-1542-48d6-b255-cf45855f1e93": {
       "name": "Woodland Liege",
