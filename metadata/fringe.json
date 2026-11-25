@@ -23775,15 +23775,6 @@
       ],
       "reviewedAt": "2026-10-23T10:05:42.2209427+00:00"
     },
-    "d59488b5-1118-4276-b862-11e860c7c32a": {
-      "name": "Detained by Legionnaires",
-      "rating": 1,
-      "scryfallId": "fe06e87f-8915-4fc2-81fd-168a371dc407",
-      "effects": [
-        "Pacify"
-      ],
-      "reviewedAt": "2026-09-12T09:34:19.19016+00:00"
-    },
     "10d1d6ca-95f8-48da-8798-37c8aadb1f1f": {
       "name": "Detective of the Month",
       "rating": 1,
@@ -33984,15 +33975,6 @@
       "effects": [],
       "reviewedAt": "2026-11-11T20:23:30.4312003+00:00"
     },
-    "37e44e1c-481d-4f5d-b76b-036f40e9124e": {
-      "name": "Flame Burst",
-      "rating": 1,
-      "scryfallId": "64bbd438-7df2-4d7b-88ad-4531ebaf3931",
-      "effects": [
-        "Removal",
-        "Burn"
-      ]
-    },
     "fa4755c2-e573-45c3-bd6a-61b2b35fbd24": {
       "name": "Flame Discharge",
       "rating": 1,
@@ -35204,14 +35186,6 @@
       "scryfallId": "36eae0e1-7100-449d-a259-7abfcd429117",
       "effects": [
         "Wipe"
-      ]
-    },
-    "ccf1336c-2ea5-4582-84a5-0b29b3cca6c2": {
-      "name": "Forced Retreat",
-      "rating": 1,
-      "scryfallId": "9753d211-3436-4a9b-86d9-54a541770ec2",
-      "effects": [
-        "Bounce"
       ]
     },
     "21d3db6b-58cc-435c-bfd6-8320f6efcbbe": {
@@ -40463,15 +40437,6 @@
         "Buff"
       ],
       "reviewedAt": "2026-10-16T14:43:43.3267069+00:00"
-    },
-    "cf0492de-cec5-4455-839f-212246b7e9ea": {
-      "name": "Gollum's Bite",
-      "rating": 1,
-      "scryfallId": "1b1e790e-ff82-4888-8aee-9986c646241a",
-      "effects": [
-        "Removal"
-      ],
-      "reviewedAt": "2026-09-29T14:53:09.1858726+00:00"
     },
     "95d59a06-5144-4da3-8a9c-846b087975b9": {
       "name": "Gollum, Obsessed Stalker",
@@ -60611,15 +60576,6 @@
         "Discard"
       ]
     },
-    "1d8e0d40-ab2c-46e2-80c2-69dfdd47aefc": {
-      "name": "Mind Rake",
-      "rating": 1,
-      "scryfallId": "682ccb0a-5e73-462e-a035-87d4dac59779",
-      "effects": [
-        "Discard"
-      ],
-      "reviewedAt": "2026-10-20T19:54:18.1556318+00:00"
-    },
     "8cd0fcac-800a-431c-aca9-804998704606": {
       "name": "Mind Ravel",
       "rating": 1,
@@ -68900,17 +68856,6 @@
       ],
       "reviewedAt": "2026-11-13T08:19:48.1019463+00:00"
     },
-    "ac94860b-70b8-4624-9758-4bb024a56f60": {
-      "name": "Path to Redemption",
-      "rating": 1,
-      "scryfallId": "f936d64a-0db4-49c1-8a57-6d99e012a555",
-      "effects": [
-        "Tokens",
-        "Removal",
-        "Pacify"
-      ],
-      "reviewedAt": "2026-10-15T08:06:53.194663+00:00"
-    },
     "a933f443-dd53-4805-8446-72693a27cb56": {
       "name": "Path to the World Tree",
       "rating": 1,
@@ -71691,14 +71636,6 @@
       "scryfallId": "04dc842c-3250-44ed-906c-38f14bf1f0e2",
       "effects": [
         "CardAdvantage"
-      ]
-    },
-    "250f8642-9754-48fd-8f09-70ed13d7a42c": {
-      "name": "Preemptive Strike",
-      "rating": 1,
-      "scryfallId": "c2314bf1-b22d-48c2-860f-e1081f56296b",
-      "effects": [
-        "Counter"
       ]
     },
     "e1c458ca-10f6-4da8-a93d-3adfb86fe97d": {
@@ -75694,15 +75631,6 @@
       ],
       "reviewedAt": "2026-10-09T13:16:51.8715201+00:00"
     },
-    "584cf0fd-112a-4ca6-9c0e-1f3228a7d325": {
-      "name": "Reckless Impulse",
-      "rating": 1,
-      "scryfallId": "6943c07f-ab0d-4f5a-bbe9-c0a83dc98546",
-      "effects": [
-        "CardAdvantage"
-      ],
-      "reviewedAt": "2026-11-12T14:08:41.2845954+00:00"
-    },
     "73733fa5-d292-40ec-8f17-05ba5feb40ab": {
       "name": "Reckless Lackey",
       "rating": 1,
@@ -76948,15 +76876,6 @@
       "scryfallId": "228a8d29-cc14-49c7-ae24-5847344583ed",
       "effects": [],
       "reviewedAt": "2026-09-08T10:37:32.8091133+00:00"
-    },
-    "c415bfdd-3d42-4f94-9f93-7e310becbc8b": {
-      "name": "Restart Sequence",
-      "rating": 1,
-      "scryfallId": "9a2b1b20-e5fd-4ccb-8529-12dbde0e0811",
-      "effects": [
-        "Reanimate"
-      ],
-      "reviewedAt": "2026-10-26T21:23:55.0298942+00:00"
     },
     "7aef5d2e-b66d-4822-b563-44d21d008272": {
       "name": "Restless Bloodseeker // Bloodsoaked Reveler",
@@ -82027,15 +81946,6 @@
       "effects": [],
       "reviewedAt": "2026-09-04T14:17:13.2242573+00:00"
     },
-    "b515dfc6-1a1e-46d6-a7a3-0e3af8279f49": {
-      "name": "Scatter Ray",
-      "rating": 1,
-      "scryfallId": "1c2852c9-d566-4824-836a-2f4c7a5148a1",
-      "effects": [
-        "Counter"
-      ],
-      "reviewedAt": "2026-10-16T15:01:33.2714568+00:00"
-    },
     "ed3652da-0127-4c9e-9913-f20becdd0ba9": {
       "name": "Scattershot",
       "rating": 1,
@@ -83540,15 +83450,6 @@
         "Tokens"
       ],
       "reviewedAt": "2026-11-12T14:08:19.6138088+00:00"
-    },
-    "7ac608bc-dc2a-43c9-9b3b-1b985c121d60": {
-      "name": "Seized from Slumber",
-      "rating": 1,
-      "scryfallId": "24456083-0c76-46c5-9b18-8d468702df69",
-      "effects": [
-        "Removal"
-      ],
-      "reviewedAt": "2026-09-25T10:49:44.5197879+00:00"
     },
     "550921f5-ec65-460d-9ada-f2c5a4c4b2c4": {
       "name": "Seizures",
@@ -96533,12 +96434,6 @@
         "Bounce"
       ]
     },
-    "6b6ac99a-7548-4cad-9fe5-ea611618ab9e": {
-      "name": "Temporal Manipulation",
-      "rating": 1,
-      "scryfallId": "b3964160-79d6-4cdd-8b43-7a8f5dde9da7",
-      "effects": []
-    },
     "4f9c66f9-f5d4-499d-9325-e779e6612bca": {
       "name": "Temporary Insanity",
       "rating": 1,
@@ -105266,15 +105161,6 @@
         "CardAdvantage"
       ],
       "reviewedAt": "2026-09-10T07:21:35.8972759+00:00"
-    },
-    "93af8f9d-6877-4cb8-a744-c89186db22e1": {
-      "name": "Vayne's Treachery",
-      "rating": 1,
-      "scryfallId": "6de6d23b-7d42-41c1-be1c-010fe43ee586",
-      "effects": [
-        "Removal"
-      ],
-      "reviewedAt": "2026-09-11T20:02:15.4081511+00:00"
     },
     "7446c013-63b0-402b-b8b9-dd25ccc553df": {
       "name": "Vazi, Keen Negotiator",

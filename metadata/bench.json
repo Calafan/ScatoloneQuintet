@@ -1722,16 +1722,6 @@
       ],
       "reviewedAt": "2026-10-16T09:51:26.071335+00:00"
     },
-    "91179937-6f55-4d1b-8f06-2efe1c8fea7a": {
-      "name": "Channeled Dragonfire",
-      "rating": 2,
-      "scryfallId": "24204881-690c-4043-8771-20cb93385072",
-      "effects": [
-        "Removal",
-        "Burn"
-      ],
-      "reviewedAt": "2026-10-26T20:54:57.3916566+00:00"
-    },
     "937f0c60-003e-446d-8889-059f7b4a2dd6": {
       "name": "Charge of the Forever-Beast",
       "rating": 2,
@@ -3176,15 +3166,6 @@
       ],
       "reviewedAt": "2026-10-27T15:23:32.2475497+00:00"
     },
-    "0056fc91-4398-471c-b561-7ff99750ac8a": {
-      "name": "Escape Tunnel",
-      "rating": 2,
-      "scryfallId": "93ddde4f-d35e-4128-8f43-d0eadbd715de",
-      "effects": [
-        "ManaFixing"
-      ],
-      "reviewedAt": "2026-09-23T14:30:05.9074397+00:00"
-    },
     "6ccca5c2-66c3-495a-8d9e-1a9805569e52": {
       "name": "Etched Cornfield",
       "rating": 2,
@@ -3426,14 +3407,6 @@
         "Reanimate"
       ]
     },
-    "4f891c68-c959-4210-94e5-94a8e487d5ef": {
-      "name": "False Summoning",
-      "rating": 2,
-      "scryfallId": "cd7d30a8-bc7a-42bc-8d1b-600cbf78ab98",
-      "effects": [
-        "Counter"
-      ]
-    },
     "8b9734c1-7185-40f6-8582-9f87109e3a09": {
       "name": "Far Fortune, End Boss",
       "rating": 2,
@@ -3652,6 +3625,16 @@
       "effects": [],
       "reviewedAt": "2026-10-22T09:15:21.9275634+00:00"
     },
+    "37e44e1c-481d-4f5d-b76b-036f40e9124e": {
+      "name": "Flame Burst",
+      "rating": 2,
+      "scryfallId": "64bbd438-7df2-4d7b-88ad-4531ebaf3931",
+      "effects": [
+        "Removal",
+        "Burn"
+      ],
+      "reviewedAt": "2026-11-25T09:55:28.678293+00:00"
+    },
     "f3d935cd-d582-464a-a13b-bb84a53da4a1": {
       "name": "Flameskull",
       "rating": 2,
@@ -3769,6 +3752,15 @@
         "Counter"
       ],
       "reviewedAt": "2026-09-05T08:08:40.3686207+00:00"
+    },
+    "ccf1336c-2ea5-4582-84a5-0b29b3cca6c2": {
+      "name": "Forced Retreat",
+      "rating": 2,
+      "scryfallId": "9753d211-3436-4a9b-86d9-54a541770ec2",
+      "effects": [
+        "Bounce"
+      ],
+      "reviewedAt": "2026-11-25T09:55:28.678293+00:00"
     },
     "bd6823fb-a696-4e6d-9c5e-3b55dfe03730": {
       "name": "Forcefield",
@@ -8029,6 +8021,15 @@
       "effects": [],
       "reviewedAt": "2026-10-16T14:54:42.022146+00:00"
     },
+    "c415bfdd-3d42-4f94-9f93-7e310becbc8b": {
+      "name": "Restart Sequence",
+      "rating": 2,
+      "scryfallId": "9a2b1b20-e5fd-4ccb-8529-12dbde0e0811",
+      "effects": [
+        "Reanimate"
+      ],
+      "reviewedAt": "2026-10-26T21:23:55.0298942+00:00"
+    },
     "837417d8-8260-486d-a3ed-3b5711eaf34a": {
       "name": "Resurrection",
       "rating": 2,
@@ -8444,6 +8445,15 @@
         "Discard"
       ]
     },
+    "b515dfc6-1a1e-46d6-a7a3-0e3af8279f49": {
+      "name": "Scatter Ray",
+      "rating": 2,
+      "scryfallId": "1c2852c9-d566-4824-836a-2f4c7a5148a1",
+      "effects": [
+        "Counter"
+      ],
+      "reviewedAt": "2026-10-16T15:01:33.2714568+00:00"
+    },
     "7594d892-1589-4643-a72a-2cfb2730a83d": {
       "name": "Scattered Thoughts",
       "rating": 2,
@@ -8613,6 +8623,15 @@
         "Burn"
       ],
       "reviewedAt": "2026-11-03T10:58:06.5499322+00:00"
+    },
+    "7ac608bc-dc2a-43c9-9b3b-1b985c121d60": {
+      "name": "Seized from Slumber",
+      "rating": 2,
+      "scryfallId": "24456083-0c76-46c5-9b18-8d468702df69",
+      "effects": [
+        "Removal"
+      ],
+      "reviewedAt": "2026-09-25T10:49:44.5197879+00:00"
     },
     "d54e4e37-042b-44a5-918d-757308545d4d": {
       "name": "Sejiri Shelter // Sejiri Glacier",
@@ -9955,6 +9974,13 @@
       ],
       "reviewedAt": "2026-10-22T12:22:54.0922258+00:00"
     },
+    "6b6ac99a-7548-4cad-9fe5-ea611618ab9e": {
+      "name": "Temporal Manipulation",
+      "rating": 2,
+      "scryfallId": "b3964160-79d6-4cdd-8b43-7a8f5dde9da7",
+      "effects": [],
+      "reviewedAt": "2026-11-25T09:55:28.678293+00:00"
+    },
     "1d7a4e9c-b3c9-421e-b5f4-82d51d7d5125": {
       "name": "Temporal Spring",
       "rating": 2,
@@ -10946,6 +10972,15 @@
         "Buff"
       ],
       "reviewedAt": "2026-09-25T08:19:14.768343+00:00"
+    },
+    "93af8f9d-6877-4cb8-a744-c89186db22e1": {
+      "name": "Vayne's Treachery",
+      "rating": 2,
+      "scryfallId": "6de6d23b-7d42-41c1-be1c-010fe43ee586",
+      "effects": [
+        "Removal"
+      ],
+      "reviewedAt": "2026-09-11T20:02:15.4081511+00:00"
     },
     "fa123b21-518a-4f1d-9629-c44576d45f21": {
       "name": "Veloheart Bike",

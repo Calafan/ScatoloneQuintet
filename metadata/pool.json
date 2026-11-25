@@ -3644,6 +3644,16 @@
       ],
       "reviewedAt": "2026-09-04T13:22:03.2986907+00:00"
     },
+    "91179937-6f55-4d1b-8f06-2efe1c8fea7a": {
+      "name": "Channeled Dragonfire",
+      "rating": 3,
+      "scryfallId": "24204881-690c-4043-8771-20cb93385072",
+      "effects": [
+        "Removal",
+        "Burn"
+      ],
+      "reviewedAt": "2026-10-26T20:54:57.3916566+00:00"
+    },
     "eba7ef08-f444-4d23-92b8-29d2ac08b156": {
       "name": "Chaos Defiler",
       "rating": 4,
@@ -5635,6 +5645,15 @@
       ],
       "reviewedAt": "2026-10-10T19:41:51.9322443+00:00"
     },
+    "d59488b5-1118-4276-b862-11e860c7c32a": {
+      "name": "Detained by Legionnaires",
+      "rating": 3,
+      "scryfallId": "fe06e87f-8915-4fc2-81fd-168a371dc407",
+      "effects": [
+        "Pacify"
+      ],
+      "reviewedAt": "2026-09-12T09:34:19.19016+00:00"
+    },
     "52c3fe55-74ee-44cb-b62b-dc6c5dfdc33e": {
       "name": "Detective's Phoenix",
       "rating": 4,
@@ -6984,6 +7003,15 @@
       ],
       "reviewedAt": "2026-11-03T18:35:36.0638527+00:00"
     },
+    "0056fc91-4398-471c-b561-7ff99750ac8a": {
+      "name": "Escape Tunnel",
+      "rating": 4,
+      "scryfallId": "93ddde4f-d35e-4128-8f43-d0eadbd715de",
+      "effects": [
+        "ManaFixing"
+      ],
+      "reviewedAt": "2026-09-23T14:30:05.9074397+00:00"
+    },
     "45a8c126-5396-4736-a37e-460a50706a98": {
       "name": "Escape to the Wilds",
       "rating": 3,
@@ -7586,6 +7614,15 @@
         "CardAdvantage"
       ]
     },
+    "4f891c68-c959-4210-94e5-94a8e487d5ef": {
+      "name": "False Summoning",
+      "rating": 3,
+      "scryfallId": "cd7d30a8-bc7a-42bc-8d1b-600cbf78ab98",
+      "effects": [
+        "Counter"
+      ],
+      "reviewedAt": "2026-11-25T09:55:28.678293+00:00"
+    },
     "7f5bebfd-faf3-485f-b906-aa96d621d499": {
       "name": "Family's Favor",
       "rating": 4,
@@ -7860,7 +7897,7 @@
     },
     "f718e507-296b-4f22-842b-5fb91322069b": {
       "name": "Feign Death",
-      "rating": 3,
+      "rating": 4,
       "scryfallId": "32af7061-fca6-4a06-be3c-01881e6b96f7",
       "effects": [
         "Protection"
@@ -8820,7 +8857,7 @@
     },
     "df317532-7d36-40fd-938f-e972749c8792": {
       "name": "Fyndhorn Elves",
-      "rating": 3,
+      "rating": 4,
       "scryfallId": "3ba95ffa-990a-4013-98b7-5d8c0b34e9c4",
       "effects": [
         "Ramp"
@@ -9643,6 +9680,15 @@
         "ManaFixing"
       ],
       "reviewedAt": "2026-09-12T09:22:59.1460725+00:00"
+    },
+    "cf0492de-cec5-4455-839f-212246b7e9ea": {
+      "name": "Gollum's Bite",
+      "rating": 3,
+      "scryfallId": "1b1e790e-ff82-4888-8aee-9986c646241a",
+      "effects": [
+        "Removal"
+      ],
+      "reviewedAt": "2026-09-29T14:53:09.1858726+00:00"
     },
     "3fb5c9a6-3fab-4109-875b-83c92518c5eb": {
       "name": "Gollum, Scheming Guide",
@@ -13915,6 +13961,15 @@
       ],
       "reviewedAt": "2026-11-10T18:06:39.2114666+00:00"
     },
+    "1d8e0d40-ab2c-46e2-80c2-69dfdd47aefc": {
+      "name": "Mind Rake",
+      "rating": 3,
+      "scryfallId": "682ccb0a-5e73-462e-a035-87d4dac59779",
+      "effects": [
+        "Discard"
+      ],
+      "reviewedAt": "2026-10-20T19:54:18.1556318+00:00"
+    },
     "ad44cf74-b717-48fb-9fa2-77512024d76a": {
       "name": "Mind Rot",
       "rating": 3,
@@ -16039,6 +16094,17 @@
       ],
       "reviewedAt": "2026-10-06T18:36:34.3548024+00:00"
     },
+    "ac94860b-70b8-4624-9758-4bb024a56f60": {
+      "name": "Path to Redemption",
+      "rating": 3,
+      "scryfallId": "f936d64a-0db4-49c1-8a57-6d99e012a555",
+      "effects": [
+        "Tokens",
+        "Removal",
+        "Pacify"
+      ],
+      "reviewedAt": "2026-10-15T08:06:53.194663+00:00"
+    },
     "e54d4ecf-ebcc-4374-98e7-c682f83c82a9": {
       "name": "Path to the Festival",
       "rating": 4,
@@ -16764,6 +16830,15 @@
         "CardAdvantage"
       ],
       "reviewedAt": "2026-10-09T14:34:16.8867528+00:00"
+    },
+    "250f8642-9754-48fd-8f09-70ed13d7a42c": {
+      "name": "Preemptive Strike",
+      "rating": 3,
+      "scryfallId": "c2314bf1-b22d-48c2-860f-e1081f56296b",
+      "effects": [
+        "Counter"
+      ],
+      "reviewedAt": "2026-11-25T09:55:28.678293+00:00"
     },
     "fefef024-3a05-4221-bb74-419ee08716e5": {
       "name": "Pretending Poxbearers",
@@ -17745,6 +17820,15 @@
         "Disenchant"
       ],
       "reviewedAt": "2026-10-20T19:32:00.5359361+00:00"
+    },
+    "584cf0fd-112a-4ca6-9c0e-1f3228a7d325": {
+      "name": "Reckless Impulse",
+      "rating": 3,
+      "scryfallId": "6943c07f-ab0d-4f5a-bbe9-c0a83dc98546",
+      "effects": [
+        "CardAdvantage"
+      ],
+      "reviewedAt": "2026-11-12T14:08:41.2845954+00:00"
     },
     "a684df3a-5441-4daa-86d1-c47a91b35e6a": {
       "name": "Reckless Spite",
