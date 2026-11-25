@@ -315,6 +315,15 @@
       "effects": [],
       "reviewedAt": "2026-09-12T09:23:59.2055878+00:00"
     },
+    "dbfa2743-34ff-40e3-81f7-740fc08cd18a": {
+      "name": "Ancestral Reminiscence",
+      "rating": 2,
+      "scryfallId": "625690d3-7131-45de-adea-9c927241e661",
+      "effects": [
+        "CardAdvantage"
+      ],
+      "reviewedAt": "2026-10-09T10:38:21.563654+00:00"
+    },
     "0ea6d165-2c30-41a4-8829-6d0510afc03f": {
       "name": "And They Shall Know No Fear",
       "rating": 2,
@@ -839,6 +848,14 @@
       ],
       "reviewedAt": "2026-09-23T21:46:07.7236028+00:00"
     },
+    "72d793e8-1d19-4ca1-894c-8851a2ebecde": {
+      "name": "Bathe in Dragonfire",
+      "rating": 2,
+      "scryfallId": "b8cc6931-2005-4d0a-a42a-ce8bc279372e",
+      "effects": [
+        "Removal"
+      ]
+    },
     "5a7b89a6-d42d-4fd4-8754-d9c3e3df2118": {
       "name": "Battle of Frost and Fire",
       "rating": 2,
@@ -848,6 +865,15 @@
         "CardAdvantage"
       ],
       "reviewedAt": "2026-11-05T10:23:42.5367543+00:00"
+    },
+    "533d6b9f-a145-44c4-9d16-74fcd9c0ae2f": {
+      "name": "Battle-Rage Blessing",
+      "rating": 2,
+      "scryfallId": "7cfc631b-49d1-4f1c-adac-5b07a2ccd06f",
+      "effects": [
+        "Protection"
+      ],
+      "reviewedAt": "2026-10-11T19:03:24.8066933+00:00"
     },
     "49f0b317-6b06-482e-ab64-e02713e6c7e8": {
       "name": "Battlewing Mystic",
@@ -1909,6 +1935,15 @@
       "effects": [],
       "reviewedAt": "2026-10-22T09:20:47.6241285+00:00"
     },
+    "68413337-ddb9-46f8-8c8e-f3d2d672c652": {
+      "name": "Coercion",
+      "rating": 2,
+      "scryfallId": "f3b07d33-f5f5-45cc-b2ac-360eaf2d4146",
+      "effects": [
+        "Discard"
+      ],
+      "reviewedAt": "2026-09-08T09:59:35.3483002+00:00"
+    },
     "c19ec6aa-aadd-4767-b695-384fd07b4ded": {
       "name": "Coffin Queen",
       "rating": 2,
@@ -2166,6 +2201,15 @@
       "effects": [
         "Discard"
       ]
+    },
+    "b26cfeb0-7bbe-4d93-8eed-e832f175a80c": {
+      "name": "Crossroads Village",
+      "rating": 2,
+      "scryfallId": "64db46d4-f91f-49cc-971c-b8e19f0c4ea9",
+      "effects": [
+        "ManaFixing"
+      ],
+      "reviewedAt": "2026-09-11T19:49:25.3641906+00:00"
     },
     "10c585c4-bf5b-4d8f-94a9-e9a5036a688f": {
       "name": "Cruel Edict",
@@ -2961,6 +3005,15 @@
         "Burn"
       ],
       "reviewedAt": "2026-10-16T14:16:19.1810716+00:00"
+    },
+    "e9222f89-e495-4502-bb0c-f5e802686b01": {
+      "name": "Electro's Bolt",
+      "rating": 2,
+      "scryfallId": "25fe063f-35e4-4fca-9889-06834a8ef9b9",
+      "effects": [
+        "Removal"
+      ],
+      "reviewedAt": "2026-09-10T16:00:07.9469424+00:00"
     },
     "4a59d86e-405d-4c70-b2a5-c64f5cecfd9e": {
       "name": "Electrodominance",
@@ -4730,6 +4783,15 @@
         "Ramp"
       ],
       "reviewedAt": "2026-11-05T11:56:50.9078368+00:00"
+    },
+    "bef3f0a9-4d5c-4469-81df-adbeedeed768": {
+      "name": "Horrid Vigor",
+      "rating": 2,
+      "scryfallId": "c175c998-7b80-4187-bdbc-5b6e0d7eac91",
+      "effects": [
+        "Protection"
+      ],
+      "reviewedAt": "2026-09-23T13:33:23.7006521+00:00"
     },
     "de83b1a4-0ce0-4cc1-aff3-6d0239d92302": {
       "name": "Hostile Investigator",
@@ -7041,6 +7103,15 @@
       ],
       "reviewedAt": "2026-11-13T13:37:54.671883+00:00"
     },
+    "be4499e6-616a-4c11-b37e-9201d2492682": {
+      "name": "Offer Immortality",
+      "rating": 2,
+      "scryfallId": "b0aac10a-6d47-4a6c-8a10-2b7c06f3ff32",
+      "effects": [
+        "Protection"
+      ],
+      "reviewedAt": "2026-10-09T08:31:27.0408552+00:00"
+    },
     "00ba0c24-a671-493e-ba46-13e45d1818f1": {
       "name": "Ogre Battlecaster",
       "rating": 2,
@@ -8857,6 +8928,15 @@
       ],
       "reviewedAt": "2026-11-13T11:39:42.1151352+00:00"
     },
+    "84d32e68-72b9-432d-a023-7bc6a26b8ad0": {
+      "name": "Shatter",
+      "rating": 2,
+      "scryfallId": "50dc7fc1-cb6a-4c68-b993-1a25cf16226e",
+      "effects": [
+        "Disenchant"
+      ],
+      "reviewedAt": "2026-09-04T14:20:28.5694944+00:00"
+    },
     "f545870d-b628-4acb-88c7-37c2d72a5a85": {
       "name": "Shatter the Oath",
       "rating": 2,
@@ -8949,6 +9029,14 @@
       "effects": [
         "Removal",
         "Burn"
+      ]
+    },
+    "6e060984-2015-4dc4-b53d-ab6bf2abdacc": {
+      "name": "Sift",
+      "rating": 2,
+      "scryfallId": "bf5b23da-9ba8-4b43-a5c9-51e1fc253913",
+      "effects": [
+        "CardAdvantage"
       ]
     },
     "24919141-82d2-42ad-963c-e53511a868b3": {

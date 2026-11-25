@@ -1780,15 +1780,6 @@
       ],
       "reviewedAt": "2026-10-29T18:43:20.9727788+00:00"
     },
-    "533d6b9f-a145-44c4-9d16-74fcd9c0ae2f": {
-      "name": "Battle-Rage Blessing",
-      "rating": 3,
-      "scryfallId": "7cfc631b-49d1-4f1c-adac-5b07a2ccd06f",
-      "effects": [
-        "Protection"
-      ],
-      "reviewedAt": "2026-10-11T19:03:24.8066933+00:00"
-    },
     "6b75b94e-83b7-457e-ac41-7ca90b5a59aa": {
       "name": "Battlefield Forge",
       "rating": 4,
@@ -4911,15 +4902,6 @@
       "scryfallId": "723d6f60-3e8a-4c58-8b3c-9ba59a01c867",
       "effects": [],
       "reviewedAt": "2026-10-23T11:53:23.8717143+00:00"
-    },
-    "b26cfeb0-7bbe-4d93-8eed-e832f175a80c": {
-      "name": "Crossroads Village",
-      "rating": 4,
-      "scryfallId": "64db46d4-f91f-49cc-971c-b8e19f0c4ea9",
-      "effects": [
-        "ManaFixing"
-      ],
-      "reviewedAt": "2026-09-11T19:49:25.3641906+00:00"
     },
     "997bdec5-f67b-4822-a3ba-c636e2685e8a": {
       "name": "Cruel Somnophage // Can't Wake Up",
@@ -10688,6 +10670,15 @@
       ],
       "reviewedAt": "2026-11-05T13:37:42.3640047+00:00"
     },
+    "05fdefb4-2be7-4d9a-9ab9-14bbbe72aef7": {
+      "name": "Hard-Hitting Question",
+      "rating": 3,
+      "scryfallId": "8ad807c2-14a7-4464-bf57-c323fb3c0bd0",
+      "effects": [
+        "Removal"
+      ],
+      "reviewedAt": "2026-09-23T10:52:43.6706475+00:00"
+    },
     "705509e9-a034-4a5a-9c65-66f58748b8a2": {
       "name": "Harrow",
       "rating": 4,
@@ -16041,15 +16032,6 @@
       "effects": [],
       "reviewedAt": "2026-11-10T18:06:26.9884819+00:00"
     },
-    "be4499e6-616a-4c11-b37e-9201d2492682": {
-      "name": "Offer Immortality",
-      "rating": 3,
-      "scryfallId": "b0aac10a-6d47-4a6c-8a10-2b7c06f3ff32",
-      "effects": [
-        "Protection"
-      ],
-      "reviewedAt": "2026-10-09T08:31:27.0408552+00:00"
-    },
     "00af96af-5eae-4044-a2f7-a08cd0699d1e": {
       "name": "Ogre Arsonist",
       "rating": 3,
@@ -20896,15 +20878,6 @@
       ],
       "reviewedAt": "2026-09-25T10:42:23.7419483+00:00"
     },
-    "84d32e68-72b9-432d-a023-7bc6a26b8ad0": {
-      "name": "Shatter",
-      "rating": 3,
-      "scryfallId": "50dc7fc1-cb6a-4c68-b993-1a25cf16226e",
-      "effects": [
-        "Disenchant"
-      ],
-      "reviewedAt": "2026-09-04T14:20:28.5694944+00:00"
-    },
     "7fbad3f2-66f6-4e3a-b9e0-1ddbcd94d42a": {
       "name": "Shattered Landscape",
       "rating": 4,
@@ -22626,7 +22599,7 @@
     },
     "6e880df6-fc00-43d2-a9c8-f575f40b78c6": {
       "name": "Stone Rain",
-      "rating": 5,
+      "rating": 4,
       "scryfallId": "57ff74cb-a2ed-4123-ac42-f72f9820049e",
       "effects": [
         "LandDestruction"

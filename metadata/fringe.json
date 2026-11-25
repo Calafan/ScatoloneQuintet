@@ -3031,15 +3031,6 @@
       ],
       "reviewedAt": "2026-09-29T08:57:12.8713309+00:00"
     },
-    "dbfa2743-34ff-40e3-81f7-740fc08cd18a": {
-      "name": "Ancestral Reminiscence",
-      "rating": 1,
-      "scryfallId": "625690d3-7131-45de-adea-9c927241e661",
-      "effects": [
-        "CardAdvantage"
-      ],
-      "reviewedAt": "2026-10-09T10:38:21.563654+00:00"
-    },
     "380ea3b6-8eb4-466a-8680-ce5cfed9b8c4": {
       "name": "Ancestral Tribute",
       "rating": 1,
@@ -8101,14 +8092,6 @@
       "scryfallId": "4412c901-0ec8-437a-9d1e-ce318bbe2b03",
       "effects": [],
       "reviewedAt": "2026-11-06T15:44:26.1043218+00:00"
-    },
-    "72d793e8-1d19-4ca1-894c-8851a2ebecde": {
-      "name": "Bathe in Dragonfire",
-      "rating": 1,
-      "scryfallId": "b8cc6931-2005-4d0a-a42a-ce8bc279372e",
-      "effects": [
-        "Removal"
-      ]
     },
     "879011c6-550e-4e33-a664-fffb655321d9": {
       "name": "Baton of Morale",
@@ -18241,15 +18224,6 @@
         "Steal"
       ],
       "reviewedAt": "2026-09-25T09:22:20.7719538+00:00"
-    },
-    "68413337-ddb9-46f8-8c8e-f3d2d672c652": {
-      "name": "Coercion",
-      "rating": 1,
-      "scryfallId": "f3b07d33-f5f5-45cc-b2ac-360eaf2d4146",
-      "effects": [
-        "Discard"
-      ],
-      "reviewedAt": "2026-09-08T09:59:35.3483002+00:00"
     },
     "00d1596a-c3e2-4109-86da-388934a0c652": {
       "name": "Coeurl",
@@ -28980,15 +28954,6 @@
         "Filter"
       ],
       "reviewedAt": "2026-11-10T18:07:15.2516922+00:00"
-    },
-    "e9222f89-e495-4502-bb0c-f5e802686b01": {
-      "name": "Electro's Bolt",
-      "rating": 1,
-      "scryfallId": "25fe063f-35e4-4fca-9889-06834a8ef9b9",
-      "effects": [
-        "Removal"
-      ],
-      "reviewedAt": "2026-09-10T16:00:07.9469424+00:00"
     },
     "112f2b3f-32e7-40b1-b80e-0b99184a840c": {
       "name": "Electroduplicate",
@@ -43881,15 +43846,6 @@
       ],
       "reviewedAt": "2026-10-20T19:25:24.3505523+00:00"
     },
-    "05fdefb4-2be7-4d9a-9ab9-14bbbe72aef7": {
-      "name": "Hard-Hitting Question",
-      "rating": 1,
-      "scryfallId": "8ad807c2-14a7-4464-bf57-c323fb3c0bd0",
-      "effects": [
-        "Removal"
-      ],
-      "reviewedAt": "2026-09-23T10:52:43.6706475+00:00"
-    },
     "116eea43-4235-4608-8c6a-599e860ae2f1": {
       "name": "Hardbristle Bandit",
       "rating": 1,
@@ -46601,15 +46557,6 @@
         "Filter"
       ],
       "reviewedAt": "2026-09-23T21:33:07.9690566+00:00"
-    },
-    "bef3f0a9-4d5c-4469-81df-adbeedeed768": {
-      "name": "Horrid Vigor",
-      "rating": 1,
-      "scryfallId": "c175c998-7b80-4187-bdbc-5b6e0d7eac91",
-      "effects": [
-        "Protection"
-      ],
-      "reviewedAt": "2026-09-23T13:33:23.7006521+00:00"
     },
     "b2e1a1c4-9147-4dfc-b202-c3d3f9c2d3dc": {
       "name": "Horror of Horrors",
@@ -87984,14 +87931,6 @@
         "Buff"
       ],
       "reviewedAt": "2026-09-12T10:39:41.9003996+00:00"
-    },
-    "6e060984-2015-4dc4-b53d-ab6bf2abdacc": {
-      "name": "Sift",
-      "rating": 1,
-      "scryfallId": "bf5b23da-9ba8-4b43-a5c9-51e1fc253913",
-      "effects": [
-        "CardAdvantage"
-      ]
     },
     "574230c7-b949-4c90-b107-c26458a6e469": {
       "name": "Sigarda's Imprisonment",
