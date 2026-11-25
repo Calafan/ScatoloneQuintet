@@ -4175,7 +4175,7 @@
     },
     "42226b87-0746-4ebf-9fd0-108d508462af": {
       "name": "Clone",
-      "rating": 4,
+      "rating": 3,
       "scryfallId": "f00d33dd-4eb2-4446-9813-1923d8e2d2f3",
       "effects": [],
       "reviewedAt": "2026-09-04T13:22:37.0912635+00:00"
@@ -4358,6 +4358,15 @@
         "ManaFixing"
       ],
       "reviewedAt": "2026-09-23T10:52:00.4294432+00:00"
+    },
+    "6ef464bd-2ed0-4f99-af4a-ebf276f55384": {
+      "name": "Compassionate Healer",
+      "rating": 3,
+      "scryfallId": "88d5f8fd-d4de-4e64-9b74-e53719ffbcdc",
+      "effects": [
+        "Filter"
+      ],
+      "reviewedAt": "2026-09-11T21:54:19.3124812+00:00"
     },
     "4bb1863e-50f3-4e08-884e-1f58ee55817f": {
       "name": "Component Pouch",
@@ -27329,13 +27338,6 @@
         "Buff"
       ],
       "reviewedAt": "2026-09-23T13:29:47.5232922+00:00"
-    },
-    "f07e6ba7-42e8-4b4d-9831-00a856059060": {
-      "name": "Warship Scout",
-      "rating": 3,
-      "scryfallId": "b1a95982-be16-465a-9c1b-1f4d875c0c40",
-      "effects": [],
-      "reviewedAt": "2026-09-11T14:59:15.1357559+00:00"
     },
     "448cc829-1596-4aec-b180-c0c1e0566f6b": {
       "name": "Wary Thespian",

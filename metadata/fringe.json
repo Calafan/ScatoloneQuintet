@@ -23515,12 +23515,6 @@
       "effects": [],
       "reviewedAt": "2026-09-25T10:47:06.9588801+00:00"
     },
-    "8f1a39bf-7597-4655-b7af-4b1332edf529": {
-      "name": "Defense Force Aggressor",
-      "rating": 1,
-      "scryfallId": "67380a35-1a15-4c45-8a24-3c6077af85db",
-      "effects": []
-    },
     "22ba474e-f6e6-450d-a4cf-0739f0b51079": {
       "name": "Defense Grid",
       "rating": 1,
@@ -42232,6 +42226,14 @@
         "Ramp"
       ],
       "reviewedAt": "2026-11-03T18:35:11.9845732+00:00"
+    },
+    "5cb6ebf7-6a75-4464-9e39-e171fcb52de3": {
+      "name": "Great Forest Druid",
+      "rating": 1,
+      "scryfallId": "8793a19e-6743-4031-86d9-2ff55f384549",
+      "effects": [
+        "Ramp"
+      ]
     },
     "f4819061-b0b5-48ab-af7b-6525c3d2eab7": {
       "name": "Great Furnace",
@@ -63800,17 +63802,6 @@
       ],
       "reviewedAt": "2026-10-06T18:30:33.6177139+00:00"
     },
-    "a9bae56c-9666-42e8-94ec-03b0a964b142": {
-      "name": "Mongoose Lizard",
-      "rating": 1,
-      "scryfallId": "7d40b9cb-82ef-44c5-8d3c-c8bb4ce9891c",
-      "effects": [
-        "Removal",
-        "Burn",
-        "ManaFixing"
-      ],
-      "reviewedAt": "2026-09-10T11:03:19.7052128+00:00"
-    },
     "e1208d39-86e7-4eae-8dd6-b5bfb29def84": {
       "name": "Mongrel Pack",
       "rating": 1,
@@ -69751,15 +69742,6 @@
         "Filter"
       ],
       "reviewedAt": "2026-09-29T14:55:09.1882007+00:00"
-    },
-    "5146b291-1170-481f-a4b9-709dd5c4b09c": {
-      "name": "Overgrown Zealot",
-      "rating": 1,
-      "scryfallId": "96d68d29-499a-4864-be18-bd98fda0d173",
-      "effects": [
-        "Ramp"
-      ],
-      "reviewedAt": "2026-09-23T13:04:26.2067934+00:00"
     },
     "3271e3b9-1710-4dfe-a381-00a3ee1032b2": {
       "name": "Overgrowth Elemental",
@@ -112317,15 +112299,6 @@
         "Ramp"
       ],
       "reviewedAt": "2026-09-04T14:46:56.3358559+00:00"
-    },
-    "6edd2a36-3d65-4bf9-bd82-b6d03a7e8fea": {
-      "name": "White Orchid Phantom",
-      "rating": 1,
-      "scryfallId": "4f8d885c-5b57-457f-a658-fd0b79cf98cc",
-      "effects": [
-        "LandDestruction"
-      ],
-      "reviewedAt": "2026-09-23T10:40:53.9486227+00:00"
     },
     "51f091a7-9b0b-4362-8e9c-c174752f369b": {
       "name": "White Plume Adventurer",

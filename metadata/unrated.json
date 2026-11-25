@@ -36974,14 +36974,6 @@
         "Filter"
       ]
     },
-    "5cb6ebf7-6a75-4464-9e39-e171fcb52de3": {
-      "name": "Great Forest Druid",
-      "rating": 0,
-      "scryfallId": "8793a19e-6743-4031-86d9-2ff55f384549",
-      "effects": [
-        "Ramp"
-      ]
-    },
     "d4607026-80b2-4fa6-99d5-694cd3b43868": {
       "name": "Great Gilded Boat",
       "rating": 0,
@@ -102302,14 +102294,6 @@
       "scryfallId": "3aecfe99-9c4b-4087-84ee-fb208fd22820",
       "effects": [
         "Tokens",
-        "Ramp"
-      ]
-    },
-    "a9df60bf-f327-4d50-ab4d-99324fc2dcfe": {
-      "name": "Xenobotanist",
-      "rating": 0,
-      "scryfallId": "20a97cda-42b2-44f1-8e77-f64dd1c98f6f",
-      "effects": [
         "Ramp"
       ]
     },

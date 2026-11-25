@@ -1973,15 +1973,6 @@
       ],
       "reviewedAt": "2026-11-11T19:47:55.8780491+00:00"
     },
-    "6ef464bd-2ed0-4f99-af4a-ebf276f55384": {
-      "name": "Compassionate Healer",
-      "rating": 2,
-      "scryfallId": "88d5f8fd-d4de-4e64-9b74-e53719ffbcdc",
-      "effects": [
-        "Filter"
-      ],
-      "reviewedAt": "2026-09-11T21:54:19.3124812+00:00"
-    },
     "fc09cbc0-2d28-44c6-b9a9-b95e9e58bb1b": {
       "name": "Complicate",
       "rating": 2,
@@ -2467,6 +2458,12 @@
         "Tokens"
       ],
       "reviewedAt": "2026-10-22T09:19:14.2243283+00:00"
+    },
+    "8f1a39bf-7597-4655-b7af-4b1332edf529": {
+      "name": "Defense Force Aggressor",
+      "rating": 2,
+      "scryfallId": "67380a35-1a15-4c45-8a24-3c6077af85db",
+      "effects": []
     },
     "7b62c53a-46a2-4c57-9eab-0c6706795b4e": {
       "name": "Defiant Survivor",
@@ -6589,6 +6586,17 @@
       ],
       "reviewedAt": "2026-09-11T21:52:01.1919645+00:00"
     },
+    "a9bae56c-9666-42e8-94ec-03b0a964b142": {
+      "name": "Mongoose Lizard",
+      "rating": 2,
+      "scryfallId": "7d40b9cb-82ef-44c5-8d3c-c8bb4ce9891c",
+      "effects": [
+        "Removal",
+        "Burn",
+        "ManaFixing"
+      ],
+      "reviewedAt": "2026-09-10T11:03:19.7052128+00:00"
+    },
     "65b28ec7-1099-4f9d-8d57-2ffd8a5b0e91": {
       "name": "Monk Class",
       "rating": 2,
@@ -7208,6 +7216,15 @@
         "ManaFixing"
       ],
       "reviewedAt": "2026-10-26T21:17:52.5989667+00:00"
+    },
+    "5146b291-1170-481f-a4b9-709dd5c4b09c": {
+      "name": "Overgrown Zealot",
+      "rating": 2,
+      "scryfallId": "96d68d29-499a-4864-be18-bd98fda0d173",
+      "effects": [
+        "Ramp"
+      ],
+      "reviewedAt": "2026-09-23T13:04:26.2067934+00:00"
     },
     "e6ccebf4-f4f0-404f-a634-4d751ef9c8aa": {
       "name": "Overgrowth",
@@ -11297,6 +11314,13 @@
         "Burn"
       ]
     },
+    "f07e6ba7-42e8-4b4d-9831-00a856059060": {
+      "name": "Warship Scout",
+      "rating": 2,
+      "scryfallId": "b1a95982-be16-465a-9c1b-1f4d875c0c40",
+      "effects": [],
+      "reviewedAt": "2026-09-11T14:59:15.1357559+00:00"
+    },
     "a4630da0-fe9b-4ead-9621-eac4b7825c35": {
       "name": "Wash Away",
       "rating": 2,
@@ -11439,6 +11463,15 @@
         "CardAdvantage"
       ],
       "reviewedAt": "2026-09-08T12:22:19.4989492+00:00"
+    },
+    "6edd2a36-3d65-4bf9-bd82-b6d03a7e8fea": {
+      "name": "White Orchid Phantom",
+      "rating": 2,
+      "scryfallId": "4f8d885c-5b57-457f-a658-fd0b79cf98cc",
+      "effects": [
+        "LandDestruction"
+      ],
+      "reviewedAt": "2026-09-23T10:40:53.9486227+00:00"
     },
     "2c4ee0df-e720-475b-aa04-e6394f3d708f": {
       "name": "Wild Endeavor",
@@ -11648,6 +11681,14 @@
         "CardAdvantage"
       ],
       "reviewedAt": "2026-11-12T14:32:58.6625353+00:00"
+    },
+    "a9df60bf-f327-4d50-ab4d-99324fc2dcfe": {
+      "name": "Xenobotanist",
+      "rating": 2,
+      "scryfallId": "20a97cda-42b2-44f1-8e77-f64dd1c98f6f",
+      "effects": [
+        "Ramp"
+      ]
     },
     "18d0e6e1-3824-465d-9245-21e0174f551f": {
       "name": "Xira, the Golden Sting",
