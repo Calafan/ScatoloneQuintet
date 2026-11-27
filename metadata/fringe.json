@@ -83872,6 +83872,13 @@
       ],
       "reviewedAt": "2026-11-13T14:46:52.4927378+00:00"
     },
+    "60ba93eb-39e6-4af2-9c66-cd38f72daff2": {
+      "name": "Savannah Lions",
+      "rating": 1,
+      "scryfallId": "d05b92bd-797e-413f-a8b0-32e0937a1ee0",
+      "effects": [],
+      "reviewedAt": "2026-09-04T14:21:08.0887586+00:00"
+    },
     "7e6cfec7-3b54-43db-853a-27c164776a5f": {
       "name": "Savannah Sage",
       "rating": 1,
@@ -107567,6 +107574,14 @@
       "scryfallId": "1e5c781d-cd89-4671-8fbe-fae82c33357b",
       "effects": [
         "Buff"
+      ]
+    },
+    "73a9122c-60d2-4fdc-bc7b-3576bcbca241": {
+      "name": "Utopia Tree",
+      "rating": 1,
+      "scryfallId": "720452e9-3245-4b0e-94b6-843cbcb641a5",
+      "effects": [
+        "Ramp"
       ]
     },
     "976e1fe6-ac32-4ea9-9828-acd3c4791e01": {

@@ -20306,13 +20306,6 @@
       ],
       "reviewedAt": "2026-09-04T14:27:04.1548614+00:00"
     },
-    "60ba93eb-39e6-4af2-9c66-cd38f72daff2": {
-      "name": "Savannah Lions",
-      "rating": 5,
-      "scryfallId": "d05b92bd-797e-413f-a8b0-32e0937a1ee0",
-      "effects": [],
-      "reviewedAt": "2026-09-04T14:21:08.0887586+00:00"
-    },
     "90edaf33-d0ab-47e0-8f6a-6fba38286e6e": {
       "name": "Saw It Coming",
       "rating": 3,
@@ -26695,14 +26688,6 @@
         "Tokens"
       ],
       "reviewedAt": "2026-11-06T16:08:46.5432362+00:00"
-    },
-    "73a9122c-60d2-4fdc-bc7b-3576bcbca241": {
-      "name": "Utopia Tree",
-      "rating": 4,
-      "scryfallId": "720452e9-3245-4b0e-94b6-843cbcb641a5",
-      "effects": [
-        "Ramp"
-      ]
     },
     "63c4915f-5ad9-468f-95c5-d44f1b71631e": {
       "name": "Uvilda, Dean of Perfection // Nassari, Dean of Expression",
