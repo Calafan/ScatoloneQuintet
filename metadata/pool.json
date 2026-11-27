@@ -1428,6 +1428,15 @@
         "ManaFixing"
       ]
     },
+    "7266b491-54e6-4393-a448-d5ae99d965c6": {
+      "name": "Azorius Keyrune",
+      "rating": 3,
+      "scryfallId": "23a05db7-dcae-4180-8ad1-60ba6fb30816",
+      "effects": [
+        "Tokens",
+        "Ramp"
+      ]
+    },
     "ca13dda2-fbb0-4b6b-9126-3c8df04dee2b": {
       "name": "Azorius Locket",
       "rating": 3,
@@ -2618,6 +2627,15 @@
       "scryfallId": "7dfe3f03-078f-44fb-89cd-efa3ebfaf637",
       "effects": [
         "ManaFixing"
+      ]
+    },
+    "991ae2f7-3f8e-4364-8698-5277786d7dcd": {
+      "name": "Boros Keyrune",
+      "rating": 3,
+      "scryfallId": "c4b65847-fee2-4e00-b598-7363059ec3ff",
+      "effects": [
+        "Tokens",
+        "Ramp"
       ]
     },
     "b044b4fd-d504-4a11-80bf-eb8fb0b6e21e": {
@@ -4320,6 +4338,14 @@
         "Reanimate"
       ],
       "reviewedAt": "2026-09-12T16:34:52.7794513+00:00"
+    },
+    "21d700e8-0255-418e-96a0-6fe05b3f836d": {
+      "name": "Coldsteel Heart",
+      "rating": 4,
+      "scryfallId": "cdd5015e-fe31-42e3-923d-44b9cdece273",
+      "effects": [
+        "Ramp"
+      ]
     },
     "bffdfe7b-f17a-41b6-a460-80280fe497d4": {
       "name": "Collective Resistance",
@@ -6026,6 +6052,15 @@
       "scryfallId": "df3c3d56-8291-407e-87a1-94b7d12811fd",
       "effects": [
         "ManaFixing"
+      ]
+    },
+    "7685ff3f-6d61-4b1d-a381-49bc6274aa01": {
+      "name": "Dimir Keyrune",
+      "rating": 3,
+      "scryfallId": "4d91bb34-5d8d-48c9-ad19-d28884e083bc",
+      "effects": [
+        "Tokens",
+        "Ramp"
       ]
     },
     "3ae4b679-2e3c-4f60-bcf4-b279917cdc54": {
@@ -9081,6 +9116,14 @@
       ],
       "reviewedAt": "2026-11-06T15:45:21.891036+00:00"
     },
+    "af4f192a-9565-4377-b359-835fe4396e85": {
+      "name": "Fractured Powerstone",
+      "rating": 4,
+      "scryfallId": "b18bdf58-99b7-4307-b6a5-186ff1594fbb",
+      "effects": [
+        "Ramp"
+      ]
+    },
     "cf32524e-0df9-4af8-9371-84feeb0a86c6": {
       "name": "Fractured Sanity",
       "rating": 5,
@@ -9780,6 +9823,15 @@
       ],
       "reviewedAt": "2026-11-11T19:44:42.132188+00:00"
     },
+    "c8f08704-7330-4fa9-b456-2e96aa252a2c": {
+      "name": "Gideon's Memorial",
+      "rating": 4,
+      "scryfallId": "768c0e64-9907-417a-a763-c836fdf36883",
+      "effects": [
+        "Removal",
+        "Ramp"
+      ]
+    },
     "daec03b6-e3f8-4e44-9766-c64dc23fa3dc": {
       "name": "Gideon's Triumph",
       "rating": 3,
@@ -10216,6 +10268,15 @@
       ],
       "reviewedAt": "2026-09-12T09:22:59.1460725+00:00"
     },
+    "ec970eba-230a-4c41-874a-4a74abf3214e": {
+      "name": "Golgari Keyrune",
+      "rating": 3,
+      "scryfallId": "913b803f-ba82-4660-86be-49677d1e32c9",
+      "effects": [
+        "Tokens",
+        "Ramp"
+      ]
+    },
     "dba6e24e-7875-46b9-b51d-4cd71568ecfa": {
       "name": "Golgari Locket",
       "rating": 3,
@@ -10559,6 +10620,15 @@
       ],
       "reviewedAt": "2026-10-29T18:57:51.5895487+00:00"
     },
+    "98bdb1e1-7550-47e8-aa06-f81802b257a0": {
+      "name": "Gruul Keyrune",
+      "rating": 3,
+      "scryfallId": "7cf96f1c-066e-4fde-acb8-4674842fb6c2",
+      "effects": [
+        "Tokens",
+        "Ramp"
+      ]
+    },
     "7018ccd0-96e6-458f-b412-197edcb2bafd": {
       "name": "Gruul Locket",
       "rating": 3,
@@ -10610,6 +10680,15 @@
         "Protection"
       ],
       "reviewedAt": "2026-11-13T11:58:29.3988775+00:00"
+    },
+    "829d2e11-192f-4093-99f8-e13767b321a2": {
+      "name": "Guardian Idol",
+      "rating": 4,
+      "scryfallId": "a6a62a73-b7db-47ec-9b68-65dd7c1a06a5",
+      "effects": [
+        "Tokens",
+        "Ramp"
+      ]
     },
     "67dec976-bcf5-4995-8da1-cd570862d3cf": {
       "name": "Guardian Naga // Banishing Coils",
@@ -12261,6 +12340,15 @@
         "ManaFixing"
       ]
     },
+    "ef5d7b38-b782-4fb0-b6cd-3da36995ab39": {
+      "name": "Isolinear Processor",
+      "rating": 4,
+      "scryfallId": "8c1a2c13-5e36-4707-9d90-18c2e58a2b26",
+      "effects": [
+        "Ramp",
+        "Filter"
+      ]
+    },
     "f976a244-1240-4430-9182-bb8d6d932ea0": {
       "name": "Itzquinth, Firstborn of Gishath",
       "rating": 3,
@@ -12294,6 +12382,16 @@
       "scryfallId": "666f455e-3a3d-475d-b67a-a1fdd74820eb",
       "effects": [
         "ManaFixing"
+      ]
+    },
+    "8b8c0285-424f-4a82-bfb6-17752cfa71dd": {
+      "name": "Izzet Keyrune",
+      "rating": 3,
+      "scryfallId": "83e4e83b-cbb8-4efd-b6c4-4459a29177ac",
+      "effects": [
+        "Tokens",
+        "Ramp",
+        "Filter"
       ]
     },
     "7ee07546-2c2e-4679-b671-7ea509b1d3ea": {
@@ -12637,6 +12735,14 @@
         "Buff"
       ],
       "reviewedAt": "2026-11-13T13:04:32.5541012+00:00"
+    },
+    "498ec48f-cb28-48d4-96f4-9d60bb4bb45c": {
+      "name": "Kaleidostone",
+      "rating": 4,
+      "scryfallId": "79826f7f-e46b-489d-8fcb-1712d36e8f60",
+      "effects": [
+        "ManaFixing"
+      ]
     },
     "d76fc3aa-3962-4d64-a082-765e09bcdf25": {
       "name": "Kami's Flare",
@@ -16589,6 +16695,15 @@
         "ManaFixing"
       ]
     },
+    "9808c424-0d74-45b8-a092-fd296c6833d2": {
+      "name": "Orzhov Keyrune",
+      "rating": 3,
+      "scryfallId": "fd5c0f38-916a-4f6c-b678-7447cb0709e0",
+      "effects": [
+        "Tokens",
+        "Ramp"
+      ]
+    },
     "8aaf248e-66cf-447b-b062-9aa2ab1ec864": {
       "name": "Orzhov Locket",
       "rating": 3,
@@ -17406,6 +17521,14 @@
       ],
       "reviewedAt": "2026-10-26T21:08:08.711485+00:00"
     },
+    "9e62f30d-3130-416e-b459-48b5f71f8be9": {
+      "name": "Pillar of Origins",
+      "rating": 4,
+      "scryfallId": "f888facd-e462-4794-a774-d765d1a1edfd",
+      "effects": [
+        "Ramp"
+      ]
+    },
     "3aa4c374-b146-4890-a8e1-717f214d9741": {
       "name": "Pink Horror",
       "rating": 3,
@@ -17876,6 +17999,15 @@
       ],
       "reviewedAt": "2026-11-13T14:10:02.3703558+00:00"
     },
+    "e3056f28-868b-401a-a528-7528d639bdeb": {
+      "name": "Prismatic Lens",
+      "rating": 4,
+      "scryfallId": "50f058a7-c3c7-4bdf-a66c-a2636a8bd9db",
+      "effects": [
+        "Ramp",
+        "ManaFixing"
+      ]
+    },
     "8e414ad6-ba19-44a1-a291-2e420734a6dd": {
       "name": "Prismatic Strands",
       "rating": 4,
@@ -17973,6 +18105,14 @@
         "Removal",
         "Filter",
         "Burn"
+      ]
+    },
+    "134a9877-5cfb-4a2a-a0f0-930dce45f58b": {
+      "name": "Prophetic Prism",
+      "rating": 4,
+      "scryfallId": "cfb90d44-8cb1-4b83-b2f2-92c19d6304fb",
+      "effects": [
+        "ManaFixing"
       ]
     },
     "2a14670b-2ab6-4e1d-9b33-610a87bdb7ce": {
@@ -18384,6 +18524,15 @@
       "scryfallId": "aad6576b-605c-4007-a2a7-0d7550520d6d",
       "effects": [],
       "reviewedAt": "2026-11-13T13:47:16.2954133+00:00"
+    },
+    "3986b284-f943-4570-ba26-3419910feeef": {
+      "name": "Rakdos Keyrune",
+      "rating": 3,
+      "scryfallId": "f6124b4c-49a1-42e3-a6ff-62de231c7823",
+      "effects": [
+        "Tokens",
+        "Ramp"
+      ]
     },
     "ab784412-0722-4501-9aa0-fd68d307f6fd": {
       "name": "Rakdos Locket",
@@ -20804,6 +20953,15 @@
       ],
       "reviewedAt": "2026-10-16T14:49:30.805493+00:00"
     },
+    "d4ecee6d-b23f-48e7-b7e5-347027225709": {
+      "name": "Selesnya Keyrune",
+      "rating": 3,
+      "scryfallId": "1645eafd-cd17-463a-9d7e-42f5f7b5196f",
+      "effects": [
+        "Tokens",
+        "Ramp"
+      ]
+    },
     "9ecd98d5-8d66-4cb0-bada-23dfa0faacc0": {
       "name": "Selesnya Locket",
       "rating": 3,
@@ -21480,6 +21638,15 @@
       "scryfallId": "407d0a0c-a6be-4bd5-8355-1715698c6bde",
       "effects": [
         "ManaFixing"
+      ]
+    },
+    "9e737a22-a352-411d-8412-96770c7f6cce": {
+      "name": "Simic Keyrune",
+      "rating": 3,
+      "scryfallId": "d039aae6-38f5-42b5-a530-e0dd03abc7d5",
+      "effects": [
+        "Tokens",
+        "Ramp"
       ]
     },
     "c567fed8-df00-4579-901e-8754079105bf": {
@@ -22310,6 +22477,14 @@
         "Buff"
       ],
       "reviewedAt": "2026-10-09T14:05:37.4436768+00:00"
+    },
+    "7c709413-dacf-48af-8ac9-8f61b2699bf1": {
+      "name": "Sphere of the Suns",
+      "rating": 4,
+      "scryfallId": "7a2c0735-1816-489b-9793-89d1060d78f7",
+      "effects": [
+        "Ramp"
+      ]
     },
     "a5270cf7-1eb3-4907-9f47-d787f61940d3": {
       "name": "Sphinx Mindbreaker",
@@ -24737,6 +24912,14 @@
       ],
       "reviewedAt": "2026-11-05T11:38:45.8771136+00:00"
     },
+    "b175e826-09e8-4fae-9f2e-b902f95b282d": {
+      "name": "The Mind Stone",
+      "rating": 4,
+      "scryfallId": "87f1e69a-6d74-4982-afda-82613637799a",
+      "effects": [
+        "Ramp"
+      ]
+    },
     "2e3ec514-fc9e-4964-a493-2a6cc9e63630": {
       "name": "The Mindskinner",
       "rating": 3,
@@ -25058,6 +25241,14 @@
         "CardAdvantage"
       ],
       "reviewedAt": "2026-10-20T19:11:24.139641+00:00"
+    },
+    "9965d9c5-2ebf-4a6c-930e-55c5890979be": {
+      "name": "Thought Vessel",
+      "rating": 4,
+      "scryfallId": "e0cd769e-1aaf-458c-849f-3b6ebc7fd8c5",
+      "effects": [
+        "Ramp"
+      ]
     },
     "25a63171-a1a0-4c61-ac61-49bb59fe83c1": {
       "name": "Thought-Stalker Warlock",

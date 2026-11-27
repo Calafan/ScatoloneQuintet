@@ -5733,15 +5733,6 @@
         "Pacify"
       ]
     },
-    "7266b491-54e6-4393-a448-d5ae99d965c6": {
-      "name": "Azorius Keyrune",
-      "rating": 0,
-      "scryfallId": "23a05db7-dcae-4180-8ad1-60ba6fb30816",
-      "effects": [
-        "Tokens",
-        "Ramp"
-      ]
-    },
     "b9b58c3a-5a76-4b6a-884b-74f54f0ca53c": {
       "name": "Azorius Ploy",
       "rating": 0,
@@ -9954,15 +9945,6 @@
       "rating": 0,
       "scryfallId": "072a1ff1-9c50-426a-a83c-817bde5beab7",
       "effects": []
-    },
-    "991ae2f7-3f8e-4364-8698-5277786d7dcd": {
-      "name": "Boros Keyrune",
-      "rating": 0,
-      "scryfallId": "c4b65847-fee2-4e00-b598-7363059ec3ff",
-      "effects": [
-        "Tokens",
-        "Ramp"
-      ]
     },
     "bcbaef07-1d5b-457b-b373-77d3a2884b39": {
       "name": "Boros Mastiff",
@@ -14247,15 +14229,6 @@
       "scryfallId": "50c1de2c-1acc-47c8-9b5e-a9dae3da8a49",
       "effects": []
     },
-    "24542d66-e67a-4403-91a8-bb4231ea1f50": {
-      "name": "Chronatog Totem",
-      "rating": 0,
-      "scryfallId": "5acd482c-9815-4ff5-99ef-fb1a014251bb",
-      "effects": [
-        "Tokens",
-        "Ramp"
-      ]
-    },
     "474db5db-914e-474d-b0c2-7987d5986dc3": {
       "name": "Chronic Flooding",
       "rating": 0,
@@ -15174,14 +15147,6 @@
       "rating": 0,
       "scryfallId": "cf339549-4325-40c6-adde-0cd31bb738e0",
       "effects": []
-    },
-    "21d700e8-0255-418e-96a0-6fe05b3f836d": {
-      "name": "Coldsteel Heart",
-      "rating": 0,
-      "scryfallId": "cdd5015e-fe31-42e3-923d-44b9cdece273",
-      "effects": [
-        "Ramp"
-      ]
     },
     "ad786230-4045-46af-bc89-078d45891e5b": {
       "name": "Colfenor's Plans",
@@ -21761,15 +21726,6 @@
       "scryfallId": "0230afeb-5ce8-436e-9afc-73cdd7baf424",
       "effects": []
     },
-    "7685ff3f-6d61-4b1d-a381-49bc6274aa01": {
-      "name": "Dimir Keyrune",
-      "rating": 0,
-      "scryfallId": "4d91bb34-5d8d-48c9-ad19-d28884e083bc",
-      "effects": [
-        "Tokens",
-        "Ramp"
-      ]
-    },
     "cab67380-4e1a-4210-a98b-d2a21022b4b7": {
       "name": "Dimir Machinations",
       "rating": 0,
@@ -27604,14 +27560,6 @@
         "Buff"
       ]
     },
-    "0a79237e-0811-4a8a-bd4d-db3ca91bff22": {
-      "name": "Everflowing Chalice",
-      "rating": 0,
-      "scryfallId": "1fdcc0c3-4029-4fc3-a486-5d7f45c910bd",
-      "effects": [
-        "Ramp"
-      ]
-    },
     "de41081e-713c-4005-90f7-65d9426208f1": {
       "name": "Everlasting Torment",
       "rating": 0,
@@ -29767,14 +29715,6 @@
         "LandDestruction"
       ]
     },
-    "a292ca5b-2472-4b02-a26b-d1b5b717a34b": {
-      "name": "Fieldmist Borderpost",
-      "rating": 0,
-      "scryfallId": "9650a717-b1e4-4cd2-894d-766f6b311369",
-      "effects": [
-        "Ramp"
-      ]
-    },
     "060c7999-ab81-4e37-af65-7cd219b693c8": {
       "name": "Fiend Binder",
       "rating": 0,
@@ -30271,14 +30211,6 @@
       "rating": 0,
       "scryfallId": "5d3f5a0d-029e-44fd-b3e6-c70176b5b4ac",
       "effects": []
-    },
-    "312a5a75-9b68-4e4b-97fe-3ab644e3e493": {
-      "name": "Firewild Borderpost",
-      "rating": 0,
-      "scryfallId": "eb37a8bd-6b6c-47f3-b7a0-5a20fa2d507c",
-      "effects": [
-        "Ramp"
-      ]
     },
     "326d9b5c-ac04-45b5-9a8c-a9be7d8cca1b": {
       "name": "Firewing Phoenix",
@@ -31490,15 +31422,6 @@
       "scryfallId": "833a3622-9f24-47a3-816f-1732c0e077d0",
       "effects": []
     },
-    "d053ea00-e727-4030-8c64-0d32ae57f169": {
-      "name": "Foriysian Totem",
-      "rating": 0,
-      "scryfallId": "45cba87d-3c8c-4f38-bdd8-51072ba6365b",
-      "effects": [
-        "Tokens",
-        "Ramp"
-      ]
-    },
     "3bc12623-3852-42f0-b458-5c67fe1b7a07": {
       "name": "Fork in the Road",
       "rating": 0,
@@ -31781,14 +31704,6 @@
       "scryfallId": "b2f73f5d-1aad-48c2-9e74-5f7bdd87900f",
       "effects": [
         "RemovePermanent"
-      ]
-    },
-    "af4f192a-9565-4377-b359-835fe4396e85": {
-      "name": "Fractured Powerstone",
-      "rating": 0,
-      "scryfallId": "b18bdf58-99b7-4307-b6a5-186ff1594fbb",
-      "effects": [
-        "Ramp"
       ]
     },
     "011d4f47-c6fd-434b-98f2-2f558fbff40b": {
@@ -34211,15 +34126,6 @@
         "Pacify"
       ]
     },
-    "c8f08704-7330-4fa9-b456-2e96aa252a2c": {
-      "name": "Gideon's Memorial",
-      "rating": 0,
-      "scryfallId": "768c0e64-9907-417a-a763-c836fdf36883",
-      "effects": [
-        "Removal",
-        "Ramp"
-      ]
-    },
     "f9489831-a9a2-47ab-abae-2f389c9fae2c": {
       "name": "Gideon's Phalanx",
       "rating": 0,
@@ -35944,15 +35850,6 @@
         "Regrowth"
       ]
     },
-    "ec970eba-230a-4c41-874a-4a74abf3214e": {
-      "name": "Golgari Keyrune",
-      "rating": 0,
-      "scryfallId": "913b803f-ba82-4660-86be-49677d1e32c9",
-      "effects": [
-        "Tokens",
-        "Ramp"
-      ]
-    },
     "abd12238-ea9d-4124-8229-3a479b8464d7": {
       "name": "Golgari Raiders",
       "rating": 0,
@@ -37635,15 +37532,6 @@
         "Burn"
       ]
     },
-    "98bdb1e1-7550-47e8-aa06-f81802b257a0": {
-      "name": "Gruul Keyrune",
-      "rating": 0,
-      "scryfallId": "7cf96f1c-066e-4fde-acb8-4674842fb6c2",
-      "effects": [
-        "Tokens",
-        "Ramp"
-      ]
-    },
     "68fc3611-8d82-4f87-ab50-603790a27455": {
       "name": "Gruul Nodorog",
       "rating": 0,
@@ -37719,15 +37607,6 @@
       "rating": 0,
       "scryfallId": "7e8916b7-f5e4-4fae-8db8-9859d69212ec",
       "effects": []
-    },
-    "829d2e11-192f-4093-99f8-e13767b321a2": {
-      "name": "Guardian Idol",
-      "rating": 0,
-      "scryfallId": "a6a62a73-b7db-47ec-9b68-65dd7c1a06a5",
-      "effects": [
-        "Tokens",
-        "Ramp"
-      ]
     },
     "9291f31d-6953-4fe1-9a88-b8dd09fde89c": {
       "name": "Guardian Lions",
@@ -44523,15 +44402,6 @@
         "Disenchant"
       ]
     },
-    "ef5d7b38-b782-4fb0-b6cd-3da36995ab39": {
-      "name": "Isolinear Processor",
-      "rating": 0,
-      "scryfallId": "8c1a2c13-5e36-4707-9d90-18c2e58a2b26",
-      "effects": [
-        "Ramp",
-        "Filter"
-      ]
-    },
     "7aa39b85-6646-4365-99c3-9de31ab0594f": {
       "name": "Isperia the Inscrutable",
       "rating": 0,
@@ -44715,16 +44585,6 @@
       "scryfallId": "ecce6ade-8741-4567-8ed3-3e03becc6f1b",
       "effects": [
         "Redirect"
-      ]
-    },
-    "8b8c0285-424f-4a82-bfb6-17752cfa71dd": {
-      "name": "Izzet Keyrune",
-      "rating": 0,
-      "scryfallId": "83e4e83b-cbb8-4efd-b6c4-4459a29177ac",
-      "effects": [
-        "Tokens",
-        "Ramp",
-        "Filter"
       ]
     },
     "d63adbed-07d3-44e4-83f8-1cbdfc186df4": {
@@ -46023,14 +45883,6 @@
       "rating": 0,
       "scryfallId": "13989bf2-fd02-4702-9170-4b066837de65",
       "effects": []
-    },
-    "498ec48f-cb28-48d4-96f4-9d60bb4bb45c": {
-      "name": "Kaleidostone",
-      "rating": 0,
-      "scryfallId": "79826f7f-e46b-489d-8fcb-1712d36e8f60",
-      "effects": [
-        "ManaFixing"
-      ]
     },
     "663e6ab0-ed99-4cec-86f7-843207c31e17": {
       "name": "Kalemne's Captain",
@@ -51463,14 +51315,6 @@
       "scryfallId": "3b628197-f26c-457a-b9a4-c1f1d3e02f3d",
       "effects": []
     },
-    "04cf02dc-f053-414e-87d8-1537f25bcbf4": {
-      "name": "Lotus Bloom",
-      "rating": 0,
-      "scryfallId": "73127ee0-9a0c-48fa-9c60-b4c600ace8f7",
-      "effects": [
-        "Ramp"
-      ]
-    },
     "8ad91f64-ccab-4edc-bd54-b2ee9267d614": {
       "name": "Lotus Cobra",
       "rating": 0,
@@ -56201,14 +56045,6 @@
       "scryfallId": "af06f923-0c89-42ae-a4a8-618be7f39cce",
       "effects": []
     },
-    "1499af11-274f-4f8d-b0b6-20e1693ebab7": {
-      "name": "Mistvein Borderpost",
-      "rating": 0,
-      "scryfallId": "7974a0de-6c14-431d-bfdb-2e76a1778ad0",
-      "effects": [
-        "Ramp"
-      ]
-    },
     "5b090ba3-0ecb-4585-b5b7-9d6028c32487": {
       "name": "Misty Knight, Hero for Hire",
       "rating": 0,
@@ -57312,22 +57148,6 @@
       "scryfallId": "2d8f7396-23d3-48e2-8686-2b59ccbfc7e5",
       "effects": [
         "Removal"
-      ]
-    },
-    "7a43bd27-fdd8-41f0-9bc4-92568f3408f1": {
-      "name": "Mox Amber",
-      "rating": 0,
-      "scryfallId": "66024e69-ad60-4c9a-a0ca-da138d33ad80",
-      "effects": [
-        "Ramp"
-      ]
-    },
-    "de2440de-e948-4811-903c-0bbe376ff64d": {
-      "name": "Mox Opal",
-      "rating": 0,
-      "scryfallId": "6be9b1d5-9ab8-4adb-ba54-2c0117e842fa",
-      "effects": [
-        "Ramp"
       ]
     },
     "869bde03-8813-43a9-9df5-a21c62511b4b": {
@@ -62366,15 +62186,6 @@
         "Burn"
       ]
     },
-    "9808c424-0d74-45b8-a092-fd296c6833d2": {
-      "name": "Orzhov Keyrune",
-      "rating": 0,
-      "scryfallId": "fd5c0f38-916a-4f6c-b678-7447cb0709e0",
-      "effects": [
-        "Tokens",
-        "Ramp"
-      ]
-    },
     "3620ef25-d9e2-4460-b25f-592ff7df681b": {
       "name": "Orzhov Pontiff",
       "rating": 0,
@@ -63103,14 +62914,6 @@
       "rating": 0,
       "scryfallId": "a439c0ca-0cb2-4293-825e-1a72159953b9",
       "effects": []
-    },
-    "c1121b83-1ba2-473d-89c9-e3bbd4529072": {
-      "name": "Paradise Mantle",
-      "rating": 0,
-      "scryfallId": "1252e9e2-2dd5-4bd6-aa56-f0a0ba056a77",
-      "effects": [
-        "Ramp"
-      ]
     },
     "665e52f1-901b-49a1-bfbd-ee38bdee8983": {
       "name": "Paradise Plume",
@@ -64351,15 +64154,6 @@
         "Tokens"
       ]
     },
-    "65afedc9-9446-4417-8576-807279061342": {
-      "name": "Phyrexian Totem",
-      "rating": 0,
-      "scryfallId": "368b9fee-88ce-4725-82a5-335d8645aca2",
-      "effects": [
-        "Tokens",
-        "Ramp"
-      ]
-    },
     "6598d988-d60e-4441-88b6-8d0995c4675a": {
       "name": "Phyrexian Unlife",
       "rating": 0,
@@ -64551,14 +64345,6 @@
       "scryfallId": "018ff99e-a23d-4440-8c5c-cfb4942f1906",
       "effects": [
         "Removal"
-      ]
-    },
-    "9e62f30d-3130-416e-b459-48b5f71f8be9": {
-      "name": "Pillar of Origins",
-      "rating": 0,
-      "scryfallId": "f888facd-e462-4794-a774-d765d1a1edfd",
-      "effects": [
-        "Ramp"
       ]
     },
     "50b931f9-f843-4129-a4c8-2bb7a051c063": {
@@ -66097,15 +65883,6 @@
         "Ramp"
       ]
     },
-    "e3056f28-868b-401a-a528-7528d639bdeb": {
-      "name": "Prismatic Lens",
-      "rating": 0,
-      "scryfallId": "50f058a7-c3c7-4bdf-a66c-a2636a8bd9db",
-      "effects": [
-        "Ramp",
-        "ManaFixing"
-      ]
-    },
     "d90882ae-6572-4214-8d9c-0bdfb75f9be2": {
       "name": "Prismatic Omen",
       "rating": 0,
@@ -66422,14 +66199,6 @@
       "scryfallId": "73326c79-f884-42d5-8546-3db46ce4fe52",
       "effects": [
         "CardAdvantage"
-      ]
-    },
-    "134a9877-5cfb-4a2a-a0f0-930dce45f58b": {
-      "name": "Prophetic Prism",
-      "rating": 0,
-      "scryfallId": "cfb90d44-8cb1-4b83-b2f2-92c19d6304fb",
-      "effects": [
-        "ManaFixing"
       ]
     },
     "69af7bff-fb8c-4f59-88a1-6bfa87ba400a": {
@@ -68290,15 +68059,6 @@
       "scryfallId": "c007b10b-2701-4bac-8b95-8fc7dcfb9e21",
       "effects": [
         "Removal"
-      ]
-    },
-    "3986b284-f943-4570-ba26-3419910feeef": {
-      "name": "Rakdos Keyrune",
-      "rating": 0,
-      "scryfallId": "f6124b4c-49a1-42e3-a6ff-62de231c7823",
-      "effects": [
-        "Tokens",
-        "Ramp"
       ]
     },
     "63dd611e-1c36-4e5d-ba45-87c7f629cd54": {
@@ -76078,15 +75838,6 @@
         "Buff"
       ]
     },
-    "d4ecee6d-b23f-48e7-b7e5-347027225709": {
-      "name": "Selesnya Keyrune",
-      "rating": 0,
-      "scryfallId": "1645eafd-cd17-463a-9d7e-42f5f7b5196f",
-      "effects": [
-        "Tokens",
-        "Ramp"
-      ]
-    },
     "027484b8-0df5-48b6-b69b-bb4e39c5ba81": {
       "name": "Selesnya Sagittars",
       "rating": 0,
@@ -78909,15 +78660,6 @@
       "rating": 0,
       "scryfallId": "6602c592-3cde-4e73-919c-1d3f3df22092",
       "effects": []
-    },
-    "9e737a22-a352-411d-8412-96770c7f6cce": {
-      "name": "Simic Keyrune",
-      "rating": 0,
-      "scryfallId": "d039aae6-38f5-42b5-a530-e0dd03abc7d5",
-      "effects": [
-        "Tokens",
-        "Ramp"
-      ]
     },
     "8f06fcc9-9018-4c55-af63-c44350a6cfeb": {
       "name": "Simic Manipulator",
@@ -82059,14 +81801,6 @@
       "scryfallId": "ce3bd0d8-7e44-4cf2-9012-8ff0bc39417f",
       "effects": [
         "Pacify"
-      ]
-    },
-    "7c709413-dacf-48af-8ac9-8f61b2699bf1": {
-      "name": "Sphere of the Suns",
-      "rating": 0,
-      "scryfallId": "7a2c0735-1816-489b-9793-89d1060d78f7",
-      "effects": [
-        "Ramp"
       ]
     },
     "69e1a166-02f7-43f8-b099-dbb01034370c": {
@@ -89243,14 +88977,6 @@
         "Buff"
       ]
     },
-    "b175e826-09e8-4fae-9f2e-b902f95b282d": {
-      "name": "The Mind Stone",
-      "rating": 0,
-      "scryfallId": "87f1e69a-6d74-4982-afda-82613637799a",
-      "effects": [
-        "Ramp"
-      ]
-    },
     "56528234-46c0-4fba-972a-0c8011996f8d": {
       "name": "The Mirari Conjecture",
       "rating": 0,
@@ -90117,14 +89843,6 @@
       "scryfallId": "88bf1ebb-9d85-4b9b-a614-c7f965c0893d",
       "effects": []
     },
-    "9965d9c5-2ebf-4a6c-930e-55c5890979be": {
-      "name": "Thought Vessel",
-      "rating": 0,
-      "scryfallId": "e0cd769e-1aaf-458c-849f-3b6ebc7fd8c5",
-      "effects": [
-        "Ramp"
-      ]
-    },
     "cef7396d-2168-4282-bf38-670ca9eebd91": {
       "name": "Thought-Knot Seer",
       "rating": 0,
@@ -90641,15 +90359,6 @@
       "scryfallId": "1f94f88b-d928-4364-9126-231eabf14086",
       "effects": [
         "Buff"
-      ]
-    },
-    "89560e1c-b7fb-46b7-955e-647e3ae9091b": {
-      "name": "Thunder Totem",
-      "rating": 0,
-      "scryfallId": "5fc332da-e93f-45b1-912c-06af41b412e9",
-      "effects": [
-        "Tokens",
-        "Ramp"
       ]
     },
     "aef6c5b3-824f-4b7d-9671-1ed61d547717": {
@@ -95682,14 +95391,6 @@
         "Removal"
       ]
     },
-    "3f65d1f8-3e46-4e3d-b087-5496a4106e4e": {
-      "name": "Veinfire Borderpost",
-      "rating": 0,
-      "scryfallId": "75ad0cc1-66bd-43c3-a296-c36cf9a64e85",
-      "effects": [
-        "Ramp"
-      ]
-    },
     "185e34f0-60ae-4b07-94ac-96cef11b1604": {
       "name": "Vela the Night-Clad",
       "rating": 0,
@@ -99171,15 +98872,6 @@
         "CardAdvantage"
       ]
     },
-    "5d19c68d-6eb8-4b34-9f31-c26931e59670": {
-      "name": "Weatherseed Totem",
-      "rating": 0,
-      "scryfallId": "3275df49-c3f1-4310-87dd-25e3e0ee7fca",
-      "effects": [
-        "Tokens",
-        "Ramp"
-      ]
-    },
     "9aabb520-7e97-47b2-975c-11f457d0b870": {
       "name": "Weaver of Currents",
       "rating": 0,
@@ -99996,14 +99688,6 @@
       "scryfallId": "9fedd63c-22e4-4c36-8a7a-a167a070678f",
       "effects": [
         "Regrowth"
-      ]
-    },
-    "b8141489-00fa-4aba-85d0-4c883196fece": {
-      "name": "Wildfield Borderpost",
-      "rating": 0,
-      "scryfallId": "90a788e7-f3c8-41cc-9f1a-2e9f58aabc0e",
-      "effects": [
-        "Ramp"
       ]
     },
     "2e6be9ad-d726-4598-92a7-1ba7eda317a5": {

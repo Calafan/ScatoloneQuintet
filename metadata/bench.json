@@ -1841,6 +1841,15 @@
       ],
       "reviewedAt": "2026-11-10T08:09:52.3203032+00:00"
     },
+    "24542d66-e67a-4403-91a8-bb4231ea1f50": {
+      "name": "Chronatog Totem",
+      "rating": 2,
+      "scryfallId": "5acd482c-9815-4ff5-99ef-fb1a014251bb",
+      "effects": [
+        "Tokens",
+        "Ramp"
+      ]
+    },
     "671458ac-7441-4332-9e59-a42ec8b62f31": {
       "name": "City of Solitude",
       "rating": 2,
@@ -3315,6 +3324,14 @@
       ],
       "reviewedAt": "2026-10-20T19:47:28.754321+00:00"
     },
+    "0a79237e-0811-4a8a-bd4d-db3ca91bff22": {
+      "name": "Everflowing Chalice",
+      "rating": 2,
+      "scryfallId": "1fdcc0c3-4029-4fc3-a486-5d7f45c910bd",
+      "effects": [
+        "Ramp"
+      ]
+    },
     "a3468804-26ad-4919-b030-a1906a7029e8": {
       "name": "Evidence Examiner",
       "rating": 2,
@@ -3898,6 +3915,15 @@
         "CardAdvantage"
       ],
       "reviewedAt": "2026-09-25T08:29:26.4725373+00:00"
+    },
+    "d053ea00-e727-4030-8c64-0d32ae57f169": {
+      "name": "Foriysian Totem",
+      "rating": 2,
+      "scryfallId": "45cba87d-3c8c-4f38-bdd8-51072ba6365b",
+      "effects": [
+        "Tokens",
+        "Ramp"
+      ]
     },
     "66107cfd-4bdb-4266-a650-940743555ea4": {
       "name": "Forked Lightning",
@@ -6128,6 +6154,14 @@
       ],
       "reviewedAt": "2026-09-11T21:56:48.8490014+00:00"
     },
+    "04cf02dc-f053-414e-87d8-1537f25bcbf4": {
+      "name": "Lotus Bloom",
+      "rating": 2,
+      "scryfallId": "73127ee0-9a0c-48fa-9c60-b4c600ace8f7",
+      "effects": [
+        "Ramp"
+      ]
+    },
     "134d5b82-7940-4b33-a922-7f9d1f403e50": {
       "name": "Lotus Field",
       "rating": 2,
@@ -6814,6 +6848,14 @@
       "effects": [],
       "reviewedAt": "2026-10-20T19:55:44.0984338+00:00"
     },
+    "de2440de-e948-4811-903c-0bbe376ff64d": {
+      "name": "Mox Opal",
+      "rating": 2,
+      "scryfallId": "6be9b1d5-9ab8-4adb-ba54-2c0117e842fa",
+      "effects": [
+        "Ramp"
+      ]
+    },
     "c2008ba9-00df-4607-ba0c-189af52033eb": {
       "name": "Mr. Foxglove",
       "rating": 2,
@@ -7476,6 +7518,14 @@
       ],
       "reviewedAt": "2026-10-16T09:50:31.9837011+00:00"
     },
+    "c1121b83-1ba2-473d-89c9-e3bbd4529072": {
+      "name": "Paradise Mantle",
+      "rating": 2,
+      "scryfallId": "1252e9e2-2dd5-4bd6-aa56-f0a0ba056a77",
+      "effects": [
+        "Ramp"
+      ]
+    },
     "638ff242-63d5-457d-a7a6-40ad51052e2e": {
       "name": "Paradox Gardens",
       "rating": 2,
@@ -7654,6 +7704,15 @@
         "Removal"
       ],
       "reviewedAt": "2026-09-08T09:19:17.576027+00:00"
+    },
+    "65afedc9-9446-4417-8576-807279061342": {
+      "name": "Phyrexian Totem",
+      "rating": 2,
+      "scryfallId": "368b9fee-88ce-4725-82a5-335d8645aca2",
+      "effects": [
+        "Tokens",
+        "Ramp"
+      ]
     },
     "a6c5c5ea-0bd0-4d5a-bd3f-6217f14c9939": {
       "name": "Piper of the Swarm",
@@ -10692,6 +10751,15 @@
       ],
       "reviewedAt": "2026-11-15T21:05:18.8644102+00:00"
     },
+    "89560e1c-b7fb-46b7-955e-647e3ae9091b": {
+      "name": "Thunder Totem",
+      "rating": 2,
+      "scryfallId": "5fc332da-e93f-45b1-912c-06af41b412e9",
+      "effects": [
+        "Tokens",
+        "Ramp"
+      ]
+    },
     "d64a4ad2-c80e-4a7f-93f2-b702916dba07": {
       "name": "Thunderhawk Gunship",
       "rating": 2,
@@ -11648,6 +11716,15 @@
       "scryfallId": "ead6a871-43e1-4ebb-a685-e6fdc39aa5cc",
       "effects": [],
       "reviewedAt": "2026-11-03T15:45:57.2209471+00:00"
+    },
+    "5d19c68d-6eb8-4b34-9f31-c26931e59670": {
+      "name": "Weatherseed Totem",
+      "rating": 2,
+      "scryfallId": "3275df49-c3f1-4310-87dd-25e3e0ee7fca",
+      "effects": [
+        "Tokens",
+        "Ramp"
+      ]
     },
     "48a1d55e-0b71-4724-ab2a-6d2c87e86b5b": {
       "name": "Webstrike Elite",
