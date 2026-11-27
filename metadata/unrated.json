@@ -2653,12 +2653,6 @@
       "scryfallId": "ad202785-a91f-4dc8-bcc0-eb1bd49f162e",
       "effects": []
     },
-    "3d0d4ba4-d5aa-4d9f-89ab-46687637fecf": {
-      "name": "Angel's Feather",
-      "rating": 0,
-      "scryfallId": "4a11d101-2e82-42d5-b4a1-8f0c520441ab",
-      "effects": []
-    },
     "66ca8a60-e028-4a5f-8177-860b888cb9d1": {
       "name": "Angel's Grace",
       "rating": 0,
@@ -20878,12 +20872,6 @@
         "Tutor"
       ]
     },
-    "ee38377f-8d3a-402e-a5d7-a01cfe3a5322": {
-      "name": "Demon's Horn",
-      "rating": 0,
-      "scryfallId": "41d40eb4-643a-4e22-a15f-eda45a48cfd6",
-      "effects": []
-    },
     "da67c329-ca12-45fc-a9cd-8fb6f27501a9": {
       "name": "Demon's Jester",
       "rating": 0,
@@ -23404,12 +23392,6 @@
       "effects": [
         "Tokens"
       ]
-    },
-    "bd8d707d-1201-42c6-bce6-fbda12ce5ea8": {
-      "name": "Dragon's Claw",
-      "rating": 0,
-      "scryfallId": "7a46bbcc-b287-47bb-b252-5dd3217f61a9",
-      "effects": []
     },
     "caef715c-3ca6-4f56-9dd5-aebce9cd0621": {
       "name": "Dragon's Desire",
@@ -48656,12 +48638,6 @@
       "name": "Kraken of the Straits",
       "rating": 0,
       "scryfallId": "12ae69b3-afa5-4763-a0c8-c3d9d96f6ddc",
-      "effects": []
-    },
-    "14a21d8a-2097-4150-8af5-8c155049477a": {
-      "name": "Kraken's Eye",
-      "rating": 0,
-      "scryfallId": "cc767637-627a-4ea2-873b-d8a80ccc925b",
       "effects": []
     },
     "2385c8fb-9c38-4ff3-8f61-4e25a8c7d46b": {
@@ -83659,36 +83635,6 @@
         "Burn"
       ]
     },
-    "c3fda16e-fd56-434e-91ac-561ae0482f43": {
-      "name": "Staff of the Death Magus",
-      "rating": 0,
-      "scryfallId": "624fe171-8bd8-4156-b40e-74e2a847d380",
-      "effects": []
-    },
-    "fc71710a-8294-4370-89da-7ab1c2b38d19": {
-      "name": "Staff of the Flame Magus",
-      "rating": 0,
-      "scryfallId": "6d6befbd-4fe3-4338-b8ea-13b8b70a7664",
-      "effects": []
-    },
-    "1466687f-cfe1-4e6e-ad8e-dca5e8e4c06d": {
-      "name": "Staff of the Mind Magus",
-      "rating": 0,
-      "scryfallId": "f86bf36b-b83f-4451-8cdc-2a4ccffb93c7",
-      "effects": []
-    },
-    "bd8bc927-e50a-4fab-9803-0602a841c7c2": {
-      "name": "Staff of the Sun Magus",
-      "rating": 0,
-      "scryfallId": "90a1f830-d19a-4ebf-9573-09b677693dd6",
-      "effects": []
-    },
-    "6bdff38d-0a52-42e5-86ea-edd7029b44f6": {
-      "name": "Staff of the Wild Magus",
-      "rating": 0,
-      "scryfallId": "d207f03d-4c7b-444f-bf95-e63f7004d525",
-      "effects": []
-    },
     "056c3b7d-b603-40b8-8404-18c2eb7e7129": {
       "name": "Staggershock",
       "rating": 0,
@@ -101834,12 +101780,6 @@
         "Tokens",
         "Filter"
       ]
-    },
-    "69476326-fda5-48c8-a506-e71eb7c81c2f": {
-      "name": "Wurm's Tooth",
-      "rating": 0,
-      "scryfallId": "482cdbe0-b865-4e09-bd30-61ab93739b53",
-      "effects": []
     },
     "8dd0f86d-6f9e-47e3-97dd-3a3fc075ea93": {
       "name": "Wurmcalling",

@@ -3231,6 +3231,12 @@
       "effects": [],
       "reviewedAt": "2026-10-20T19:14:04.6038771+00:00"
     },
+    "3d0d4ba4-d5aa-4d9f-89ab-46687637fecf": {
+      "name": "Angel's Feather",
+      "rating": 1,
+      "scryfallId": "4a11d101-2e82-42d5-b4a1-8f0c520441ab",
+      "effects": []
+    },
     "f187f766-3696-419e-9865-58023a46446b": {
       "name": "Angel's Trumpet",
       "rating": 1,
@@ -23833,6 +23839,12 @@
       ],
       "reviewedAt": "2026-11-03T18:25:02.6662041+00:00"
     },
+    "ee38377f-8d3a-402e-a5d7-a01cfe3a5322": {
+      "name": "Demon's Horn",
+      "rating": 1,
+      "scryfallId": "41d40eb4-643a-4e22-a15f-eda45a48cfd6",
+      "effects": []
+    },
     "65a9f643-063f-406a-8d5a-5ebbe0f04c3d": {
       "name": "Demonic Attorney",
       "rating": 1,
@@ -26389,6 +26401,12 @@
         "Tutor"
       ],
       "reviewedAt": "2026-11-13T13:23:08.8194054+00:00"
+    },
+    "bd8d707d-1201-42c6-bce6-fbda12ce5ea8": {
+      "name": "Dragon's Claw",
+      "rating": 1,
+      "scryfallId": "7a46bbcc-b287-47bb-b252-5dd3217f61a9",
+      "effects": []
     },
     "3e5d3574-cc92-434a-a210-fcda906391c8": {
       "name": "Dragon's Disciple",
@@ -54368,6 +54386,12 @@
       "name": "Kraken Hatchling",
       "rating": 1,
       "scryfallId": "45d100a3-93f2-428c-8f54-8807e71f2638",
+      "effects": []
+    },
+    "14a21d8a-2097-4150-8af5-8c155049477a": {
+      "name": "Kraken's Eye",
+      "rating": 1,
+      "scryfallId": "cc767637-627a-4ea2-873b-d8a80ccc925b",
       "effects": []
     },
     "3eb49097-42f8-4388-907d-32a738749d8a": {
@@ -93380,6 +93404,36 @@
       "effects": [],
       "reviewedAt": "2026-09-05T08:08:04.0790265+00:00"
     },
+    "c3fda16e-fd56-434e-91ac-561ae0482f43": {
+      "name": "Staff of the Death Magus",
+      "rating": 1,
+      "scryfallId": "624fe171-8bd8-4156-b40e-74e2a847d380",
+      "effects": []
+    },
+    "fc71710a-8294-4370-89da-7ab1c2b38d19": {
+      "name": "Staff of the Flame Magus",
+      "rating": 1,
+      "scryfallId": "6d6befbd-4fe3-4338-b8ea-13b8b70a7664",
+      "effects": []
+    },
+    "1466687f-cfe1-4e6e-ad8e-dca5e8e4c06d": {
+      "name": "Staff of the Mind Magus",
+      "rating": 1,
+      "scryfallId": "f86bf36b-b83f-4451-8cdc-2a4ccffb93c7",
+      "effects": []
+    },
+    "bd8bc927-e50a-4fab-9803-0602a841c7c2": {
+      "name": "Staff of the Sun Magus",
+      "rating": 1,
+      "scryfallId": "90a1f830-d19a-4ebf-9573-09b677693dd6",
+      "effects": []
+    },
+    "6bdff38d-0a52-42e5-86ea-edd7029b44f6": {
+      "name": "Staff of the Wild Magus",
+      "rating": 1,
+      "scryfallId": "d207f03d-4c7b-444f-bf95-e63f7004d525",
+      "effects": []
+    },
     "75b2da25-e551-4add-a252-6d4789366b5f": {
       "name": "Stag Beetle",
       "rating": 1,
@@ -114173,6 +114227,12 @@
       "scryfallId": "23c19f67-834c-4709-9038-7916ac0921eb",
       "effects": [],
       "reviewedAt": "2026-09-23T14:49:37.2257208+00:00"
+    },
+    "69476326-fda5-48c8-a506-e71eb7c81c2f": {
+      "name": "Wurm's Tooth",
+      "rating": 1,
+      "scryfallId": "482cdbe0-b865-4e09-bd30-61ab93739b53",
+      "effects": []
     },
     "0eeb9a62-1b36-42f5-8820-3331fa5ca3a6": {
       "name": "Wurmquake",
