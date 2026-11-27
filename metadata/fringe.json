@@ -67908,6 +67908,46 @@
       "effects": [],
       "reviewedAt": "2026-09-23T10:54:52.1911743+00:00"
     },
+    "3f96dfd3-975a-4595-95c1-d2f04a86cb37": {
+      "name": "Obelisk of Bant",
+      "rating": 1,
+      "scryfallId": "0cefe6ab-c018-4b87-8948-295a28f63cb1",
+      "effects": [
+        "Ramp"
+      ]
+    },
+    "9da963f6-734b-4d3c-a3be-dd5cca2c7b19": {
+      "name": "Obelisk of Esper",
+      "rating": 1,
+      "scryfallId": "19869e75-0925-45dc-b5d9-6968fbfb35b5",
+      "effects": [
+        "Ramp"
+      ]
+    },
+    "e193ae18-91a0-4870-b8a1-f8dedf744708": {
+      "name": "Obelisk of Grixis",
+      "rating": 1,
+      "scryfallId": "5200e41f-fe10-4c39-ab12-c6e13fb81a3d",
+      "effects": [
+        "Ramp"
+      ]
+    },
+    "eb0be178-55f9-4743-8128-34bc86f134ec": {
+      "name": "Obelisk of Jund",
+      "rating": 1,
+      "scryfallId": "ffe1a49a-5c1c-4274-a2ed-9a8a44abfaa6",
+      "effects": [
+        "Ramp"
+      ]
+    },
+    "02e81bb8-ba80-4483-9b9f-973dcae0fc9d": {
+      "name": "Obelisk of Naya",
+      "rating": 1,
+      "scryfallId": "df6317b0-15fd-4924-9302-41bed2354546",
+      "effects": [
+        "Ramp"
+      ]
+    },
     "299ea6dd-79eb-4c25-a05d-ff6fcad663cf": {
       "name": "Obelisk of Undoing",
       "rating": 1,

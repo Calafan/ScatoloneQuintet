@@ -53,6 +53,14 @@
       ],
       "reviewedAt": "2026-10-06T13:59:33.146049+00:00"
     },
+    "46535f8e-1bcd-4588-ac6c-a4bc89c379c8": {
+      "name": "Abzan Banner",
+      "rating": 2,
+      "scryfallId": "7855528a-ede9-49a9-8749-795a004fd927",
+      "effects": [
+        "Ramp"
+      ]
+    },
     "d57c246f-18e5-4523-898c-1509db738363": {
       "name": "Acolyte of Affliction",
       "rating": 2,
@@ -724,6 +732,14 @@
       ],
       "reviewedAt": "2026-09-11T21:54:05.6832549+00:00"
     },
+    "27e04c41-f42c-4d60-8a71-ec2d7c326f64": {
+      "name": "Azorius Cluestone",
+      "rating": 2,
+      "scryfallId": "09eeb301-bc28-4515-ad69-0b1b5164a5bc",
+      "effects": [
+        "Ramp"
+      ]
+    },
     "47258c3e-b4a7-466d-9464-3924f75d9293": {
       "name": "Bad Deal",
       "rating": 2,
@@ -1321,6 +1337,14 @@
         "Protection"
       ],
       "reviewedAt": "2026-10-06T18:45:11.8897382+00:00"
+    },
+    "f6c3b420-9aca-4fab-b7bb-1814bd2d93f6": {
+      "name": "Boros Cluestone",
+      "rating": 2,
+      "scryfallId": "87252577-3e7b-4ea2-b0ac-3ba3f0eaac40",
+      "effects": [
+        "Ramp"
+      ]
     },
     "257f7c29-8857-429e-a421-9262982804e0": {
       "name": "Bounding Wolf",
@@ -2642,6 +2666,14 @@
         "Tokens"
       ],
       "reviewedAt": "2026-11-13T13:53:18.9375446+00:00"
+    },
+    "62f834c7-4765-4b6f-812c-7ce14e13ea0d": {
+      "name": "Dimir Cluestone",
+      "rating": 2,
+      "scryfallId": "0d8ac24f-3309-453a-b2d6-6363df9a1ddd",
+      "effects": [
+        "Ramp"
+      ]
     },
     "0880461e-8943-443b-90e7-ff84eef46550": {
       "name": "Dining Room",
@@ -4269,6 +4301,14 @@
       ],
       "reviewedAt": "2026-10-06T07:14:00.8169407+00:00"
     },
+    "e917ad3d-df8e-442b-918c-3aa7a10f3cc4": {
+      "name": "Golgari Cluestone",
+      "rating": 2,
+      "scryfallId": "ff77e1ee-7fa3-4370-a0c9-ec008b63302f",
+      "effects": [
+        "Ramp"
+      ]
+    },
     "7923ef4a-b1be-4f6a-b17b-4eab101390de": {
       "name": "Gonti, Canny Acquisitor",
       "rating": 2,
@@ -4471,6 +4511,14 @@
         "CardAdvantage"
       ],
       "reviewedAt": "2026-10-23T10:11:35.7105964+00:00"
+    },
+    "80911151-1e72-4d10-b00a-9fcff2dd131a": {
+      "name": "Gruul Cluestone",
+      "rating": 2,
+      "scryfallId": "bc47d1fe-8ab2-42f6-bcab-4bc2084ceba7",
+      "effects": [
+        "Ramp"
+      ]
     },
     "a1b87d5d-9493-4001-8c7e-553f40de61ea": {
       "name": "Guan Yu's 1,000-Li March",
@@ -5276,6 +5324,14 @@
       ],
       "reviewedAt": "2026-09-29T09:27:12.0216573+00:00"
     },
+    "3c76bb90-92fb-428b-8e94-def4cf4b6f2d": {
+      "name": "Izzet Cluestone",
+      "rating": 2,
+      "scryfallId": "8cf63def-e2cc-48c7-8409-c08a36eddf93",
+      "effects": [
+        "Ramp"
+      ]
+    },
     "8930b1ce-80ac-48b6-a368-ccff9fd01d38": {
       "name": "Jabari's Influence",
       "rating": 2,
@@ -5346,6 +5402,14 @@
         "Sacrifice"
       ],
       "reviewedAt": "2026-11-05T10:10:55.1413927+00:00"
+    },
+    "fda10ef2-f431-4d9b-96a4-4db4c98d2b0c": {
+      "name": "Jeskai Banner",
+      "rating": 2,
+      "scryfallId": "684dc050-a66b-4364-9880-56f383db6c0a",
+      "effects": [
+        "Ramp"
+      ]
     },
     "bb50b4f4-f0da-4283-821b-6d74bd20752f": {
       "name": "Jeskai Shrinekeeper",
@@ -6277,6 +6341,14 @@
         "Tokens"
       ],
       "reviewedAt": "2026-09-11T21:51:41.2081048+00:00"
+    },
+    "9805b7b3-086a-4c91-810f-52c8f8f95f6a": {
+      "name": "Mardu Banner",
+      "rating": 2,
+      "scryfallId": "fe10c56d-a8e1-495d-a03a-0b920b44182f",
+      "effects": [
+        "Ramp"
+      ]
     },
     "5f1fdc23-9af0-41a1-aeba-7288f9642734": {
       "name": "Mari, the Killing Quill",
@@ -7225,6 +7297,14 @@
       ],
       "reviewedAt": "2026-10-26T21:57:54.0857165+00:00"
     },
+    "09650a76-05c4-40a0-b861-d146b3ba87d6": {
+      "name": "Orzhov Cluestone",
+      "rating": 2,
+      "scryfallId": "4823f904-1c41-42cf-aef7-db0dcf82b10b",
+      "effects": [
+        "Ramp"
+      ]
+    },
     "8d84a706-080c-4fb2-b1b9-3dbb3294fb7b": {
       "name": "Osseous Exhale",
       "rating": 2,
@@ -7897,6 +7977,14 @@
         "Bounce"
       ],
       "reviewedAt": "2026-10-06T14:15:27.6345966+00:00"
+    },
+    "b4f0bda0-1051-4ab8-b254-891f427b33ad": {
+      "name": "Rakdos Cluestone",
+      "rating": 2,
+      "scryfallId": "9ef43817-1813-4608-8e3d-3c14321ab736",
+      "effects": [
+        "Ramp"
+      ]
     },
     "d87be8c6-7a1f-4db8-ada1-b1a030f03877": {
       "name": "Rakshasa's Bargain",
@@ -8783,6 +8871,14 @@
       ],
       "reviewedAt": "2026-11-13T22:57:19.2190318+00:00"
     },
+    "792d4afd-b3de-4be2-b68a-03a5be7b9627": {
+      "name": "Selesnya Cluestone",
+      "rating": 2,
+      "scryfallId": "34ad5631-439a-43e2-b00a-04f78d66b8e6",
+      "effects": [
+        "Ramp"
+      ]
+    },
     "683775ac-481e-4c26-ab2f-5d2813af0268": {
       "name": "Sentinel of Lost Lore",
       "rating": 2,
@@ -9113,6 +9209,14 @@
       "scryfallId": "02a20067-4ac2-4688-b8e8-3463185c4a41",
       "effects": [
         "Redirect"
+      ]
+    },
+    "0b65050d-a9cd-4b6c-9114-af89bfa6682f": {
+      "name": "Simic Cluestone",
+      "rating": 2,
+      "scryfallId": "e3c47552-afed-463d-bd24-13eb1cd724fc",
+      "effects": [
+        "Ramp"
       ]
     },
     "dc81069b-b2cf-44b3-98fc-45bb24b815cb": {
@@ -9797,6 +9901,14 @@
         "Wipe"
       ]
     },
+    "93b139a5-2678-46a5-b8eb-45344ee3290a": {
+      "name": "Sultai Banner",
+      "rating": 2,
+      "scryfallId": "1695cf35-8f7c-4674-bfd3-43520b13d084",
+      "effects": [
+        "Ramp"
+      ]
+    },
     "b6b22bac-853a-45a8-a74d-9904ec2b34fd": {
       "name": "Summon: G.F. Cerberus",
       "rating": 2,
@@ -10160,6 +10272,14 @@
       "scryfallId": "b584dfd1-a56c-406e-8504-47ea136dc102",
       "effects": [
         "Bounce"
+      ]
+    },
+    "8a35f23d-f59a-4677-9736-035c60c22a2b": {
+      "name": "Temur Banner",
+      "rating": 2,
+      "scryfallId": "9990bdff-c27a-447f-b530-d8b7614fe9a0",
+      "effects": [
+        "Ramp"
       ]
     },
     "17a34f8d-a80f-4331-8be5-06cbb9d10d7b": {
