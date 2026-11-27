@@ -7271,6 +7271,20 @@
       ],
       "reviewedAt": "2026-09-08T10:33:29.7227884+00:00"
     },
+    "d8f5279f-c58e-4560-9c68-77d226a3c86c": {
+      "name": "Order of Leitbur",
+      "rating": 2,
+      "scryfallId": "ebd6e51e-f042-4673-a898-291607105829",
+      "effects": [],
+      "reviewedAt": "2026-09-04T14:57:27.4661527+00:00"
+    },
+    "2f65f16f-c6c2-48f0-b556-63cf7d162000": {
+      "name": "Order of the Ebon Hand",
+      "rating": 2,
+      "scryfallId": "9e51f5d8-a7cc-4720-8af5-e002bcfd78a0",
+      "effects": [],
+      "reviewedAt": "2026-09-04T14:59:37.5230459+00:00"
+    },
     "313d7b2f-05fb-49f3-8d8a-361be4412d3c": {
       "name": "Order of the Sacred Torch",
       "rating": 2,
@@ -8445,6 +8459,16 @@
       ],
       "reviewedAt": "2026-09-08T10:52:18.1344308+00:00"
     },
+    "8e42ed82-8b56-46ad-a1ca-e29689a9d030": {
+      "name": "Rootwater Hunter",
+      "rating": 2,
+      "scryfallId": "cdf7ea34-2cde-4ec5-9b12-99b0002da986",
+      "effects": [
+        "Removal",
+        "Burn"
+      ],
+      "reviewedAt": "2026-09-08T10:31:16.465002+00:00"
+    },
     "16a44586-ea1d-45f1-b9de-da1c11f729df": {
       "name": "Rory Williams",
       "rating": 2,
@@ -9617,6 +9641,13 @@
       "effects": [],
       "reviewedAt": "2026-10-10T19:54:14.1772385+00:00"
     },
+    "d03860b4-c663-4230-9200-6b89fa849ae7": {
+      "name": "Spiritual Guardian",
+      "rating": 2,
+      "scryfallId": "0dbea02f-9124-4e1a-8693-d988a0a3adae",
+      "effects": [],
+      "reviewedAt": "2026-09-08T13:33:10.0844795+00:00"
+    },
     "b829de81-04cd-498e-9f31-074f23e2a488": {
       "name": "Spite // Malice",
       "rating": 2,
@@ -10281,6 +10312,12 @@
       "effects": [
         "Ramp"
       ]
+    },
+    "3a9b9fe0-1846-41fc-b7c3-ed9abef27a6a": {
+      "name": "Terrain Elemental",
+      "rating": 2,
+      "scryfallId": "32b89e5c-ffb4-406f-99d1-ec2797aca061",
+      "effects": []
     },
     "17a34f8d-a80f-4331-8be5-06cbb9d10d7b": {
       "name": "Terramorph",
@@ -12079,6 +12116,16 @@
         "Discard"
       ],
       "reviewedAt": "2026-09-05T08:14:06.3836548+00:00"
+    },
+    "bc7b90b1-3517-4e5d-9bd8-68b4d8a259fd": {
+      "name": "Zuran Spellcaster",
+      "rating": 2,
+      "scryfallId": "152a72b1-a7b7-4e5c-8558-fab97465f549",
+      "effects": [
+        "Removal",
+        "Burn"
+      ],
+      "reviewedAt": "2026-09-05T10:27:22.66424+00:00"
     },
     "0f93d88c-9d2e-416d-a10b-99483360b1fb": {
       "name": "Zurgo Stormrender",

@@ -3138,6 +3138,14 @@
       "effects": [],
       "reviewedAt": "2026-11-10T08:11:13.8753178+00:00"
     },
+    "2f807301-37df-4724-871a-08e3512b07b3": {
+      "name": "Burglar Rat",
+      "rating": 4,
+      "scryfallId": "e9f7f218-fd2a-4233-8753-065ddc314f2d",
+      "effects": [
+        "Discard"
+      ]
+    },
     "4cbfb898-e1ca-4e34-9cb2-11ba50272984": {
       "name": "Burly Breaker // Dire-Strain Demolisher",
       "rating": 3,
@@ -9131,6 +9139,12 @@
       ],
       "reviewedAt": "2026-11-11T19:09:59.2353911+00:00"
     },
+    "3315aa42-d3ae-425e-9c12-191d26e67a0a": {
+      "name": "Frilled Sandwalla",
+      "rating": 3,
+      "scryfallId": "07b1be52-5e54-4840-bb53-0b2512785e0b",
+      "effects": []
+    },
     "66e66543-1f56-4e62-9183-3804843db101": {
       "name": "Froghemoth",
       "rating": 3,
@@ -10990,7 +11004,7 @@
     },
     "7a11b4ed-430d-4ef8-b0c1-6a022f12448c": {
       "name": "Hecteyes",
-      "rating": 3,
+      "rating": 4,
       "scryfallId": "8680d052-c07b-4d9b-bda9-b5f69f44f424",
       "effects": [
         "Discard"
@@ -14014,6 +14028,12 @@
         "ManaFixing"
       ]
     },
+    "b5058b5c-0359-42ec-ba9e-ae1371bb9c22": {
+      "name": "Lys Alana Informant",
+      "rating": 3,
+      "scryfallId": "a79649c4-559e-4306-a102-5fd8750629c7",
+      "effects": []
+    },
     "66f28905-c7fc-4ada-8fa0-199626d9bedb": {
       "name": "Lórien Revealed",
       "rating": 4,
@@ -15750,7 +15770,7 @@
     },
     "a70ffefb-840c-48c3-a59d-e12306086bb6": {
       "name": "Nezumi Informant",
-      "rating": 3,
+      "rating": 4,
       "scryfallId": "e36fbff8-471e-4cf8-8946-e1e5cdf598af",
       "effects": [
         "Discard"
@@ -18563,6 +18583,14 @@
         "Buff"
       ],
       "reviewedAt": "2026-11-12T14:34:05.7178149+00:00"
+    },
+    "64e7ef06-ba30-4b19-9d44-ca77944cc930": {
+      "name": "Rank Rat",
+      "rating": 4,
+      "scryfallId": "4ff6da82-d7dd-4b59-b7e6-30670cea7169",
+      "effects": [
+        "Discard"
+      ]
     },
     "052e8e1c-d006-4c9f-90da-deafbbf7fed3": {
       "name": "Rankle's Prank",
@@ -22820,6 +22848,14 @@
       "effects": [],
       "reviewedAt": "2026-11-11T19:54:54.0840607+00:00"
     },
+    "d1dceaa7-d33e-4067-9e1b-8a8978a12933": {
+      "name": "Stony-Voiced Goblins",
+      "rating": 4,
+      "scryfallId": "6fcc3699-b475-4612-884d-81bd4f21e9c1",
+      "effects": [
+        "Discard"
+      ]
+    },
     "5c946cc0-5d90-4970-acf8-b14eff177cbc": {
       "name": "Storm Caller",
       "rating": 3,
@@ -25013,6 +25049,14 @@
       ],
       "reviewedAt": "2026-11-06T15:58:23.1251859+00:00"
     },
+    "06ea02f5-f296-4334-bb6f-9cb018e1e150": {
+      "name": "Thought Courier",
+      "rating": 3,
+      "scryfallId": "837b6315-d5c6-480b-902e-44107a72b581",
+      "effects": [
+        "Filter"
+      ]
+    },
     "256e094a-a9e8-42d9-90e2-7a24ed85e426": {
       "name": "Thought Sponge",
       "rating": 3,
@@ -25040,6 +25084,12 @@
         "Disenchant"
       ],
       "reviewedAt": "2026-10-08T10:58:53.7193372+00:00"
+    },
+    "caa02547-66e3-4e27-a2d3-5e94f3e7a069": {
+      "name": "Thraben Inspector",
+      "rating": 3,
+      "scryfallId": "d140c3b7-ca78-483d-baeb-307b624fea8b",
+      "effects": []
     },
     "a699c663-8131-4045-9265-a83e86609374": {
       "name": "Thran Dynamo",
